@@ -1,0 +1,226 @@
+{
+  "program_id": "news7_20260517",
+  "source_ts_path": "media-not-distributed/news7_20260517.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 11.95,
+      "end_sec": 112.78,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "広島・福山の山林火災、鎮火の見通し立たず",
+      "summary": "広島県福山市の山林で火事があり、広い範囲で山が燃えていて鎮火の見通しが立っていないと伝えた。けが人の情報はなく、警察は周辺住民に念のため避難を呼びかけ、詳しい状況を調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 112.78,
+      "end_sec": 458.29,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・上三川町の強盗殺人事件、指示役とみられる容疑者を逮捕",
+      "summary": "栃木県上三川町の住宅で親子3人が死傷した強盗殺人事件で、警察が指示役とみられる竹前海斗容疑者を逮捕し、妻の身柄も確保したと伝えた。実行役とみられる男子高校生4人や匿名・流動型犯罪グループとの関係、ほかの指示役の有無を捜査している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 458.29,
+      "end_sec": 885.05,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "politics"
+      ],
+      "title": "ホルムズ海峡の事実上封鎖とイラン情勢、国内企業にも影響",
+      "summary": "事実上の封鎖が続くホルムズ海峡をめぐり、イランが船舶向けの独自保険導入を計画していると伝えた。米国とイランの強硬姿勢や協議再開の見通しの不透明さに加え、日本国内ではインクや梱包材の調達不安など企業への影響が広がっていると報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 885.05,
+      "end_sec": 960.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木強盗殺人事件、竹前美結容疑者を逮捕",
+      "summary": "栃木県上三川町の住宅で親子3人が強盗に襲われ死傷した事件で、警察が指示役の1人とみて身柄を確保していた竹前美結容疑者を強盗殺人の疑いで逮捕したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 960.0,
+      "end_sec": 1118.08,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "health",
+        "society"
+      ],
+      "title": "各地で真夏日、熱中症対策を呼びかけ",
+      "summary": "各地で気温が上がり、東京都心では今年初めて30度以上の真夏日となった。広島県安芸太田町加計で34.8度となるなど猛暑日に迫った所もあり、翌日も暑さが続く見込みとして熱中症対策を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1118.08,
+      "end_sec": 1210.44,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "天皇皇后両陛下、愛媛で全国植樹祭に出席",
+      "summary": "天皇皇后両陛下は愛媛県を訪問し、西日本豪雨の被災地で被災者らと懇談したほか、とべ動物園を視察した。松山市では全国植樹祭の式典に出席し、天皇陛下と皇后さまがそれぞれ苗木を植えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1210.44,
+      "end_sec": 1337.29,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "モスクワ郊外に大規模無人機攻撃、ウクライナ報復の可能性",
+      "summary": "ロシアの首都モスクワ郊外で大規模な無人機攻撃があり、3人が死亡し複数のけが人が出たと伝えた。直前にはキーウへの大規模攻撃で24人が死亡しており、今回の攻撃はウクライナ軍による報復の可能性があるとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1337.29,
+      "end_sec": 1380.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "広島・福山の山林火災続報、現在の炎と煙の様子",
+      "summary": "番組冒頭で伝えた広島県福山市の山林火災について、現在の山林の様子を伝えた。広い範囲が煙で覆われ、赤い炎のようなものが見える一方、けが人の情報は入っていないとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1380.0,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "東京・奥多摩町の山林で男性がクマに襲われ重傷",
+      "summary": "東京・奥多摩町境の山林で、男性がクマに襲われてけがをしたという通報が消防に寄せられた。男性は顔と腕にけがをして重傷とみられるが、搬送時に意識があり命に別状はないと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1440.0,
+      "end_sec": 1469.87,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ハマス幹部死亡、ガザ停戦後もイスラエルが圧力",
+      "summary": "ハマスはハダド幹部が死亡したことを認め、卑劣な暗殺だと非難した。ガザ地区では停戦合意発効後も和平計画に大きな進展が見られず、イスラエルが断続的に攻撃を行い圧力を強めていると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1469.87,
+      "end_sec": 1578.34,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大相撲夏場所中日、霧島は勝ち越しならず",
+      "summary": "大相撲夏場所中日8日目の結果を伝えた。7戦全勝だった大関・霧島は豪ノ山に敗れて中日勝ち越しはならず、小結・若隆景は7勝1敗としたほか、中入り後の勝敗も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1578.34,
+      "end_sec": 1684.28,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "体操NHK杯、岡慎之助が逆転で3連覇",
+      "summary": "体操のNHK杯最終日で、3連覇を目指す岡慎之助選手と全日本選手権6連覇の橋本大輝選手が優勝を争った。最後の鉄棒を経て、岡選手が逆転でNHK杯3連覇を果たした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 1685.28,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "真夏日急増と週間天気、週後半は雨で気温低下",
+      "summary": "気象情報では、真夏日になった地点が前日の40地点から全国200地点に増えたと伝えた。あす以降も暑さが続き熱中症対策を呼びかける一方、水曜日から木曜日にかけて雨が降り、仙台、福島、東京では4月並みにひんやりしそうだと説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 9.82,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース本編前の別内容とみられる発話。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1800.0,
+      "end_sec": 1820.279244,
+      "non_editorial_kind": "program_promo",
+      "summary": "ライオンに関する番組宣伝とみられる映像・音声。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

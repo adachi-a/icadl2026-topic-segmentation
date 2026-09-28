@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260616",
+  "duration_sec": 3500.11,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 34.23,
+      "end_sec": 323.08,
+      "domain": "economy_business_finance",
+      "label": "日経平均7万円台",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 323.08,
+      "end_sec": 988.69,
+      "domain": "economy_business_finance",
+      "label": "日銀、利上げ決定",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1006.78,
+      "end_sec": 1322.19,
+      "domain": "politics",
+      "label": "G7サミットが開幕",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1335.08,
+      "end_sec": 1615.74,
+      "domain": "economy_business_finance",
+      "label": "GOが上場",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1615.74,
+      "end_sec": 1686.54,
+      "domain": "economy_business_finance",
+      "label": "ソフトバンク、サイバー防御提供へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1686.54,
+      "end_sec": 1717.28,
+      "domain": "disaster_accident_emergency",
+      "label": "群馬と埼玉で震度5弱",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1717.28,
+      "end_sec": 1753.05,
+      "domain": "crime_law_justice",
+      "label": "アイス価格でカルテル疑い",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1753.05,
+      "end_sec": 1778.97,
+      "domain": "economy_business_finance",
+      "label": "富士通、古田会長が辞任",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1778.97,
+      "end_sec": 1857.66,
+      "domain": "economy_business_finance",
+      "label": "エヌビディア、社債を発行",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2015.26,
+      "end_sec": 2575.37,
+      "domain": "economy_business_finance",
+      "label": "マンション価格",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2705.0,
+      "end_sec": 2744.84,
+      "domain": "disaster_accident_emergency",
+      "label": "米空軍の爆撃機が墜落",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2744.84,
+      "end_sec": 2770.51,
+      "domain": "politics",
+      "label": "中国、ミャンマーと関係強化",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2770.51,
+      "end_sec": 2796.71,
+      "domain": "politics",
+      "label": "ウクライナ、EU加盟への交渉本格化",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2925.49,
+      "end_sec": 3010.03,
+      "domain": "economy_business_finance",
+      "label": "アメリカ株、マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3249.89,
+      "end_sec": 3303.06,
+      "domain": "economy_business_finance",
+      "label": "シャープ、スマートウォッチ参入",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3303.06,
+      "end_sec": 3334.5,
+      "domain": "politics",
+      "label": "国旗損壊罪創設法案提出",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3334.5,
+      "end_sec": 3361.01,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

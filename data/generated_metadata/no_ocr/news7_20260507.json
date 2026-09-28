@@ -1,0 +1,182 @@
+{
+  "program_id": "news7_20260507",
+  "source_ts_path": "media-not-distributed/news7_20260507.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 20.86,
+      "end_sec": 396.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society",
+        "education"
+      ],
+      "title": "磐越自動車道のマイクロバス事故で高校生死亡、運転手の逮捕状請求",
+      "summary": "福島県郡山市の磐越自動車道で起きたマイクロバス事故で、新潟県の北越高校の生徒1人が死亡し20人が重軽傷を負った。警察は過失運転致死傷の疑いで68歳の運転手の逮捕状を請求した。マイクロバスがレンタカーだったことや、手配に関わった蒲原鉄道への運輸局の立ち入り調査、北越高校での保護者説明会についても伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 396.0,
+      "end_sec": 497.63,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "京都・南丹の小学生殺害事件、父親が供述した趣旨を捜査関係者が明らかに",
+      "summary": "京都府南丹市で小学生の安達結希さんが死亡して見つかった事件で、殺人の疑いで再逮捕された37歳の父親が、任意の調べに『本当の父親じゃない』と言われ腹が立ち殺したという趣旨の供述をしていたことが分かった。2人は去年、養子縁組をした親子で、警察が事件に至った詳しいいきさつを調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 497.63,
+      "end_sec": 962.93,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "politics"
+      ],
+      "title": "日経平均が一時初の6万3000円超え、背景にイラン情勢の緊張緩和期待",
+      "summary": "連休明けの東京株式市場で日経平均株価が記録的に上昇し、一時初めて6万3000円台をつけた。背景の一つとして、アメリカとイランの間で覚書作成の合意に近づいているとの報道や、戦闘終結への期待が伝えられた。一方で、イラン側のけん制やイスラエルによるレバノン・ベイルート攻撃など、情勢の不透明感も続いているとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 962.93,
+      "end_sec": 1143.58,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "クルーズ船でハンタウイルス集団感染疑い、重症者など3人を移送",
+      "summary": "ハンタウイルスの集団感染が疑われているクルーズ船MVホンディウス号で、重い症状が出た人など3人が治療のため飛行機でオランダに移送された。感染確認または疑いのある人は合わせて8人で、うち3人が死亡した。アルゼンチン政府関係者の話として、最初に亡くなった夫婦がウスアイアでバードウォッチング中に感染した可能性や、げっ歯類との接触の仮説が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1143.58,
+      "end_sec": 1350.62,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "再審制度見直し、検察の不服申し立て原則禁止案を政府が提示",
+      "summary": "再審制度の見直しを巡り、政府は再審開始決定に対する検察の不服申し立てを原則禁止し、十分な理由がある場合に限って可能とする案を自民党の会議に示した。出席者からは、刑事訴訟法改正案の付則ではなく本則に明記するよう求める意見が相次ぎ、政府と党の間で調整することになった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1350.62,
+      "end_sec": 1560.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance",
+        "disaster_accident_emergency"
+      ],
+      "title": "熊本・八代市の被災庁舎建て替え工事を巡る汚職事件で市議ら3人逮捕",
+      "summary": "熊本地震で被災した熊本県八代市の庁舎建て替え工事を巡り、入札で便宜を図るよう市幹部に働きかけた見返りに建設会社側から現金6000万円を受け取ったとして、八代市議会議員の成松由紀夫容疑者ら3人があっせん収賄の疑いで逮捕された。入札には共同企業体のみが参加し118億円で落札、契約後に総事業費がおよそ171億円に膨らんだことも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1560.0,
+      "end_sec": 1560.23,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "science_technology"
+      ],
+      "title": "NPT再検討会議の最終文書草案、核兵器への人間の管理維持を呼びかけ",
+      "summary": "NPT・核拡散防止条約の再検討会議で、総括となる最終文書の最初の草案が議長から各国に示された。草案は、AIなど新たな技術による指揮系統への干渉リスクを減らし、核兵器に対する人間の管理を常に維持するよう呼びかけている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1560.23,
+      "end_sec": 1662.65,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大リーグ、大谷翔平が26打席ぶり安打、鈴木誠也が日米通算1500安打",
+      "summary": "大リーグでドジャースの大谷翔平選手が26打席ぶりのヒットとなるツーベースを打ち、今月初安打を記録した。カブスの鈴木誠也選手はタイムリーツーベースで日米通算1500安打に到達し、カブスは延長10回にサヨナラ勝ちして8連勝とした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1662.65,
+      "end_sec": 1811.64,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報、東北で今年初の真夏日、あすは東・北日本で雷雨も",
+      "summary": "全国的に晴れて広く25度以上の夏日となり、岩手県一関では30度に達して東北で今年初めての真夏日となった。あすは雲が広がり、近畿から北海道を中心に雨や雷雨の所がある見込みで、沖縄・奄美は梅雨空が戻る。北日本では荒天や一時的な寒さ、山で雪の可能性も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne_pre000",
+      "start_sec": 0.0,
+      "end_sec": 10.25,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース7開始前の前番組とみられる天気予報画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 10.77,
+      "end_sec": 20.86,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "NHK NEWSのオープニング表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1811.64,
+      "end_sec": 1820.86,
+      "non_editorial_kind": "program_promo",
+      "summary": "『日本最強の城スペシャル』のクイズ形式の番組宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": "news_topic_segmentation_release_v1",
+  "program_id": "news7_20260601",
+  "condition": "no_transcript",
+  "duration_sec": 1819.74,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 15.75,
+      "end_sec": 744.0
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 744.0,
+      "end_sec": 820.0
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 820.0,
+      "end_sec": 1010.0
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1010.0,
+      "end_sec": 1135.0
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1135.0,
+      "end_sec": 1370.0
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1370.0,
+      "end_sec": 1585.0
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1585.0,
+      "end_sec": 1614.0
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1614.0,
+      "end_sec": 1668.0
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1668.0,
+      "end_sec": 1686.0
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1686.0,
+      "end_sec": 1807.0
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 9.55,
+      "non_editorial_kind": "other_non_editorial"
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 9.55,
+      "end_sec": 15.75,
+      "non_editorial_kind": "opening_or_ending"
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1807.0,
+      "end_sec": 1819.74,
+      "non_editorial_kind": "program_promo"
+    }
+  ]
+}

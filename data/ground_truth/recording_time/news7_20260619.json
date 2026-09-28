@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260619",
+  "duration_sec": 1820.76,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 19.59,
+      "end_sec": 157.9,
+      "domain": "economy_business_finance",
+      "label": "東海道新幹線　全線で運転見合わせ",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 157.9,
+      "end_sec": 618.5,
+      "domain": "disaster_accident_emergency",
+      "label": "小学校で火災",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 618.5,
+      "end_sec": 954.56,
+      "domain": "economy_business_finance",
+      "label": "物価高",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 954.56,
+      "end_sec": 1231.09,
+      "domain": "sport",
+      "label": "サッカーW杯",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1231.09,
+      "end_sec": 1341.65,
+      "domain": "economy_business_finance",
+      "label": "東海道新幹線　全線で運転見合わせ",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1341.65,
+      "end_sec": 1492.08,
+      "domain": "politics",
+      "label": "皇族数確保の骨子案判明",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1492.08,
+      "end_sec": 1598.55,
+      "domain": "crime_law_justice",
+      "label": "強盗殺人事件の再審",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1598.55,
+      "end_sec": 1637.56,
+      "domain": "human_interest",
+      "label": "上田総裁が退院",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1637.56,
+      "end_sec": 1677.17,
+      "domain": "politics",
+      "label": "身寄りのない高齢者支援へ事業拡充",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1677.17,
+      "end_sec": 1792.12,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

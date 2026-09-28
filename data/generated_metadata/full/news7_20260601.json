@@ -1,0 +1,197 @@
+{
+  "program_id": "news7_20260601",
+  "source_ts_path": "media-not-distributed/news7_20260601.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 16.0,
+      "end_sec": 743.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "台風6号が沖縄本島に最接近、暴風や線状降水帯に警戒",
+      "summary": "台風6号が沖縄本島地方に最も近づき、沖縄で最大瞬間風速40メートル超を観測した。けが人、倒木、停電、フェリーや航空便の欠航が出ており、奄美や九州南部では線状降水帯発生のおそれがあるとして、気象庁が暴風、高波、土砂災害、浸水、川の氾濫への厳重な警戒を呼びかけた。西日本・東日本でも大雨や新幹線運行への影響が懸念され、新しい防災気象情報の警戒レベルやNHK ONEニュース・防災アプリの活用も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 743.0,
+      "end_sec": 816.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "埼玉・川口の住宅で男女2人死亡、殺人事件として捜査",
+      "summary": "埼玉県川口市の住宅から、男の声で「ケアマネージャーの女性を包丁で刺した」「これから自分のことも刺す」と110番通報があった。警察と消防が現場に駆けつけると、通報者とみられる住人の男と女性の2人が血を流して倒れており、その後いずれも死亡が確認された。警察は、住人の男が訪問したケアマネージャーの女性を刃物で刺したあと自殺を図ったとみて、殺人事件として調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 816.0,
+      "end_sec": 993.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society",
+        "politics"
+      ],
+      "title": "中東情勢の影響、株式市場や菓子パッケージ・生活用品に波及",
+      "summary": "中東情勢の影響で、日経平均株価は一時初めて6万7000円台をつけた一方、市場全体では7割を超える銘柄が値下がりした。包装に使うインクなどの調達が不安定になっているとして、カルビーは一部商品のパッケージを白黒2色に順次切り替えている。福井市の和菓子店では保冷シートなどの不足、長野市のスーパーでは指定ごみ袋の購入制限や値上げが伝えられた。高市総理大臣は全国知事会の会長らと面会し、石油製品の安定供給に向け地域の実態把握に努める考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 993.0,
+      "end_sec": 1113.68,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン情勢めぐる覚書交渉、トランプ大統領が修正要求か",
+      "summary": "イラン情勢をめぐり、停戦を延長し、その間に核問題に関する協議を行う覚書について、両国の担当者が暫定的に一致したとされる一方、トランプ大統領が修正を求めたと伝えられた。CBSテレビは、ホルムズ海峡や高濃縮ウランの処分に関する比較的大きな変更が含まれていると報じた。イラン側も修正を加えると報じられる中、イスラエル軍のレバノン南部での動きやベイルート郊外への攻撃指示が、協議への影響として懸念された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1113.68,
+      "end_sec": 1368.0,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "education"
+      ],
+      "title": "来春卒業予定者向け採用面接が開始、売り手市場で企業の採用活動が変化",
+      "summary": "来年春に卒業する大学生などを対象にした企業の採用活動が、政府のルールではこの日から始まった。学生優位の売り手市場が続く中、大阪の大手住宅メーカーは食堂で最終面接を行い、IT企業はAIを1次面接に導入して面接できる学生数を増やしている。内定辞退に備える地方銀行や、目標を超える学生に合格を伝える企業の動きも紹介され、採用活動の日程ルールと実態の乖離について専門家が指摘した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1368.0,
+      "end_sec": 1565.33,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "辺野古沖転覆事故めぐる文科省の教育基本法違反判断が波紋",
+      "summary": "沖縄県名護市辺野古の沖合で船が転覆し高校生などが死亡した事故をめぐり、文部科学省は高校の教育内容が政治的中立性を定めた教育基本法に違反すると判断した。この判断に対し、教育関係者からは学校現場で政治的なテーマを扱うことへの萎縮を懸念する声が出ている。平和学習の現場では、修学旅行の見学先を辺野古から嘉手納基地周辺に変更したいという依頼が相次ぐなどの変化も伝えられた。文科省は抗議船に乗せたことや多様な見解を十分に示していなかったことを理由に挙げ、専門家からは妥当とする意見と懸念する意見が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1565.33,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "今年度補正予算案、5日に参院予算委で採決し本会議緊急上程へ",
+      "summary": "今年度の補正予算案をめぐり、自民党と立憲民主党の参議院国会対策委員長が会談し、今週5日に参議院予算委員会で質疑や採決を行ったうえで、その日のうちに本会議に緊急上程することで合意した。補正予算案は、仮に参議院で否決された場合でも憲法の規定により衆議院の議決が優先されるため、本会議で採決が行われれば成立する公算が大きいと伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1620.0,
+      "end_sec": 1663.03,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "名古屋のマイクロバス死亡事故、勤務先などを過失運転致死・ひき逃げ容疑で捜索",
+      "summary": "名古屋市の交差点で男女2人がマイクロバスにはねられて死亡した事故で、逮捕された酒井照也容疑者について、警察は運転手の勤務先のスイミングスクールと自宅を過失運転致死とひき逃げの疑いで捜索した。捜査関係者によると、ドライブレコーダーの映像から、運転手は時速30キロ以下の速度で2人をはねた疑いがあるという。亡くなった男性は横断歩道ではねられたあと、100メートル余り離れた場所で倒れていたと伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1663.03,
+      "end_sec": 1680.76,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "速報 高市首相がイラン大統領と電話会談",
+      "summary": "速報として、高市総理大臣が午後7時前からおよそ15分間、イランのペゼシュキアン大統領と電話で会談したと伝えられた。アメリカとイランの間の協議などについて意見を交わしたものとみられる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1680.76,
+      "end_sec": 1801.26,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "気象情報 台風6号の進路と全国の大雨・暴風見通し",
+      "summary": "気象情報として、台風6号が沖縄本島に接近し、あすにかけて奄美地方へ、その後は本州の太平洋沿岸を進む見込みだと伝えられた。沖縄・奄美では暴風と非常に激しい雨が見込まれ、宮崎県や鹿児島県では線状降水帯が発生するおそれがある。近畿、東海、関東では雨のピークや大荒れの時間帯が示され、土砂災害、川の氾濫、浸水、交通への影響に注意するよう呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 9.55,
+      "end_sec": 15.75,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7のオープニングロゴ表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1801.26,
+      "end_sec": 1803.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7の終盤クレジット・エンディング表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1803.0,
+      "end_sec": 1819.74,
+      "non_editorial_kind": "program_promo",
+      "summary": "次番組とみられる東京・新大久保、多国籍タウン特集の番組宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

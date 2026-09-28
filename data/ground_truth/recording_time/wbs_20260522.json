@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260522",
+  "duration_sec": 3500.1,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 36.0,
+      "end_sec": 515.43,
+      "domain": "economy_business_finance",
+      "label": "物価高と利上げ",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 536.37,
+      "end_sec": 972.77,
+      "domain": "economy_business_finance",
+      "label": "ふるさと納税手数料にメス",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 972.77,
+      "end_sec": 1023.64,
+      "domain": "economy_business_finance",
+      "label": "日経平均、最高値を更新",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1023.64,
+      "end_sec": 1383.26,
+      "domain": "politics",
+      "label": "FRB議長が交代",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1383.26,
+      "end_sec": 1437.53,
+      "domain": "conflict_war_peace",
+      "label": "通航料徴収なら合意不可能",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1437.53,
+      "end_sec": 1468.35,
+      "domain": "economy_business_finance",
+      "label": "医療用手袋の備蓄放出",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1609.32,
+      "end_sec": 2430.29,
+      "domain": "science_technology",
+      "label": "ミュトスの金融リスク",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 2575.6,
+      "end_sec": 2778.48,
+      "domain": "economy_business_finance",
+      "label": "ビルトイン家電が日本で注目",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2905.08,
+      "end_sec": 2943.05,
+      "domain": "conflict_war_peace",
+      "label": "ロシア、ベラルーシと合同演習",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2943.05,
+      "end_sec": 2960.82,
+      "domain": "politics",
+      "label": "トランプ大統領のグリーンランド領有主張に反対デモ",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2960.82,
+      "end_sec": 2987.2,
+      "domain": "arts_culture_entertainment_media",
+      "label": "エッフェル塔のらせん階段落札",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2987.2,
+      "end_sec": 3020.39,
+      "domain": "economy_business_finance",
+      "label": "マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 3259.28,
+      "end_sec": 3299.01,
+      "domain": "economy_business_finance",
+      "label": "ファミマと楽天の連携",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3299.01,
+      "end_sec": 3327.56,
+      "domain": "crime_law_justice",
+      "label": "新浪元会長ら不起訴",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3327.56,
+      "end_sec": 3372.77,
+      "domain": "economy_business_finance",
+      "label": "来週の注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "program_id": "news7_20260622",
+  "source_ts_path": "media-not-distributed/news7_20260622.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 11.34,
+      "end_sec": 206.81,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [],
+      "title": "旭川女子高校生殺害事件で23歳被告に懲役27年判決",
+      "summary": "北海道旭川市の橋から女子高校生を川に落下させて殺害したなどとして殺人や監禁などの罪に問われた内田梨瑚被告に、旭川地裁が求刑どおり懲役27年を言い渡した。判決では被告の言動が殺人の実行行為に当たるとされ、判決言い渡しの途中には男が傍聴席の柵を乗り越えて一時休廷する騒ぎもあった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 206.81,
+      "end_sec": 611.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯チュニジア戦で上田綺世選手が2得点",
+      "summary": "サッカーワールドカップ北中米大会で、日本代表がチュニジア戦に快勝した。4得点中2得点を挙げた上田綺世選手の活躍、前回大会の悔しさ、恩師が語る負けず嫌いな原点、海外メディアの反応、次戦スウェーデン戦の条件や中継予定を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 611.0,
+      "end_sec": 750.38,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "鹿児島・霧島の温泉施設で5歳男児不明、川に流された可能性",
+      "summary": "鹿児島県霧島市の温泉施設で、熊本県八代市の5歳の男の子の行方が分からなくなっている。警察は、男児が風呂の窓から外に出て、近くの天降川に流された可能性もあるとみて、消防とともに施設周辺や川の捜索を続ける方針。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 750.38,
+      "end_sec": 865.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "イギリスのスターマー首相が辞任の意向を表明",
+      "summary": "イギリスのスターマー首相が、与党・労働党の党首を辞任する意向を表明した。党首選挙が終わるまでは首相にとどまるとしており、物価高対策や増税への不満、地方選挙での大敗、補欠選挙でのバーナム氏当選などを背景に辞任を求める声が強まっていた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 865.0,
+      "end_sec": 1084.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "高市総理の陣営めぐる中傷動画報道と答弁訂正を野党が追及",
+      "summary": "国会論戦で、週刊誌が報じた高市総理大臣の陣営による他候補へのひぼう中傷動画投稿などをめぐり、野党が追及した。高市総理は秘書の陳述書を国会に提出し、答弁訂正の経緯を書面で報告したが、野党側は予算委員会での説明も求めた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1084.0,
+      "end_sec": 1140.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "参院予算委で少子化対策を質疑",
+      "summary": "参議院予算委員会で、自民党が少子化対策について質問した。晩婚化や未婚化を課題として挙げ、少子化を打開する新たな決め手を政府として進めるよう求めた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1140.0,
+      "end_sec": 1187.08,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "食料品の消費税減税案をめぐり参院予算委で質疑",
+      "summary": "国民民主党は、国民会議の実務者会議で食料品の消費税率を来年4月から2年間1％に引き下げるなどの議長案が示されたことに関連して質問した。高市総理に、給付付き税額控除や食料品の消費税率をめぐる考えをただした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1187.08,
+      "end_sec": 1260.0,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "有利子奨学金の上限金利をめぐり公明党が質疑",
+      "summary": "公明党は日本学生支援機構の有利子奨学金について、金利上昇で利用をためらうことが起こり得るとして、上限金利3％を維持するよう求めた。政府側は在学中は無利子とし、返還利率は原則3％を上限とする仕組みを維持すると答えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1260.0,
+      "end_sec": 1274.13,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "原油調達の多角化をめぐり日本維新の会が質疑",
+      "summary": "日本維新の会は原油の調達をめぐり、経済安全保障の観点から政府の対応を質問した。政府側は、ホルムズ海峡を経由しない経路や中東以外からの調達を活用し、民間事業者とも連携しながら供給先の多角化を維持する考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1274.13,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "マイナンバーカード取得義務化の見解を参政党が質疑",
+      "summary": "参政党はマイナンバーカードについて、任意取得を前提に進めてきた一方で、自民党内の政策提言で取得義務化を検討すべきとの考えが示されたとして、政府の見解をただした。政府側は保有者数の増加見込みや社会実装の進捗を踏まえる考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1320.0,
+      "end_sec": 1358.22,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "再審制度見直しをめぐり共産党が質疑",
+      "summary": "共産党は再審制度の見直しをめぐり、再審制度が検察の判断に左右されてきた仕組みを根本から変える必要があるのではないかとただした。政府側は、誤判からの確実な救済と手続きの円滑・迅速化を図るものだと説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1358.22,
+      "end_sec": 1380.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "朝鮮半島有事の米軍行動をめぐりれいわ新選組が質疑",
+      "summary": "れいわ新選組は、朝鮮半島で有事が起きた際のアメリカ軍の軍事行動をめぐり、1960年の安保改定時の『朝鮮議事録』に言及し、日本が攻撃目標にされるリスクへの対応をただした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 1380.0,
+      "end_sec": 1437.87,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "高市総理と維新・吉村代表が副首都構想法案などを協議",
+      "summary": "国会会期末まで1か月を切る中、高市総理大臣は日本維新の会の吉村代表と会談し、副首都構想の実現に向けた法案で、自民党内から反対意見が相次いでいる住民投票規定の修正を求めた。会談では衆議院議員の定数削減法案や皇室典範改正案についても、今国会で成立を目指す方針を確認した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 1437.87,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "皇室典範改正案の要綱案を衆参議長らがおおむね了承",
+      "summary": "皇室典範の改正案をめぐり、木原官房長官が衆参両院の議長・副議長と会談し、先週の骨子案に続いて要綱案を示した。議長・副議長はおおむね了承し、25日に各党・各会派との協議を開いて意見を聞くことを確認した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 1500.0,
+      "end_sec": 1672.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米・イラン協議が異例の幕開け、ホルムズ海峡やレバノン情勢で共同声明",
+      "summary": "米・イラン協議で、イランのアラグチ外相とアメリカのバンス副大統領が同じ場に入る異例の場面があったが、イラン側は写真撮影の機会を拒否したと伝えられた。パキスタンなどは共同声明を発表し、ホルムズ海峡の商船の安全航行に向けた連絡体制や、レバノン情勢での衝突回避対策チームの設置を盛り込んだ。一方、トランプ氏やイスラエル側の発言も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 1672.0,
+      "end_sec": 1797.46,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "九州の大雨と台風7号の見通し",
+      "summary": "気象情報では、梅雨前線や低気圧の影響で九州では木曜日にかけて非常に激しい雨が降り、災害の危険度が高まるおそれがあると伝えた。また、非常に強い台風7号が暴風域を伴ったまま木曜日以降に沖縄へ接近する見込みで、沖縄・奄美では荒れた天気になるとして注意を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 11.34,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7本編前の前番組気象情報の残りとNHK NEWSタイトル画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1801.0,
+      "end_sec": 1820.51,
+      "non_editorial_kind": "program_promo",
+      "summary": "後続番組『クローズアップ現代』のAIを扱う内容の番組宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

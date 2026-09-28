@@ -1,0 +1,152 @@
+{
+  "schema_version": "news_topic_segmentation_release_v1",
+  "program_id": "wbs_20260514",
+  "condition": "no_vlm_no_ocr",
+  "duration_sec": 3501.01,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 27.53,
+      "end_sec": 920.59
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 920.59,
+      "end_sec": 1235.59
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1236.37,
+      "end_sec": 1306.05
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1306.05,
+      "end_sec": 1320.0
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1320.0,
+      "end_sec": 1374.61
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1374.61,
+      "end_sec": 1440.0
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1440.0,
+      "end_sec": 1486.0
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1602.37,
+      "end_sec": 1942.0
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2084.82,
+      "end_sec": 2139.56
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2139.56,
+      "end_sec": 2303.0
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2407.4,
+      "end_sec": 2671.0
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2775.46,
+      "end_sec": 2820.0
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2820.0,
+      "end_sec": 2853.82
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2853.82,
+      "end_sec": 2880.0
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2880.0,
+      "end_sec": 2915.0
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3148.61,
+      "end_sec": 3180.0
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3180.0,
+      "end_sec": 3214.72
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3214.72,
+      "end_sec": 3240.0
+    },
+    {
+      "topic_id": "t019",
+      "start_sec": 3240.0,
+      "end_sec": 3300.0
+    },
+    {
+      "topic_id": "t020",
+      "start_sec": 3300.0,
+      "end_sec": 3414.0
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "n001",
+      "start_sec": 0.0,
+      "end_sec": 27.53,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n002",
+      "start_sec": 1486.0,
+      "end_sec": 1602.37,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n003",
+      "start_sec": 1942.0,
+      "end_sec": 2084.82,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n004",
+      "start_sec": 2303.0,
+      "end_sec": 2407.4,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n005",
+      "start_sec": 2671.0,
+      "end_sec": 2775.46,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n006",
+      "start_sec": 2915.0,
+      "end_sec": 3148.61,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n007",
+      "start_sec": 3414.0,
+      "end_sec": 3501.01,
+      "non_editorial_kind": "ambiguous"
+    }
+  ]
+}

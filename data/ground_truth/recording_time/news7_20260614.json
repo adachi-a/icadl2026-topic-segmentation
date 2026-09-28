@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260614",
+  "duration_sec": 1819.87,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 19.95,
+      "end_sec": 218.8,
+      "domain": "conflict_war_peace",
+      "label": "イラン情勢",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 218.8,
+      "end_sec": 502.11,
+      "domain": "politics",
+      "label": "G7サミット",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 502.11,
+      "end_sec": 977.56,
+      "domain": "sport",
+      "label": "サッカーワールドカップ　日本の初戦まで9時間",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 977.56,
+      "end_sec": 1170.19,
+      "domain": "human_interest",
+      "label": "両陛下、オランダに到着",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1170.19,
+      "end_sec": 1329.39,
+      "domain": "disaster_accident_emergency",
+      "label": "相次ぐ子供の水の事故",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1329.39,
+      "end_sec": 1416.43,
+      "domain": "conflict_war_peace",
+      "label": "ゼレンスキー大統領、G7などに要望",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1416.43,
+      "end_sec": 1463.85,
+      "domain": "politics",
+      "label": "ケネディセンターからトランプ大統領の名前取り外し",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1463.85,
+      "end_sec": 1511.3,
+      "domain": "health",
+      "label": "1型糖尿病の遺伝",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1511.3,
+      "end_sec": 1601.83,
+      "domain": "sport",
+      "label": "大リーグ、日本人選手の活躍",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1601.83,
+      "end_sec": 1681.8,
+      "domain": "sport",
+      "label": "陸上日本選手権",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1681.8,
+      "end_sec": 1801.98,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

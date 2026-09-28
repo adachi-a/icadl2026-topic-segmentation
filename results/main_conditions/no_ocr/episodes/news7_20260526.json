@@ -1,0 +1,100 @@
+{
+  "schema_version": "news_topic_episode_eval_v1",
+  "program_id": "news7_20260526",
+  "broadcaster": "news7",
+  "duration_sec": 1820.22,
+  "input_warnings": [],
+  "metrics": {
+    "n_ground_truth": 8,
+    "n_prediction": 8,
+    "topic_count_error": 0,
+    "match_rate": 1.0,
+    "mean_iou_matched": 0.9421225143080108,
+    "onset_mae_sec": 4.438750000000034,
+    "offset_mae_sec": 3.9612500000000566,
+    "boundary_scores": {
+      "5": {
+        "tolerance_sec": 5.0,
+        "true_positive": 7,
+        "false_positive": 2,
+        "false_negative": 2,
+        "precision": 0.7777777777777778,
+        "recall": 0.7777777777777778,
+        "f1": 0.7777777777777778
+      },
+      "30": {
+        "tolerance_sec": 30.0,
+        "true_positive": 9,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "pk": 0.021399652978600348,
+    "window_diff": 0.03701561596298438,
+    "pk_window_sec": 91,
+    "matches": [
+      {
+        "prediction_id": "topic_001",
+        "ground_truth_id": "t001",
+        "iou": 0.9866296195708941,
+        "onset_error_sec": 5.879999999999999,
+        "offset_error_sec": -0.5200000000000387
+      },
+      {
+        "prediction_id": "topic_002",
+        "ground_truth_id": "t002",
+        "iou": 0.9978529965276853,
+        "onset_error_sec": -0.5200000000000387,
+        "offset_error_sec": -0.2900000000000773
+      },
+      {
+        "prediction_id": "topic_003",
+        "ground_truth_id": "t003",
+        "iou": 0.6794156075543402,
+        "onset_error_sec": -0.2900000000000773,
+        "offset_error_sec": 26.700000000000045
+      },
+      {
+        "prediction_id": "topic_004",
+        "ground_truth_id": "t004",
+        "iou": 0.9180243161094224,
+        "onset_error_sec": 26.700000000000045,
+        "offset_error_sec": -0.2699999999999818
+      },
+      {
+        "prediction_id": "topic_005",
+        "ground_truth_id": "t005",
+        "iou": 0.992359456049347,
+        "onset_error_sec": -0.2699999999999818,
+        "offset_error_sec": -0.8200000000001637
+      },
+      {
+        "prediction_id": "topic_006",
+        "ground_truth_id": "t006",
+        "iou": 0.9914178653450981,
+        "onset_error_sec": -0.8200000000001637,
+        "offset_error_sec": -0.599999999999909
+      },
+      {
+        "prediction_id": "topic_007",
+        "ground_truth_id": "t007",
+        "iou": 0.9887135656366428,
+        "onset_error_sec": -0.599999999999909,
+        "offset_error_sec": -0.43000000000006366
+      },
+      {
+        "prediction_id": "topic_008",
+        "ground_truth_id": "t008",
+        "iou": 0.9825666876706558,
+        "onset_error_sec": -0.43000000000006366,
+        "offset_error_sec": -2.060000000000173
+      }
+    ],
+    "unmatched_prediction_ids": [],
+    "unmatched_ground_truth_ids": []
+  },
+  "errors": []
+}

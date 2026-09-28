@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260610",
+  "duration_sec": 3389.853134,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 23.732367,
+      "end_sec": 140.642367,
+      "domain": "human_interest",
+      "label": "日銀上田総裁、感染症で入院",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 140.642367,
+      "end_sec": 529.812367,
+      "domain": "economy_business_finance",
+      "label": "オニツカタイガー分社化へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 545.262367,
+      "end_sec": 700.822367,
+      "domain": "conflict_war_peace",
+      "label": "イラン情勢",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 700.822367,
+      "end_sec": 1162.6523670000001,
+      "domain": "economy_business_finance",
+      "label": "IOWNファンド",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1162.6523670000001,
+      "end_sec": 1213.012367,
+      "domain": "politics",
+      "label": "G7でレアアース備蓄提案",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1213.012367,
+      "end_sec": 1253.302367,
+      "domain": "economy_business_finance",
+      "label": "スターバックス、日本事業売却を検討",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1253.302367,
+      "end_sec": 1295.752367,
+      "domain": "human_interest",
+      "label": "河野元衆院議長死去",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1295.752367,
+      "end_sec": 1402.582367,
+      "domain": "economy_business_finance",
+      "label": "5月の企業物価指数",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1560.9123670000001,
+      "end_sec": 1793.222367,
+      "domain": "economy_business_finance",
+      "label": "松屋銀座に牛丼チェーンの松屋出店",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1920.032367,
+      "end_sec": 2340.632367,
+      "domain": "economy_business_finance",
+      "label": "アメリカのCPIとマーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2468.382367,
+      "end_sec": 2770.092367,
+      "domain": "economy_business_finance",
+      "label": "カンボジアの通貨戦略",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2900.182367,
+      "end_sec": 2936.562367,
+      "domain": "science_technology",
+      "label": "次期アルテミス計画の宇宙飛行士が発表",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2936.562367,
+      "end_sec": 2963.0523670000002,
+      "domain": "religion",
+      "label": "サグラダ・ファミリアの「イエスの塔」が完成",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3203.822367,
+      "end_sec": 3253.542367,
+      "domain": "economy_business_finance",
+      "label": "横浜市とセカストが連携協定",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3253.542367,
+      "end_sec": 3295.712367,
+      "domain": "politics",
+      "label": "皇位継承「立法府の総意」決定",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3295.712367,
+      "end_sec": 3349.562367,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

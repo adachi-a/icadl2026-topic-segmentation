@@ -1,0 +1,306 @@
+{
+  "program_id": "wbs_20260522",
+  "source_ts_path": "media-not-distributed/wbs_20260522.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 27.49,
+      "end_sec": 535.54,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "4月消費者物価指数と日銀の利上げ観測",
+      "summary": "総務省が発表した4月の全国消費者物価指数は、生鮮食品を除く総合指数が前年比1.4％上昇にとどまり、日銀の物価目標2％を3か月連続で下回った。食料品の値上がりや政府の補助金の影響、植田日銀総裁と高市総理の会談、6月の利上げ観測について伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 535.68,
+      "end_sec": 972.14,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "総務省がふるさと納税仲介サイトに手数料引き下げを要請",
+      "summary": "総務省は、自治体がふるさと納税の仲介サイトに支払う手数料が高額になっているとして、大手サイト事業者などに引き下げを要請した。神奈川県三浦市のマグロ返礼品や税収活用を例に、手数料負担や返礼品への影響、ポータルサイトの役割を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 972.14,
+      "end_sec": 1020.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "日経平均株価が終値で史上最高値を更新",
+      "summary": "日経平均株価は大幅に値上がりし、6万3000円台を回復した。アメリカ市場の上昇を受け、東京市場でも半導体やAI関連銘柄が買われ、終値で史上最高値を更新した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 1020.0,
+      "end_sec": 1380.71,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "FRB新議長ウォーシュ氏の金融政策と市場の注目",
+      "summary": "FRB議長に就任するケビン・ウォーシュ氏について、ホワイトハウスでの異例の就任宣誓式、トランプ大統領との関係、インフレや利下げをめぐる考え方をワシントンから中継で伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1382.77,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米国務長官、イランのホルムズ海峡通航料徴収に警告",
+      "summary": "WBSクイックで、アメリカのルビオ国務長官が、イランによるホルムズ海峡での通航料徴収を世界への脅威だとし、戦闘終結に向けた合意が不可能になると警告したことを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1440.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "政府備蓄の医療用手袋、2000超の医療機関に配布へ",
+      "summary": "中東情勢の影響を受け、国が備蓄から放出する医療用手袋について、上野厚生労働大臣が2000を超える医療機関が配布対象になるとの見通しを示した。配送は順次開始されると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1603.6,
+      "end_sec": 2445.81,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "新型AIクロード・ミュトスの金融リスクとサイバー対策",
+      "summary": "The追跡で、アンソロピックの新型AI「クロード・ミュトス」が金融機関や重要インフラにもたらすリスクを特集した。片山金融担当大臣の発言、アンソロピック日本法人への取材、金融機関やシステム会社の対策、AIによる防御やCISOの位置づけについて伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "noned_003"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 2445.81,
+      "end_sec": 2820.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "イタリア高級ビルトイン家電メーカーが日本市場開拓",
+      "summary": "キッチンや壁面に埋め込むビルトイン家電が日本で注目される中、イタリアの高級家電メーカーがショールームを開き、日本での本格販売を始めた。富裕層の需要や高級マンション、リフォーム時の導入、国内メーカーの品ぞろえの少なさを背景として紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "noned_004"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 2904.25,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ロシアとベラルーシが核兵器運用の大規模合同演習",
+      "summary": "ワールドクイックで、ロシアがベラルーシと核兵器の運用に関する大規模な合同演習を実施し、ICBM発射訓練やベラルーシへの核弾頭搬入を行ったと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 2940.0,
+      "end_sec": 2960.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "グリーンランドで米国領有主張に反対するデモ",
+      "summary": "デンマーク自治領グリーンランドで、トランプ大統領が主張するグリーンランド領有に反対するデモが行われ、ヌーク中心部のアメリカ新領事館周辺に数百人が集まった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_011",
+      "start_sec": 2960.0,
+      "end_sec": 2985.3,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "エッフェル塔のらせん階段の一部が約8300万円で落札",
+      "summary": "パリのエッフェル塔のらせん階段の一部がオークションにかけられ、45万ユーロ、およそ8300万円で落札された。1889年製で高さは約2.5メートル、予想価格の3倍の値がついたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_012",
+      "start_sec": 2985.3,
+      "end_sec": 3060.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "為替・商品・ニューヨーク株式市場の市況",
+      "summary": "マーケット情報として、ドル円相場、ニューヨーク原油先物、その他の商品、22日のニューヨーク株式市場のダウとナスダックの動きを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_013",
+      "start_sec": 3240.0,
+      "end_sec": 3300.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "楽天グループとファミリーマートがポイント連携を拡大",
+      "summary": "楽天グループとファミリーマートは、7月1日にポイントサービスの連携を拡大すると発表した。ファミリーマートで楽天ポイントカードを提示して月3000円以上買い物をすると、楽天市場でのポイント還元率を0.5％上乗せする。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_014",
+      "start_sec": 3300.0,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "サントリーHD新浪剛史元会長らを不起訴処分",
+      "summary": "大麻由来成分を含む違法なサプリメントを輸入したとして書類送検されていたサントリーホールディングスの新浪剛史元会長と知人女性について、福岡地検が不起訴処分にしたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_015",
+      "start_sec": 3360.0,
+      "end_sec": 3420.0,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "来週発表の春闘回答状況と物価・消費への影響",
+      "summary": "来週、経団連が春闘の大企業の回答状況の集計結果を発表することに触れ、賃上げが物価と消費に与える意味をスタジオで話した。食料品や納豆パックの価格上昇にも言及した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "noned_001",
+      "start_sec": 0.0,
+      "end_sec": 27.49,
+      "non_editorial_kind": "commercial",
+      "summary": "番組開始前のリノシーのAI不動産投資CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noned_002",
+      "start_sec": 1500.0,
+      "end_sec": 1603.6,
+      "non_editorial_kind": "commercial",
+      "summary": "大和証券グループ、リアライズコーポレーション、タリーズ、ミサワホームなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noned_003",
+      "start_sec": 1800.0,
+      "end_sec": 1920.0,
+      "non_editorial_kind": "commercial",
+      "summary": "オービック、FPG、レンジローバー、日経、新聞関連などのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noned_004",
+      "start_sec": 2460.0,
+      "end_sec": 2580.0,
+      "non_editorial_kind": "commercial",
+      "summary": "富士フイルムビジネスイノベーション、サントリー、リクルートエージェントなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noned_005",
+      "start_sec": 2820.0,
+      "end_sec": 2904.25,
+      "non_editorial_kind": "commercial",
+      "summary": "ブラックニッカ、M&Aキャピタルパートナーズ、ジョーシン、シノケングループなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noned_006",
+      "start_sec": 3060.0,
+      "end_sec": 3240.0,
+      "non_editorial_kind": "commercial",
+      "summary": "日立エアコン、川崎重工、ビズリーチ、三井不動産、提供表示、スカパーJSATなどのCM・提供関連表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noned_007",
+      "start_sec": 3420.0,
+      "end_sec": 3500.1,
+      "non_editorial_kind": "commercial",
+      "summary": "番組終了後のテレ東広告、ブラックストーン、さとふる、AI不動産投資などのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

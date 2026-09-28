@@ -1,0 +1,174 @@
+{
+  "program_id": "news7_20260526",
+  "source_ts_path": "media-not-distributed/news7_20260526.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 26.56,
+      "end_sec": 498.83,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "巨人・阿部慎之助監督が辞任",
+      "summary": "プロ野球・巨人の阿部慎之助監督が、同居する18歳の娘への暴行の疑いで逮捕されたことを受けて辞任した。会見で謝罪し、球団側は監督代行や後任人事の見通しについて説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 498.83,
+      "end_sec": 717.22,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米イラン協議とアメリカ軍の攻撃",
+      "summary": "アメリカとイランの核開発計画を巡る協議で、濃縮ウランの扱いや制裁解除に関する文言が焦点となっている。一方でアメリカ軍は、イラン南部で船舶やミサイル発射施設を標的に自衛のための攻撃を行ったと明らかにした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 717.22,
+      "end_sec": 787.25,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "politics"
+      ],
+      "title": "中東情勢の生活影響、コカ・コーラ値上げと日本関係船舶",
+      "summary": "中東情勢による生活への影響として、コカ・コーラ ボトラーズジャパンが165品目を9月出荷分から値上げすると発表した。容器原料のナフサやアルミニウム価格の高騰が理由とされる。また、ホルムズ海峡を通過した日本関係船舶についても伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 787.25,
+      "end_sec": 875.81,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "政府、電気・ガス料金支援に予備費5135億円支出へ",
+      "summary": "政府は7月から3か月間、電気・ガス料金を支援するため、今年度予算の予備費から5135億円を支出することを決めた。赤澤経済産業大臣は、現時点では原油・LNGを必要量確保できているとして、例年どおりの省エネを呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 875.81,
+      "end_sec": 960.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "鹿児島県で線状降水帯発生のおそれ",
+      "summary": "奄美地方を除く鹿児島県では、雨雲が発達し、あす未明から夕方にかけて線状降水帯が発生するおそれがある。局地的に1時間50ミリの非常に激しい雨が予想され、土砂災害への警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 960.0,
+      "end_sec": 1236.11,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "再審制度見直し、刑事訴訟法改正案が審議入り",
+      "summary": "再審・裁判のやり直しの制度見直しを巡り、再審開始決定に対する検察の不服申し立てを原則禁止する刑事訴訟法改正案が衆議院で審議入りした。袴田巌さんの姉のひで子さんが意見を述べ、審議では証拠開示や目的外使用の規定も論点となった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1236.11,
+      "end_sec": 1403.87,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "兵庫・たつの市の親子殺害事件、容疑者の足取り捜査",
+      "summary": "兵庫県たつの市の住宅で74歳の母親と52歳の娘が殺害された事件で、指名手配中の容疑者が事件後、市内の複数の駅の防犯カメラに写っていたことが分かった。警察は服を着替えて逃走しているとみて、現場周辺を中心に行方を捜査している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1403.87,
+      "end_sec": 1568.73,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "society"
+      ],
+      "title": "国家情報局設置法案、参議院委員会で可決",
+      "summary": "政府のインテリジェンス機能強化に向け、国家情報局を設置する法案が参議院の委員会で賛成多数で可決された。国家情報局は治安や安全保障に関する情報の収集・分析の司令塔と位置づけられ、法案は参議院本会議で可決・成立する見通しと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1568.73,
+      "end_sec": 1659.56,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大リーグ、村上宗隆が18号ホームラン",
+      "summary": "大リーグでホワイトソックスの村上宗隆選手が同点の18号ソロホームランを放ち、リーグ単独トップに立った。また西田陸浮選手が大リーグデビュー戦で初ヒットと好守備を見せ、アストロズの今井投手は6回をノーヒットに抑えて今シーズン2勝目を挙げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1659.56,
+      "end_sec": 1801.9,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "気象情報、鹿児島の大雨と各地の天気",
+      "summary": "気象情報では、鹿児島県で線状降水帯が発生し災害の危険度が高まるおそれを詳しく解説した。九州や中国、四国地方の雨、暖かく湿った空気による雨雲の発達、蒸し暑さや東京での真夏日見込み、あすの各地の天気も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "non_editorial_001",
+      "start_sec": 1801.9,
+      "end_sec": 1820.217644,
+      "non_editorial_kind": "program_promo",
+      "summary": "「あなたの家に眠る不用品」「お宝かもしれません」などと別内容を紹介する番組宣伝とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

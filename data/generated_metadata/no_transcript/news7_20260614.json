@@ -1,0 +1,228 @@
+{
+  "program_id": "news7_20260614",
+  "source_ts_path": "media-not-distributed/news7_20260614.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 16.5,
+      "end_sec": 211.5,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "米・イラン協議、覚書署名をめぐる双方の隔たり",
+      "summary": "米・イラン協議をめぐり、トランプ氏側が14日の署名予定に言及する一方、イラン側は数日中に実現の可能性や最終判断の検討中との姿勢を示し、強硬派の反対や高濃縮ウランをめぐる主張の隔たりが伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 211.5,
+      "end_sec": 492.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "G7サミットを前に日英首脳会談、日本の役割を解説",
+      "summary": "G7サミットを前に日英首脳会談が行われ、G7の結束の揺らぎや新興国の台頭、広島サミットで議長を務めた岸田元首相の発言、日本の橋渡し役としての役割などが解説された。ロンドンからの中継では高市首相がどう臨むかも伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 492.0,
+      "end_sec": 960.75,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "society",
+        "lifestyle_leisure"
+      ],
+      "title": "サッカーW杯 日本代表がオランダ戦へ最終調整",
+      "summary": "サッカーW杯北中米大会で、日本代表がオランダ戦を前に最終調整した様子や、国内のイベント・店にファンが集まる応援の熱気を伝えた。オランダ代表の実績や「司令塔」を勝利の鍵とする解説、元日本代表や両監督のコメントも紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 978.75,
+      "end_sec": 1170.4,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "human_interest"
+      ],
+      "title": "天皇皇后両陛下がオランダに到着、王室の別荘に滞在",
+      "summary": "天皇皇后両陛下がオランダ・ベルギー公式訪問でオランダに到着し、王室の別荘である城に滞在することが伝えられた。過去の滞在、オランダ国王の発言、アムステルダムの戦没者記念碑での慰霊予定、26日までの日程も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1170.4,
+      "end_sec": 1330.9,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "education"
+      ],
+      "title": "13歳の水の事故相次ぐ、「子どもだけ」に注意呼びかけ",
+      "summary": "名古屋の庄内川、富山の海、宮城県名取の海で13歳の男子中学生が死亡した水の事故を取り上げ、子どもだけで水辺に行く危険性を伝えた。過去10年の海での遊泳中事故の統計や、専門家によるライフジャケット着用などの注意喚起も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1330.9,
+      "end_sec": 1411.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "ゼレンスキー大統領、G7などを前にロシア制裁の実効性を訴え",
+      "summary": "ウクライナのゼレンスキー大統領が、G7やNATO首脳会議などの外交日程を前に、ロシア制裁などの実効性を求めたことが伝えられた。ウクライナ軍によるロシア南部の石油・ガス拠点への無人機攻撃や、石油関連施設への攻撃を続ける考えも紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1411.0,
+      "end_sec": 1470.2,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "arts_culture_entertainment_media",
+        "crime_law_justice"
+      ],
+      "title": "ワシントンでトランプ大統領の名前を取り外し",
+      "summary": "ワシントンの施設で、トランプ大統領の名前が取り外されたことが伝えられた。連邦地裁が、議会承認を得ずに名前を加えたのは違法だとしたことや、現職大統領として異例との見方も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1470.2,
+      "end_sec": 1506.7,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "science_technology",
+        "education"
+      ],
+      "title": "1型糖尿病、家族の約30人に1人にリスクか",
+      "summary": "1型糖尿病について、家族の約30人に1人にリスクがある可能性が伝えられた。インスリンを作る細胞を攻撃する自己抗体などが原因とされることや、早期発見に関する研究者の説明が紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1506.7,
+      "end_sec": 1618.5,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大リーグ、大谷14号・山本快投で7勝目",
+      "summary": "大リーグでドジャースの大谷翔平選手が14号ホームランを放ち、山本由伸投手が好投して今シーズン7勝目を挙げた試合が伝えられた。ホワイトソックス戦の映像や山本投手の投球、試合後の様子が紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1618.5,
+      "end_sec": 1692.4,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "陸上日本選手権、後藤大樹17歳が男子400mハードル初優勝",
+      "summary": "名古屋で行われた陸上日本選手権の男子400mハードルで、17歳の後藤大樹選手が初優勝し、高校記録などをさらに更新したことが伝えられた。レース映像と本人のインタビューが紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1692.4,
+      "end_sec": 1805.7,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報、沖縄の発達した雨雲と関東の雨・梅雨前線",
+      "summary": "気象コーナーでは、沖縄に発達した雨雲があること、関東では雨でひんやりすること、梅雨前線が次第に本州付近へ進むことを伝えた。全国各地のあすの天気や週間天気も示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne004",
+      "start_sec": 0.0,
+      "end_sec": 5.32,
+      "non_editorial_kind": "program_promo",
+      "summary": "「スポーツ ヒューマン」の番組告知とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 5.32,
+      "end_sec": 11.41,
+      "non_editorial_kind": "program_promo",
+      "summary": "program promotion interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 11.41,
+      "end_sec": 16.5,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 960.75,
+      "end_sec": 978.75,
+      "non_editorial_kind": "program_promo",
+      "summary": "program promotion interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1811.34,
+      "end_sec": 1819.866412,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

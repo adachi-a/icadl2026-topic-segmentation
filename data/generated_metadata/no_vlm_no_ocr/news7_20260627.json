@@ -1,0 +1,133 @@
+{
+  "program_id": "news7_20260627",
+  "source_ts_path": "media-not-distributed/news7_20260627.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 19.85,
+      "end_sec": 761.79,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather"
+      ],
+      "title": "台風7号・8号接近と大雨被害",
+      "summary": "台風7号と8号、停滞する梅雨前線の影響で列島各地で大雨となり、千葉県や静岡県などで道路冠水、護岸崩壊、土砂災害の危険が伝えられた。山口県平生町では土砂が住宅に流れ込み死者が確認され、愛媛県西条市ではSUP中の男性3人が流され、福岡県田川市では土地の陥没も起きた。気象庁は土砂災害や川の増水、氾濫などへの警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 761.79,
+      "end_sec": 1103.07,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "山梨県で震度6弱、相次ぐ地震と備え",
+      "summary": "山梨県の富士五湖を震源とする地震で最大震度6弱を観測し、甲府市のビル外壁の崩落、静岡県小山町の断水、富士吉田市の神社の灯籠被害などが伝えられた。富士山の火山活動や観測データに特段の変化はないとされ、専門家は最近の各地の地震について直接の関連はないとしつつ、家具固定や備蓄など日頃の備えを呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1103.07,
+      "end_sec": 1173.77,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯、日本代表決勝トーナメント進出とフランス全勝",
+      "summary": "サッカーの大会で、日本代表が3大会連続の決勝トーナメント進出を決め、次の相手がブラジルであると伝えられた。一次リーグではフランス対ノルウェーの試合も紹介され、デンベレの活躍でフランスが一次リーグ全勝とした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1173.77,
+      "end_sec": 1236.3,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "カボベルデが初出場で決勝トーナメント進出",
+      "summary": "カボベルデはスペインやウルグアイと引き分けて注目され、40歳のゴールキーパー、ボジーニャを中心に安定した守備を見せ、初出場ながら決勝トーナメント進出を決めた。イランは試合終了間際に勝ち越したかに見えたが、オフサイドでゴールは取り消され、決勝トーナメント進出はほかのグループの結果次第となった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1236.3,
+      "end_sec": 1457.19,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "日本代表、ブラジル戦へ調整開始",
+      "summary": "グループ2位で決勝トーナメント進出を決めた日本代表は、ブラジル戦に向けてキャンプ地で調整を始めた。スウェーデン戦に出場しなかったメンバーが全体練習に参加し、久保建英選手は別メニューで体を動かした。ブラジルの練習やビニシウス・ジュニオール選手、ネイマール選手も紹介され、ブラジル戦のキックオフ予定とNHK BSでの中継も伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1457.19,
+      "end_sec": 1576.47,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [],
+      "title": "ベネズエラでM7超の地震、救助活動続く",
+      "summary": "南米ベネズエラでマグニチュード7を超える地震が2度発生し、これまでに920人の死亡が確認された。倒壊した建物に取り残された人たちの救助が続く一方、首都カラカスの住民は重機が足りず十分に助けられないと訴え、連絡が取れないとの情報が寄せられた人は5万3000人余りに上ると伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1576.47,
+      "end_sec": 1690.06,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米軍がイラン関連施設を攻撃、イランも反発",
+      "summary": "アメリカ中央軍は、イランのミサイルや無人機の保管施設などを航空機で攻撃したと発表した。ホルムズ海峡を出ようとした貨物船がイランの攻撃を受けたことへの対応だとしている。イラン側は自衛権があると強調し、アメリカ軍に関連する標的を攻撃したと主張したが、具体的な内容は明らかにしていない。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1690.06,
+      "end_sec": 1799.74,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報、台風後の雨と暑さへの注意",
+      "summary": "気象情報では、台風8号や7号の影響で東海から関東沿岸、伊豆諸島を中心に大雨となったことを振り返り、千葉県を中心に土砂災害の危険度が高い状態が続くとして雨がやんだ後も警戒を呼びかけた。翌日の天気は関東から近畿を中心に朝は雨、日中も関東周辺で雨が続き、最高気温は多くの所で25度以上、鹿児島や山形などで30度近くまで上がる見込みと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 1801.6,
+      "end_sec": 1820.16,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組終盤の締めとみられる短い現地紹介。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

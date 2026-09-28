@@ -1,0 +1,141 @@
+{
+  "schema_version": "news_topic_segmentation_release_v1",
+  "program_id": "wbs_20260616",
+  "condition": "no_vlm",
+  "duration_sec": 3500.11,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 35.0,
+      "end_sec": 324.0
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 324.0,
+      "end_sec": 1003.0
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1003.0,
+      "end_sec": 1321.0
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1321.0,
+      "end_sec": 1331.66
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1331.66,
+      "end_sec": 1613.77
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1627.0,
+      "end_sec": 1680.0
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1680.0,
+      "end_sec": 1717.0
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1717.0,
+      "end_sec": 1740.0
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1740.0,
+      "end_sec": 1800.0
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1800.0,
+      "end_sec": 1860.0
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2014.0,
+      "end_sec": 2280.0
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2382.0,
+      "end_sec": 2580.0
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2703.7,
+      "end_sec": 2760.0
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2760.0,
+      "end_sec": 2769.0
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2769.0,
+      "end_sec": 2820.0
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 2924.72,
+      "end_sec": 3000.0
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3242.44,
+      "end_sec": 3300.0
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3300.0,
+      "end_sec": 3332.96
+    },
+    {
+      "topic_id": "t019",
+      "start_sec": 3332.96,
+      "end_sec": 3360.0
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 1860.0,
+      "end_sec": 2014.0,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 2280.0,
+      "end_sec": 2382.0,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 2580.0,
+      "end_sec": 2703.7,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2820.0,
+      "end_sec": 2924.72,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 3060.0,
+      "end_sec": 3242.44,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3420.0,
+      "end_sec": 3500.109978,
+      "non_editorial_kind": "commercial"
+    }
+  ]
+}

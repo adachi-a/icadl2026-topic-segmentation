@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260507",
+  "duration_sec": 3404.868133,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 27.054733,
+      "end_sec": 608.604733,
+      "domain": "economy_business_finance",
+      "label": "日経平均株価が全面高",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 629.1747330000001,
+      "end_sec": 909.5347330000001,
+      "domain": "economy_business_finance",
+      "label": "為替介入",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 909.5347330000001,
+      "end_sec": 1264.194733,
+      "domain": "economy_business_finance",
+      "label": "外資系ホテルの動向",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1264.194733,
+      "end_sec": 1336.594733,
+      "domain": "health",
+      "label": "ハンタウイルス",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1336.594733,
+      "end_sec": 1382.184733,
+      "domain": "politics",
+      "label": "再審制度の見直し",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1382.184733,
+      "end_sec": 1417.754733,
+      "domain": "economy_business_finance",
+      "label": "日銀の金融政策決定会合の議事要旨が公開",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1417.754733,
+      "end_sec": 1462.454733,
+      "domain": "politics",
+      "label": "国力研究会発足へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1462.454733,
+      "end_sec": 1497.554733,
+      "domain": "economy_business_finance",
+      "label": "レクサス新型EV世界初公開",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1639.3947329999999,
+      "end_sec": 1965.3847329999999,
+      "domain": "politics",
+      "label": "駐中国大使が探る日中関係",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2092.804733,
+      "end_sec": 2445.124733,
+      "domain": "economy_business_finance",
+      "label": "畳める電動モビリティ",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2571.5447329999997,
+      "end_sec": 2710.994733,
+      "domain": "economy_business_finance",
+      "label": "三菱UFJとグーグルが提携",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2710.994733,
+      "end_sec": 2754.164733,
+      "domain": "economy_business_finance",
+      "label": "マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2880.564733,
+      "end_sec": 2919.214733,
+      "domain": "economy_business_finance",
+      "label": "トランプ関税の返還開始",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2919.214733,
+      "end_sec": 2945.424733,
+      "domain": "politics",
+      "label": "イギリス統一地方選　与党苦戦か",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2945.424733,
+      "end_sec": 3025.2747329999997,
+      "domain": "human_interest",
+      "label": "CNN創設者死去",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3265.5047329999998,
+      "end_sec": 3297.594733,
+      "domain": "economy_business_finance",
+      "label": "住友商事と丸紅、バークシャーによる保有比率10%超え",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3297.594733,
+      "end_sec": 3365.644733,
+      "domain": "economy_business_finance",
+      "label": "8日の注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

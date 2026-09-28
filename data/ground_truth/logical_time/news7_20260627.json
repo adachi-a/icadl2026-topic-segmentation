@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260627",
+  "duration_sec": 1797.860411,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 9.020122,
+      "end_sec": 750.760122,
+      "domain": "disaster_accident_emergency",
+      "label": "台風で列島各地で大雨",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 750.760122,
+      "end_sec": 1092.130122,
+      "domain": "disaster_accident_emergency",
+      "label": "山梨で震度6弱、青森で震度6強",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1092.130122,
+      "end_sec": 1449.120122,
+      "domain": "sport",
+      "label": "サッカーW杯",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1449.120122,
+      "end_sec": 1571.6901220000002,
+      "domain": "disaster_accident_emergency",
+      "label": "ベネズエラで大地震",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1571.6901220000002,
+      "end_sec": 1679.150122,
+      "domain": "conflict_war_peace",
+      "label": "イラン情勢",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1679.150122,
+      "end_sec": 1790.560122,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

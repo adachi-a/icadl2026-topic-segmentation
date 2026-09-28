@@ -1,0 +1,222 @@
+{
+  "program_id": "news7_20260507",
+  "source_ts_path": "media-not-distributed/news7_20260507.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 20.96,
+      "end_sec": 415.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society",
+        "education"
+      ],
+      "title": "新潟のマイクロバス事故で高校生死亡、運転手の逮捕状請求",
+      "summary": "新潟のマイクロバス事故で高校生1人が死亡し20人が重軽傷を負った件について、亡くなった生徒の人物像、事故状況、運転手が「カーブを曲がりきれず」と説明していること、過失運転致死傷の疑いで逮捕状が請求されたこと、車両がレンタカーだったことや運行会社への調査、北越高校での保護者会などを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 415.0,
+      "end_sec": 515.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "京都・南丹の男児遺体遺棄事件、容疑者が殺害趣旨の供述",
+      "summary": "京都・南丹の男児遺体遺棄事件で、再逮捕された安達優季容疑者が、息子から「本当の父親じゃない」と言われ腹が立って殺した趣旨の供述をしていると伝えた。小学校で降ろさず現場トイレに立ち寄った可能性や、容疑を認めていることも示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 515.0,
+      "end_sec": 748.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "トランプ氏、イラン情勢めぐり「合意の可能性 非常に高い」",
+      "summary": "トランプ大統領がイラン情勢をめぐり合意の可能性が非常に高いと述べたこと、米報道で覚書による合意が近づいているとされることを伝えた。覚書案には地域での戦闘終結宣言、ホルムズ海峡の開放、イランの核開発制限、米国による制裁解除などが含まれると説明された。イラン側は仲介者に回答を提出する見通しとされる一方、受け入れがたい条項もあるとしてけん制していることも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 748.0,
+      "end_sec": 890.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "日経平均株価、初の6万3,000円台に",
+      "summary": "日経平均株価が初めて6万3,000円台に上昇したことを伝えた。背景として、日本の連休中にアメリカで半導体株が急伸したことや、イラン情勢の緊張緩和への期待がある一方、約2割の銘柄は値下がりしたことも示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 890.0,
+      "end_sec": 986.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "disaster_accident_emergency"
+      ],
+      "title": "イスラエルがレバノン首都を攻撃、ヒズボラ司令官標的か",
+      "summary": "イスラエルがレバノンの首都ベイルートを攻撃したと伝えた。イラン支援組織の司令官を標的にしたとされ、レバノン南部やイスラエル、イランとの関係を示す地図と、被害を受けた建物の映像が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 986.0,
+      "end_sec": 1164.0,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "クルーズ船でハンタウイルス集団感染疑い、重症者など3人移送",
+      "summary": "クルーズ船でハンタウイルスの集団感染が疑われ、重い症状が出た人など3人が治療のためオランダへ移送されたと伝えた。船内の乗客・乗員は約150人で、感染確認・疑いは8人、うち3人死亡と表示された。感染源について、乗船前にアルゼンチンのウスアイアでバードウォッチング中に感染した可能性などを調査しているとした。船はスペイン領カナリア諸島に向かうとも伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1164.0,
+      "end_sec": 1362.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "再審制度見直し、検察の不服申し立て原則禁止案で調整",
+      "summary": "再審制度の見直しをめぐり、検察による不服申し立てを原則禁止する政府案について、自民党内から意見が相次いだと伝えた。禁止を本則に書くべきだという意見や、検察側の一存による抗告が温存されるように読めるという指摘があり、本則か付則のどちらに記載するか政府と党の間で調整するとされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1362.0,
+      "end_sec": 1534.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics",
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "熊本・八代の被災庁舎建て替えめぐり市議ら3人逮捕",
+      "summary": "熊本地震で被災した八代市の庁舎建て替えをめぐり、あっせん収賄の疑いで八代市議ら3人が逮捕されたと伝えた。新庁舎建設工事の入札で便宜を図るよう働きかけた疑いがあり、評価基準案は建設会社の担当者が作成し、成松議員が市幹部に渡して採用を求めた疑いがあると表示された。建て替え経緯に市民から疑問が出ていたこと、契約後も工事費が増額し総事業費が約171億円になったことも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1534.0,
+      "end_sec": 1569.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "science_technology"
+      ],
+      "title": "NPT再検討会議、最終文書草案で核兵器管理に言及",
+      "summary": "NPT、核拡散防止条約の再検討会議について、核軍縮の方向性を示す「最終文書」の草案が伝えられた。草案には「核兵器に対する人間の管理」を常に維持するという文言が表示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1569.0,
+      "end_sec": 1674.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大リーグ、大谷翔平が26打席ぶりヒット、鈴木誠也は日米通算1500安打",
+      "summary": "大リーグの話題として、大谷翔平選手が26打席ぶりのヒットを放ったこと、鈴木誠也選手が日米通算1500安打を達成したことを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1674.0,
+      "end_sec": 1803.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "天気予報、東・北日本で雷雨や北日本中心の荒天に注意",
+      "summary": "天気予報で、きょうの最高気温を示し、東北でことし初の真夏日となったことを伝えた。あすは東日本・北日本で雷雨のおそれがあり、あさっては北日本中心に荒天となる見込みで、北日本では寒さにも注意が必要とした。各地の予報や気温も表示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne_pre000",
+      "start_sec": 0.0,
+      "end_sec": 10.82,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "番組開始前の前番組または前枠の天気予報画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 10.82,
+      "end_sec": 20.96,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7のオープニングロゴ。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1803.0,
+      "end_sec": 1810.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組終盤のニュース項目一覧・締め画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1810.0,
+      "end_sec": 1820.864277,
+      "non_editorial_kind": "program_promo",
+      "summary": "後続番組「日本 最強の城 スペシャル」の番組宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

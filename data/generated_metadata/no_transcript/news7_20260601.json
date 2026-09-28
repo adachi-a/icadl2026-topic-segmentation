@@ -1,0 +1,198 @@
+{
+  "program_id": "news7_20260601",
+  "source_ts_path": "media-not-distributed/news7_20260601.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 15.75,
+      "end_sec": 744.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather",
+        "society"
+      ],
+      "title": "台風6号が沖縄本島に最接近、けが人・停電・大雨に警戒",
+      "summary": "台風6号が沖縄本島に最接近し、沖縄や奄美で非常に強い風、倒木、停電、交通への影響が出ていることを伝えた。奄美・九州南部では線状降水帯発生のおそれがあり、離れた地域も大雨に警戒が必要として、新しい防災気象情報や警戒レベルの見方も解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 744.0,
+      "end_sec": 820.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "埼玉・川口でケアマネージャー刺したとの通報、男女2人死亡",
+      "summary": "埼玉県川口市で、男の声で「ケアマネージャーの女性を包丁で刺した」「これから自分も刺す」と110番通報があり、通報者とみられる住人の男と訪問したケアマネージャーの女性が死亡した。警察は殺人事件として捜査している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 820.0,
+      "end_sec": 1010.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society",
+        "politics"
+      ],
+      "title": "中東情勢の影響、株価や白黒パッケージ・保冷剤・ごみ袋に波及",
+      "summary": "中東情勢の影響として、日経平均株価の動き、店舗に並ぶ白黒パッケージ、包装用インクや石油由来資材の調達不安定、保冷剤や指定ごみ袋への影響を伝えた。石油製品の安定供給をめぐり、高市首相が全国知事会の会長らと面会したことも触れた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1010.0,
+      "end_sec": 1135.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米・イラン協議の覚書、トランプ氏が核兵器保有せずとの明記を要求か",
+      "summary": "米国とイランをめぐる協議で、覚書に「核兵器を保有せず」と明記するようトランプ氏が修正を要求した可能性を伝えた。60日間の停戦延長や核問題に関する協議、レバノンやヒズボラをめぐる動きも取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1135.0,
+      "end_sec": 1370.0,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "education"
+      ],
+      "title": "学生優位の売り手市場で変わる企業の採用活動",
+      "summary": "政府ルールでは採用面接が解禁される時期を迎える中、学生優位の売り手市場を背景に、企業の採用活動が変化していると伝えた。AI面接官の導入、内定辞退者への再接触を想定した制度、採用活動の前倒しや内々定取得率などを紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1370.0,
+      "end_sec": 1585.0,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "辺野古沖転覆事故めぐる教育基本法違反判断、学校現場で波紋",
+      "summary": "辺野古沖の転覆事故をめぐり、高校の教育内容が政治的中立性を定めた教育基本法に違反すると判断されたことについて、学校現場への影響を伝えた。修学旅行や平和学習で政治的賛否のある現場を避ける動き、教員や専門家の見解を紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1585.0,
+      "end_sec": 1614.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "補正予算案、5日に緊急上程で合意",
+      "summary": "今年度の補正予算案をめぐり、関係者が会談し、5日に緊急上程することで合意したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1614.0,
+      "end_sec": 1668.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "名古屋の死亡ひき逃げ、時速30キロ以下で2人をはねたか",
+      "summary": "名古屋市の交通事件で、運転手の勤務先のスイミングスクールと自宅が過失運転致死・ひき逃げの疑いで捜索された。ドライブレコーダーの映像から、時速30キロ以下で2人をはねた可能性があると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1668.0,
+      "end_sec": 1686.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "速報 高市首相がイラン大統領と電話会談",
+      "summary": "速報として、高市首相がイラン大統領と電話会談したことを伝えた。米・イランの協議などについて意見交換した可能性が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1686.0,
+      "end_sec": 1807.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "台風6号と全国の雨・あすの天気",
+      "summary": "スタジオで台風6号の位置、勢力、進路予想、広範囲への影響を示し、雨の強まる地域や48時間最大降水量、あすの全国の天気を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 9.55,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース7開始前の別番組由来とみられる天気画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 9.55,
+      "end_sec": 15.75,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1807.0,
+      "end_sec": 1819.74,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組末尾後の次番組・別企画紹介とみられる画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

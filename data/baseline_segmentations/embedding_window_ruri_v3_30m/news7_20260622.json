@@ -1,0 +1,115 @@
+{
+  "schema_version": "news_topic_baseline_v1",
+  "program_id": "news7_20260622",
+  "method": "embedding_window",
+  "duration_sec": 1820.510977,
+  "parameters": {
+    "model": "cl-nagoya/ruri-v3-30m",
+    "unit_sec": 15.0,
+    "window_units": 3,
+    "smoothing_radius": 1,
+    "threshold_std": 0.5,
+    "min_gap_sec": 30.0
+  },
+  "boundaries_sec": [
+    195.0,
+    540.0,
+    600.0,
+    735.0,
+    885.0,
+    1080.0,
+    1245.0,
+    1305.0,
+    1365.0,
+    1665.0
+  ],
+  "topics": [
+    {
+      "topic_id": "embedding_window_0001",
+      "start_sec": 0.0,
+      "end_sec": 195.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0002",
+      "start_sec": 195.0,
+      "end_sec": 540.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0003",
+      "start_sec": 540.0,
+      "end_sec": 600.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0004",
+      "start_sec": 600.0,
+      "end_sec": 735.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0005",
+      "start_sec": 735.0,
+      "end_sec": 885.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0006",
+      "start_sec": 885.0,
+      "end_sec": 1080.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0007",
+      "start_sec": 1080.0,
+      "end_sec": 1245.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0008",
+      "start_sec": 1245.0,
+      "end_sec": 1305.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0009",
+      "start_sec": 1305.0,
+      "end_sec": 1365.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0010",
+      "start_sec": 1365.0,
+      "end_sec": 1665.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0011",
+      "start_sec": 1665.0,
+      "end_sec": 1820.510977,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 470,
+    "n_units": 122,
+    "uses_ground_truth": false,
+    "n_candidate_gaps": 117,
+    "threshold": 0.08655488,
+    "dissimilarity_mean": 0.07657291,
+    "dissimilarity_standard_deviation": 0.01996395,
+    "n_boundaries": 10
+  }
+}

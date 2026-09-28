@@ -1,0 +1,333 @@
+{
+  "program_id": "wbs_20260507",
+  "source_ts_path": "media-not-distributed/wbs_20260507.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 37.0,
+      "end_sec": 638.3,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "politics"
+      ],
+      "title": "日経平均株価が史上最高値を更新、AI・半導体関連がけん引",
+      "summary": "日経平均株価が史上初めて一時6万3000円を突破し、6万2833円で取引を終えて史上最高値を更新した。AI・半導体関連銘柄への買いが集中し、上昇に大きく寄与した。株高の背景として、米ハイテク企業決算の好調やイラン情勢への警戒感後退、中東情勢と米中・米イラン交渉の行方も解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 638.3,
+      "end_sec": 921.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "政府・日銀の為替介入観測と米財務長官訪日への注目",
+      "summary": "政府・日銀が為替介入を行ったとみられる中、連休中にもドル円相場が急激に円高方向へ動いた。財務省の三村財務官は介入の有無を明言せず、市場をけん制した。日銀当座預金残高の分析から断続的な介入の可能性や規模が4兆円台との見方が示され、アメリカのベッセント財務長官の訪日が今後の為替市場の鍵になると解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 921.0,
+      "end_sec": 1275.67,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "外資系ホテルチェーンのリブランド戦略、日本市場で攻勢",
+      "summary": "インバウンド増加や国内観光・出張需要を背景に、外資系ホテルチェーンが日本の既存ホテルを改装し、自社ブランドとして再オープンするリブランド戦略を進めている。大阪ではマリオットの日本初上陸ブランドが開業し、横浜ではヒルトンが既存ホテルをリブランドした。設備や人材を活用してコストや開業期間を抑え、地域活性化も期待されている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1275.67,
+      "end_sec": 1347.0,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "クルーズ船でアンデス型ハンタウイルス集団感染の疑い",
+      "summary": "WBSQuickで、大西洋を航行中のクルーズ船でハンタウイルス集団感染の疑いが伝えられた。WHOは乗船者の感染者からアンデス型ハンタウイルスを確認したと明らかにし、感染が疑われる3人が搬送され、そのうち2人は重症で治療のためオランダに向かった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1347.0,
+      "end_sec": 1380.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "再審制度見直し案、検察の抗告禁止めぐり自民が了承見送り",
+      "summary": "再審制度を見直す刑事訴訟法改正案をめぐり、法務省が検察の抗告を原則禁止とする再修正案を自民党に示したが、自民党は了承を見送った。自民党は抗告禁止を本則に盛り込むよう求め、協議を継続する考えが示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1380.0,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "日銀3月会合議事要旨、利上げ検討や物価上振れ対応の意見",
+      "summary": "日銀は3月の金融政策決定会合の議事要旨を公表した。政策委員から今後の利上げについて間を長く空けずに検討するとの意見が出ていたほか、中東情勢悪化による原油価格上昇で物価の上振れを重視した対応が必要との意見も出ていた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1440.0,
+      "end_sec": 1485.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "自民有志が高市政権政策推進の議連「国力研究会」発足へ",
+      "summary": "自民党の麻生副総裁や小泉防衛大臣ら有志議員が、高市政権の政策を推進する議員連盟「国力研究会」を新たに発足させることが分かった。茂木外務大臣や小林政調会長も参加し、派閥横断で党内結束を確認する狙いがあるとみられる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1485.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "トヨタ、レクサス新型EV「TZ」を世界初公開",
+      "summary": "トヨタ自動車は高級車ブランド、レクサスの新型EV「TZ」を世界初公開した。レクサスのEVとして初めて3列シートを採用し、ファミリー層の需要を掘り起こす狙い。航続距離は620キロで、日本では今年の冬頃に発売予定と伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1680.0,
+      "end_sec": 1980.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "economy_business_finance"
+      ],
+      "title": "高市総理の台湾有事発言から半年、日中関係修復を駐中国大使に聞く",
+      "summary": "高市総理の台湾有事をめぐる発言から半年となる中、中国外務省は日中関係悪化の原因として発言の撤回を要求した。金杉憲治駐中国大使への単独インタビューでは、日中間で意味のある対話が行われていない現状や、国際社会での日本の存在感、APEC首脳会議への期待と楽観視できない見方が語られた。スタジオでは米中接近時の日本の存在価値や日中首脳会談の実現可能性も解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2100.0,
+      "end_sec": 2460.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "lifestyle_leisure"
+      ],
+      "title": "トレたまneo、折り畳める電動モビリティ「タタモ」",
+      "summary": "トレたまneoで、スタートアップICOMAが開発する折り畳める電動モビリティ「タタモ」を紹介した。重さは約23キロでスーツケースのように運ぶことができ、16歳以上なら免許なしで乗れる特定小型原動機付自転車。コインロッカーに収まるサイズや表情を表示する機能、ワイヤレス充電の検討、20万円前後の販売価格想定と来年発売予定が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2582.61,
+      "end_sec": 2721.52,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "三菱UFJフィナンシャル・グループ、グーグルと個人向け金融で提携",
+      "summary": "三菱UFJフィナンシャル・グループは、アメリカのグーグルと個人向けサービスで提携すると発表した。AIエージェントを活用し、商品の購入先や決済方法の提案、住宅ローンの組み方や資金積み立て計画などの機能導入を計画する。AIやデジタル技術で利便性を高め、個人顧客の囲い込みを図る。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2722.0,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "マーケット確認、為替・原油・米国株の動き",
+      "summary": "マーケット確認で、ドル円が1ドル156円30銭台、ニューヨーク原油先物が1バレル91ドルほどで取引されていると伝えた。ニューヨーク株式市場ではダウが下落する一方、ナスダックが上昇し、取引時間中の最高値を更新していると伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2897.0,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "違法とされたトランプ関税、事業者への返還始まる",
+      "summary": "ワールドクイックで、アメリカの連邦最高裁判所が違法としたトランプ政権の相互関税などについて、徴収した関税の事業者への返還が始まったとブルームバーグ通信が報じた。弁護士は事業者口座に利息付きで入金があったと明らかにし、今後多くの企業への返金が続く予定とされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2940.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "イギリス統一地方選、リフォームUKに勢いで労働党苦戦予想",
+      "summary": "イギリスの統一地方選で、右派ポピュリスト政党リフォームUKに勢いがあり、与党労働党は苦戦が予想されていると伝えた。スターマー首相は物価高対策で結果を出せず求心力が低下しており、選挙後に辞任圧力が強まる可能性があるとされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3000.0,
+      "end_sec": 3060.0,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "CNN創設者テッド・ターナー氏死去とCNNの現在",
+      "summary": "アメリカCNNテレビの創設者テッド・ターナー氏が6日に87歳で死去したと伝えた。1980年に世界初の24時間ニュース専門局としてCNNを開局したことや、1991年の湾岸戦争での生中継がCNNの名声確立に大きかったことが解説された。さらにCNNをめぐる買収の動きや報道姿勢への影響も語られた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3240.0,
+      "end_sec": 3308.64,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "バークシャー、住友商事と丸紅の持ち株比率も10％超に",
+      "summary": "住友商事と丸紅は、アメリカの投資会社バークシャー・ハサウェイによる持ち株比率がともに10％を超えたと発表した。バークシャーは日本の大手商社5社の株式を段階的に買い増しており、三菱商事、三井物産、伊藤忠商事に続いて全社で保有比率が10％を超えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3308.64,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "labour"
+      ],
+      "title": "トヨタ決算と米雇用統計、相場への影響を展望",
+      "summary": "翌8日に発表されるトヨタ自動車の決算について、中東への輸出停止やプラスチック製品・アルミ部材の値上がりによる収益への影響が懸念されると解説された。また、アメリカの4月雇用統計も取り上げ、労働市場が引き締まったままだとFRBが利下げに動きにくく、市場の反応が注目されるとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 37.0,
+      "non_editorial_kind": "ambiguous",
+      "summary": "冒頭の広告音声と番組開始挨拶・字幕注意を含む導入部。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1500.0,
+      "end_sec": 1680.0,
+      "non_editorial_kind": "commercial",
+      "summary": "提供表示とシノケングループ、カメラ専門店、ビズリーチなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1980.0,
+      "end_sec": 2100.0,
+      "non_editorial_kind": "commercial",
+      "summary": "医療・介護、三井不動産、コスモマイカーリースなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2460.0,
+      "end_sec": 2582.61,
+      "non_editorial_kind": "commercial",
+      "summary": "スターツ、インディードプラス、AGC、トヨタイムズ関連の広告・宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 2760.0,
+      "end_sec": 2897.0,
+      "non_editorial_kind": "commercial",
+      "summary": "鹿島、オービック、日清製粉グループ、FPGなどのCMと次コーナー導入直前の区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3060.0,
+      "end_sec": 3240.0,
+      "non_editorial_kind": "commercial",
+      "summary": "レンジローバー、日経AI、大和証券グループ、伊藤園、スポンサー表示、買取広告、テレ東BIZ、ダイハツなどのCM・宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 3360.0,
+      "end_sec": 3499.58,
+      "non_editorial_kind": "ambiguous",
+      "summary": "番組終盤の挨拶後、ガイアの夜明け番組宣伝と買取広告、出前館CMなど。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

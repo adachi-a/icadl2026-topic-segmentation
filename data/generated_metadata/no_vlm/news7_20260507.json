@@ -1,0 +1,161 @@
+{
+  "program_id": "news7_20260507",
+  "source_ts_path": "media-not-distributed/news7_20260507.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 11.64,
+      "end_sec": 396.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "磐越道マイクロバス事故で高校生死亡、運転手の逮捕状請求",
+      "summary": "福島県の磐越自動車道で起きたマイクロバス事故で、新潟県の北越高校の男子ソフトテニス部の生徒1人が死亡し、20人が重軽傷を負った。警察が68歳の運転手について過失運転致死傷の疑いで逮捕状を請求したことや、白ナンバーのレンタカー利用の経緯、国土交通省の立ち入り調査、学校での保護者説明会について伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 396.0,
+      "end_sec": 497.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "京都・南丹市の小学生殺害事件、父親の供述判明",
+      "summary": "京都府南丹市で小学生の安達結希さんが殺害された事件で、殺人の疑いで再逮捕された37歳の父親が、逮捕前の任意の調べに「本当の父親じゃないと言われ、腹が立ち殺した」という趣旨の供述をしていたことが分かった。警察は親子関係や事件に至った詳しいいきさつを調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 497.0,
+      "end_sec": 963.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "politics"
+      ],
+      "title": "日経平均が一時6万3000円超、イラン情勢緊張緩和への期待",
+      "summary": "連休明けの東京株式市場で日経平均株価が記録的に上昇し、一時初めて6万3000円を超えた。背景として、アメリカとイランの間で戦闘終結宣言やホルムズ海峡の開放、核開発制限、制裁解除に向けた交渉を含む覚書案が報じられたことを伝えた。一方で、イスラエルとヒズボラを巡る攻撃や原油価格など、市場の不透明感も説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 963.0,
+      "end_sec": 1144.0,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "クルーズ船でハンタウイルス集団感染疑い、3人死亡",
+      "summary": "ハンタウイルスの集団感染が疑われているクルーズ船で、重い症状が出た人など3人が飛行機で移送された。感染が確認された人と疑いのある人は合わせて8人で、このうち3人が死亡している。アルゼンチン当局は、最初に亡くなったオランダ国籍の夫婦がウスアイアでバードウォッチング中に感染した可能性などを調査している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1144.0,
+      "end_sec": 1351.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "再審制度見直し案、検察の不服申し立てを原則禁止へ",
+      "summary": "再審制度の見直しを巡り、政府は再審開始決定に対する検察の不服申し立てを原則禁止し、十分な理由がある場合に限って可能とする案を自民党の会議に示した。出席者からは刑事訴訟法改正案の付則ではなく本則に明記するよう求める意見が相次ぎ、政府と党の間で調整することになった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1351.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "熊本・八代市新庁舎建て替え工事を巡る汚職事件",
+      "summary": "熊本県八代市の新庁舎建て替え工事を巡り、入札で便宜を図るよう市の幹部に働きかけるなどした見返りに、建設会社側から現金6000万円を受け取ったとして、市議会議員の成松由紀夫容疑者ら3人が逮捕された。入札は前田建設工業などの共同企業体のみが参加し、118億円で落札、落札率は99.9%だったと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1500.0,
+      "end_sec": 1560.23,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "science_technology"
+      ],
+      "title": "NPT再検討会議、最終文書草案で核兵器への人間の管理維持を呼びかけ",
+      "summary": "NPT・核拡散防止条約の再検討会議で、総括となる最終文書の最初の草案が議長から各国に示された。草案は、AIなど新たな技術による指揮系統への干渉といったリスクを減らす措置を取り、核兵器に対する人間の管理を常に維持するよう呼びかけている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1560.23,
+      "end_sec": 1664.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大リーグ、大谷翔平が26打席ぶり安打 鈴木誠也は日米通算1500安打",
+      "summary": "大リーグで、ドジャースの大谷翔平選手が26打席ぶりにヒットを打ち、今月初安打を記録した。カブスの鈴木誠也選手はタイムリーツーベースで日米通算1500安打に到達し、チームは3試合連続のサヨナラ勝ちで8連勝となった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1664.0,
+      "end_sec": 1811.64,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報、広く夏日から一転 あすは曇りや雨、週末は北日本で寒さも",
+      "summary": "全国的に晴れて広く25度以上の夏日となり、岩手県一関では東北でことし初めての真夏日になった。あすは雲が広がり、近畿から北海道を中心に雨や雷の所がある見込みで、沖縄・奄美は梅雨空が戻る。週末は寒気が流れ込み、山では雪の降る所もあり、札幌や秋田では土曜日の最高気温が15度以下となりそうだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1811.64,
+      "end_sec": 1820.86,
+      "editorial": true,
+      "domain": "lifestyle_leisure",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "きょうのクイズ",
+      "summary": "番組終盤で「今日もクイズです」として、出演者が視聴者に向けてクイズを出す導入が放送された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [],
+  "warnings": []
+}

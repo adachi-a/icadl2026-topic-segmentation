@@ -1,0 +1,298 @@
+{
+  "schema_version": "news_topic_episode_eval_v1",
+  "program_id": "wbs_20260622",
+  "broadcaster": "wbs",
+  "duration_sec": 3500.63,
+  "input_warnings": [],
+  "metrics": {
+    "n_ground_truth": 17,
+    "n_prediction": 27,
+    "topic_count_error": 10,
+    "match_rate": 0.7058823529411765,
+    "mean_iou_matched": 0.6784394471908354,
+    "onset_mae_sec": 40.79583333333334,
+    "offset_mae_sec": 27.87166666666664,
+    "boundary_scores": {
+      "5": {
+        "tolerance_sec": 5.0,
+        "true_positive": 4,
+        "false_positive": 24,
+        "false_negative": 19,
+        "precision": 0.14285714285714285,
+        "recall": 0.17391304347826086,
+        "f1": 0.1568627450980392
+      },
+      "30": {
+        "tolerance_sec": 30.0,
+        "true_positive": 15,
+        "false_positive": 13,
+        "false_negative": 8,
+        "precision": 0.5357142857142857,
+        "recall": 0.6521739130434783,
+        "f1": 0.5882352941176471
+      }
+    },
+    "pk": 0.23337222870478413,
+    "window_diff": 0.3305134189031505,
+    "pk_window_sec": 73,
+    "matches": [
+      {
+        "prediction_id": "embedding_window_0001",
+        "ground_truth_id": "t001",
+        "iou": 0.9241111111111112,
+        "onset_error_sec": -35.08,
+        "offset_error_sec": 5.899999999999977
+      },
+      {
+        "prediction_id": "embedding_window_0002",
+        "ground_truth_id": "t002",
+        "iou": 0.9434207919390906,
+        "onset_error_sec": -11.67999999999995,
+        "offset_error_sec": -8.309999999999945
+      },
+      {
+        "prediction_id": "embedding_window_0003",
+        "ground_truth_id": "t003",
+        "iou": 0.625189235601148,
+        "onset_error_sec": -8.309999999999945,
+        "offset_error_sec": -157.56999999999994
+      },
+      {
+        "prediction_id": "embedding_window_0005",
+        "ground_truth_id": "t004",
+        "iou": 0.5255368191192515,
+        "onset_error_sec": 7.430000000000064,
+        "offset_error_sec": 31.680000000000064
+      },
+      {
+        "prediction_id": "embedding_window_0006",
+        "ground_truth_id": "t006",
+        "iou": 0.9718670076726336,
+        "onset_error_sec": -2.2000000000000455,
+        "offset_error_sec": -1.2100000000000364
+      },
+      {
+        "prediction_id": "embedding_window_0007",
+        "ground_truth_id": "t007",
+        "iou": 0.9440890481064469,
+        "onset_error_sec": -1.2100000000000364,
+        "offset_error_sec": -3.160000000000082
+      },
+      {
+        "prediction_id": "embedding_window_0012",
+        "ground_truth_id": "t008",
+        "iou": 0.4347518462286818,
+        "onset_error_sec": 348.4100000000001,
+        "offset_error_sec": 35.059999999999945
+      },
+      {
+        "prediction_id": "embedding_window_0014",
+        "ground_truth_id": "t009",
+        "iou": 0.8464885368438669,
+        "onset_error_sec": -13.25,
+        "offset_error_sec": -14.269999999999982
+      },
+      {
+        "prediction_id": "embedding_window_0017",
+        "ground_truth_id": "t010",
+        "iou": 0.636500000000001,
+        "onset_error_sec": -10.269999999999982,
+        "offset_error_sec": 11.539999999999964
+      },
+      {
+        "prediction_id": "embedding_window_0018",
+        "ground_truth_id": "t011",
+        "iou": 0.3878189696677935,
+        "onset_error_sec": 11.539999999999964,
+        "offset_error_sec": 13.889999999999873
+      },
+      {
+        "prediction_id": "embedding_window_0019",
+        "ground_truth_id": "t013",
+        "iou": 0.4821666666666639,
+        "onset_error_sec": -15.13000000000011,
+        "offset_error_sec": 15.940000000000055
+      },
+      {
+        "prediction_id": "embedding_window_0025",
+        "ground_truth_id": "t016",
+        "iou": 0.4193333333333352,
+        "onset_error_sec": -25.039999999999964,
+        "offset_error_sec": 35.929999999999836
+      }
+    ],
+    "unmatched_prediction_ids": [
+      "embedding_window_0004",
+      "embedding_window_0008",
+      "embedding_window_0009",
+      "embedding_window_0010",
+      "embedding_window_0011",
+      "embedding_window_0013",
+      "embedding_window_0015",
+      "embedding_window_0016",
+      "embedding_window_0020",
+      "embedding_window_0021",
+      "embedding_window_0022",
+      "embedding_window_0023",
+      "embedding_window_0024",
+      "embedding_window_0026",
+      "embedding_window_0027"
+    ],
+    "unmatched_ground_truth_ids": [
+      "t005",
+      "t012",
+      "t014",
+      "t015",
+      "t017"
+    ]
+  },
+  "errors": [
+    {
+      "kind": "over_split",
+      "prediction_ids": [
+        "embedding_window_0003",
+        "embedding_window_0004"
+      ],
+      "ground_truth_ids": [
+        "t003"
+      ],
+      "detail": "multiple prediction spans are mostly contained in one ground-truth topic"
+    },
+    {
+      "kind": "over_split",
+      "prediction_ids": [
+        "embedding_window_0009",
+        "embedding_window_0010",
+        "embedding_window_0011",
+        "embedding_window_0012"
+      ],
+      "ground_truth_ids": [
+        "t008"
+      ],
+      "detail": "multiple prediction spans are mostly contained in one ground-truth topic"
+    },
+    {
+      "kind": "under_split",
+      "prediction_ids": [
+        "embedding_window_0005"
+      ],
+      "ground_truth_ids": [
+        "t004",
+        "t005"
+      ],
+      "detail": "one prediction span mostly covers multiple ground-truth topics"
+    },
+    {
+      "kind": "under_split",
+      "prediction_ids": [
+        "embedding_window_0019"
+      ],
+      "ground_truth_ids": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "detail": "one prediction span mostly covers multiple ground-truth topics"
+    },
+    {
+      "kind": "under_split",
+      "prediction_ids": [
+        "embedding_window_0025"
+      ],
+      "ground_truth_ids": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "detail": "one prediction span mostly covers multiple ground-truth topics"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0008"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0013"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0015"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0016"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0020"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0021"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0022"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0023"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0024"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0026"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    },
+    {
+      "kind": "hallucinated",
+      "prediction_ids": [
+        "embedding_window_0027"
+      ],
+      "ground_truth_ids": [],
+      "detail": "prediction has no matched or partially overlapping ground-truth topic"
+    }
+  ]
+}

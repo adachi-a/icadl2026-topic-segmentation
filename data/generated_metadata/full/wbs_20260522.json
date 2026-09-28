@@ -1,0 +1,775 @@
+{
+  "program_id": "wbs_20260522",
+  "source_ts_path": "media-not-distributed/wbs_20260522.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 31.0,
+      "end_sec": 514.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "4月消費者物価指数と日銀利上げをめぐる政府との攻防",
+      "summary": "4月の全国消費者物価指数は生鮮食品を除く総合で前年比1.4%上昇となり、3か月連続で2%を下回った。ユニクロ感謝祭や食料品値上げを例に物価の実感を伝え、植田日銀総裁と高市総理の会談、6月利上げ観測、補正予算やインフレ制御をめぐる政府・日銀の駆け引きを解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 535.68,
+      "end_sec": 971.43,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "ふるさと納税ポータルサイト手数料の引き下げ要請",
+      "summary": "総務省が、自治体がふるさと納税仲介サイトに支払う高額な手数料の引き下げを事業者に要請した。神奈川県三浦市のマグロ返礼品や寄付金活用、手数料11.8%の負担、2029年度に経費上限が40%未満となる見通しを紹介し、ポータルサイト事業者の支配力や制度のゆがみを解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 973.0,
+      "end_sec": 1020.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "science_technology"
+      ],
+      "title": "日経平均株価が終値で史上最高値を更新",
+      "summary": "日経平均株価は大幅に値上がりして6万3000円台を回復し、終値で史上最高値を更新した。米国市場で戦闘終結協議への期待から主要株価指数が上昇し、東京市場でも半導体やAI関連銘柄が買われたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1020.0,
+      "end_sec": 1380.71,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ウォーシュ氏がFRB新議長に就任へ、利下げ圧力と政策運営を中継解説",
+      "summary": "FRB新議長となるケビン・ウォーシュ氏について、ワシントンから就任宣誓式やトランプ大統領の利下げ圧力との関係を伝えた。元同僚のランダル・クロズナー氏の証言や、AIによる生産性向上がインフレ抑制につながるというウォーシュ氏の考え、インフレ対応と利下げ志向をめぐる見方を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1382.77,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "米国務長官、ホルムズ海峡通航料徴収なら合意不可能と警告",
+      "summary": "WBSクイックで、アメリカのルビオ国務長官が、イランによるホルムズ海峡での通航料徴収は世界への脅威だとし、徴収権を訴え続けるなら戦闘終結に向けた合意は不可能になると警告したことを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1440.0,
+      "end_sec": 1492.06,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "備蓄医療用手袋、2000超の医療機関へ配送開始へ",
+      "summary": "中東情勢の影響を受け、政府が備蓄から放出する医療用手袋について、上野厚労大臣が2000を超える医療機関が配布対象になるとの見通しを示した。政府は5000万枚の備蓄放出を決定し、医療機関への配送は23日から順次始まると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1609.28,
+      "end_sec": 2445.81,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "新型AI「クロード・ミュトス」の金融リスクと企業防衛",
+      "summary": "「The追跡」で、アンソロピックの新型AI「クロード・ミュトス」について、脆弱性検知能力の高さから金融機関や重要インフラへのサイバーリスクが懸念されると特集した。金融担当大臣の発言、アンソロピック日本法人幹部への初テレビ取材、金融機関やシステム会社の対策、日立との提携、日本企業の防衛策としてAIへの防衛権限譲渡、ゼロトラスト、CISOの社長直轄化を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne010",
+        "ne011",
+        "ne012",
+        "ne013",
+        "ne014",
+        "ne015"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 2445.81,
+      "end_sec": 2787.47,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "イタリア高級ビルトイン家電が日本市場開拓へ",
+      "summary": "イタリアの高級家電メーカーがビルトイン家電のショールームを東京・港区にオープンし、日本市場の本格開拓に動き出した。壁やキッチンに組み込むオーブンや冷蔵庫、ワインクーラーを紹介し、富裕層需要や日本メーカーのラインナップ不足が本格販売の背景にあると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne016",
+        "ne017",
+        "ne018",
+        "ne019",
+        "ne020"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2904.25,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ロシアとベラルーシが核兵器運用の合同演習",
+      "summary": "ワールドクイックで、ロシアがベラルーシと核兵器の運用に関する大規模合同演習を実施したと伝えた。ICBMなどの発射訓練やベラルーシへの核弾頭搬入により、ウクライナ支援を続ける米欧をけん制した形だと説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2940.0,
+      "end_sec": 2960.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "グリーンランドでトランプ氏の領有主張に反対デモ",
+      "summary": "デンマーク自治領グリーンランドで、トランプ大統領が主張するグリーンランド領有に反対するデモが行われた。ヌーク中心部に移転したアメリカの新領事館周辺に数百人が集まったと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2960.0,
+      "end_sec": 2985.3,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "エッフェル塔のらせん階段が約8300万円で落札",
+      "summary": "フランス・パリのエッフェル塔にあったらせん階段の一部がオークションにかけられ、45万ユーロ、およそ8300万円で落札された。階段は1889年製で高さ約2.5メートル、予想価格の3倍の値がついたという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2985.3,
+      "end_sec": 3026.83,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "為替・商品・米国株の最新マーケット情報",
+      "summary": "為替、金利、商品、米国株式市場の最新情報を伝えた。ドル円は159円13銭から16銭、ニューヨーク原油先物は97ドル台、ダウは約305ドル上昇、NASDAQも約120ポイント上昇していると説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 3258.81,
+      "end_sec": 3300.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "楽天とファミリーマートがポイントサービス連携を拡大",
+      "summary": "楽天グループとファミリーマートは、買い物時のポイントサービス連携を7月1日に拡大すると発表した。ファミリーマートで楽天ポイントカードを提示し月間3000円以上買い物をすると、楽天市場での還元率が0.5%上乗せされる。楽天グループ外企業がこのポイントアップサービスの対象になるのは初めて。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3300.0,
+      "end_sec": 3330.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "サントリーHD新浪元会長らを不起訴処分",
+      "summary": "大麻由来成分を含む違法サプリメントを輸入したとして麻薬取締法違反の疑いで書類送検されていたサントリーホールディングスの新浪剛史元会長と知人女性について、福岡地検が不起訴処分にしたと伝えた。不起訴理由は、関係証拠を慎重に検討した結果だと説明された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3330.0,
+      "end_sec": 3405.07,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "来週の注目ニュース、経団連の春闘回答状況発表",
+      "summary": "来週の注目ニュースとして、経団連が賃上げをめぐる大企業の春闘回答状況の集計結果を発表する予定を取り上げた。物価と消費、賃金上昇、「良い物価高」が分かるかという観点でスタジオ出演者が意見を述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 3.86,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 7.79,
+      "end_sec": 12.32,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 22.62,
+      "end_sec": 28.63,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1492.06,
+      "end_sec": 1510.53,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 1516.16,
+      "end_sec": 1520.62,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 1544.05,
+      "end_sec": 1569.97,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 1569.97,
+      "end_sec": 1574.6,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 1574.6,
+      "end_sec": 1579.39,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne008",
+      "start_sec": 1597.99,
+      "end_sec": 1603.88,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne009",
+      "start_sec": 1603.88,
+      "end_sec": 1609.28,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne010",
+      "start_sec": 1832.41,
+      "end_sec": 1836.83,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne011",
+      "start_sec": 1852.92,
+      "end_sec": 1858.67,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne012",
+      "start_sec": 1858.67,
+      "end_sec": 1886.63,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne013",
+      "start_sec": 1896.06,
+      "end_sec": 1902.54,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne014",
+      "start_sec": 1909.83,
+      "end_sec": 1916.82,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne015",
+      "start_sec": 1916.82,
+      "end_sec": 1922.28,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne016",
+      "start_sec": 2476.24,
+      "end_sec": 2483.76,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne017",
+      "start_sec": 2509.05,
+      "end_sec": 2513.61,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne018",
+      "start_sec": 2513.61,
+      "end_sec": 2519.38,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne019",
+      "start_sec": 2528.36,
+      "end_sec": 2544.41,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne020",
+      "start_sec": 2551.09,
+      "end_sec": 2576.74,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne021",
+      "start_sec": 2787.47,
+      "end_sec": 2823.22,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne022",
+      "start_sec": 2830.09,
+      "end_sec": 2841.86,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne023",
+      "start_sec": 2841.86,
+      "end_sec": 2846.77,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne024",
+      "start_sec": 2846.77,
+      "end_sec": 2852.69,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne025",
+      "start_sec": 2898.02,
+      "end_sec": 2903.16,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne026",
+      "start_sec": 3026.83,
+      "end_sec": 3030.69,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne027",
+      "start_sec": 3030.69,
+      "end_sec": 3040.85,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne028",
+      "start_sec": 3040.85,
+      "end_sec": 3059.34,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne029",
+      "start_sec": 3078.79,
+      "end_sec": 3082.45,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne030",
+      "start_sec": 3082.45,
+      "end_sec": 3085.73,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne031",
+      "start_sec": 3085.73,
+      "end_sec": 3089.01,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne032",
+      "start_sec": 3097.1,
+      "end_sec": 3100.98,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne033",
+      "start_sec": 3100.98,
+      "end_sec": 3112.0,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne034",
+      "start_sec": 3112.0,
+      "end_sec": 3115.84,
+      "non_editorial_kind": "program_promo",
+      "summary": "program promotion interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne035",
+      "start_sec": 3136.41,
+      "end_sec": 3149.61,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne036",
+      "start_sec": 3149.61,
+      "end_sec": 3153.12,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne037",
+      "start_sec": 3159.91,
+      "end_sec": 3171.14,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne038",
+      "start_sec": 3194.12,
+      "end_sec": 3211.57,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne039",
+      "start_sec": 3211.57,
+      "end_sec": 3218.07,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne040",
+      "start_sec": 3218.07,
+      "end_sec": 3223.7,
+      "non_editorial_kind": "ambiguous",
+      "summary": "ambiguous non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne041",
+      "start_sec": 3223.7,
+      "end_sec": 3227.65,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne042",
+      "start_sec": 3227.65,
+      "end_sec": 3247.47,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne043",
+      "start_sec": 3247.47,
+      "end_sec": 3250.93,
+      "non_editorial_kind": "program_promo",
+      "summary": "program promotion interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne044",
+      "start_sec": 3250.93,
+      "end_sec": 3254.39,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne045",
+      "start_sec": 3254.39,
+      "end_sec": 3258.81,
+      "non_editorial_kind": "ambiguous",
+      "summary": "ambiguous non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne046",
+      "start_sec": 3405.07,
+      "end_sec": 3412.65,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne047",
+      "start_sec": 3412.65,
+      "end_sec": 3418.86,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne048",
+      "start_sec": 3423.98,
+      "end_sec": 3429.05,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne049",
+      "start_sec": 3451.04,
+      "end_sec": 3455.3,
+      "non_editorial_kind": "ambiguous",
+      "summary": "ambiguous non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne050",
+      "start_sec": 3465.43,
+      "end_sec": 3470.45,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne051",
+      "start_sec": 3495.18,
+      "end_sec": 3500.1,
+      "non_editorial_kind": "ambiguous",
+      "summary": "ambiguous non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

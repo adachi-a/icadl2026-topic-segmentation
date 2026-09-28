@@ -1,0 +1,231 @@
+{
+  "program_id": "news7_20260517",
+  "source_ts_path": "media-not-distributed/news7_20260517.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 15.48,
+      "end_sec": 112.78,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather",
+        "society"
+      ],
+      "title": "広島・福山で山林火災、鎮火の見通し立たず",
+      "summary": "広島県福山市赤坂町の山林で火事があり、広い範囲で山が燃えて鎮火の見通しが立っていないと伝えた。けが人の情報はなく、警察は延焼の可能性があるとして周辺住民に避難を呼びかけ、現場近くの人が廃材を燃やしていたとの説明も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 112.78,
+      "end_sec": 458.29,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・上三川町の強盗殺人事件、指示役とみられる容疑者を逮捕",
+      "summary": "栃木県上三川町で親子3人が死傷した強盗殺人事件で、警察が指示役とみられる竹前海斗容疑者を逮捕し、妻の身柄も確保したことを伝えた。実行役とみられる16歳の男子高校生4人との関係、匿名・流動型犯罪グループ『トクリュウ』の関与の可能性、警察当局の対策強化についても説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 458.29,
+      "end_sec": 885.05,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "ホルムズ海峡の封鎖とイラン情勢、国内の資材調達にも影響",
+      "summary": "ホルムズ海峡で多くの船舶がとどまり、イランが船舶向けの独自保険導入など管理強化を進める可能性があると伝えた。米軍の空母展開、イラン国内の武器訓練、戦闘終結に向けた協議の不透明さを報じる一方、日本国内ではインクやプラスチック製こん包材の調達懸念から食品パッケージ変更や中小企業への影響、信用金庫による調達先紹介の動きも紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 885.05,
+      "end_sec": 928.96,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・親子3人死傷事件で竹前美結容疑者を逮捕",
+      "summary": "栃木県上三川町の住宅で親子3人が強盗に襲われ死傷した事件について、警察が指示役の1人とみられる横浜市港北区の竹前美結容疑者を強盗殺人の疑いで逮捕したと速報した。警察は、実行役とみられる高校生4人とのつながりなどを調べるとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 928.96,
+      "end_sec": 1118.08,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "health",
+        "society",
+        "lifestyle_leisure"
+      ],
+      "title": "各地で気温上昇、東京都心でことし初の真夏日",
+      "summary": "各地で気温が上がり、東京都心では最高気温30.2度とことし初めての真夏日になった。広島県安芸太田町加計では34.8度と猛暑日に迫り、徳島県美馬市で川遊びを楽しむ家族連れや福島県の安達太良山の山開きの様子も紹介した。翌日も大分県日田市と兵庫県豊岡市で35度が予想されるなど、熱中症対策を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1118.08,
+      "end_sec": 1210.44,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "environment",
+        "disaster_accident_emergency"
+      ],
+      "title": "天皇皇后両陛下が愛媛県を訪問、全国植樹祭に出席",
+      "summary": "天皇皇后両陛下が愛媛県を訪問し、前日に西日本豪雨の被災地・大洲市で被災者らと懇談したこと、砥部町の県立とべ動物園でホッキョクグマのピースを視察したこと、松山市で全国植樹祭の式典に出席して苗木を植えたことを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1210.44,
+      "end_sec": 1337.29,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "disaster_accident_emergency"
+      ],
+      "title": "モスクワ郊外に無人機攻撃、ウクライナ軍の報復の可能性",
+      "summary": "ロシアの首都モスクワ郊外で大規模な無人機攻撃があり、これまでに3人が死亡し複数のけが人が出たと伝えた。キーウへの攻撃で子どもを含む24人が死亡したことへの報復の可能性があるとし、プーチン大統領が中国を訪問して習近平国家主席と会談する予定も報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1337.29,
+      "end_sec": 1376.5,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather"
+      ],
+      "title": "広島・福山の山林火災続報、けが人情報なし",
+      "summary": "番組冒頭で伝えた広島県福山市の山林火災について、現在の山林の様子を示しながら、広い範囲が煙に覆われ赤い炎も見えると伝えた。けが人の情報はなく、広島県内には乾燥注意報が出ていたと説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1376.5,
+      "end_sec": 1422.5,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "environment"
+      ],
+      "title": "東京・奥多摩町境で登山中の男性がクマに襲われけが",
+      "summary": "東京・奥多摩町境の山林で、登山中の男性がクマに襲われてけがをしたとの通報が消防に寄せられた。男性は顔と腕にけがをして重傷とみられ、ヘリコプターで病院に搬送されたが、搬送時に意識があり命に別状はないと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1422.5,
+      "end_sec": 1469.87,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イスラエル軍がハマス軍事部門トップを殺害と発表",
+      "summary": "イスラエル軍がハマス軍事部門トップを殺害したとするニュースで、ハマスはハダド幹部の死亡を認め『卑劣な暗殺だ』などと非難した。ガザ地区では去年10月に停戦合意が発効したものの、和平計画に大きな進展がない中でイスラエルが断続的に攻撃を行っており、停戦以降の死者は計870人になったと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1469.87,
+      "end_sec": 1578.34,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大相撲夏場所中日、霧島は勝ち越しならず",
+      "summary": "スポーツコーナーで大相撲夏場所中日8日目を伝えた。7戦全勝だった大関・霧島は豪ノ山に押し出され、中日勝ち越しはならなかった。若隆景は王鵬に寄り切りで勝ち、翔猿、朝乃山、琴櫻など中入り後の勝敗も紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1578.34,
+      "end_sec": 1685.28,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "体操NHK杯、岡慎之助選手が逆転で3連覇",
+      "summary": "体操のNHK杯最終日で、3連覇を目指す岡慎之助選手と全日本選手権6連覇の橋本大輝選手が優勝を争った。橋本選手が跳馬で難度の高い技に挑んで点差を広げた一方、岡選手は平行棒と鉄棒で迫り、逆転でNHK杯3連覇を果たした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 1685.28,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "気象情報、真夏日急増と今週の気温変化",
+      "summary": "気象情報では、最高気温30度以上の真夏日地点が前日は全国40地点、きょうは200地点に増えたと説明した。東京や名古屋などはことし初の真夏日となり、あすも兵庫・豊岡や大分・日田で35度が予想されるなど熱中症への注意を呼びかけた。水曜日以降は雨の影響で暑さが和らぎ、木曜日には気温が一気に低くなる見込みも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 15.48,
+      "non_editorial_kind": "program_promo",
+      "summary": "ドラマ『火の女 / QUEEN OF MARS』の番組宣伝を含む冒頭告知区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1800.0,
+      "end_sec": 1820.279244,
+      "non_editorial_kind": "program_promo",
+      "summary": "『ライオン 大調査』などの番組宣伝を含む終了後告知区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

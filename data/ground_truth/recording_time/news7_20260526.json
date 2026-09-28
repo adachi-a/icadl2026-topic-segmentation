@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260526",
+  "duration_sec": 1820.22,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 20.68,
+      "end_sec": 499.35,
+      "domain": "crime_law_justice",
+      "label": "巨人の阿部慎之助監督が辞任",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 499.35,
+      "end_sec": 876.1,
+      "domain": "conflict_war_peace",
+      "label": "イラン情勢と生活への影響",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 876.1,
+      "end_sec": 933.3,
+      "domain": "weather",
+      "label": "鹿児島県で線状降水帯発生のおそれ",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 933.3,
+      "end_sec": 1262.3,
+      "domain": "politics",
+      "label": "再審制度の見直し改正案 審議入り",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1262.3,
+      "end_sec": 1404.69,
+      "domain": "crime_law_justice",
+      "label": "兵庫県たつの市の母娘殺害事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1404.69,
+      "end_sec": 1569.33,
+      "domain": "politics",
+      "label": "参院内閣委で国家情報局法案可決",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1569.33,
+      "end_sec": 1659.99,
+      "domain": "sport",
+      "label": "大リーグ 日本人選手の活躍",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1659.99,
+      "end_sec": 1802.39,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

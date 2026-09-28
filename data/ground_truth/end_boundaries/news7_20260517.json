@@ -1,0 +1,162 @@
+{
+  "schema_version": "topic_end_annotations_public_v1",
+  "program_id": "news7_20260517",
+  "boundaries": [
+    {
+      "boundary_id": "b001",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t001",
+      "right_topic_id": "t002",
+      "recording_time_sec": 113.22,
+      "logical_time_sec": 101.414089,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b002",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t002",
+      "right_topic_id": "t003",
+      "recording_time_sec": 458.74,
+      "logical_time_sec": 446.93408900000003,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b003",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t003",
+      "right_topic_id": "t004",
+      "recording_time_sec": 885.36,
+      "logical_time_sec": 873.554089,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b004",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t004",
+      "right_topic_id": "t005",
+      "recording_time_sec": 915.44,
+      "logical_time_sec": 903.634089,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b005",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t005",
+      "right_topic_id": "t006",
+      "recording_time_sec": 1120.72,
+      "logical_time_sec": 1108.914089,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b006",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t006",
+      "right_topic_id": "t007",
+      "recording_time_sec": 1213.88,
+      "logical_time_sec": 1202.0740890000002,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b007",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t007",
+      "right_topic_id": "t008",
+      "recording_time_sec": 1336.46,
+      "logical_time_sec": 1324.654089,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b008",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t008",
+      "right_topic_id": "t009",
+      "recording_time_sec": 1376.54,
+      "logical_time_sec": 1364.734089,
+      "presentation_type": "bumper",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b009",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t009",
+      "right_topic_id": "t010",
+      "recording_time_sec": 1419.97,
+      "logical_time_sec": 1408.164089,
+      "presentation_type": "bumper",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b010",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t010",
+      "right_topic_id": "t011",
+      "recording_time_sec": 1470.19,
+      "logical_time_sec": 1458.3840890000001,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b011",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t011",
+      "right_topic_id": "t012",
+      "recording_time_sec": 1578.59,
+      "logical_time_sec": 1566.784089,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b012",
+      "direction": "topic_to_topic",
+      "left_topic_id": "t012",
+      "right_topic_id": "t013",
+      "recording_time_sec": 1685.59,
+      "logical_time_sec": 1673.784089,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "boundary_id": "b013",
+      "direction": "topic_to_program_end",
+      "left_topic_id": "t013",
+      "right_topic_id": null,
+      "recording_time_sec": 1803.44,
+      "logical_time_sec": 1791.6340890000001,
+      "presentation_type": "studio",
+      "uncertainty_sec": null,
+      "confidence": "high",
+      "notes": null
+    }
+  ]
+}

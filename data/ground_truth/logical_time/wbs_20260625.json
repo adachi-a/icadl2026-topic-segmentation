@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260625",
+  "duration_sec": 3374.838133,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 24.844832999999998,
+      "end_sec": 392.674833,
+      "domain": "economy_business_finance",
+      "label": "日経平均大幅値上げ",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 415.574833,
+      "end_sec": 852.414833,
+      "domain": "economy_business_finance",
+      "label": "高層ビルの木材利用",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 852.414833,
+      "end_sec": 1282.024833,
+      "domain": "human_interest",
+      "label": "新浪氏に単独取材",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1282.024833,
+      "end_sec": 1326.364833,
+      "domain": "disaster_accident_emergency",
+      "label": "青森で震度6強",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1326.364833,
+      "end_sec": 1358.614833,
+      "domain": "conflict_war_peace",
+      "label": "ホルムズ臨時回廊巡りイランが警告",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1358.614833,
+      "end_sec": 1389.0448330000002,
+      "domain": "economy_business_finance",
+      "label": "家計の金融資産",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1389.0448330000002,
+      "end_sec": 1425.484833,
+      "domain": "economy_business_finance",
+      "label": "フジHDの株主総会",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1425.484833,
+      "end_sec": 1456.5748330000001,
+      "domain": "economy_business_finance",
+      "label": "SBI、ビットバンクを買収",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1597.604833,
+      "end_sec": 1985.174833,
+      "domain": "economy_business_finance",
+      "label": "アメリカの物価高",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1985.174833,
+      "end_sec": 2032.5448330000002,
+      "domain": "economy_business_finance",
+      "label": "マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2160.6848330000003,
+      "end_sec": 2389.614833,
+      "domain": "economy_business_finance",
+      "label": "スズキ・IHI、インド企業と覚え書き締結へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2516.534833,
+      "end_sec": 2739.034833,
+      "domain": "economy_business_finance",
+      "label": "地ビールのコスト削減",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2868.894833,
+      "end_sec": 2909.234833,
+      "domain": "disaster_accident_emergency",
+      "label": "ベネズエラの地震",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2909.234833,
+      "end_sec": 2934.9348330000003,
+      "domain": "science_technology",
+      "label": "ブラジルの100歳超え三姉妹が研究対象に",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2934.9348330000003,
+      "end_sec": 2960.764833,
+      "domain": "crime_law_justice",
+      "label": "香港　民主派書店経営者ら逮捕",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 2960.764833,
+      "end_sec": 2990.444833,
+      "domain": "economy_business_finance",
+      "label": "アンスロピック、アリババを非難",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3229.9548330000002,
+      "end_sec": 3286.584833,
+      "domain": "economy_business_finance",
+      "label": "オリックス、浅草にアパートメントホテル",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3286.584833,
+      "end_sec": 3334.014833,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

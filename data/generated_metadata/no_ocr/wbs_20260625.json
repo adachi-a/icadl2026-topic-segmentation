@@ -1,0 +1,848 @@
+{
+  "program_id": "wbs_20260625",
+  "source_ts_path": "media-not-distributed/wbs_20260625.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 36.0,
+      "end_sec": 423.96,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "日経平均が史上最高値を更新、AI半導体関連株が上昇",
+      "summary": "日経平均株価が大幅に値上がりし、終値で史上最高値を更新した。キオクシア株主総会では株主参加が増え、株式分割検討やAI向けデータセンター需要への強気な見方が示された。マイクロンの好決算を背景に、メモリー関連株やAI半導体関連銘柄の上昇についてスタジオで解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 424.63,
+      "end_sec": 865.4,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "environment",
+        "science_technology"
+      ],
+      "title": "三井不動産の大型木造建築ブランドと木造ビル市場",
+      "summary": "三井不動産が木材を大規模に使った物流・複合施設「MFIP海老名 &forest」を紹介し、大型木造建築ブランド「&forest」の展開を伝えた。北海道の保有林の木材活用、日本橋で建設中の木造オフィスビル、非住宅木造市場の拡大見込み、大林組の耐火・耐水技術や海外の高層木造ビル建設も取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 865.4,
+      "end_sec": 1293.63,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "politics",
+        "society"
+      ],
+      "title": "新浪剛史氏が9カ月ぶりに単独取材で今後を語る",
+      "summary": "新浪剛史氏がテレビ東京の単独インタビューに応じ、サプリメント輸入を巡る捜査と不起訴処分、役職辞任後の思い、三極委員会の東京大会での活動、AIの悪用リスクに関する議論、今後の企業リーダー復帰や若手経営者育成への考えを語った。スタジオでは国際会議での役割と国内基盤の再構築について解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1293.63,
+      "end_sec": 1369.63,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather"
+      ],
+      "title": "青森県で震度6強、11人けが",
+      "summary": "WBS Quickで、岩手県沖を震源とする地震により青森県階上町で震度6強を観測したと伝えた。震源の深さは44キロ、マグニチュードは7.2と推定され、青森県などで11人がけがをした。気象庁は今後およそ1週間、最大震度6強程度の地震に注意を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1369.63,
+      "end_sec": 1435.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "家計の金融資産が2386兆円に増加",
+      "summary": "日銀の資金循環統計によると、2026年1月から3月期の個人金融資産残高は3月末時点で前年比7.1％増の2386兆円となった。新NISAの活用や株高で投資信託などが増え、円安による外貨建て資産の増加も寄与した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1435.0,
+      "end_sec": 1487.38,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "SBIホールディングスがビットバンクを467億円で買収へ",
+      "summary": "SBIホールディングスは暗号資産事業を手がけるビットバンクを467億円で買収すると発表した。買収によりSBIグループの暗号資産の預かり残高はおよそ1兆1000億円となり国内トップになる見込みで、顧客基盤やサービス開発力を合わせ競争力を高める狙いと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1608.54,
+      "end_sec": 1992.72,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "arts_culture_entertainment_media",
+        "sport"
+      ],
+      "title": "米建国250周年行事とトランプ政権の物価高逆風",
+      "summary": "ワシントンから、アメリカ建国250周年を祝う全米博覧会の開幕を中継した。トランプ大統領の演説やコンサート出演者辞退、党派色が強いとの指摘、UFCやワールドカップのパブリックビューイングを含む政治的狙いを伝えた。同時に発表された5月のPCEが前年比4.1％上昇となり、物価高と支持率低迷がトランプ氏の逆風になっていると解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1994.72,
+      "end_sec": 2047.47,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "現在のマーケット情報",
+      "summary": "為替、金利、商品、米国株式の最新マーケット情報を確認した。米PCEへの為替反応は限定的で、ドル円は161円台後半、NY金先物は4030ドルほど、NY原油先物は69ドルほどで推移していると伝えた。ダウ、ナスダック、S&P500も表示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2170.74,
+      "end_sec": 2409.09,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "environment",
+        "politics",
+        "science_technology"
+      ],
+      "title": "スズキとIHI、インド企業と新エネルギー分野で覚書締結へ",
+      "summary": "高市総理のインド訪問に合わせ、スズキとIHIが現地企業などとMOUを締結し協業を進める方向で最終調整していると独自に伝えた。スズキはインドで牛の糞を活用したバイオガス燃料事業を拡大し、CNG車のユーザー獲得につなげる方針。IHIはインド再エネ大手ACMEと連携し、グリーンアンモニアの輸入や現地生産に向け協力を深める狙いとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2531.6,
+      "end_sec": 2748.26,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "science_technology"
+      ],
+      "title": "COEDOブルワリー、麹を使う地ビール新製法でコスト削減",
+      "summary": "埼玉県川越市のCOEDOブルワリーが、愛知県の麹メーカー・ビオックと共同開発した麹を使う新たなビール製造を始めた。麹の酵素で糖を生み出すことで製麦工程を省け、設備投資や輸入原料コストの負担を減らせる可能性がある。8月発売予定の麹ビールを他の地ビールメーカーや海外にも広げたいと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2882.63,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ベネズエラでM7超の地震が2度発生",
+      "summary": "ワールドクイックで、ベネズエラ北西部でマグニチュード7.2の地震が発生し、その約1分後にマグニチュード7.5の地震が起きたと伝えた。少なくとも164人が死亡し、首都カラカスでは多数の建物が倒壊、ロドリゲス暫定大統領が国家非常事態を宣言した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2940.0,
+      "end_sec": 2965.0,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "human_interest",
+        "society"
+      ],
+      "title": "ブラジルの100歳超三姉妹、長寿研究の対象に",
+      "summary": "ブラジルで3人合わせて316歳、全員が100歳を超える三姉妹がギネス世界記録に認定された。サンパウロ大学が3姉妹を研究対象とし、長寿の特性を明らかにするという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2965.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "香港で反政府デモ本販売の民主派書店経営者ら逮捕",
+      "summary": "香港警察国家安全部は、政府や司法機関への憎悪をあおるような出版物を発売したなどとして、国家安全条例違反の疑いで店の責任者ら2人を逮捕した。責任者は民主派の元区議会議員の黄文萱氏で、2019年の反政府デモに関する本を売っていたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3000.0,
+      "end_sec": 3007.42,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "politics"
+      ],
+      "title": "アンソロピックがアリババを非難と報道",
+      "summary": "ロイター通信は、アンソロピックが生成AI「クロード」の技術を不正に利用したとして中国のEC大手アリババグループを非難したと報じた。米政府が安全保障上の懸念から最先端モデルの輸出管理措置を発動していることにも触れた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3240.0,
+      "end_sec": 3292.05,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "オリックス、浅草にアパートメントホテルを開業へ",
+      "summary": "オリックス・ホテルマネジメントが、来月3日に開業する「クロススイーツ東京浅草」を公開した。中長期滞在や大人数宿泊が可能なアパートメントホテルで、浅草寺を一望できる客室や水族館をイメージした客室、宿泊者同士の交流スペースを備える。訪日外国人の需要を見込み、エリア選定次第で需要は強いとの見方を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3300.61,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "あす株主総会ピーク、開催日集中の背景を解説",
+      "summary": "翌日の注目予定として株主総会の集中日を取り上げた。全体の31％が総会を開く見通しで、1990年代には9割が同じ集中日に開いたこともあったと説明。総会屋対策として開催日が集中した経緯や、現在は株主参加を促して会社の成長を訴える場にすべきだと解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 11.3,
+      "non_editorial_kind": "commercial",
+      "summary": "楽天ソーシャルギフトなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1487.38,
+      "end_sec": 1492.72,
+      "non_editorial_kind": "ambiguous",
+      "summary": "シノケン関連の広告風映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1512.06,
+      "end_sec": 1516.9,
+      "non_editorial_kind": "commercial",
+      "summary": "シノケングループのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1541.4,
+      "end_sec": 1547.63,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "キャピタルパートナーズ関連の広告風区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 1547.63,
+      "end_sec": 1563.79,
+      "non_editorial_kind": "commercial",
+      "summary": "ビックカメラのエアコン販促CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 1563.79,
+      "end_sec": 1578.79,
+      "non_editorial_kind": "sponsor",
+      "summary": "ビックカメラSuicaカード等のスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 1594.5,
+      "end_sec": 1601.05,
+      "non_editorial_kind": "sponsor",
+      "summary": "楽楽勤怠のスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 2047.47,
+      "end_sec": 2051.32,
+      "non_editorial_kind": "program_promo",
+      "summary": "このあとは「スズキ 成長カギは牛」の予告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne008",
+      "start_sec": 2081.31,
+      "end_sec": 2084.85,
+      "non_editorial_kind": "commercial",
+      "summary": "ビズリーチCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne009",
+      "start_sec": 2092.93,
+      "end_sec": 2101.15,
+      "non_editorial_kind": "commercial",
+      "summary": "ビズリーチと三菱UFJ信託銀行のCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne010",
+      "start_sec": 2105.85,
+      "end_sec": 2109.78,
+      "non_editorial_kind": "program_promo",
+      "summary": "ビズリーチ「社長は本気だ。」告知風区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne011",
+      "start_sec": 2109.78,
+      "end_sec": 2113.67,
+      "non_editorial_kind": "sponsor",
+      "summary": "ビズリーチ社長の本気。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne012",
+      "start_sec": 2125.75,
+      "end_sec": 2129.42,
+      "non_editorial_kind": "ambiguous",
+      "summary": "パラマウントベッド関連広告風区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne013",
+      "start_sec": 2129.42,
+      "end_sec": 2133.19,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "パラマウントベッド関連広告風区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne014",
+      "start_sec": 2133.19,
+      "end_sec": 2137.16,
+      "non_editorial_kind": "ambiguous",
+      "summary": "健康・睡眠関連の広告風区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne015",
+      "start_sec": 2137.16,
+      "end_sec": 2170.74,
+      "non_editorial_kind": "commercial",
+      "summary": "アサヒゴールドのビールCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne016",
+      "start_sec": 2409.09,
+      "end_sec": 2414.26,
+      "non_editorial_kind": "sponsor",
+      "summary": "富士フイルム関連スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne017",
+      "start_sec": 2422.65,
+      "end_sec": 2437.47,
+      "non_editorial_kind": "commercial",
+      "summary": "富士フイルムビジネスイノベーションのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne018",
+      "start_sec": 2447.08,
+      "end_sec": 2470.51,
+      "non_editorial_kind": "sponsor",
+      "summary": "中央日本土地建物グループのスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne019",
+      "start_sec": 2470.51,
+      "end_sec": 2482.65,
+      "non_editorial_kind": "commercial",
+      "summary": "特水・特茶関連CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne020",
+      "start_sec": 2482.65,
+      "end_sec": 2490.2,
+      "non_editorial_kind": "sponsor",
+      "summary": "サントリーこだわり酒場のスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne021",
+      "start_sec": 2490.2,
+      "end_sec": 2496.07,
+      "non_editorial_kind": "commercial",
+      "summary": "サントリーこだわり酒場CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne022",
+      "start_sec": 2496.07,
+      "end_sec": 2511.91,
+      "non_editorial_kind": "sponsor",
+      "summary": "リクルートエージェントのスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne023",
+      "start_sec": 2511.91,
+      "end_sec": 2531.6,
+      "non_editorial_kind": "commercial",
+      "summary": "リクルートエージェントCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne024",
+      "start_sec": 2748.26,
+      "end_sec": 2753.85,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "WBSロゴの区切り映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne025",
+      "start_sec": 2753.85,
+      "end_sec": 2758.8,
+      "non_editorial_kind": "program_promo",
+      "summary": "このあとは「ベネズエラでM7地震」の予告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne026",
+      "start_sec": 2766.45,
+      "end_sec": 2769.77,
+      "non_editorial_kind": "commercial",
+      "summary": "伊藤園・MLB関連CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne027",
+      "start_sec": 2783.37,
+      "end_sec": 2788.67,
+      "non_editorial_kind": "commercial",
+      "summary": "大谷翔平関連ボトル商品のCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne028",
+      "start_sec": 2807.3,
+      "end_sec": 2812.81,
+      "non_editorial_kind": "sponsor",
+      "summary": "ミサワホーム関連スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne029",
+      "start_sec": 2849.16,
+      "end_sec": 2853.14,
+      "non_editorial_kind": "program_promo",
+      "summary": "カワサキ水素大学の告知。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne030",
+      "start_sec": 2872.59,
+      "end_sec": 2876.24,
+      "non_editorial_kind": "commercial",
+      "summary": "川崎重工関連CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne031",
+      "start_sec": 2876.24,
+      "end_sec": 2882.63,
+      "non_editorial_kind": "sponsor",
+      "summary": "川崎重工スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne032",
+      "start_sec": 3007.42,
+      "end_sec": 3012.9,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "FPG関連広告風の導入映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne033",
+      "start_sec": 3045.45,
+      "end_sec": 3053.25,
+      "non_editorial_kind": "commercial",
+      "summary": "自動車関連CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne034",
+      "start_sec": 3059.53,
+      "end_sec": 3067.86,
+      "non_editorial_kind": "ambiguous",
+      "summary": "広告風の黒画面コピー。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne035",
+      "start_sec": 3067.86,
+      "end_sec": 3076.61,
+      "non_editorial_kind": "sponsor",
+      "summary": "日経転職版スポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne036",
+      "start_sec": 3076.61,
+      "end_sec": 3082.63,
+      "non_editorial_kind": "commercial",
+      "summary": "日経転職版CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne037",
+      "start_sec": 3082.63,
+      "end_sec": 3091.27,
+      "non_editorial_kind": "sponsor",
+      "summary": "動き出す妖怪展スポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne038",
+      "start_sec": 3100.33,
+      "end_sec": 3119.47,
+      "non_editorial_kind": "commercial",
+      "summary": "ライフスタイル系CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne039",
+      "start_sec": 3119.47,
+      "end_sec": 3125.06,
+      "non_editorial_kind": "ambiguous",
+      "summary": "エイジング関連広告風区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne040",
+      "start_sec": 3125.06,
+      "end_sec": 3129.2,
+      "non_editorial_kind": "sponsor",
+      "summary": "大和証券グループスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne041",
+      "start_sec": 3143.29,
+      "end_sec": 3147.14,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "北海道から未来へ、広告風エンディング区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne042",
+      "start_sec": 3154.43,
+      "end_sec": 3158.46,
+      "non_editorial_kind": "sponsor",
+      "summary": "リアライズコーポレーションスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne043",
+      "start_sec": 3164.64,
+      "end_sec": 3172.07,
+      "non_editorial_kind": "sponsor",
+      "summary": "大和証券グループ・NIKKEIスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne044",
+      "start_sec": 3183.41,
+      "end_sec": 3188.12,
+      "non_editorial_kind": "commercial",
+      "summary": "Audible関連CM導入。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne045",
+      "start_sec": 3188.12,
+      "end_sec": 3193.12,
+      "non_editorial_kind": "sponsor",
+      "summary": "Audibleスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne046",
+      "start_sec": 3193.12,
+      "end_sec": 3204.84,
+      "non_editorial_kind": "commercial",
+      "summary": "ヘパリーゼ関連CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne047",
+      "start_sec": 3204.84,
+      "end_sec": 3210.08,
+      "non_editorial_kind": "sponsor",
+      "summary": "ヘパリーゼスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne048",
+      "start_sec": 3214.6,
+      "end_sec": 3223.79,
+      "non_editorial_kind": "commercial",
+      "summary": "ヘパリーゼCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne049",
+      "start_sec": 3231.34,
+      "end_sec": 3239.33,
+      "non_editorial_kind": "sponsor",
+      "summary": "楽天ソーシャルギフトスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne050",
+      "start_sec": 3292.05,
+      "end_sec": 3300.61,
+      "non_editorial_kind": "program_promo",
+      "summary": "カンブリア宮殿の番組宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne058",
+      "start_sec": 3360.0,
+      "end_sec": 3384.43,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組エンディング、エンディングテーマ曲、テレ東BIZ・日経電子版表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne051",
+      "start_sec": 3384.43,
+      "end_sec": 3394.31,
+      "non_editorial_kind": "program_promo",
+      "summary": "カンブリア宮殿の番組宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne052",
+      "start_sec": 3408.12,
+      "end_sec": 3424.38,
+      "non_editorial_kind": "commercial",
+      "summary": "野村の仲介＋PLUS、楽天ソーシャルギフトなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne053",
+      "start_sec": 3424.38,
+      "end_sec": 3430.8,
+      "non_editorial_kind": "sponsor",
+      "summary": "楽天ソーシャルギフトスポンサー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne054",
+      "start_sec": 3435.55,
+      "end_sec": 3451.33,
+      "non_editorial_kind": "commercial",
+      "summary": "アネッサ、S.RIDE関連CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne055",
+      "start_sec": 3456.9,
+      "end_sec": 3461.11,
+      "non_editorial_kind": "commercial",
+      "summary": "S.RIDEタクシーCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne056",
+      "start_sec": 3469.89,
+      "end_sec": 3474.53,
+      "non_editorial_kind": "commercial",
+      "summary": "ニトリ家電CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne057",
+      "start_sec": 3474.53,
+      "end_sec": 3478.24,
+      "non_editorial_kind": "sponsor",
+      "summary": "ニトリスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

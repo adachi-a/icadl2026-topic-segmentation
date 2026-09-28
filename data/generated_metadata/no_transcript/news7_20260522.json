@@ -1,0 +1,202 @@
+{
+  "program_id": "news7_20260522",
+  "source_ts_path": "media-not-distributed/news7_20260522.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 21.4,
+      "end_sec": 417.8,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "crime_law_justice",
+        "politics"
+      ],
+      "title": "辺野古沖転覆事故 文部科学省が学校側に指導通知",
+      "summary": "辺野古沖の転覆事故をめぐり、文部科学省が学校側に指導通知を出したことを伝えた。調査結果として下見や引率教員の乗船、事前説明の不足、平和学習の政治的中立性に関する指摘が示され、松本文部科学相の発言、専門家の見解、学校法人同志社の再発防止策、京都府の補助金対応、死亡した船長への刑事告発も扱われた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 417.8,
+      "end_sec": 627.2,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木の強盗殺人事件 高校生ら別々の場所から敷地侵入か",
+      "summary": "栃木県上三川町の強盗殺人事件について、高校生らが別々の場所から敷地に侵入した可能性を伝えた。住宅に押し入った複数人が金品を物色し親子3人が死傷した事件として、指示役の逮捕、匿名・流動型犯罪グループとの関連、SNS応募や秘匿性の高い通信アプリでのやり取り、実行した高校生の供述が扱われた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 627.2,
+      "end_sec": 890.6,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society",
+        "lifestyle_leisure"
+      ],
+      "title": "全国の消費者物価指数1.4％上昇 節約志向強まる",
+      "summary": "全国の消費者物価指数が前年同月比で1.4％上昇したことを伝え、街の人の実感や節約志向の強まりを取材した。水筒や弁当箱の売り上げ増加、まとめ売りを強化する店の動き、企業物価指数や原油高の価格転嫁、今後の電気料金や物価見通しも取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 890.6,
+      "end_sec": 1113.7,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "キューバで深刻な停電 アメリカの圧力続く",
+      "summary": "キューバで燃料不足による深刻な停電が起き、航空会社の運航停止や市民の抗議が伝えられた。さらに、アメリカによるラウル・カストロ氏の起訴、キューバ軍傘下企業GAESA幹部の親族拘束、滞在資格取り消し、空母打撃群のカリブ海展開、トランプ大統領やルビオ国務長官の発言を通じ、キューバへの圧力が続いている状況を報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1113.7,
+      "end_sec": 1191.9,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "こう着状態のイラン情勢 争点はウランとホルムズ海峡",
+      "summary": "イラン情勢について、核兵器保有を認めないとするアメリカ側の発言や、高濃縮ウラン、ホルムズ海峡をめぐる争点を伝えた。日本の産油国共同備蓄の補充に関する映像も示され、タンカー到着や石油備蓄施設が報じられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1191.9,
+      "end_sec": 1360.4,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "自民党作業チームが『国旗損壊罪』骨子案を大筋了承",
+      "summary": "自民党の作業チームが『国旗損壊罪』の骨子案を大筋了承したことを伝えた。骨子案では日本国旗損壊罪の創設、罰則、対象となる行為や対象外となる創作物などが示され、松野元官房長官、岩屋前外相、中道改革連合の小川代表の発言、自民党が維新と今国会に法案提出を目指す方針も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1360.4,
+      "end_sec": 1472.6,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "兵庫・たつの母娘殺害事件 無施錠の玄関から侵入か",
+      "summary": "兵庫県たつの市の母娘殺害事件について、被害者の2人が無施錠の玄関から入った人物に襲われた可能性を伝えた。窓ガラスが割れていないこと、玄関以外に出入り口がないこと、家の中で現金入りの財布や通帳、スマートフォンが見つかったことから、警察が金品目的ではなかった可能性も含めて捜査していると報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1472.6,
+      "end_sec": 1508.3,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "高市首相と日銀・植田総裁が会談 利上げが焦点",
+      "summary": "高市首相と日銀の植田総裁が会談した速報を伝えた。来月の金融政策決定会合で日銀が利上げに踏み切るかが焦点になっていると報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1508.3,
+      "end_sec": 1547.9,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "サントリーHD新浪元会長を不起訴",
+      "summary": "サントリーホールディングスの新浪剛史元会長について、知人から大麻成分を含む製品を送られた疑いがあるとして麻薬取締法違反の疑いで書類送検されていた件で、不起訴になったと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1547.9,
+      "end_sec": 1666.1,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大相撲夏場所 霧島と琴栄峰の2敗対決",
+      "summary": "大相撲夏場所で、2敗同士の霧島と琴栄峰の対決を伝えた。支度部屋や土俵上の取組映像、幕内の取組結果一覧が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1666.1,
+      "end_sec": 1808.4,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報 関東・東北は冷たい雨 週末の天気",
+      "summary": "気象予報士が、関東・東北の冷たい雨や各地の最高気温、あす昼の雨の見通し、あさって日曜日の北日本・北陸の雨、土日の天気と最高気温を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 21.4,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組冒頭の前後に、前番組気象情報らしき画面とNHK NEWSタイトル画面が表示された。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1808.4,
+      "end_sec": 1820.656245,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組末尾にアプリ案内と『AI×医療 最前線』の告知と思われる画面が表示された。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

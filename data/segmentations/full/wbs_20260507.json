@@ -1,0 +1,425 @@
+{
+  "schema_version": "news_topic_segmentation_release_v1",
+  "program_id": "wbs_20260507",
+  "condition": "full",
+  "duration_sec": 3499.58,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 37.0,
+      "end_sec": 638.3
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 638.3,
+      "end_sec": 921.0
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 921.0,
+      "end_sec": 1275.67
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1275.67,
+      "end_sec": 1347.0
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1347.0,
+      "end_sec": 1380.0
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1380.0,
+      "end_sec": 1429.0
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1429.0,
+      "end_sec": 1500.0
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1500.0,
+      "end_sec": 1558.69
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1649.49,
+      "end_sec": 1979.92
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2109.03,
+      "end_sec": 2453.22
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2453.22,
+      "end_sec": 2722.0
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2722.0,
+      "end_sec": 2795.26
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2897.0,
+      "end_sec": 2940.0
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2940.0,
+      "end_sec": 3000.0
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3000.0,
+      "end_sec": 3046.71
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3274.41,
+      "end_sec": 3308.64
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3308.64,
+      "end_sec": 3411.12
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 12.14,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 16.61,
+      "end_sec": 29.0,
+      "non_editorial_kind": "opening_or_ending"
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1558.69,
+      "end_sec": 1562.44,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1562.44,
+      "end_sec": 1571.81,
+      "non_editorial_kind": "ambiguous"
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 1583.7,
+      "end_sec": 1588.01,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 1588.01,
+      "end_sec": 1591.78,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 1613.09,
+      "end_sec": 1616.71,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 1616.71,
+      "end_sec": 1620.12,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne008",
+      "start_sec": 1620.12,
+      "end_sec": 1623.49,
+      "non_editorial_kind": "ambiguous"
+    },
+    {
+      "segment_id": "ne009",
+      "start_sec": 1631.57,
+      "end_sec": 1635.46,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne010",
+      "start_sec": 1635.46,
+      "end_sec": 1639.76,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne011",
+      "start_sec": 1639.76,
+      "end_sec": 1644.45,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne012",
+      "start_sec": 1644.45,
+      "end_sec": 1649.49,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne013",
+      "start_sec": 1979.92,
+      "end_sec": 1983.68,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne014",
+      "start_sec": 1983.68,
+      "end_sec": 1987.49,
+      "non_editorial_kind": "ambiguous"
+    },
+    {
+      "segment_id": "ne015",
+      "start_sec": 1987.49,
+      "end_sec": 1990.99,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne016",
+      "start_sec": 1997.79,
+      "end_sec": 2001.46,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne017",
+      "start_sec": 2001.46,
+      "end_sec": 2005.23,
+      "non_editorial_kind": "ambiguous"
+    },
+    {
+      "segment_id": "ne018",
+      "start_sec": 2005.23,
+      "end_sec": 2013.48,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne019",
+      "start_sec": 2018.46,
+      "end_sec": 2023.76,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne020",
+      "start_sec": 2043.74,
+      "end_sec": 2077.07,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne021",
+      "start_sec": 2077.07,
+      "end_sec": 2087.7,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne022",
+      "start_sec": 2095.02,
+      "end_sec": 2103.9,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne023",
+      "start_sec": 2103.9,
+      "end_sec": 2109.03,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne024",
+      "start_sec": 2480.05,
+      "end_sec": 2494.26,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne025",
+      "start_sec": 2510.14,
+      "end_sec": 2515.03,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne026",
+      "start_sec": 2515.03,
+      "end_sec": 2520.04,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne027",
+      "start_sec": 2520.04,
+      "end_sec": 2524.89,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne028",
+      "start_sec": 2549.92,
+      "end_sec": 2553.27,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne029",
+      "start_sec": 2553.27,
+      "end_sec": 2556.52,
+      "non_editorial_kind": "opening_or_ending"
+    },
+    {
+      "segment_id": "ne030",
+      "start_sec": 2566.66,
+      "end_sec": 2571.37,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne031",
+      "start_sec": 2577.32,
+      "end_sec": 2582.85,
+      "non_editorial_kind": "other_non_editorial"
+    },
+    {
+      "segment_id": "ne032",
+      "start_sec": 2795.26,
+      "end_sec": 2804.42,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne033",
+      "start_sec": 2857.51,
+      "end_sec": 2863.23,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne034",
+      "start_sec": 3046.71,
+      "end_sec": 3049.95,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne035",
+      "start_sec": 3059.72,
+      "end_sec": 3063.35,
+      "non_editorial_kind": "ambiguous"
+    },
+    {
+      "segment_id": "ne036",
+      "start_sec": 3067.76,
+      "end_sec": 3072.74,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne037",
+      "start_sec": 3082.57,
+      "end_sec": 3088.01,
+      "non_editorial_kind": "ambiguous"
+    },
+    {
+      "segment_id": "ne038",
+      "start_sec": 3104.28,
+      "end_sec": 3118.11,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne039",
+      "start_sec": 3128.05,
+      "end_sec": 3135.09,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne040",
+      "start_sec": 3138.34,
+      "end_sec": 3141.75,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne041",
+      "start_sec": 3162.01,
+      "end_sec": 3174.86,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne042",
+      "start_sec": 3174.86,
+      "end_sec": 3194.03,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne043",
+      "start_sec": 3213.89,
+      "end_sec": 3219.98,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne044",
+      "start_sec": 3224.29,
+      "end_sec": 3228.62,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne045",
+      "start_sec": 3244.5,
+      "end_sec": 3250.03,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne046",
+      "start_sec": 3256.1,
+      "end_sec": 3262.12,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne047",
+      "start_sec": 3262.12,
+      "end_sec": 3267.43,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne048",
+      "start_sec": 3267.43,
+      "end_sec": 3274.41,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne049",
+      "start_sec": 3411.12,
+      "end_sec": 3417.8,
+      "non_editorial_kind": "sponsor"
+    },
+    {
+      "segment_id": "ne050",
+      "start_sec": 3417.8,
+      "end_sec": 3431.68,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne051",
+      "start_sec": 3442.09,
+      "end_sec": 3448.49,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne052",
+      "start_sec": 3462.18,
+      "end_sec": 3470.23,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne053",
+      "start_sec": 3479.9,
+      "end_sec": 3493.71,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "ne054",
+      "start_sec": 3493.71,
+      "end_sec": 3499.58,
+      "non_editorial_kind": "program_promo"
+    }
+  ]
+}

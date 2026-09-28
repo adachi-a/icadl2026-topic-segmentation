@@ -1,0 +1,219 @@
+{
+  "program_id": "news7_20260622",
+  "source_ts_path": "media-not-distributed/news7_20260622.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 11.34,
+      "end_sec": 207.74,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "旭川女子高校生殺害事件で被告に懲役27年判決",
+      "summary": "北海道旭川市の橋から女子高校生を川に落下させて殺害したなどとして殺人や監禁などの罪に問われた内田梨瑚被告に、旭川地方裁判所は求刑どおり懲役27年の判決を言い渡した。判決言い渡しの途中、法廷で男が叫んで取り押さえられ、建造物侵入の疑いで逮捕された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 207.74,
+      "end_sec": 610.68,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯北中米大会 日本代表・上田綺世選手がチュニジア戦で活躍",
+      "summary": "サッカーワールドカップ北中米大会で日本代表がチュニジア戦に快勝し、上田綺世選手が4得点中2得点を挙げた。上田選手の前回大会での無得点、少年時代、オランダ1部リーグでの飛躍、海外メディアの反応、次戦スウェーデン戦の予定などを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 610.68,
+      "end_sec": 750.38,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "鹿児島・霧島市の温泉施設で5歳男児が行方不明",
+      "summary": "鹿児島県霧島市の温泉施設で、5歳の男の子の行方が前日から分からなくなっている。警察は風呂の窓から外に出て、近くの川に流された可能性もあるとみて、消防とともに捜索を続けるとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 750.38,
+      "end_sec": 863.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "イギリスのスターマー首相が辞任意向を表明",
+      "summary": "イギリスのスターマー首相が22日、辞任する意向を表明した。与党・労働党の党首を辞任し、党首選挙が終わるまでは首相にとどまるとしている。支持低下や地方選挙、補欠選挙を受け、党内で後任選びが進むことになる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 863.0,
+      "end_sec": 1085.06,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice"
+      ],
+      "title": "高市総理陣営の動画投稿報道めぐり国会で野党が追及",
+      "summary": "国会論戦で、野党は高市総理大臣の陣営がほかの候補を誹謗中傷する動画を投稿したと週刊文春で報じられた問題を追及した。高市総理は秘書への聞き取りや書面報告について説明し、野党は集中審議などを求めた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1085.06,
+      "end_sec": 1187.08,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "economy_business_finance"
+      ],
+      "title": "参議院予算委員会で少子化対策や食料品消費税減税を質疑",
+      "summary": "参議院予算委員会で、自民党は少子化対策について質問した。国民民主党は食料品の消費税減税をめぐり、来年4月から2年間1％に引き下げる案などに関連して、高市総理に考えをただした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1187.08,
+      "end_sec": 1274.13,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "education",
+        "economy_business_finance"
+      ],
+      "title": "奨学金の上限金利と原油調達をめぐる国会質疑",
+      "summary": "公明党は日本学生支援機構の有利子奨学金について、上限金利が市場に連動して上がる懸念を質問した。政府側は返還利率を原則3％上限とし、利子負担軽減の仕組みを維持すると答えた。続いて日本維新の会は原油の調達をめぐり、経済安全保障の観点から質問した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1274.13,
+      "end_sec": 1358.22,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "マイナンバーカード義務化と再審制度見直しをめぐる国会質疑",
+      "summary": "参政党はマイナンバーカードの取得義務化を検討すべきという自民党内の政策提言について政府の見解をただした。共産党は再審制度の見直しをめぐり、検察の判断に左右されてきた仕組みを変える必要性を質問した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1358.22,
+      "end_sec": 1437.87,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "朝鮮半島有事対応と副首都構想法案をめぐる動き",
+      "summary": "れいわ新選組は、朝鮮半島で有事が起きた際のアメリカ軍の軍事行動をめぐり、1960年の安保改定時の議事録に関連して政府の対応をただした。その後、高市総理大臣が維新の吉村代表と会談し、副首都構想の法案をめぐる住民投票規定の修正などを求めたことも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1437.87,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "皇室典範改正案の要綱案を衆参議長らがおおむね了承",
+      "summary": "皇室典範の改正案について、木原官房長官が衆参両院の議長・副議長と会談し、先週の骨子案に続いて要綱案を示した。議長・副議長はおおむね了承し、今週25日に各党・各会派との協議を開いて意見を聞くことを確認した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_011",
+      "start_sec": 1500.0,
+      "end_sec": 1672.29,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "アメリカ・イラン協議とホルムズ海峡・レバノン情勢",
+      "summary": "アメリカのバンス副大統領やイランのアラグチ外相らが参加した協議で、写真撮影をめぐる異例の場面があったと伝えた。パキスタンなどは共同声明を発表し、ホルムズ海峡で商船の安全な航行を確保する連絡体制や、レバノン情勢をめぐる衝突回避対策チームの設置などを示した。トランプ大統領やイスラエルのネタニヤフ首相の発言にも触れた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_012",
+      "start_sec": 1672.29,
+      "end_sec": 1800.43,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "九州の大雨と台風7号の見通し",
+      "summary": "気象情報で、梅雨本番の雨の降り方になり、九州では木曜日にかけて大雨になる見込みと伝えた。梅雨前線や低気圧の影響で雨のピークが2回あり、災害の危険度が高まるおそれがあるとして、ハザードマップ確認などの備えを呼びかけた。台風7号は木曜日以降に沖縄へ接近する見込みで、沖縄・奄美は荒れた天気になるとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_013",
+      "start_sec": 1800.43,
+      "end_sec": 1820.51,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "AIの現場活用",
+      "summary": "質問するとすぐに答えを返してくれるAIについて、現場での活用を紹介する項目が始まったが、提示証拠では冒頭部分のみ確認できる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "non_editorial_001",
+      "start_sec": 0.0,
+      "end_sec": 11.34,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース本編開始前の生字幕告知と気象に関する短いやり取り。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

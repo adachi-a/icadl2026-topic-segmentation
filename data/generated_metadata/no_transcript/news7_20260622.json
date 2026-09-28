@@ -1,0 +1,183 @@
+{
+  "program_id": "news7_20260622",
+  "source_ts_path": "media-not-distributed/news7_20260622.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 22.72,
+      "end_sec": 201.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "旭川 女子高校生殺害事件、23歳被告に懲役27年判決",
+      "summary": "北海道旭川市の女子高校生殺害事件で、旭川地裁が23歳の被告に検察の求刑どおり懲役27年の判決を言い渡した。画面では、被告の言動を殺人の実行行為とした判断や、控訴について弁護士が後日話し合うとした内容が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 201.0,
+      "end_sec": 610.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "サッカーW杯 日本がチュニジアに大勝、上田綺世選手が2得点",
+      "summary": "FIFAワールドカップ2026で日本がチュニジアに4対0で勝ち、上田綺世選手が2得点を挙げたことを伝えた。上田選手の原点や恩師の証言、海外メディアの反応、次戦スウェーデン戦と決勝トーナメント進出条件も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 610.0,
+      "end_sec": 770.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "鹿児島・霧島の温泉施設で5歳児不明、川に流された可能性",
+      "summary": "鹿児島県霧島市の温泉施設で5歳児が不明となり、風呂の窓から外に出て川に流された可能性があると伝えた。施設の風呂や窓の高さ、川との位置関係、支配人への質問、捜索の様子が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 770.0,
+      "end_sec": 875.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "economy_business_finance"
+      ],
+      "title": "英国のスターマー首相が辞任の意向表明",
+      "summary": "英国のスターマー首相が労働党党首を辞任する意向を表明し、党首選まで首相にとどまると伝えた。物価高対策などへの国民の不満、地方選での大敗、補欠選挙を受けた辞任要求の強まりが背景として示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 875.0,
+      "end_sec": 1074.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "高市首相、野党追及に答弁訂正の経緯を書面で報告",
+      "summary": "高市首相をめぐり、他候補をひぼう中傷する動画投稿の報道や暗号資産「SANAE TOKEN」に関する国会答弁について、野党が追及した。高市首相は秘書の陳述書を国会に提出し、答弁訂正の経緯を書面で報告する考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1074.0,
+      "end_sec": 1405.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "education",
+        "crime_law_justice"
+      ],
+      "title": "参院予算委で与野党が論戦、少子化・消費税・奨学金・安全保障など",
+      "summary": "参院予算委員会で与野党が論戦し、少子化対策、食料品の消費税減税、奨学金、原油調達、再審制度見直し、朝鮮半島有事などが取り上げられた。高市首相や各党議員の質疑応答が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1405.0,
+      "end_sec": 1462.5,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "『副首都』『衆院議員定数削減』『皇室典範改正』3法案をめぐる動き",
+      "summary": "国会会期末まで1か月を切る中、『副首都』『衆院議員定数削減』『皇室典範改正』の3法案をめぐる動きが伝えられた。皇室典範改正案の要綱案について、衆参議長・副議長がおおむね了承し、25日に各党・各会派と協議する予定と示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1462.5,
+      "end_sec": 1673.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "米・イラン協議が異例の幕開け、ホルムズ海峡やレバノン情勢も焦点",
+      "summary": "米・イラン協議で、イラン外相の行動により会場が騒然となったと伝えた。イラン側が写真撮影の機会を拒否したとの通信社情報や、ホルムズ海峡の安全航行、レバノン情勢、トランプ氏によるイランけん制も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1673.0,
+      "end_sec": 1785.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "九州で大雨のおそれ、台風7号が沖縄に接近",
+      "summary": "気象情報として、九州で非常に激しい雨となり災害の危険度が高まるおそれ、雨のピーク、台風7号の沖縄・奄美への接近見通しを伝えた。全国各地の週間予報や気温も表示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne_pre000",
+      "start_sec": 0.0,
+      "end_sec": 10.67,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "前番組『首都圏ネットワーク』の天気予報画面とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 10.67,
+      "end_sec": 22.72,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1785.0,
+      "end_sec": 1820.51,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組終盤の見出し一覧と次番組案内を含む終了部。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

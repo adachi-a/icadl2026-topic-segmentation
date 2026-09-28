@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260605",
+  "duration_sec": 3370.3336329999997,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 23.984233,
+      "end_sec": 511.26423300000005,
+      "domain": "economy_business_finance",
+      "label": "ヤマダHDとエディオンの経営統合",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 535.624233,
+      "end_sec": 844.284233,
+      "domain": "economy_business_finance",
+      "label": "東京モノレール新駅舎公開",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 844.284233,
+      "end_sec": 1163.024233,
+      "domain": "economy_business_finance",
+      "label": "量子技術の産業応用",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1163.024233,
+      "end_sec": 1215.154233,
+      "domain": "politics",
+      "label": "習主席、北朝鮮訪問",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1215.154233,
+      "end_sec": 1254.124233,
+      "domain": "science_technology",
+      "label": "原発建替方針を経産省が示す",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1254.124233,
+      "end_sec": 1295.7042330000002,
+      "domain": "economy_business_finance",
+      "label": "JALモバイル、アハモ提供",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1295.7042330000002,
+      "end_sec": 1328.504233,
+      "domain": "economy_business_finance",
+      "label": "日立、ミュトスアクセス権",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1328.504233,
+      "end_sec": 2043.034233,
+      "domain": "economy_business_finance",
+      "label": "住宅ローン",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2169.554233,
+      "end_sec": 2460.7542329999997,
+      "domain": "economy_business_finance",
+      "label": "アメリカ経済",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2587.864233,
+      "end_sec": 2740.334233,
+      "domain": "arts_culture_entertainment_media",
+      "label": "フランスにナルトのテーマパーク、日本のIPビジネス",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2869.094233,
+      "end_sec": 2903.704233,
+      "domain": "politics",
+      "label": "アメリカ、キューバ大統領を制裁",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2903.704233,
+      "end_sec": 2924.9042329999997,
+      "domain": "conflict_war_peace",
+      "label": "ヒズボラ指導者、アメリカの停戦合意拒否",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2924.9042329999997,
+      "end_sec": 2949.0042329999997,
+      "domain": "conflict_war_peace",
+      "label": "ゼレンスキー大統領、書簡を公開",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2949.0042329999997,
+      "end_sec": 2974.864233,
+      "domain": "politics",
+      "label": "マクロン大統領、トランプ大統領を招待し夕食会",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3219.114233,
+      "end_sec": 3284.264233,
+      "domain": "economy_business_finance",
+      "label": "アマゾン、欧州で1.9兆円投資",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3284.264233,
+      "end_sec": 3330.5042329999997,
+      "domain": "economy_business_finance",
+      "label": "来週の注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+program_id,broadcaster,kind,prediction_ids,ground_truth_ids,detail
+news7_20260517,news7,over_split,t003;t004,t005,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260522,news7,over_split,t002;t003,t002,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260601,news7,over_split,t003;t004,t003,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260605,news7,over_split,topic_004;topic_005,t005,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260605,news7,over_split,topic_006;topic_007;topic_008;topic_009;topic_010,t006,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260605,news7,over_split,topic_011;topic_012,t007,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260605,news7,missed,,t001,ground-truth topic has no matched or partially overlapping prediction
+news7_20260614,news7,over_split,t007;t008,t008,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260614,news7,under_split,t007,t007;t008,one prediction span mostly covers multiple ground-truth topics
+news7_20260619,news7,hallucinated,topic_011,,prediction has no matched or partially overlapping ground-truth topic
+news7_20260622,news7,over_split,t006;t007;t008;t009;t010;t011;t012,t006,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260622,news7,over_split,t014;t015,t008,multiple prediction spans are mostly contained in one ground-truth topic
+news7_20260627,news7,over_split,t003;t004;t005,t003,multiple prediction spans are mostly contained in one ground-truth topic
+wbs_20260507,wbs,over_split,t014;t015,t015,multiple prediction spans are mostly contained in one ground-truth topic
+wbs_20260507,wbs,under_split,t007,t007;t008,one prediction span mostly covers multiple ground-truth topics
+wbs_20260507,wbs,under_split,t014,t014;t015,one prediction span mostly covers multiple ground-truth topics
+wbs_20260507,wbs,hallucinated,t008,,prediction has no matched or partially overlapping ground-truth topic
+wbs_20260514,wbs,over_split,t014;t015,t014,multiple prediction spans are mostly contained in one ground-truth topic
+wbs_20260514,wbs,under_split,t005,t004;t005,one prediction span mostly covers multiple ground-truth topics
+wbs_20260514,wbs,under_split,t013,t012;t013,one prediction span mostly covers multiple ground-truth topics
+wbs_20260514,wbs,hallucinated,t009,,prediction has no matched or partially overlapping ground-truth topic
+wbs_20260527,wbs,over_split,t017;t018,t017,multiple prediction spans are mostly contained in one ground-truth topic
+wbs_20260601,wbs,over_split,t016;t017,t016,multiple prediction spans are mostly contained in one ground-truth topic
+wbs_20260601,wbs,under_split,t008,t008;t009,one prediction span mostly covers multiple ground-truth topics
+wbs_20260601,wbs,hallucinated,t009,,prediction has no matched or partially overlapping ground-truth topic
+wbs_20260605,wbs,under_split,t004,t004;t005,one prediction span mostly covers multiple ground-truth topics
+wbs_20260605,wbs,hallucinated,t005,,prediction has no matched or partially overlapping ground-truth topic
+wbs_20260605,wbs,hallucinated,t017,,prediction has no matched or partially overlapping ground-truth topic
+wbs_20260616,wbs,over_split,t015;t016,t014,multiple prediction spans are mostly contained in one ground-truth topic
+wbs_20260616,wbs,under_split,t012,t011;t012,one prediction span mostly covers multiple ground-truth topics
+wbs_20260616,wbs,hallucinated,t004,,prediction has no matched or partially overlapping ground-truth topic
+wbs_20260625,wbs,over_split,t014;t015,t015,multiple prediction spans are mostly contained in one ground-truth topic
+wbs_20260625,wbs,under_split,t007,t006;t007,one prediction span mostly covers multiple ground-truth topics
+wbs_20260625,wbs,under_split,t013,t013;t014,one prediction span mostly covers multiple ground-truth topics

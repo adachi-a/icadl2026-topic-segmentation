@@ -1,0 +1,163 @@
+{
+  "schema_version": "news_topic_texttiling_v1",
+  "program_id": "wbs_20260622",
+  "method": "texttiling",
+  "duration_sec": 3500.631978,
+  "parameters": {
+    "pseudosentence_tokens": 20,
+    "block_pseudosentences": 10,
+    "cutoff": "HC",
+    "smoothing_radius": 2,
+    "smoothing_rounds": 1,
+    "tokenizer": "SudachiPy mode C"
+  },
+  "boundaries_sec": [
+    193.18,
+    295.16,
+    525.28,
+    744.88,
+    884.06,
+    1154.38,
+    1341.76,
+    1484.78,
+    1650.18,
+    1788.01,
+    1982.93,
+    2128.28,
+    2435.12,
+    2556.24,
+    3000.13,
+    3256.43
+  ],
+  "topics": [
+    {
+      "topic_id": "tt_0001",
+      "start_sec": 0.0,
+      "end_sec": 193.18,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0002",
+      "start_sec": 193.18,
+      "end_sec": 295.16,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0003",
+      "start_sec": 295.16,
+      "end_sec": 525.28,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0004",
+      "start_sec": 525.28,
+      "end_sec": 744.88,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0005",
+      "start_sec": 744.88,
+      "end_sec": 884.06,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0006",
+      "start_sec": 884.06,
+      "end_sec": 1154.38,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0007",
+      "start_sec": 1154.38,
+      "end_sec": 1341.76,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0008",
+      "start_sec": 1341.76,
+      "end_sec": 1484.78,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0009",
+      "start_sec": 1484.78,
+      "end_sec": 1650.18,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0010",
+      "start_sec": 1650.18,
+      "end_sec": 1788.01,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0011",
+      "start_sec": 1788.01,
+      "end_sec": 1982.93,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0012",
+      "start_sec": 1982.93,
+      "end_sec": 2128.28,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0013",
+      "start_sec": 2128.28,
+      "end_sec": 2435.12,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0014",
+      "start_sec": 2435.12,
+      "end_sec": 2556.24,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0015",
+      "start_sec": 2556.24,
+      "end_sec": 3000.13,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0016",
+      "start_sec": 3000.13,
+      "end_sec": 3256.43,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0017",
+      "start_sec": 3256.43,
+      "end_sec": 3500.631978,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 848,
+    "n_content_tokens": 4355,
+    "n_boundaries": 16,
+    "n_pseudosentences": 217,
+    "n_candidate_gaps": 198,
+    "depth_mean": 0.07090040995167322,
+    "depth_standard_deviation": 0.07997135810794723,
+    "depth_threshold": 0.03091473089769961
+  }
+}

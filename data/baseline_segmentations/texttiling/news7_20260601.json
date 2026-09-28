@@ -1,0 +1,107 @@
+{
+  "schema_version": "news_topic_texttiling_v1",
+  "program_id": "news7_20260601",
+  "method": "texttiling",
+  "duration_sec": 1819.744645,
+  "parameters": {
+    "pseudosentence_tokens": 20,
+    "block_pseudosentences": 10,
+    "cutoff": "HC",
+    "smoothing_radius": 2,
+    "smoothing_rounds": 1,
+    "tokenizer": "SudachiPy mode C"
+  },
+  "boundaries_sec": [
+    316.84,
+    507.33,
+    657.43,
+    714.5,
+    822.82,
+    974.74,
+    1087.0,
+    1354.36,
+    1672.42
+  ],
+  "topics": [
+    {
+      "topic_id": "tt_0001",
+      "start_sec": 0.0,
+      "end_sec": 316.84,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0002",
+      "start_sec": 316.84,
+      "end_sec": 507.33,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0003",
+      "start_sec": 507.33,
+      "end_sec": 657.43,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0004",
+      "start_sec": 657.43,
+      "end_sec": 714.5,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0005",
+      "start_sec": 714.5,
+      "end_sec": 822.82,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0006",
+      "start_sec": 822.82,
+      "end_sec": 974.74,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0007",
+      "start_sec": 974.74,
+      "end_sec": 1087.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0008",
+      "start_sec": 1087.0,
+      "end_sec": 1354.36,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0009",
+      "start_sec": 1354.36,
+      "end_sec": 1672.42,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0010",
+      "start_sec": 1672.42,
+      "end_sec": 1819.744645,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 456,
+    "n_content_tokens": 2375,
+    "n_boundaries": 9,
+    "n_pseudosentences": 118,
+    "n_candidate_gaps": 99,
+    "depth_mean": 0.08433533568668579,
+    "depth_standard_deviation": 0.09587695564856394,
+    "depth_threshold": 0.03639685786240382
+  }
+}

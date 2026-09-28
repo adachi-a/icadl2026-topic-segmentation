@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260622",
+  "duration_sec": 1800.265133,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 8.662655999999998,
+      "end_sec": 196.732656,
+      "domain": "crime_law_justice",
+      "label": "旭川　女子高校生殺害事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 196.732656,
+      "end_sec": 599.782656,
+      "domain": "sport",
+      "label": "サッカーW杯",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 599.782656,
+      "end_sec": 743.022656,
+      "domain": "disaster_accident_emergency",
+      "label": "霧島市で5歳児不明",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 743.022656,
+      "end_sec": 853.652656,
+      "domain": "politics",
+      "label": "スターマー首相　辞意",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 853.652656,
+      "end_sec": 1074.0026560000001,
+      "domain": "politics",
+      "label": "中傷動画めぐる答弁",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1074.0026560000001,
+      "end_sec": 1389.772656,
+      "domain": "politics",
+      "label": "参議院予算委員会",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1389.772656,
+      "end_sec": 1453.0026560000001,
+      "domain": "politics",
+      "label": "国会会期末まで1ヶ月切る",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1453.0026560000001,
+      "end_sec": 1661.882656,
+      "domain": "crime_law_justice",
+      "label": "アメリカ・イランの交渉",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1661.882656,
+      "end_sec": 1789.4926560000001,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

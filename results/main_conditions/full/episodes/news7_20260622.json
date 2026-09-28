@@ -1,0 +1,139 @@
+{
+  "schema_version": "news_topic_episode_eval_v1",
+  "program_id": "news7_20260622",
+  "broadcaster": "news7",
+  "duration_sec": 1820.51,
+  "input_warnings": [],
+  "metrics": {
+    "n_ground_truth": 9,
+    "n_prediction": 16,
+    "topic_count_error": 7,
+    "match_rate": 0.8888888888888888,
+    "mean_iou_matched": 0.8832290448324995,
+    "onset_mae_sec": 9.29999999999998,
+    "offset_mae_sec": 5.118749999999995,
+    "boundary_scores": {
+      "5": {
+        "tolerance_sec": 5.0,
+        "true_positive": 7,
+        "false_positive": 10,
+        "false_negative": 3,
+        "precision": 0.4117647058823529,
+        "recall": 0.7,
+        "f1": 0.5185185185185185
+      },
+      "30": {
+        "tolerance_sec": 30.0,
+        "true_positive": 10,
+        "false_positive": 7,
+        "false_negative": 0,
+        "precision": 0.5882352941176471,
+        "recall": 1.0,
+        "f1": 0.7407407407407407
+      }
+    },
+    "pk": 0.17318757192174913,
+    "window_diff": 0.2474108170310702,
+    "pk_window_sec": 83,
+    "matches": [
+      {
+        "prediction_id": "t001",
+        "ground_truth_id": "t001",
+        "iou": 0.9456196418607012,
+        "onset_error_sec": -9.059999999999999,
+        "offset_error_sec": -1.6599999999999966
+      },
+      {
+        "prediction_id": "t002",
+        "ground_truth_id": "t002",
+        "iou": 0.9946134268982727,
+        "onset_error_sec": -1.6599999999999966,
+        "offset_error_sec": -0.5199999999999818
+      },
+      {
+        "prediction_id": "t003",
+        "ground_truth_id": "t003",
+        "iou": 0.9659154145798555,
+        "onset_error_sec": -0.5199999999999818,
+        "offset_error_sec": -4.3799999999999955
+      },
+      {
+        "prediction_id": "t004",
+        "ground_truth_id": "t004",
+        "iou": 0.95852534562212,
+        "onset_error_sec": -4.3799999999999955,
+        "offset_error_sec": -0.38999999999998636
+      },
+      {
+        "prediction_id": "t005",
+        "ground_truth_id": "t005",
+        "iou": 0.9903506387605328,
+        "onset_error_sec": -0.38999999999998636,
+        "offset_error_sec": -1.740000000000009
+      },
+      {
+        "prediction_id": "t013",
+        "ground_truth_id": "t007",
+        "iou": 0.42907717724805167,
+        "onset_error_sec": -21.50999999999999,
+        "offset_error_sec": -26.87000000000012
+      },
+      {
+        "prediction_id": "t015",
+        "ground_truth_id": "t008",
+        "iou": 0.8234392952891617,
+        "onset_error_sec": 35.25999999999999,
+        "offset_error_sec": -1.6199999999998909
+      },
+      {
+        "prediction_id": "t016",
+        "ground_truth_id": "t009",
+        "iou": 0.958291418401301,
+        "onset_error_sec": -1.6199999999998909,
+        "offset_error_sec": -3.769999999999982
+      }
+    ],
+    "unmatched_prediction_ids": [
+      "t006",
+      "t007",
+      "t008",
+      "t009",
+      "t010",
+      "t011",
+      "t012",
+      "t014"
+    ],
+    "unmatched_ground_truth_ids": [
+      "t006"
+    ]
+  },
+  "errors": [
+    {
+      "kind": "over_split",
+      "prediction_ids": [
+        "t006",
+        "t007",
+        "t008",
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "ground_truth_ids": [
+        "t006"
+      ],
+      "detail": "multiple prediction spans are mostly contained in one ground-truth topic"
+    },
+    {
+      "kind": "over_split",
+      "prediction_ids": [
+        "t014",
+        "t015"
+      ],
+      "ground_truth_ids": [
+        "t008"
+      ],
+      "detail": "multiple prediction spans are mostly contained in one ground-truth topic"
+    }
+  ]
+}

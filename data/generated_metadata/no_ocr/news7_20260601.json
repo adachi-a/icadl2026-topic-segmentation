@@ -1,0 +1,205 @@
+{
+  "program_id": "news7_20260601",
+  "source_ts_path": "media-not-distributed/news7_20260601.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 19.89,
+      "end_sec": 742.44,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "台風6号が沖縄本島に最接近",
+      "summary": "台風6号が沖縄本島地方に最接近し、沖縄や奄美で暴風、倒木、けが人、停電、交通への影響が出ていると伝えた。奄美や九州南部では線状降水帯発生のおそれがあり、西日本・東日本でも大雨や暴風への警戒が必要だとして、進路や雨量予想、新しい防災気象情報、避難行動の目安を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 742.44,
+      "end_sec": 816.22,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "埼玉・川口で男女2人死亡 殺人事件として捜査",
+      "summary": "埼玉県川口市の住宅から男の声で「ケアマネージャーの女性を包丁で刺した」「これから自分も刺す」と110番通報があり、住宅内で住人の男と女性が血を流して倒れているのが見つかり、その後死亡が確認された。警察は住人の男が訪問したケアマネージャーの女性を刺したあと自殺を図ったとみて、殺人事件として調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 816.22,
+      "end_sec": 993.29,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "中東情勢の影響が株価や生活用品に波及",
+      "summary": "中東情勢によるインクや石油由来資材の調達不安を受け、大手菓子メーカーが一部商品のパッケージを白黒に切り替えたほか、保冷剤やごみ袋の不足、指定ごみ袋の購入制限や値上げが伝えられた。日経平均株価は一時初めて6万7000円台をつけた一方、市場全体では7割を超える銘柄が値下がりした。高市首相は石油製品の安定供給に向け地域の実態把握に努める考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 993.29,
+      "end_sec": 1113.68,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン情勢めぐる覚書とイスラエルの動き",
+      "summary": "停戦延長と核問題協議を盛り込む覚書をめぐり、両国の担当者が暫定的に一致したとされる一方、トランプ大統領が修正を求めたと伝えられた。CBSテレビはホルムズ海峡や高濃縮ウランの処分に関する比較的大きな変更が含まれると報道した。さらにイスラエル軍がレバノン南部のボーフォート城を攻略したとし、ネタニヤフ首相がヒズボラ拠点への攻撃を軍に指示したことも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1113.68,
+      "end_sec": 1367.97,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "education"
+      ],
+      "title": "企業の採用活動開始 学生優位の売り手市場で変化",
+      "summary": "来年春に卒業する大学生などを対象にした企業の採用活動が、政府のルールでは始まった。学生優位の売り手市場が続く中、大阪の住宅メーカーが食堂で最終面接を行う例、IT企業がAI面接官を導入して面接人数を増やす例、地方銀行や作業着チェーン店が内定辞退に備えた取り組みを進める例を紹介した。採用活動の前倒しで、先月1日時点で67％の学生が内々定を取得したとの調査も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1367.97,
+      "end_sec": 1565.33,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "politics",
+        "society"
+      ],
+      "title": "辺野古沖事故めぐる文科省判断が波紋",
+      "summary": "沖縄県名護市辺野古沖で船が転覆し高校生などが死亡した事故をめぐり、文部科学省が高校の教育内容について政治的中立性を定めた教育基本法に違反すると異例の判断をしたことを伝えた。学校現場では政治的テーマを扱うことへの萎縮や、修学旅行の見学先を辺野古から嘉手納基地周辺へ変更する動きが出ていると紹介し、主権者教育や政治的中立性の確保について専門家や教員の受け止めを取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1565.33,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "補正予算案 5日に緊急上程で合意",
+      "summary": "今年度の補正予算案をめぐり、参議院自民党の磯崎参議院国会対策委員長と立憲民主党の斎藤国会対策委員長が会談し、今週5日に参議院予算委員会で質疑や採決を行ったうえで、その日のうちに本会議へ緊急上程することで合意した。補正予算案は、参議院で否決された場合でも憲法の規定により衆議院の議決が優先されるため、成立する公算が大きいと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1620.0,
+      "end_sec": 1663.03,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "名古屋のマイクロバス死亡事故で勤務先など捜索",
+      "summary": "名古屋市の交差点でマイクロバスにはねられて男女2人が死亡した事故で、逮捕された酒井照也容疑者について、警察が運転手の勤務先のスイミングスクールと自宅を過失運転致死とひき逃げの疑いで捜索した。捜査関係者によると、ドライブレコーダー映像から運転手は時速30キロ以下で2人をはねた疑いがあるという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1663.03,
+      "end_sec": 1680.76,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "高市首相がイラン大統領と電話会談",
+      "summary": "入ったばかりのニュースとして、高市総理大臣が午後7時前から約15分間、イランのペゼシュキアン大統領と電話で会談したと伝えた。アメリカとイランの間の協議などについて意見を交わしたものとみられる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1680.76,
+      "end_sec": 1801.26,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "気象情報 台風6号と各地の大雨・暴風見通し",
+      "summary": "気象情報として、台風6号が沖縄本島に接近し、奄美地方へ進んだあと本州の太平洋沿岸を進む見込みだと伝えた。沖縄・奄美では暴風や非常に激しい雨、宮崎県や鹿児島県では線状降水帯発生のおそれがあり、九州から近畿、東海、関東にかけても大雨や暴風、交通への影響に注意するよう呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "nonedit_001",
+      "start_sec": 0.0,
+      "end_sec": 16.85,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース7本編前の天気画面とNHK NEWSタイトル画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_002",
+      "start_sec": 16.85,
+      "end_sec": 19.89,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "NHK NEWSロゴのオープニングから番組冒頭のあいさつ。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_003",
+      "start_sec": 1801.26,
+      "end_sec": 1802.37,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "気象情報後の番組終盤の見出し画面と次内容へのつなぎ。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_004",
+      "start_sec": 1802.37,
+      "end_sec": 1819.74,
+      "non_editorial_kind": "program_promo",
+      "summary": "東京・新大久保を舞台にした次番組・別コーナーの紹介画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

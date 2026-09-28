@@ -1,0 +1,358 @@
+{
+  "program_id": "wbs_20260616",
+  "source_ts_path": "media-not-distributed/wbs_20260616.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 35.87,
+      "end_sec": 324.45,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "日経平均が一時7万円を突破",
+      "summary": "東京株式市場で日経平均株価が史上初めて一時7万円台に到達した。AI・半導体関連株の上昇や原油価格への懸念後退、海外投資家の買いが背景として説明され、個人投資家に恩恵が及びにくい構図も指摘された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 327.98,
+      "end_sec": 1003.04,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "日銀が政策金利を1.0％程度に引き上げ",
+      "summary": "日銀は金融政策決定会合で政策金利を0.75％程度から1.0％程度に引き上げた。植田総裁が欠席し内田副総裁が会見した異例の形で、国債買い入れ減額の停止も発表。元日銀審議委員らは今後の利上げ時期や円安、FRBの政策の影響を分析した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 1003.47,
+      "end_sec": 1320.92,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "economy_business_finance"
+      ],
+      "title": "G7サミット開幕、中東情勢と重要鉱物備蓄を議論",
+      "summary": "フランスでG7サミットが開幕し、アメリカとイランの戦闘終結合意を受けて中東情勢が主要テーマとなった。高市総理はレアアースなど重要鉱物の共同備蓄連携構想を提案し、トランプ大統領とも短時間会談したと伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 1320.92,
+      "end_sec": 1331.66,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "日銀ニュースの字幕誤りを訂正",
+      "summary": "番組は、先ほど伝えた日銀の利上げニュースで字幕に誤りがあったとして、正しい内容を示し訂正して謝罪した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1331.66,
+      "end_sec": 1613.77,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "配車アプリGOが上場、成長投資の方針",
+      "summary": "タクシー配車アプリ大手のGOが東証グロース市場に上場し、国内で今年最大のIPOになった。中島宏社長は単独取材で、自動運転、物流DX、EVタクシーや急速充電網への投資方針を語った。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1626.66,
+      "end_sec": 1680.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "ソフトバンクGがAI悪用対策のサイバーセキュリティーサービス",
+      "summary": "ソフトバンクグループは、OpenAIなどの技術を使い、最先端AIの悪用を念頭に置いたサイバーセキュリティー対策サービスを始めると発表した。重要インフラを扱う3000社を対象に本格展開を目指す。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1680.0,
+      "end_sec": 1716.79,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [],
+      "title": "群馬県と埼玉県で震度5弱",
+      "summary": "気象庁によると、午後7時46分ごろ群馬県と埼玉県で震度5弱の揺れを観測した。津波の心配はなく、震源は茨城県南部、マグニチュードは5.5と推定された。JR東日本の新幹線は一時運転を見合わせた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1716.79,
+      "end_sec": 1740.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "アイスクリーム価格カルテル疑いで6社に立ち入り検査",
+      "summary": "公正取引委員会は、アイスクリームの価格をめぐりカルテルを結んだ疑いがあるとして、明治や森永乳業など6社に独占禁止法違反の疑いで立ち入り検査を行った。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1740.0,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "富士通の古田英範会長が辞任",
+      "summary": "富士通は古田英範会長が辞任したと発表した。女性に関連する不適切な行動が確認され、古田氏が辞任を申し出たという。取締役再任案も撤回され、後任会長は未定とされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1800.0,
+      "end_sec": 1860.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "NVIDIAが社債で250億ドル調達",
+      "summary": "アメリカの半導体大手NVIDIAが5年ぶりに社債を発行し、250億ドルを調達したと報じられた。AIブームを背景に投資家需要が強く、資金調達の広がりについてスタジオで解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_011",
+      "start_sec": 2013.95,
+      "end_sec": 2280.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "中古マンション価格に下落の兆し",
+      "summary": "日銀の利上げによる住宅ローン金利上昇の可能性を背景に、上昇が続いたマンション価格の変化を取材。都心の中古マンションを検討する購入希望者や、不動産市場関係者の見方を通じ、湾岸エリアなどで価格調整や値下げが起きていることを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_012",
+      "start_sec": 2386.38,
+      "end_sec": 2580.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "マンション高騰で戸建て住宅需要が拡大",
+      "summary": "マンション価格の高騰を受け、戸建て住宅への関心が高まっている。オープンハウスの販売好調や、住友不動産が戸建て新ブランドを立ち上げた動きなどを紹介し、割安感や広い居住空間への需要を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_013",
+      "start_sec": 2703.7,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "米空軍B52爆撃機が墜落、8人死亡",
+      "summary": "アメリカ空軍のB52戦略爆撃機がカリフォルニア州の空軍基地を離陸直後に墜落し、乗っていた8人全員が死亡した。墜落機は定期的な試験飛行中で、詳しい原因はわかっていない。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_014",
+      "start_sec": 2760.0,
+      "end_sec": 2769.81,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "中国・習主席がミャンマー親軍政権トップと会談",
+      "summary": "中国の習近平国家主席は、ミャンマーの親軍政権で大統領を務めるミンアウンフライン氏と北京で会談し、関係強化に意欲を示した。中国は欧米と一線を画し、親軍政権と連帯する姿勢を示していると伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_015",
+      "start_sec": 2769.81,
+      "end_sec": 2820.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "EUがウクライナとモルドバの加盟交渉を開始",
+      "summary": "EUはウクライナとモルドバの加盟に向けた本格交渉を開始した。反対してきたハンガリーの政権交代で手続きが進み、加盟には全加盟国の同意が必要で交渉は少なくとも数年かかる見通しとされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_016",
+      "start_sec": 2924.72,
+      "end_sec": 3060.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "為替・商品とニューヨーク株式市場",
+      "summary": "現在のマーケットとして、ドル円、ニューヨーク原油先物、ニューヨーク株式市場の動きを確認。ダウは取引時間中の最高値を更新中とされ、スペースX株価の上昇やAI企業の上場観測についても解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_017",
+      "start_sec": 3242.44,
+      "end_sec": 3300.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "health"
+      ],
+      "title": "シャープが摂取カロリー測定ウォッチで市場参入",
+      "summary": "シャープは、食事の摂取カロリーを自動で測定する「からだメイトWatch」を7月に発売し、スマートウォッチ市場に参入すると発表した。水分移動や糖の変化から摂取カロリーを推定し、消費カロリーや水分補給を促す機能も搭載する。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_018",
+      "start_sec": 3300.0,
+      "end_sec": 3332.96,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice"
+      ],
+      "title": "国旗損壊罪創設法案を4党が共同提出",
+      "summary": "自民党、日本維新の会、国民民主党、参政党の4党は、国旗損壊罪を創設する法案を国会に共同提出した。SNS投稿行為を処罰対象から外すなど修正を加えたことで、今国会で成立する公算が大きくなったと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_019",
+      "start_sec": 3332.96,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "明日の注目ニュース、ウォーシュ新議長下のFOMC初日",
+      "summary": "明日の注目ニュースとして、アメリカの金融政策を決めるFOMC初日を取り上げた。ウォーシュ新議長のもとで初のFOMCで、政策は現状維持が確実視される一方、トランプ大統領の利下げ要求やインフレ圧力を背景に会見が注目されると解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne_001",
+      "start_sec": 0.0,
+      "end_sec": 35.87,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "冒頭の提供・商品名を含む導入と番組開始前後の表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_002",
+      "start_sec": 1860.0,
+      "end_sec": 2013.95,
+      "non_editorial_kind": "commercial",
+      "summary": "提供表示、スポンサーCM、番組宣伝を含む広告区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_003",
+      "start_sec": 2280.0,
+      "end_sec": 2386.38,
+      "non_editorial_kind": "commercial",
+      "summary": "スポンサーCMと番組宣伝を含む広告区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_004",
+      "start_sec": 2580.0,
+      "end_sec": 2703.7,
+      "non_editorial_kind": "commercial",
+      "summary": "スポンサーCM、番組関連告知を含む広告区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_005",
+      "start_sec": 2820.0,
+      "end_sec": 2924.72,
+      "non_editorial_kind": "commercial",
+      "summary": "スポンサーCMの広告区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_006",
+      "start_sec": 3060.0,
+      "end_sec": 3242.44,
+      "non_editorial_kind": "commercial",
+      "summary": "スポンサーCM、提供終了表示を含む広告区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_007",
+      "start_sec": 3360.0,
+      "end_sec": 3500.109978,
+      "non_editorial_kind": "ambiguous",
+      "summary": "番組終了後の宣伝・広告区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260517",
+  "duration_sec": 1800.265133,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 8.504088999999999,
+      "end_sec": 101.414089,
+      "domain": "disaster_accident_emergency",
+      "label": "広島で山林火災",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 101.414089,
+      "end_sec": 446.93408900000003,
+      "domain": "crime_law_justice",
+      "label": "強盗殺人事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 446.93408900000003,
+      "end_sec": 873.554089,
+      "domain": "conflict_war_peace",
+      "label": "イラン情勢",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 873.554089,
+      "end_sec": 903.634089,
+      "domain": "crime_law_justice",
+      "label": "強盗殺人事件、指示役を逮捕",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 903.634089,
+      "end_sec": 1108.914089,
+      "domain": "weather",
+      "label": "各地で気温上昇",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1108.914089,
+      "end_sec": 1202.0740890000002,
+      "domain": "human_interest",
+      "label": "両陛下、植樹祭に出席",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1202.0740890000002,
+      "end_sec": 1324.654089,
+      "domain": "conflict_war_peace",
+      "label": "モスクワ郊外に無人機攻撃",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1324.654089,
+      "end_sec": 1364.734089,
+      "domain": "disaster_accident_emergency",
+      "label": "広島で山林火災",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1364.734089,
+      "end_sec": 1408.164089,
+      "domain": "disaster_accident_emergency",
+      "label": "登山中にクマに襲われけが",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1408.164089,
+      "end_sec": 1458.3840890000001,
+      "domain": "conflict_war_peace",
+      "label": "イスラエル軍、ハマス軍事部門トップを殺害",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1458.3840890000001,
+      "end_sec": 1566.784089,
+      "domain": "sport",
+      "label": "大相撲夏場所",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1566.784089,
+      "end_sec": 1673.784089,
+      "domain": "sport",
+      "label": "体操NHK杯",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 1673.784089,
+      "end_sec": 1791.6340890000001,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

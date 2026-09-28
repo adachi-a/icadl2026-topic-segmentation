@@ -1,0 +1,896 @@
+{
+  "schema_version": "fixed_prediction_public_release_manifest_v1",
+  "programs": [
+    {
+      "program_id": "news7_20260507",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260507.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260507.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260507.json",
+      "logical_start_sec": 12.090644,
+      "logical_duration_sec": 1799.7646329999998
+    },
+    {
+      "program_id": "news7_20260517",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260517.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260517.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260517.json",
+      "logical_start_sec": 11.805911,
+      "logical_duration_sec": 1800.265133
+    },
+    {
+      "program_id": "news7_20260522",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260522.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260522.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260522.json",
+      "logical_start_sec": 11.682412,
+      "logical_duration_sec": 1800.2651329999999
+    },
+    {
+      "program_id": "news7_20260526",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260526.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260526.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260526.json",
+      "logical_start_sec": 11.343911,
+      "logical_duration_sec": 1799.764633
+    },
+    {
+      "program_id": "news7_20260601",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260601.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260601.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260601.json",
+      "logical_start_sec": 11.471512,
+      "logical_duration_sec": 1799.764633
+    },
+    {
+      "program_id": "news7_20260605",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260605.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260605.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260605.json",
+      "logical_start_sec": 11.503344,
+      "logical_duration_sec": 1800.265133
+    },
+    {
+      "program_id": "news7_20260614",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260614.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260614.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260614.json",
+      "logical_start_sec": 11.593278,
+      "logical_duration_sec": 1799.764634
+    },
+    {
+      "program_id": "news7_20260619",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260619.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260619.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260619.json",
+      "logical_start_sec": 11.684211,
+      "logical_duration_sec": 1800.265133
+    },
+    {
+      "program_id": "news7_20260622",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260622.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260622.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260622.json",
+      "logical_start_sec": 11.737344,
+      "logical_duration_sec": 1800.265133
+    },
+    {
+      "program_id": "news7_20260627",
+      "group": "news7",
+      "recording_gt_path": "data/ground_truth/recording_time/news7_20260627.json",
+      "logical_gt_path": "data/ground_truth/logical_time/news7_20260627.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/news7_20260627.json",
+      "logical_start_sec": 11.689878,
+      "logical_duration_sec": 1797.860411
+    },
+    {
+      "program_id": "wbs_20260507",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260507.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260507.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260507.json",
+      "logical_start_sec": 11.945267,
+      "logical_duration_sec": 3404.868133
+    },
+    {
+      "program_id": "wbs_20260514",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260514.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260514.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260514.json",
+      "logical_start_sec": 11.578233,
+      "logical_duration_sec": 3404.868134
+    },
+    {
+      "program_id": "wbs_20260522",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260522.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260522.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260522.json",
+      "logical_start_sec": 11.778433,
+      "logical_duration_sec": 3400.3636340000003
+    },
+    {
+      "program_id": "wbs_20260527",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260527.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260527.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260527.json",
+      "logical_start_sec": 11.277933,
+      "logical_duration_sec": 3419.883134
+    },
+    {
+      "program_id": "wbs_20260601",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260601.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260601.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260601.json",
+      "logical_start_sec": 12.045367,
+      "logical_duration_sec": 3389.8531329999996
+    },
+    {
+      "program_id": "wbs_20260605",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260605.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260605.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260605.json",
+      "logical_start_sec": 12.445767,
+      "logical_duration_sec": 3370.3336329999997
+    },
+    {
+      "program_id": "wbs_20260610",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260610.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260610.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260610.json",
+      "logical_start_sec": 10.977633,
+      "logical_duration_sec": 3389.853134
+    },
+    {
+      "program_id": "wbs_20260616",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260616.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260616.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260616.json",
+      "logical_start_sec": 10.877533,
+      "logical_duration_sec": 3390.353634
+    },
+    {
+      "program_id": "wbs_20260622",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260622.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260622.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260622.json",
+      "logical_start_sec": 11.678333,
+      "logical_duration_sec": 3389.853134
+    },
+    {
+      "program_id": "wbs_20260625",
+      "group": "wbs",
+      "recording_gt_path": "data/ground_truth/recording_time/wbs_20260625.json",
+      "logical_gt_path": "data/ground_truth/logical_time/wbs_20260625.json",
+      "end_annotation_path": "data/ground_truth/end_boundaries/wbs_20260625.json",
+      "logical_start_sec": 11.845167,
+      "logical_duration_sec": 3374.838133
+    }
+  ],
+  "inputs": [
+    {
+      "program_id": "news7_20260507",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260507.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260507.json"
+    },
+    {
+      "program_id": "news7_20260507",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260507.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260507.json"
+    },
+    {
+      "program_id": "news7_20260507",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260507.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260507.json"
+    },
+    {
+      "program_id": "news7_20260507",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260507.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260507.json"
+    },
+    {
+      "program_id": "news7_20260507",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260507.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260507.json"
+    },
+    {
+      "program_id": "news7_20260517",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260517.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260517.json"
+    },
+    {
+      "program_id": "news7_20260517",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260517.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260517.json"
+    },
+    {
+      "program_id": "news7_20260517",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260517.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260517.json"
+    },
+    {
+      "program_id": "news7_20260517",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260517.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260517.json"
+    },
+    {
+      "program_id": "news7_20260517",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260517.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260517.json"
+    },
+    {
+      "program_id": "news7_20260522",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260522.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260522.json"
+    },
+    {
+      "program_id": "news7_20260522",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260522.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260522.json"
+    },
+    {
+      "program_id": "news7_20260522",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260522.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260522.json"
+    },
+    {
+      "program_id": "news7_20260522",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260522.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260522.json"
+    },
+    {
+      "program_id": "news7_20260522",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260522.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260522.json"
+    },
+    {
+      "program_id": "news7_20260526",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260526.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260526.json"
+    },
+    {
+      "program_id": "news7_20260526",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260526.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260526.json"
+    },
+    {
+      "program_id": "news7_20260526",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260526.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260526.json"
+    },
+    {
+      "program_id": "news7_20260526",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260526.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260526.json"
+    },
+    {
+      "program_id": "news7_20260526",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260526.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260526.json"
+    },
+    {
+      "program_id": "news7_20260601",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260601.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260601.json"
+    },
+    {
+      "program_id": "news7_20260601",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260601.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260601.json"
+    },
+    {
+      "program_id": "news7_20260601",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260601.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260601.json"
+    },
+    {
+      "program_id": "news7_20260601",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260601.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260601.json"
+    },
+    {
+      "program_id": "news7_20260601",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260601.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260601.json"
+    },
+    {
+      "program_id": "news7_20260605",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260605.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260605.json"
+    },
+    {
+      "program_id": "news7_20260605",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260605.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260605.json"
+    },
+    {
+      "program_id": "news7_20260605",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260605.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260605.json"
+    },
+    {
+      "program_id": "news7_20260605",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260605.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260605.json"
+    },
+    {
+      "program_id": "news7_20260605",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260605.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260605.json"
+    },
+    {
+      "program_id": "news7_20260614",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260614.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260614.json"
+    },
+    {
+      "program_id": "news7_20260614",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260614.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260614.json"
+    },
+    {
+      "program_id": "news7_20260614",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260614.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260614.json"
+    },
+    {
+      "program_id": "news7_20260614",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260614.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260614.json"
+    },
+    {
+      "program_id": "news7_20260614",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260614.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260614.json"
+    },
+    {
+      "program_id": "news7_20260619",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260619.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260619.json"
+    },
+    {
+      "program_id": "news7_20260619",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260619.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260619.json"
+    },
+    {
+      "program_id": "news7_20260619",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260619.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260619.json"
+    },
+    {
+      "program_id": "news7_20260619",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260619.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260619.json"
+    },
+    {
+      "program_id": "news7_20260619",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260619.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260619.json"
+    },
+    {
+      "program_id": "news7_20260622",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260622.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260622.json"
+    },
+    {
+      "program_id": "news7_20260622",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260622.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260622.json"
+    },
+    {
+      "program_id": "news7_20260622",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260622.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260622.json"
+    },
+    {
+      "program_id": "news7_20260622",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260622.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260622.json"
+    },
+    {
+      "program_id": "news7_20260622",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260622.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260622.json"
+    },
+    {
+      "program_id": "news7_20260627",
+      "group": "news7",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/news7_20260627.json",
+      "metadata_path": "data/generated_metadata/full/news7_20260627.json"
+    },
+    {
+      "program_id": "news7_20260627",
+      "group": "news7",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/news7_20260627.json",
+      "metadata_path": "data/generated_metadata/no_vlm/news7_20260627.json"
+    },
+    {
+      "program_id": "news7_20260627",
+      "group": "news7",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/news7_20260627.json",
+      "metadata_path": "data/generated_metadata/no_transcript/news7_20260627.json"
+    },
+    {
+      "program_id": "news7_20260627",
+      "group": "news7",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/news7_20260627.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/news7_20260627.json"
+    },
+    {
+      "program_id": "news7_20260627",
+      "group": "news7",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/news7_20260627.json",
+      "metadata_path": "data/generated_metadata/no_ocr/news7_20260627.json"
+    },
+    {
+      "program_id": "wbs_20260507",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260507.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260507.json"
+    },
+    {
+      "program_id": "wbs_20260507",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260507.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260507.json"
+    },
+    {
+      "program_id": "wbs_20260507",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260507.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260507.json"
+    },
+    {
+      "program_id": "wbs_20260507",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260507.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260507.json"
+    },
+    {
+      "program_id": "wbs_20260507",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260507.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260507.json"
+    },
+    {
+      "program_id": "wbs_20260514",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260514.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260514.json"
+    },
+    {
+      "program_id": "wbs_20260514",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260514.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260514.json"
+    },
+    {
+      "program_id": "wbs_20260514",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260514.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260514.json"
+    },
+    {
+      "program_id": "wbs_20260514",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260514.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260514.json"
+    },
+    {
+      "program_id": "wbs_20260514",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260514.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260514.json"
+    },
+    {
+      "program_id": "wbs_20260522",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260522.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260522.json"
+    },
+    {
+      "program_id": "wbs_20260522",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260522.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260522.json"
+    },
+    {
+      "program_id": "wbs_20260522",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260522.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260522.json"
+    },
+    {
+      "program_id": "wbs_20260522",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260522.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260522.json"
+    },
+    {
+      "program_id": "wbs_20260522",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260522.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260522.json"
+    },
+    {
+      "program_id": "wbs_20260527",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260527.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260527.json"
+    },
+    {
+      "program_id": "wbs_20260527",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260527.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260527.json"
+    },
+    {
+      "program_id": "wbs_20260527",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260527.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260527.json"
+    },
+    {
+      "program_id": "wbs_20260527",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260527.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260527.json"
+    },
+    {
+      "program_id": "wbs_20260527",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260527.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260527.json"
+    },
+    {
+      "program_id": "wbs_20260601",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260601.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260601.json"
+    },
+    {
+      "program_id": "wbs_20260601",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260601.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260601.json"
+    },
+    {
+      "program_id": "wbs_20260601",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260601.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260601.json"
+    },
+    {
+      "program_id": "wbs_20260601",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260601.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260601.json"
+    },
+    {
+      "program_id": "wbs_20260601",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260601.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260601.json"
+    },
+    {
+      "program_id": "wbs_20260605",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260605.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260605.json"
+    },
+    {
+      "program_id": "wbs_20260605",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260605.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260605.json"
+    },
+    {
+      "program_id": "wbs_20260605",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260605.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260605.json"
+    },
+    {
+      "program_id": "wbs_20260605",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260605.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260605.json"
+    },
+    {
+      "program_id": "wbs_20260605",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260605.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260605.json"
+    },
+    {
+      "program_id": "wbs_20260610",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260610.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260610.json"
+    },
+    {
+      "program_id": "wbs_20260610",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260610.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260610.json"
+    },
+    {
+      "program_id": "wbs_20260610",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260610.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260610.json"
+    },
+    {
+      "program_id": "wbs_20260610",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260610.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260610.json"
+    },
+    {
+      "program_id": "wbs_20260610",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260610.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260610.json"
+    },
+    {
+      "program_id": "wbs_20260616",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260616.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260616.json"
+    },
+    {
+      "program_id": "wbs_20260616",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260616.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260616.json"
+    },
+    {
+      "program_id": "wbs_20260616",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260616.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260616.json"
+    },
+    {
+      "program_id": "wbs_20260616",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260616.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260616.json"
+    },
+    {
+      "program_id": "wbs_20260616",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260616.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260616.json"
+    },
+    {
+      "program_id": "wbs_20260622",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260622.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260622.json"
+    },
+    {
+      "program_id": "wbs_20260622",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260622.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260622.json"
+    },
+    {
+      "program_id": "wbs_20260622",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260622.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260622.json"
+    },
+    {
+      "program_id": "wbs_20260622",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260622.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260622.json"
+    },
+    {
+      "program_id": "wbs_20260622",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260622.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260622.json"
+    },
+    {
+      "program_id": "wbs_20260625",
+      "group": "wbs",
+      "condition": "full",
+      "segmentation_path": "data/segmentations/full/wbs_20260625.json",
+      "metadata_path": "data/generated_metadata/full/wbs_20260625.json"
+    },
+    {
+      "program_id": "wbs_20260625",
+      "group": "wbs",
+      "condition": "no_vlm",
+      "segmentation_path": "data/segmentations/no_vlm/wbs_20260625.json",
+      "metadata_path": "data/generated_metadata/no_vlm/wbs_20260625.json"
+    },
+    {
+      "program_id": "wbs_20260625",
+      "group": "wbs",
+      "condition": "no_transcript",
+      "segmentation_path": "data/segmentations/no_transcript/wbs_20260625.json",
+      "metadata_path": "data/generated_metadata/no_transcript/wbs_20260625.json"
+    },
+    {
+      "program_id": "wbs_20260625",
+      "group": "wbs",
+      "condition": "no_vlm_no_ocr",
+      "segmentation_path": "data/segmentations/no_vlm_no_ocr/wbs_20260625.json",
+      "metadata_path": "data/generated_metadata/no_vlm_no_ocr/wbs_20260625.json"
+    },
+    {
+      "program_id": "wbs_20260625",
+      "group": "wbs",
+      "condition": "no_ocr",
+      "segmentation_path": "data/segmentations/no_ocr/wbs_20260625.json",
+      "metadata_path": "data/generated_metadata/no_ocr/wbs_20260625.json"
+    }
+  ],
+  "n_topics": 265,
+  "n_unique_boundaries": 342,
+  "tolerances_sec": [
+    5.0,
+    30.0
+  ],
+  "bootstrap_samples": 1000,
+  "bootstrap_seed": 42,
+  "note": "Released prediction files are boundary-preserving curated derivatives of the frozen files."
+}

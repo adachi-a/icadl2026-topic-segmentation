@@ -1,0 +1,190 @@
+{
+  "program_id": "news7_20260605",
+  "source_ts_path": "media-not-distributed/news7_20260605.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 41.0,
+      "end_sec": 352.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "安定的な皇位継承を巡る取りまとめ案",
+      "summary": "安定的な皇位継承を巡り、衆参両院の議長・副議長が合意した取りまとめ案の内容が明らかになった。女性皇族が結婚後も皇室に残る案と、旧皇族の男系男子を養子に迎える案をいずれも了承するとし、来週8日に各党・各会派へ報告する方針だと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 352.0,
+      "end_sec": 572.0,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "environment",
+        "disaster_accident_emergency"
+      ],
+      "title": "各地でクマの出没が相次ぐ",
+      "summary": "福島市で事業所から逃げたとみられるクマの行方が分からず、周辺で目撃が相次いでいる。小学校は安全を確認して再開し、福島市は24時間態勢で警戒している。東北6県では4月と5月のクマ出没情報が3000件近くに達し、前年同期の2.2倍に増え、人身被害も増えていると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 572.0,
+      "end_sec": 827.5,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [],
+      "title": "栃木県の強盗殺人事件で公開手配中の容疑者を巡る証言",
+      "summary": "栃木県上三川町で親子3人が死傷した強盗殺人事件を主導したとして公開手配されている益田和彦容疑者について、元妻がNHKの取材に応じた。元妻は、公開手配までの間に容疑者とは知らず電話などでやり取りしていたと明かし、元同僚も容疑者の勤務歴や東南アジアでの仕事を巡る話を証言した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 827.5,
+      "end_sec": 997.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "中東情勢の影響で商品包装を簡素化する動き",
+      "summary": "中東情勢や原材料価格・物流費の上昇を受け、企業が商品パッケージの色数を減らしたり、素材や箱の大きさを見直したりする動きを伝えた。カントリーマアム、伊藤ハム、ファミリーマート、ドン・キホーテなどの例を挙げ、コスト削減やリスクヘッジの取り組みを紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 997.0,
+      "end_sec": 1120.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン情勢とレバノン停戦を巡る懸念",
+      "summary": "イラン情勢の懸念の一つとしてレバノンを取り上げた。アメリカがイスラエルとレバノンの停戦履行合意を発表した一方で、イスラエルは南部でのヒズボラへの軍事作戦継続の考えを示し、ヒズボラも合意に反発していると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1120.0,
+      "end_sec": 1207.51,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "補正予算の財源とエネルギー対応を巡る国会質疑",
+      "summary": "中東情勢を受けた今年度の補正予算について、参議院予算委員会で財源や国民への節約呼びかけを巡る質疑が行われた。高市総理は石油製品の代替調達や十分な供給量に触れ、節約要請は経済活動や国民生活にブレーキをかけかねないと述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1207.51,
+      "end_sec": 1288.19,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "消費税を巡る国会質疑",
+      "summary": "超党派の国民会議や消費税のあり方を巡り、参政党とれいわ新選組の議員が高市総理に質問した。高市総理は、社会保障のための安定財源として消費税負担が必要だと述べ、食料品の消費税率引き下げについては国民会議で議論中だと説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1288.19,
+      "end_sec": 1379.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "conflict_war_peace"
+      ],
+      "title": "沖縄の船転覆事故などを巡る予算委員会質疑",
+      "summary": "沖縄で船が転覆し、研修旅行中の高校生らが死亡した事故について、国会で質疑が行われた。高市総理は真相解明に向けて関係機関が動いていると述べた。後半では防衛費を巡る質疑にも触れ、必要な予算を確保しつつ持続可能性に配慮して議論するとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1379.0,
+      "end_sec": 1476.47,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "arts_culture_entertainment_media"
+      ],
+      "title": "自民党総裁選を巡る動画報道への国会質疑",
+      "summary": "予算委員会で、先の自民党総裁選挙などに関連し、高市総理の陣営がほかの候補を誹謗中傷する動画を投稿したなどと報じられた件を巡る質疑が行われた。文春オンラインが公開したとする音声データについて、高市総理は確認したと答え、動画の作成者を陣営と決めつけられることは心外だと述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1476.47,
+      "end_sec": 1656.29,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "environment",
+        "science_technology"
+      ],
+      "title": "経済産業省が原発建て替えの必要数の見通しを提示",
+      "summary": "各地の原子力発電所が老朽化する中、経済産業省は2040年代までに最大5基、2050年代までに11基から14基の原発を建て替える必要があるとの見通しを明らかにした。具体的な数値を示すのは初めてで、投資の促進や人材育成につなげたい考えだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1658.0,
+      "end_sec": 1798.41,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "熱帯低気圧による大雨への警戒",
+      "summary": "気象情報では、熱帯低気圧の影響で沖縄・奄美、九州から東海で大雨になるおそれがあると伝えた。先島諸島や奄美、沖縄本島、九州南部で激しい雨が予想され、日曜日から月曜日にかけて九州から東海、伊豆諸島でも氾濫や浸水、土砂災害への警戒が必要だと説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 1798.41,
+      "end_sec": 1819.776477,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組の締めのあいさつと、続く番組『ネタドリ』の内容紹介。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

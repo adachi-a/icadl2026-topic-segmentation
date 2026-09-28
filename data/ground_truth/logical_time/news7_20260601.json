@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260601",
+  "duration_sec": 1799.764633,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 5.388487999999999,
+      "end_sec": 706.758488,
+      "domain": "disaster_accident_emergency",
+      "label": "台風6号　沖縄本島に最接近",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 731.918488,
+      "end_sec": 805.2384880000001,
+      "domain": "crime_law_justice",
+      "label": "ケアマネ殺害",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 805.2384880000001,
+      "end_sec": 1102.6084879999999,
+      "domain": "economy_business_finance",
+      "label": "中東情勢と国内への影響",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1102.6084879999999,
+      "end_sec": 1356.998488,
+      "domain": "labour",
+      "label": "企業の採用活動開始",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1356.998488,
+      "end_sec": 1575.458488,
+      "domain": "politics",
+      "label": "辺野古沖の高校生死亡事故、政治的中立性",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1575.458488,
+      "end_sec": 1612.0884879999999,
+      "domain": "politics",
+      "label": "補正予算案、5日に緊急上程で合意",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1612.0884879999999,
+      "end_sec": 1652.0884879999999,
+      "domain": "crime_law_justice",
+      "label": "バスでひき逃げ",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1652.0884879999999,
+      "end_sec": 1670.718488,
+      "domain": "politics",
+      "label": "高市首相、イラン大統領と電話会談",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1670.718488,
+      "end_sec": 1791.6184879999998,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

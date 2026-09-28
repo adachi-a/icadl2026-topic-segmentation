@@ -1,0 +1,380 @@
+{
+  "program_id": "wbs_20260601",
+  "source_ts_path": "media-not-distributed/wbs_20260601.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 11.34,
+      "end_sec": 677.38,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "ソフトバンクグループが時価総額首位、フランスにAIデータセンター計画",
+      "summary": "日経平均株価が取引時間中の最高値を更新し、株高を牽引したソフトバンクグループが時価総額でトヨタ自動車を抜き国内首位となった。孫正義会長兼社長はフランスでマクロン大統領と会談し、最大750億ユーロ規模のAI向けデータセンター建設を発表。スタジオではAI関連株への資金集中や時価総額上位企業の変遷を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 696.84,
+      "end_sec": 1078.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "ファミリーマートがATMをセブン銀行に置き換えへ",
+      "summary": "ファミリーマートが都内店舗にセブン銀行のATMを初めて導入し、今後4年程度で全国約1万6000台を置き換える計画を発表した。電子マネーチャージやマイナンバーカードを使った行政サービスなどの機能、運用コスト削減、伊藤忠商事を介した提携の背景、地方銀行での導入例が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1078.0,
+      "end_sec": 1479.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "weather",
+        "health"
+      ],
+      "title": "企業で広がる暑さ・熱中症対策ビジネス",
+      "summary": "関東で今年初の猛暑日となる地点が出る中、小田急電鉄の夏用制服、ユニクロの企業向け機能性ウェア、楽天が注目する暑さ対策グッズ、山善の水冷服や緊急用簡易プールなど、企業の熱中症対策と関連商品の需要拡大を取材した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1479.0,
+      "end_sec": 1528.22,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "アンソロピックの最新AI、3メガバンクにアクセス権付与へ",
+      "summary": "アメリカのアンソロピックが開発した最新型AIのアクセス権が、三菱UFJ銀行など3メガバンクに付与される方向で調整されていることが伝えられた。幹部の来日や、OpenAIの同様の動きも紹介し、サイバーセキュリティ強化への活用が広がっているとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1528.22,
+      "end_sec": 1593.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "世論調査で高市内閣支持率66％、発足以来最低",
+      "summary": "テレビ東京と日本経済新聞社の5月世論調査で、高市内閣を支持すると答えた人は66％となり、4月から3ポイント低下した。支持しない人は28％で、優先してほしい政策課題は物価対策、年金・医療・介護、外交・安全保障が挙がった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1593.0,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン側、米国との戦闘終結に向けた覚書を修正方針",
+      "summary": "イランのタスニム通信が、アメリカとイランの戦闘終結の前段階となる覚書について、イラン側が修正を加える方針だと報じた。修正はアメリカ側の要求を受け入れるものではないとも伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1620.0,
+      "end_sec": 1678.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "パウエル前FRB議長、金融政策の独立性を強調",
+      "summary": "アメリカのFRBのパウエル前議長がボストンで講演し、金融政策の決定について政党や政治家の動向を考慮しないと強調した。政権が意見の異なるFRB高官を解任するような動きに出れば、中央銀行への信認が失われるとも警告した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1678.0,
+      "end_sec": 1680.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "NVIDIA、Windows搭載PC向け半導体を発表",
+      "summary": "アメリカの半導体大手NVIDIAが、マイクロソフトのOS「Windows」を搭載したパソコン向けの半導体を発表した。AIによる動画生成や最新ゲームに対応する高い性能を備えるとされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1680.0,
+      "end_sec": 1740.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "高市総理、イラン大統領に米国との早期合意を要請",
+      "summary": "高市総理大臣がイランのペゼシュキアン大統領と電話会談し、イランとアメリカの戦闘終結に向けた協議について早期の合意を要請した。イラン側からは今後の見通しについて説明があったと伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1898.0,
+      "end_sec": 2460.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "ENEOS宮田社長に聞く原油調達と海外・低炭素戦略",
+      "summary": "WBSの「トップを直撃」でENEOSホールディングスの宮田知秀社長を取り上げた。イラン情勢やホルムズ海峡をめぐる原油調達リスク、中東産原油に適した国内製油所の事情、シェブロンからの東南アジア・オーストラリア事業買収、LNG事業参画、低炭素ソリューションへの投資方針を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne003"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2571.0,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "診療報酬改定、診察料引き上げとキャンセル料徴収が可能に",
+      "summary": "公的医療サービスの価格を定める診療報酬が改定され、患者が負担する診察料などが引き上げられた。都内クリニックの例を紹介し、ワクチン接種や内視鏡検査など予約料を取る診療で、条件を満たせば患者都合の直前キャンセルにキャンセル料を徴収できるようになったと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2861.69,
+      "end_sec": 2880.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "コロンビア大統領選、右派と左派が決選投票へ",
+      "summary": "コロンビアで大統領選挙が行われ、アメリカとの関係改善を目指す右派のアベラルド・デラエスプリエジャ氏と、左派のイバン・セペダ氏が21日の決選投票に進むことになった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2880.0,
+      "end_sec": 2935.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "crime_law_justice"
+      ],
+      "title": "PSG連覇後にフランス各地で一部ファン暴動",
+      "summary": "サッカーのヨーロッパチャンピオンズリーグでパリ・サンジェルマンが2連覇した後、フランス各地で熱狂した一部ファンによる暴動が起き、200人以上がけがをし、およそ800人が拘束されたと伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2880.0,
+      "end_sec": 2935.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "モスクワで卓球フェスティバル、世界記録を目指す",
+      "summary": "ロシア・モスクワで、参加者数の世界記録樹立を目指す卓球フェスティバルが開かれた。およそ7000人の選手が集まり、200台の卓球台を使って一斉に試合が行われた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2935.0,
+      "end_sec": 2970.53,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "速報：イラン、米国との和平協議のやり取りを中断と報道",
+      "summary": "イランのタスニム通信は、イランとアメリカの和平協議をめぐり、イランが仲介者を通じたアメリカとのやり取りを中断していると伝えた。イスラエル軍がレバノンとガザ地区で軍事作戦を停止するまで協議に応じないとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 2970.53,
+      "end_sec": 2996.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "為替・商品市況、原油先物が上昇",
+      "summary": "マーケット情報として為替と商品市況を確認。イランがアメリカとのやり取りを停止しているとの報道を受け、ニューヨーク原油先物が上昇し、1バレル93ドル台で取引されていると伝えた。ドル円は1ドル159円70銭台とした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 2996.0,
+      "end_sec": 3060.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "ニューヨーク株式市場、ダウ下落・ナスダック上昇",
+      "summary": "1日のニューヨーク株式市場の取引開始後の動きを伝えた。ダウは147ドルほど下落し、ナスダックは33ポイントほど上昇しているとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3243.0,
+      "end_sec": 3300.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "台風6号が奄美地方や九州南部に接近へ",
+      "summary": "台風6号は午後10時現在、那覇市の北約90キロを北へ進んでいるとみられ、この後、奄美地方や九州南部に最も接近する見込み。線状降水帯発生や大雨災害、暴風への厳重な警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t019",
+      "start_sec": 3300.0,
+      "end_sec": 3328.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "フラット35の6月最低金利、初の3％超え",
+      "summary": "住宅金融支援機構が長期固定金利型住宅ローン「フラット35」の6月適用金利を発表した。長期金利の上昇に伴い、返済期間21年から35年の最低金利は3.21％となり、現行制度になった2017年10月以降で初めて3％を超えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t020",
+      "start_sec": 3328.0,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "明日の注目ニュース：キオクシアのインベスターデイ",
+      "summary": "明日の注目ニュースとして、キオクシアの投資家向け説明会が取り上げられた。連日で日本株市場の売買代金首位となっていることや、2027年3月期の大きな利益見通しを背景に、メモリー向け投資か株主還元か、利益の使い道が注目されると解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 11.34,
+      "non_editorial_kind": "commercial",
+      "summary": "J-POWERの企業広告とみられる番組前CM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1740.0,
+      "end_sec": 1898.0,
+      "non_editorial_kind": "commercial",
+      "summary": "提供表示と複数のCMで構成される非本編区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 2100.0,
+      "end_sec": 2220.0,
+      "non_editorial_kind": "commercial",
+      "summary": "ENEOS特集の途中に挿入されたCMブロック。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2460.0,
+      "end_sec": 2571.0,
+      "non_editorial_kind": "commercial",
+      "summary": "ENEOS特集後、診療報酬改定のニュース前のCMブロック。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 2760.0,
+      "end_sec": 2861.69,
+      "non_editorial_kind": "commercial",
+      "summary": "診療報酬改定のニュース後、ワールドクイック前のCMブロック。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3060.0,
+      "end_sec": 3243.0,
+      "non_editorial_kind": "commercial",
+      "summary": "マーケット情報後、台風情報前のCM・提供区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 3360.0,
+      "end_sec": 3500.47,
+      "non_editorial_kind": "commercial",
+      "summary": "番組終了挨拶後のCM・終了後広告区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

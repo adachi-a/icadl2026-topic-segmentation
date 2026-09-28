@@ -1,0 +1,196 @@
+{
+  "program_id": "news7_20260619",
+  "source_ts_path": "media-not-distributed/news7_20260619.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 22.07,
+      "end_sec": 157.29,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "東海道新幹線と山陽新幹線が運転見合わせ",
+      "summary": "JR東海によると、浜松駅で人が線路に立ち入った影響で東海道新幹線が東京―新大阪の全線で運転を見合わせた。山陽新幹線も上りの広島―新大阪間で運転を見合わせ、運転再開にはしばらく時間がかかる見通しと伝えた。浜松市内の映像では、新幹線の先頭部分が破損しているようにも見えると説明された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 157.29,
+      "end_sec": 617.72,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "education",
+        "society"
+      ],
+      "title": "東京・北区の小学校で火災、児童ら11人搬送",
+      "summary": "東京・北区の区立滝野川第三小学校で火災があり、児童と教員など合わせて11人が病院に搬送された。このうち児童2人を含む3人は、避難時に転倒するなどして骨折の大けがだと伝えた。煙が出たのは4階の音楽室付近とされ、窓の外のひさしからはしごで救助された子どもたちもいた。専門家は、火災拡大の状況や火災報知設備などの検証が必要だと指摘した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 617.72,
+      "end_sec": 939.2,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "5月の消費者物価指数1.4％上昇、節約志向続く",
+      "summary": "5月の全国の消費者物価指数は、生鮮食品を除く指数が去年の同じ月より1.4％上昇し、上昇率は前の月と同じだった。高校授業料の実質無償化やガソリン価格の下落が上昇率を抑える一方、食料品の値上がりが物価を押し上げていると伝えた。安く購入できる食品サービスや無料のカットモデル、具材を減らした商品など、物価高の中での節約志向も紹介された。円安傾向や原油価格、包装資材価格の上昇にも触れた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 939.2,
+      "end_sec": 1230.46,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯北中米大会、日本代表がチュニジア戦へ",
+      "summary": "サッカーワールドカップ北中米大会で、日本代表は第2戦チュニジア戦の舞台となるメキシコのモンテレイに入った。初戦で左ひざをけがした久保建英選手は欠場し、伊東純也選手への期待が伝えられた。チュニジア戦はワールドカップ通算1000試合目の節目となる一戦で、日本時間のあさって21日に行われるとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1230.46,
+      "end_sec": 1340.61,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "新幹線運転見合わせ、東京駅と名古屋駅から中継",
+      "summary": "東海道新幹線が浜松駅での線路立ち入りの影響で運転を見合わせている続報として、東京駅と名古屋駅から中継した。東京駅では電光掲示板に運転見合わせの表示が出され、多くの人が状況を確認していた。名古屋駅でもスーツケースを持った人が多く、JR東海は列車の運休により目的地まで移動できない可能性があるとしていると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1340.61,
+      "end_sec": 1491.39,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "安定的な皇位継承を巡る法案骨子案が判明",
+      "summary": "安定的な皇位継承を巡り、皇族数の確保などに向けて政府が作成した法案の骨子案が明らかになった。骨子案は、女性皇族が結婚後も皇室に残る案と、旧皇族の男系男子を養子に迎える案を、いずれも皇室典範の改正で実現するとしている。養子となった男系男子は皇族となるものの皇位継承資格を有しないとし、必要な場合は30年ごとに見直すことも盛り込むと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1491.39,
+      "end_sec": 1597.8,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [],
+      "title": "日野町事件再審、検察が有罪主張しない方針",
+      "summary": "42年前に滋賀県日野町で起きた強盗殺人事件で、無実を訴えながら無期懲役が確定し服役中に死亡した阪原弘さんの再審について、検察は有罪を主張しない方針を決めたと発表した。今後開かれる再審では、阪原さんに無罪が言い渡される見通しだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1597.8,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "日銀・植田総裁が退院",
+      "summary": "日銀は、感染症の治療のため今月9日から入院していた植田総裁が退院したと発表した。植田総裁は15日と16日の金融政策決定会合を欠席し、書面で意見を表明したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1620.0,
+      "end_sec": 1677.48,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "health"
+      ],
+      "title": "身寄りのない高齢者支援へ改正社会福祉法など成立",
+      "summary": "頼れる身寄りのない高齢者が増える一方、サービスの担い手が減る中で、福祉ニーズを維持するための体制整備を盛り込んだ改正社会福祉法などが参議院本会議で可決・成立した。これまで認知症などで判断力が不十分な人に限定されていた事業を拡充し、金銭管理や入院・入所手続き、死後事務の支援を地域の支援機関が担えるようにしたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1677.48,
+      "end_sec": 1791.16,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "梅雨前線による大雨と熱帯低気圧・台風情報",
+      "summary": "気象情報では、日本付近に梅雨前線の雲が連なり、土日は西日本や東日本で大雨の範囲が広がる見込みだと伝えた。警報級の大雨や土砂災害のおそれがある地域、東北で月曜日にかけても大雨が続くおそれ、南の熱帯低気圧が台風となって来週半ばごろ沖縄に近づくおそれがあることを説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1791.16,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "火災ニュースの字幕誤りを訂正",
+      "summary": "小学校火災のニュースで専門家の発言を伝えた際、字幕の一部に誤りがあったとして訂正し、謝罪した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 9.94,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース7本編開始前とみられる、天気や洗濯物に関する会話の残り。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1800.0,
+      "end_sec": 1820.758144,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組末尾の生字幕放送に関する表示・案内。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

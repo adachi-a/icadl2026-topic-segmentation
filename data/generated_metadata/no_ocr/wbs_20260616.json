@@ -1,0 +1,893 @@
+{
+  "program_id": "wbs_20260616",
+  "source_ts_path": "media-not-distributed/wbs_20260616.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 34.58,
+      "end_sec": 324.45,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "日経平均株価が史上初の一時7万円台",
+      "summary": "東京株式市場で日経平均株価が史上初めて一時7万円を突破した。AI・半導体関連株の上昇や海外マネーの流入が背景として解説され、個人投資家に恩恵が及びにくい構図も指摘された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 324.45,
+      "end_sec": 1003.04,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "日銀が政策金利1.0％程度へ利上げ",
+      "summary": "日銀は金融政策決定会合で政策金利を0.75％程度から1.0％程度に引き上げることを決めた。植田総裁欠席の中、内田副総裁が会見し、物価上振れリスクや国債買い入れ額の扱いを説明した。元審議委員3人の分析や、次の利上げ時期、高市政権との関係をめぐる見方も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1003.47,
+      "end_sec": 1331.66,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "economy_business_finance"
+      ],
+      "title": "G7サミット開幕、中東情勢とレアアース共同備蓄を協議",
+      "summary": "フランスでG7サミットが開幕し、アメリカとイランの戦闘終結合意を受けて中東情勢が主要議題となった。イラン再建基金案や制裁解除、イスラエルとヒズボラの攻撃応酬も伝えた。高市総理はレアアースなど重要鉱物の共同備蓄連携構想を提案した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1333.43,
+      "end_sec": 1613.77,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "lifestyle_leisure"
+      ],
+      "title": "配車アプリGOが東証グロース市場に上場",
+      "summary": "タクシー配車アプリ大手のGOが東証グロース市場に上場し、初値ベースの時価総額は約2260億円で国内今年最大のIPOとなった。中島宏社長は上場で得た資金を自動運転やEVタクシー、充電スポット拡大などに投資する方針を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1614.71,
+      "end_sec": 1677.28,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "ソフトバンクGがAI活用のサイバー防御サービス開始へ",
+      "summary": "WBS Quickで、ソフトバンクグループがOpenAIの技術などを使った企業向けサイバーセキュリティー対策サービスを始めると伝えた。AIで企業システムの脆弱性を診断し、金融や運輸など重要インフラを扱う3000社を対象に本格展開を目指す。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1677.28,
+      "end_sec": 1740.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "群馬県と埼玉県で震度5弱、津波の心配なし",
+      "summary": "気象庁によると、午後7時46分ごろ群馬県と埼玉県で震度5弱の揺れを観測した。震源は茨城県南部、深さ約50キロ、マグニチュード5.5と推定され、津波の心配はないと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1740.0,
+      "end_sec": 1758.72,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "アイス価格でカルテル疑い、公取委が6社に立ち入り",
+      "summary": "公正取引委員会は、アイスクリームの希望小売価格の引き上げ水準を不当に調整した疑いで、明治や森永乳業など6社に立ち入り検査に入った。物価高に便乗した価格調整の可能性もみて実態解明を進める。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1758.72,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "富士通の古田英範会長が辞任",
+      "summary": "富士通は古田英範会長が今日付で辞任したと発表した。女性に関連する不適切な行動が確認され、古田氏が辞任を申し出たという。富士通は株主総会に提案していた古田氏の取締役再任案を撤回した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1800.0,
+      "end_sec": 1860.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "NVIDIAが社債で約4兆円調達",
+      "summary": "アメリカの半導体大手NVIDIAが5年ぶりに社債を発行し、250億ドル、約4兆円を調達したと報じられた。AIブームを背景に買い注文が募集の3倍以上集まり、投資家需要の強さが示された。スタジオではAI投資と資本市場での調達拡大について解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2019.18,
+      "end_sec": 2280.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "society"
+      ],
+      "title": "高騰するマンション価格に変化の兆し",
+      "summary": "日銀利上げで住宅ローン金利上昇が意識される中、東京のマンション価格の変化を取材した。新築高騰で中古マンションを検討するパワーカップルの例や、湾岸エリアなどで数百万円単位の値下げが相次ぎ、都心6区の中古マンション価格が約3年ぶりに下落に転じたことを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2386.38,
+      "end_sec": 2573.03,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "society"
+      ],
+      "title": "マンション高騰で戸建て住宅が活況",
+      "summary": "マンション価格の高騰を受け、戸建て住宅への需要が盛り上がっていると伝えた。オープンハウスのショールームは盛況で、戸建て価格はマンションに比べ上昇が緩やかと説明。住友不動産は戸建て新ブランドCITY GARDENを立ち上げ、都内で戸建て用地確保を進めている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2703.7,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "米空軍B52爆撃機が墜落、8人死亡",
+      "summary": "ワールドクイックで、アメリカ空軍のB52戦略爆撃機がカリフォルニア州の空軍基地を離陸直後に墜落し、搭乗していた8人全員が死亡したと伝えた。墜落機は定期試験飛行中で、原因は不明とした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2760.0,
+      "end_sec": 2770.43,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "中国がミャンマー親軍政権との関係強化を表明",
+      "summary": "中国の習近平国家主席は、ミャンマーの親軍政権で大統領を務めるミンアウンフライン氏と北京で会談し、関係強化に意欲を示した。中国は欧米と一線を画し、親軍政権と連帯する姿勢を鮮明にしていると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2770.43,
+      "end_sec": 2795.67,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "EUがウクライナとモルドバの加盟交渉を本格化",
+      "summary": "EUはウクライナとモルドバの加盟に向けた本格的な交渉を開始した。約1年半反対してきたハンガリーの政権交代を受け手続きが進み、加盟には全加盟国の同意が必要で交渉は数年かかる見通しと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2924.72,
+      "end_sec": 3037.29,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "現在のマーケットとSpaceX株上昇の解説",
+      "summary": "為替、商品、ニューヨーク株式市場の現在値を確認し、ドル円やNY原油、ダウとナスダックの動きを伝えた。さらにSpaceX株の上昇を取り上げ、アンソロピックやOpenAIの上場観測への安心感につながるとの見方を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3251.01,
+      "end_sec": 3290.26,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "health",
+        "lifestyle_leisure"
+      ],
+      "title": "シャープが摂取カロリー測定スマートウォッチを発売へ",
+      "summary": "シャープは食事の摂取カロリーを自動測定する時計「からだメイト Watch」を7月に発売し、スマートウォッチ市場へ参入すると発表した。体内の水分移動や糖の変化から摂取カロリーを推定し、消費カロリーや水分補給を促す機能も備える。価格は5万9400円。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne047"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3290.26,
+      "end_sec": 3332.96,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "国旗損壊罪創設法案を4党が共同提出",
+      "summary": "自民党、日本維新の会、国民民主党、参政党の4党が、国旗損壊罪を創設する法案を国会に共同提出した。SNS投稿行為を処罰対象から外す修正により野党が加わり、今国会で成立する公算が大きいと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3332.96,
+      "end_sec": 3400.12,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "あすの注目ニュース、ウォーシュ新議長の初FOMC",
+      "summary": "あすの注目ニュースとして、ウォーシュ新議長のもとで初めてとなるFOMCを取り上げた。金融政策は現状維持が確実視される一方、トランプ大統領の利下げ要求や最近のインフレ圧力、年内利上げ観測を踏まえ、会見でのスタンスに注目すると解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 8.91,
+      "non_editorial_kind": "ambiguous",
+      "summary": "空気清浄機エアードッグ関連の非本編とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 18.92,
+      "end_sec": 34.58,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "WBS番組ロゴのオープニング画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1879.38,
+      "end_sec": 1907.17,
+      "non_editorial_kind": "commercial",
+      "summary": "CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1907.17,
+      "end_sec": 1910.61,
+      "non_editorial_kind": "sponsor",
+      "summary": "大和証券グループの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 1924.69,
+      "end_sec": 1942.92,
+      "non_editorial_kind": "sponsor",
+      "summary": "提供・スポンサー表示区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 1947.82,
+      "end_sec": 1952.48,
+      "non_editorial_kind": "commercial",
+      "summary": "伊藤園関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 1952.48,
+      "end_sec": 1956.81,
+      "non_editorial_kind": "sponsor",
+      "summary": "TULLY'S COFFEE提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 1956.81,
+      "end_sec": 1961.03,
+      "non_editorial_kind": "commercial",
+      "summary": "TULLY'S COFFEE商品CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne008",
+      "start_sec": 1961.03,
+      "end_sec": 1964.94,
+      "non_editorial_kind": "sponsor",
+      "summary": "TULLY'S COFFEE提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne009",
+      "start_sec": 1964.94,
+      "end_sec": 1975.39,
+      "non_editorial_kind": "commercial",
+      "summary": "TULLY'S COFFEE商品CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne010",
+      "start_sec": 1992.97,
+      "end_sec": 2019.18,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組宣伝区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne011",
+      "start_sec": 2291.98,
+      "end_sec": 2296.98,
+      "non_editorial_kind": "ambiguous",
+      "summary": "非本編とみられる抽象グラフィック区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne012",
+      "start_sec": 2317.48,
+      "end_sec": 2323.26,
+      "non_editorial_kind": "sponsor",
+      "summary": "FPG提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne013",
+      "start_sec": 2323.26,
+      "end_sec": 2351.23,
+      "non_editorial_kind": "commercial",
+      "summary": "レンジローバーCM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne014",
+      "start_sec": 2360.65,
+      "end_sec": 2365.86,
+      "non_editorial_kind": "sponsor",
+      "summary": "日経AI提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne015",
+      "start_sec": 2365.86,
+      "end_sec": 2373.07,
+      "non_editorial_kind": "program_promo",
+      "summary": "ベルリン国立歌劇場管弦楽団公演告知。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne016",
+      "start_sec": 2573.03,
+      "end_sec": 2579.17,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "WBSロゴの区切り画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne017",
+      "start_sec": 2656.07,
+      "end_sec": 2664.66,
+      "non_editorial_kind": "commercial",
+      "summary": "住宅・生活関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne018",
+      "start_sec": 2664.66,
+      "end_sec": 2668.89,
+      "non_editorial_kind": "ambiguous",
+      "summary": "非本編とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne019",
+      "start_sec": 2668.89,
+      "end_sec": 2673.49,
+      "non_editorial_kind": "commercial",
+      "summary": "CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne020",
+      "start_sec": 2685.31,
+      "end_sec": 2691.39,
+      "non_editorial_kind": "sponsor",
+      "summary": "Indeed PLUS提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne021",
+      "start_sec": 2691.39,
+      "end_sec": 2695.43,
+      "non_editorial_kind": "commercial",
+      "summary": "Indeed PLUS関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne022",
+      "start_sec": 2795.67,
+      "end_sec": 2799.44,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "WBSロゴの区切り画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne023",
+      "start_sec": 2809.55,
+      "end_sec": 2830.64,
+      "non_editorial_kind": "commercial",
+      "summary": "コスモMyカーリースCM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne024",
+      "start_sec": 2830.64,
+      "end_sec": 2837.95,
+      "non_editorial_kind": "sponsor",
+      "summary": "COSMO提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne025",
+      "start_sec": 2837.95,
+      "end_sec": 2848.69,
+      "non_editorial_kind": "commercial",
+      "summary": "APA HOTEL CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne026",
+      "start_sec": 2848.69,
+      "end_sec": 2856.12,
+      "non_editorial_kind": "sponsor",
+      "summary": "APA HOTEL提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne027",
+      "start_sec": 2856.12,
+      "end_sec": 2860.14,
+      "non_editorial_kind": "commercial",
+      "summary": "APA HOTEL関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne028",
+      "start_sec": 2860.14,
+      "end_sec": 2864.55,
+      "non_editorial_kind": "sponsor",
+      "summary": "APA HOTEL提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne029",
+      "start_sec": 2876.81,
+      "end_sec": 2882.4,
+      "non_editorial_kind": "commercial",
+      "summary": "シノケングループ関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne030",
+      "start_sec": 2888.2,
+      "end_sec": 2892.72,
+      "non_editorial_kind": "commercial",
+      "summary": "シノケングループ関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne031",
+      "start_sec": 2892.72,
+      "end_sec": 2901.66,
+      "non_editorial_kind": "sponsor",
+      "summary": "シノケングループ・ビックカメラ等の提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne032",
+      "start_sec": 2901.66,
+      "end_sec": 2924.49,
+      "non_editorial_kind": "commercial",
+      "summary": "ビックカメラ・コジマの枕商品CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne033",
+      "start_sec": 3037.29,
+      "end_sec": 3046.24,
+      "non_editorial_kind": "commercial",
+      "summary": "Sansan CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne034",
+      "start_sec": 3065.48,
+      "end_sec": 3071.88,
+      "non_editorial_kind": "commercial",
+      "summary": "日清製粉グループ関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne035",
+      "start_sec": 3071.88,
+      "end_sec": 3077.59,
+      "non_editorial_kind": "sponsor",
+      "summary": "日清製粉グループ提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne036",
+      "start_sec": 3105.39,
+      "end_sec": 3108.93,
+      "non_editorial_kind": "commercial",
+      "summary": "ビズリーチCM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne037",
+      "start_sec": 3117.03,
+      "end_sec": 3127.24,
+      "non_editorial_kind": "commercial",
+      "summary": "ビズリーチCM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne038",
+      "start_sec": 3131.95,
+      "end_sec": 3135.77,
+      "non_editorial_kind": "sponsor",
+      "summary": "ビズリーチ提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne039",
+      "start_sec": 3135.77,
+      "end_sec": 3143.05,
+      "non_editorial_kind": "ambiguous",
+      "summary": "Paramount Bed関連の非本編とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne040",
+      "start_sec": 3149.84,
+      "end_sec": 3153.51,
+      "non_editorial_kind": "commercial",
+      "summary": "寝具・健康関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne041",
+      "start_sec": 3157.28,
+      "end_sec": 3166.99,
+      "non_editorial_kind": "sponsor",
+      "summary": "健康・睡眠関連提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne042",
+      "start_sec": 3185.51,
+      "end_sec": 3211.89,
+      "non_editorial_kind": "commercial",
+      "summary": "ゼリア新薬ヘパリーゼCM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne043",
+      "start_sec": 3211.89,
+      "end_sec": 3215.61,
+      "non_editorial_kind": "sponsor",
+      "summary": "ヘパリーゼ提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne044",
+      "start_sec": 3222.31,
+      "end_sec": 3229.82,
+      "non_editorial_kind": "commercial",
+      "summary": "マクドナルド商品CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne045",
+      "start_sec": 3229.82,
+      "end_sec": 3238.49,
+      "non_editorial_kind": "sponsor",
+      "summary": "チューリッヒ提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne046",
+      "start_sec": 3243.01,
+      "end_sec": 3251.01,
+      "non_editorial_kind": "commercial",
+      "summary": "チューリッヒCM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne047",
+      "start_sec": 3285.2,
+      "end_sec": 3290.26,
+      "non_editorial_kind": "commercial",
+      "summary": "スマートウォッチ商品画面を非本編として検出。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne048",
+      "start_sec": 3400.12,
+      "end_sec": 3408.47,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "エンディング風クレジット画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne049",
+      "start_sec": 3418.99,
+      "end_sec": 3424.29,
+      "non_editorial_kind": "sponsor",
+      "summary": "スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne050",
+      "start_sec": 3442.73,
+      "end_sec": 3449.35,
+      "non_editorial_kind": "sponsor",
+      "summary": "Nintendo Switch提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne051",
+      "start_sec": 3449.35,
+      "end_sec": 3452.82,
+      "non_editorial_kind": "commercial",
+      "summary": "eFootball CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne052",
+      "start_sec": 3452.82,
+      "end_sec": 3455.93,
+      "non_editorial_kind": "sponsor",
+      "summary": "KONAMI提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne053",
+      "start_sec": 3455.93,
+      "end_sec": 3459.05,
+      "non_editorial_kind": "commercial",
+      "summary": "eFootball CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne054",
+      "start_sec": 3459.05,
+      "end_sec": 3474.2,
+      "non_editorial_kind": "sponsor",
+      "summary": "KONAMI・SBI損保提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne055",
+      "start_sec": 3478.14,
+      "end_sec": 3481.74,
+      "non_editorial_kind": "ambiguous",
+      "summary": "非本編とみられるテキスト画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne056",
+      "start_sec": 3481.74,
+      "end_sec": 3484.93,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組宣伝風のテキスト画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne057",
+      "start_sec": 3484.93,
+      "end_sec": 3488.47,
+      "non_editorial_kind": "commercial",
+      "summary": "プレミアム・アウトレットSALE CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne058",
+      "start_sec": 3488.47,
+      "end_sec": 3493.32,
+      "non_editorial_kind": "sponsor",
+      "summary": "PREMIUM OUTLETS提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne059",
+      "start_sec": 3493.32,
+      "end_sec": 3500.109978,
+      "non_editorial_kind": "commercial",
+      "summary": "Benefit one関連CM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

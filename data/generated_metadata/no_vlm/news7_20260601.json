@@ -1,0 +1,184 @@
+{
+  "program_id": "news7_20260601",
+  "source_ts_path": "media-not-distributed/news7_20260601.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 16.0,
+      "end_sec": 743.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "台風6号が沖縄本島地方に接近、奄美・九州南部で線状降水帯のおそれ",
+      "summary": "台風6号が沖縄本島地方に最も近づき、沖縄では強風や倒木、停電、けが人、交通機関の欠航などの影響が出た。奄美や九州南部では線状降水帯が発生して災害の危険度が高まるおそれがあるとして、暴風や高波、土砂災害、浸水、河川の氾濫への警戒が呼びかけられた。過去の台風との比較や新たな防災気象情報、NHKのニュース・防災アプリも紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 743.0,
+      "end_sec": 816.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [],
+      "title": "埼玉・川口の住宅で男女2人死亡、殺人事件として捜査",
+      "summary": "埼玉県川口市の住宅から男の声で、ケアマネージャーの女性を包丁で刺したなどと110番通報があり、現場で男女2人が血を流して倒れているのが見つかった。2人はいずれも死亡し、警察は住人の男が女性を刺したあと自殺を図ったとみて、殺人事件として調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 816.0,
+      "end_sec": 993.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "politics"
+      ],
+      "title": "中東情勢の影響で包装資材や石油製品に影響、白黒パッケージや値上げも",
+      "summary": "中東情勢によってインクなどの調達が不安定になり、大手菓子メーカーの商品が白黒パッケージに切り替わった。日経平均株価は一時6万7000円台をつけた一方、市場全体では値下がり銘柄が多かった。和菓子店の保冷資材不足、スーパーの指定ごみ袋の購入制限や値上げなど、生活への影響も伝えられ、政府は石油製品の安定供給に向け地域の実態把握に努める考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 993.0,
+      "end_sec": 1112.34,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン情勢を巡る協議、覚書修正で駆け引き続く",
+      "summary": "イラン情勢を巡り、停戦延長と核問題の協議を行う覚書について、両国の担当者が暫定的に一致したとされる一方、トランプ大統領が修正を求めたと伝えられた。CBSテレビはホルムズ海峡や高濃縮ウランの処分に関する変更が含まれると報道。イラン側も修正を加えると報じられる中、イスラエルのレバノン南部での動きも協議への影響が懸念されると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1113.68,
+      "end_sec": 1368.0,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "education"
+      ],
+      "title": "大学生など対象の企業採用活動開始、売手市場で採用手法に変化",
+      "summary": "来年春に卒業する大学生などを対象にした企業の採用活動が、政府のルールではこの日から始まった。学生優位の売手市場が続く中、カジュアルな面接やAIによる一次面接など、企業側は人材確保に向けた工夫を進めている。採用活動の前倒しや内々定取得率の高さも紹介され、専門家は日程ルールと実態の乖離を指摘した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1368.0,
+      "end_sec": 1565.33,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "politics",
+        "disaster_accident_emergency"
+      ],
+      "title": "辺野古沖の転覆事故後、文科省の教育基本法違反判断に波紋",
+      "summary": "沖縄県名護市辺野古の沖合で船が転覆し高校生などが死亡した事故を受け、文部科学省が高校の教育内容について政治的中立性を定めた教育基本法に違反すると判断したことが波紋を呼んでいる。学校現場では政治的なテーマを避ける動きや、主権者教育のあり方を模索する動きが伝えられ、文部科学省や専門家の見解も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1565.33,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "今年度補正予算案、5日に参院予算委で質疑・採決へ",
+      "summary": "今年度の補正予算案を巡り、参議院自民党と立憲民主党の国会対策委員長が会談し、今週5日に参議院予算委員会で質疑や採決を行い、その日のうちに本会議に緊急上程することで合意した。参議院で否決された場合でも衆議院の議決が優先されるため、本会議で採決されれば成立する公算が大きいと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1620.0,
+      "end_sec": 1663.03,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "crime_law_justice"
+      ],
+      "title": "名古屋市の交差点でマイクロバスにはねられ男女2人死亡、勤務先などを捜索",
+      "summary": "名古屋市の交差点で男女2人がマイクロバスにはねられて死亡した事故で、警察は逮捕された運転手の勤務先のスイミングスクールと自宅を、過失運転致死とひき逃げの疑いで捜索した。ドライブレコーダーの映像から、運転手は時速30キロ以下で2人をはねた疑いがあると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1663.03,
+      "end_sec": 1680.76,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "高市総理、イラン大統領と電話会談",
+      "summary": "速報として、高市総理大臣が午後7時前から約15分間、イランのペゼシュキアン大統領と電話で会談したと伝えた。アメリカとイランの間の協議などについて意見を交わしたものとみられる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1680.76,
+      "end_sec": 1803.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "気象情報、台風6号による大雨・暴風と各地の天気",
+      "summary": "気象情報として、台風6号が沖縄本島に接近し、奄美地方や本州の太平洋沿岸へ進む見込みを伝えた。沖縄・奄美では暴風と非常に激しい雨、九州から近畿、東海、関東でも大雨や暴風のおそれがあるとして、土砂災害、河川の氾濫、浸水、交通への影響への注意を呼びかけた。最後に北日本など各地の天気にも触れた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "n001",
+      "start_sec": 0.0,
+      "end_sec": 16.0,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース7開始前の前枠または番組外の内容とみられる気象・防災に関する会話。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n002",
+      "start_sec": 1803.0,
+      "end_sec": 1819.74,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "「今日の舞台は東京・新大久保」と始まる後続番組の冒頭または番組宣伝とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

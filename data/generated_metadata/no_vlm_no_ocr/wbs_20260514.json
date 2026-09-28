@@ -1,0 +1,382 @@
+{
+  "program_id": "wbs_20260514",
+  "source_ts_path": "media-not-distributed/wbs_20260514.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 27.53,
+      "end_sec": 920.59,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "conflict_war_peace"
+      ],
+      "title": "米中首脳会談、台湾問題やホルムズ海峡で応酬",
+      "summary": "アメリカのトランプ大統領と中国の習近平国家主席が北京で2時間以上会談した。台湾問題で習主席がけん制し、米側声明に台湾への言及はなかった一方、ホルムズ海峡の開放や米中経済関係、アメリカ企業の中国市場アクセスなども協議された。北京・ワシントン支局の記者とスタジオで、中国側の狙いやアメリカ側の対応、今後の首脳会談への見方を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 920.59,
+      "end_sec": 1235.59,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "ホンダ、EV目標撤回しハイブリッド車に注力",
+      "summary": "ホンダが経営立て直しに向け、次世代ハイブリッド車を公開し、北米を中心に2029年度までに15車種を投入する計画を発表した。EV化の販売比率目標は取り下げ、四輪事業の再構築を進める。EV関連の巨額損失で最終損益が赤字に転落したことや、今後のV字回復の可能性について専門家が解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1236.37,
+      "end_sec": 1306.05,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "フジクラ株が急落、AI・半導体関連にも売り波及",
+      "summary": "WBS Quickで、AI関連銘柄として知られるフジクラの株価急落を伝えた。2027年3月期の純利益が減少する見通しを発表したことを受け、株価はストップ安水準まで下落し、AIや半導体関連銘柄にも売りが広がった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1306.05,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "カゴメ、ケチャップ外装デザインを一時変更",
+      "summary": "カゴメは、トマトケチャップの外装パッケージのデザインを当面変更すると発表した。中東情勢の悪化で白色インクの供給が不安定になっているため、透明部分を増やすデザインにする。容器や中身は変わらないとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1320.0,
+      "end_sec": 1374.61,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "日銀・増一行審議委員、早期利上げが望ましいと発言",
+      "summary": "日銀の増一行審議委員が鹿児島市で講演し、景気下振れの兆しが明確に出ないなら、できる限り早い段階での利上げが望ましいと述べた。基調的な物価上昇率が2％を超えないよう抑えることが重要だとし、原油高による物価上昇加速への警戒感を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1374.61,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "ストックマークなど、企業の暗黙知をAI向けにデータ化へ",
+      "summary": "AI開発のストックマークと製造業など大手16社が、企業内の暗黙知を整備するプロジェクトを始めると発表した。伊藤忠商事は熟練トレーダーの市況予測技術を、ヤンマーホールディングスはベテラン農家の栽培技術をデータ化し、AI開発につなげる考え。成果は11月に公表する予定。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1440.0,
+      "end_sec": 1486.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "science_technology"
+      ],
+      "title": "日経新聞と朝日新聞、パープレキシティを提訴",
+      "summary": "AI検索で記事を無断収集・利用しているとして、日本経済新聞社と朝日新聞社がアメリカのパープレキシティに対し、無断使用の差し止めと合わせて44億円の損害賠償などを求めた裁判が東京地裁で開かれた。パープレキシティ側は請求を退けるよう求めた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1602.37,
+      "end_sec": 1942.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "arts_culture_entertainment_media"
+      ],
+      "title": "国内薄型テレビ市場、シャープとTCLが新商品発表",
+      "summary": "国内の薄型テレビ市場で、シャープと中国企業TCLが相次いで新商品を発表した。シャープは生成AIキャラクターとテレビ画面上で対話できる新サービスを紹介し、TCLはSQDミニLEDを搭載した新型テレビを発表。中国勢の世界市場での拡大や、日本市場での認知度向上策も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2084.82,
+      "end_sec": 2139.56,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "速報、米4月小売売上高は3か月連続プラス",
+      "summary": "アメリカの4月の小売売上高が発表され、前の月から0.5％上昇し3か月連続でプラスとなった。ガソリンスタンドは2.8％のプラス、無店舗小売りは1.1％のプラスなどで、自動車と関連部品を除くと0.7％のプラスとなり市場予想を小幅に上回った。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2139.56,
+      "end_sec": 2303.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "マーケット確認、円安・米金利上昇と日銀利上げ圧力",
+      "summary": "為替、商品、ニューヨーク株式市場の動きを確認した。ドル円は157円90銭台、ニューヨーク原油先物は1バレル100ドルほどで推移。米小売売上高を受けた市場反応や、アメリカの金融政策見通しの変化、円安ドル高、日銀への利上げ圧力について解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2407.4,
+      "end_sec": 2671.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "ENEOS関連タンカーがホルムズ海峡を通過",
+      "summary": "ENEOSホールディングスは、関連会社所有の原油タンカーがホルムズ海峡を通過したと発表した。日本関連の原油タンカーの通過は出光興産に続き2隻目。船員の体調に問題はなく、日本到着は5月末から6月初旬の見込み。ペルシャ湾内に残る日本関係船や、イラン、中国、米中首脳会談との関係についても解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2775.46,
+      "end_sec": 2820.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ネタニヤフ首相、イラン戦闘中にUAEを秘密訪問",
+      "summary": "ワールドクイックで、イスラエルのネタニヤフ首相がイランとの戦闘中、UAEを秘密裏に訪問しムハンマド大統領と会談していたと伝えた。首相府は両国関係の歴史的な突破口になったと主張し、公表にはイランをけん制する狙いがあるとみられる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2820.0,
+      "end_sec": 2853.82,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "ロシア軍がウクライナ各地を無人機攻撃",
+      "summary": "ウクライナのゼレンスキー大統領は、ロシア軍が13日から14日にかけて1560機以上の無人機でウクライナ各地を攻撃したと発表した。7人が死亡し、多くの人が負傷したという。ゼレンスキー氏は米中首脳会談のタイミングを狙った軍事攻勢だと非難した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2853.82,
+      "end_sec": 2880.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン代表、ワールドカップへ壮行会",
+      "summary": "6月11日にアメリカ、カナダ、メキシコで開幕するワールドカップに向け、イラン代表チームの壮行会が首都テヘランで開かれた。アメリカとの緊張関係が続く中、選手を激励するため多くの人が集まった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2880.0,
+      "end_sec": 2915.0,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "エッフェル塔のらせん階段一部をオークションへ",
+      "summary": "フランス・パリのエッフェル塔にあったらせん階段の一部が、21日にオークションにかけられる。階段は高さ2.6メートルで、予想落札価格は日本円でおよそ2200万円と伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3148.61,
+      "end_sec": 3180.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "science_technology"
+      ],
+      "title": "米財務長官、中国のボーイング大量購入とAI対話に言及",
+      "summary": "速報として、アメリカのベッセント財務長官がCNBCのインタビューで、中国がボーイング製航空機を大量に購入するだろうと述べたと伝えた。さらに中国との間でAIに関する対話を始め、安全基準について協議を進める考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3180.0,
+      "end_sec": 3214.72,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "西武HD、グランドプリンスホテル新高輪の営業継続へ",
+      "summary": "西武ホールディングスは、東京・港区のグランドプリンスホテル新高輪について、来年4月以降も営業を続けると発表した。再開発のため今年度中に営業を終える予定だったが、人手不足に伴う建築費高騰などから計画を精査する。再開発計画自体は維持する。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3214.72,
+      "end_sec": 3240.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米上院、次期FRB議長にケビン・ウォーシュ氏を承認",
+      "summary": "アメリカ議会上院は13日、FRBの次期議長に元理事のケビン・ウォーシュ氏を充てる人事案を賛成多数で承認した。任期は4年で、パウエル議長の任期満了に伴い近く就任するとみられる。トランプ大統領が利下げを求める中、金融政策が注目される。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t019",
+      "start_sec": 3240.0,
+      "end_sec": 3300.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "自民、再審制度見直しの刑事訴訟法改正案を了承",
+      "summary": "刑事裁判をやり直す再審制度の見直しを巡り、自民党は臨時総務会で刑事訴訟法改正案を了承した。検察による抗告を原則禁止する条文を本則に盛り込み、十分な根拠がある場合に限り抗告を可能とする。政府は法案を閣議決定し、今国会に提出する方針。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t020",
+      "start_sec": 3300.0,
+      "end_sec": 3414.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "conflict_war_peace"
+      ],
+      "title": "米中会談速報を受け、ボーイング購入や台湾・海峡問題を解説",
+      "summary": "番組終盤、ベッセント財務長官の発言を受け、中国によるボーイング製航空機購入やAI協力についてスタジオで解説した。アメリカ側の成果や、台湾問題でトランプ大統領が何を語るか、中国側がホルムズ海峡問題にコメントしていない点などを論じ、翌日の米中会談への注目点を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "n001",
+      "start_sec": 0.0,
+      "end_sec": 27.53,
+      "non_editorial_kind": "commercial",
+      "summary": "大正製薬「アライ」などの広告と番組冒頭前の非本編部分。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n002",
+      "start_sec": 1486.0,
+      "end_sec": 1602.37,
+      "non_editorial_kind": "commercial",
+      "summary": "提供表示に続き、ディフェンダー、日経電子版、大和証券グループ、リアライズなどの広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n003",
+      "start_sec": 1942.0,
+      "end_sec": 2084.82,
+      "non_editorial_kind": "commercial",
+      "summary": "伊藤園、住宅・企業向けサービス、オービック、FPGなどの広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n004",
+      "start_sec": 2303.0,
+      "end_sec": 2407.4,
+      "non_editorial_kind": "commercial",
+      "summary": "リクルートエージェント、富士フイルム、中央日土地、サントリーウイスキー山崎などの広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n005",
+      "start_sec": 2671.0,
+      "end_sec": 2775.46,
+      "non_editorial_kind": "commercial",
+      "summary": "ビズリーチ、寝具関連、三井不動産、アサヒゼロなどの広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n006",
+      "start_sec": 2915.0,
+      "end_sec": 3148.61,
+      "non_editorial_kind": "commercial",
+      "summary": "M&Aキャピタルパートナーズ、楽楽明細、シノケングループ、ビックカメラ、川崎重工、ブラックストーン、ビズリーチなどの広告と提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n007",
+      "start_sec": 3414.0,
+      "end_sec": 3501.01,
+      "non_editorial_kind": "ambiguous",
+      "summary": "次番組「カンブリア宮殿」の予告と、楽天モバイル、ハーモス労務、東京海上グループ関連広告など。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,314 @@
+{
+  "program_id": "wbs_20260605",
+  "source_ts_path": "media-not-distributed/wbs_20260605.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 0.0,
+      "end_sec": 538.79,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "ヤマダHDとエディオンが経営統合へ基本合意",
+      "summary": "家電量販店大手のヤマダホールディングスとエディオンが経営統合に向けて基本合意した。来年10月に新たな持ち株会社を設立し、売上高2.5兆円規模の日本最大の家電量販チェーンが誕生する見通し。ニトリとの関係や業界再編の背景、株主からの圧力も解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 544.31,
+      "end_sec": 856.72,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "東京モノレール浜松町駅 新駅舎の一部公開",
+      "summary": "東京モノレール浜松町駅で、世界貿易センタービルの再開発に合わせた新駅舎の一部が公開された。JRとの乗り換え利便性向上や2030年の全面完成予定、羽田空港アクセスをめぐる京急やJR新線との競争、景色や観光面を打ち出す戦略が紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 856.72,
+      "end_sec": 1175.37,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "量子技術の自動車開発活用 日産やホンダが成果発表",
+      "summary": "都内で量子技術の国際イベントが開かれ、日産やホンダ、デンソーが自動車開発での量子コンピューター活用事例を発表した。日産はQuemixと共同で量子コンピューター向け空力シミュレーションの実証に成功し、日本の産業利用の強みが解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1175.37,
+      "end_sec": 1220.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "習近平国家主席が7年ぶりに北朝鮮訪問へ",
+      "summary": "中国共産党は、習近平国家主席が今月8日から9日にかけて北朝鮮を訪問すると発表した。金正恩総書記の招待によるもので、習主席の北朝鮮訪問は2019年6月以来7年ぶり。トランプ政権への対応を念頭に連携強化を図るとみられる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1220.0,
+      "end_sec": 1263.26,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "environment"
+      ],
+      "title": "経産省 原発建て替え最大5基の目標案",
+      "summary": "経済産業省は、原発を2040年代までに最大5基、2050年代までに最大14基建て替えるべきだとする目標案をまとめた。AIの普及に伴う電力需要拡大を背景に、政府は2040年度に原発比率を2割程度へ高める目標を掲げている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1263.26,
+      "end_sec": 1308.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "JALモバイルでahamo提供へ",
+      "summary": "日本航空とNTTドコモは、JALモバイルでドコモの割安料金プランahamoを今月25日から提供すると発表した。月額2970円、30GBでJALのマイル特典が得られ、ドコモがahamoを外部パートナーに提供するのは初めて。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1308.0,
+      "end_sec": 1339.47,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "日立がAnthropicの最新AIアクセス権契約",
+      "summary": "日立製作所は、アメリカのAnthropicが開発した最新AI「クロード・ミュトス」のアクセス権付与契約を結んだと発表した。セキュリティーの脆弱性発見能力を、社会インフラへのサイバー攻撃対応強化に活用する考え。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1339.47,
+      "end_sec": 2055.42,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "The追跡 億ションと住宅ローンの変化",
+      "summary": "不動産価格と住宅ローン金利の上昇を背景に、若い世帯の住宅購入や50年ローン、1億円以上の物件向け新型ローンなどを特集した。都内のタワーマンション購入者や住信SBIネット銀行の新商品、千葉県船橋市・北習志野周辺の割安な新築マンション需要が紹介され、金利上昇への備えが論じられた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne001"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2055.42,
+      "end_sec": 2472.8,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米雇用統計が予想上回る FRB金融政策と円安への影響",
+      "summary": "アメリカの5月雇用統計で非農業部門雇用者数が17万2000人増と市場予想を大きく上回り、失業率は4.3％だった。株価下落、金利上昇、FRBの年内利上げ可能性、原油価格やインフレ、円安ドル高と為替介入への見方が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne002"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2472.8,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "lifestyle_leisure"
+      ],
+      "title": "フランスに欧州初のNARUTOエリア誕生",
+      "summary": "フランスのテーマパークに、人気アニメ「NARUTO-ナルト-」の世界観を再現したヨーロッパ初のエリア「NARUTO-木ノ葉ランド」が誕生した。アトラクションやレストラン、来園者数の増加、日本コンテンツを活用した世界各地のテーマパーク展開が紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne003"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2880.26,
+      "end_sec": 2904.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "アメリカがキューバ大統領らを制裁対象に指定",
+      "summary": "アメリカ政府は、キューバのディアスカネル大統領や家族など5人と5団体を制裁対象に指定した。アメリカ国内の資産が凍結され、取引も禁止される。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2904.0,
+      "end_sec": 2933.8,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ヒズボラ指導者が停戦合意拒否の考え",
+      "summary": "レバノンの親イラン民兵組織ヒズボラの指導者カセム氏は、アメリカが発表したイスラエルとレバノンの停戦合意について拒否する考えを示した。イスラエル軍はレバノン南部にとどまる方針で、カセム氏は抵抗を続けるとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2933.8,
+      "end_sec": 2972.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ゼレンスキー大統領がプーチン大統領宛て書簡を公表",
+      "summary": "ウクライナのゼレンスキー大統領は、ロシアのプーチン大統領に宛てた書簡を公表し、直接対話で戦闘を終結させることを提案した。スイスやトルコなどでの会談を求める一方、ロシア側は和平条件で基本合意した後だと主張している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2972.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "マクロン大統領がG7後にトランプ氏を夕食会へ招待検討",
+      "summary": "フランスのマクロン大統領が、G7サミット終了後にトランプ大統領をベルサイユ宮殿に招き、夕食会を開くことを検討しているとアメリカメディアが報じた。トランプ氏が会議途中で帰国しないようつなぎ止める狙いがあるとされる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3230.0,
+      "end_sec": 3295.46,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "environment"
+      ],
+      "title": "アマゾンが欧州に約1.9兆円投資へ",
+      "summary": "アメリカのネット通販大手アマゾンは、今後数年間でヨーロッパに約1兆9000億円以上を投資すると発表した。物流拠点の拡大やAIロボットの投入、電動アシスト付き自転車を使った配送などで、効率化と環境規制に配慮した物流網構築を進める。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3295.46,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "米CPI発表を前に利上げ可能性を解説",
+      "summary": "来週発表されるアメリカの消費者物価指数を前に、物価上昇が続けば夏から秋の利上げが視野に入るとの見方を解説した。雇用が強い中で、FRBの政策目標である物価安定と雇用の観点から、7月以降のFOMCで利上げが視野に入ると述べられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 1704.0,
+      "end_sec": 1835.0,
+      "non_editorial_kind": "commercial",
+      "summary": "The追跡の途中で、提供表示に続き日経AI、日経電子版法人契約、大和証券グループ、リアライズ、タリーズなどのCMが流れた。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 2055.42,
+      "end_sec": 2160.0,
+      "non_editorial_kind": "commercial",
+      "summary": "米雇用統計の予告後、ミサワホーム、オービック、資産小口化関連などのCMが流れた。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 2472.8,
+      "end_sec": 2588.0,
+      "non_editorial_kind": "commercial",
+      "summary": "NARUTOエリアの予告後、リクルートエージェント、富士フイルムビジネスイノベーション、中央日土地、サントリーなどのCMが流れた。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2760.0,
+      "end_sec": 2880.26,
+      "non_editorial_kind": "commercial",
+      "summary": "三井不動産、パラマウントベッド、ブラックニッカ、M&AキャピタルパートナーズなどのCMが流れた。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 3000.0,
+      "end_sec": 3230.0,
+      "non_editorial_kind": "commercial",
+      "summary": "シノケングループ、家電量販、ラクラク勤怠、川崎重工、ビズリーチ、JTV、タカマツハウス、チューリッヒなどのCMが流れた。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3360.0,
+      "end_sec": 3501.1,
+      "non_editorial_kind": "commercial",
+      "summary": "テレ東広告、角ハイボール、Jパワー、金麦、東京海上ダイレクト、インディードプラスなどのCMが流れた。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

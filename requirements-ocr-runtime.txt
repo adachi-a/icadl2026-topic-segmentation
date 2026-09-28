@@ -1,0 +1,5 @@
+# Dedicated environment used by the RapidOCR stage.
+numpy<3.0.0
+pillow>=10.2.0,<11.0.0
+rapidfuzz>=3.14.5
+rapidocr-onnxruntime>=1.4.4

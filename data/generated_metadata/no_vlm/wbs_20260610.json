@@ -1,0 +1,338 @@
+{
+  "program_id": "wbs_20260610",
+  "source_ts_path": "media-not-distributed/wbs_20260610.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 34.0,
+      "end_sec": 151.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "植田日銀総裁が入院、金融政策決定会合を欠席へ",
+      "summary": "日本銀行は、植田和男総裁が肝のう胞感染症で検査入院し、来週の金融政策決定会合を欠席する見込みだと発表した。総裁が定例会合を欠席するのは新日銀法施行後初めてで、議長職務は氷見野副総裁、会見は内田副総裁が代理で行うと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 151.0,
+      "end_sec": 553.12,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "アシックス、オニツカタイガー事業の分社化を正式発表",
+      "summary": "アシックスは高級シューズブランド、オニツカタイガーを2027年に分社化すると正式発表した。廣田会長は意思決定の迅速化やブランド力強化を狙いとして説明し、訪日外国人需要や海外展開、旗艦店・米国出店計画など事業拡大の動きも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 553.64,
+      "end_sec": 713.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "politics"
+      ],
+      "title": "米軍ヘリ撃墜めぐり米イランの緊張高まる",
+      "summary": "アメリカ軍はホルムズ海峡上空でヘリコプターがイランに撃墜されたとして報復攻撃を実施した。イラン側も中東のアメリカ軍基地にミサイルや無人機を発射し、中東情勢への不透明感から日経平均株価が反落したことや、核協議の見通しが不透明になっていることも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 713.0,
+      "end_sec": 1172.1,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "NTT、IOWN普及へ800億円規模の投資ファンド設立",
+      "summary": "NTTは次世代通信基盤IOWNの実用化と普及に向け、国内外22社が出資を検討する約800億円規模のIOWN AIファンドを設立すると発表した。ソニーグループ、富士通、サムスンなどの参加や、シリコンバレーのスタートアップ投資、AIデータセンター需要を背景にした光電融合技術の競争について伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1173.0,
+      "end_sec": 1200.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "日本政府、G7でレアアース備蓄を提案する方向",
+      "summary": "WBS Quickで、日本政府がG7首脳会議で重要鉱物レアアースの備蓄を提案する方向で調整していると伝えた。中国の輸出規制などを念頭に、サプライチェーン強化を狙う内容だとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1200.0,
+      "end_sec": 1263.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "スターバックス、日本事業売却を検討と報道",
+      "summary": "ブルームバーグ通信は、スターバックスが日本事業の売却を検討していると報じた。検討は初期段階で、売却額は4000億円から5000億円規模になる可能性があると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1263.0,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "河野洋平元衆議院議長が死去",
+      "summary": "自民党総裁を務めた河野洋平元衆議院議長が89歳で亡くなったと伝えた。1967年に初当選し、官房長官時代には従軍慰安婦問題で河野談話を発表したこと、高市総理が哀悼の意を示したことを紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1320.0,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "5月の企業物価指数、前年比6.3％上昇",
+      "summary": "日銀が発表した5月の企業物価指数は前年比6.3％上昇し、2023年3月以来の高水準となった。原油高やナフサ価格上昇を背景に石油・石炭製品、化学製品、非鉄金属などが上昇し、消費者物価や実質賃金への影響を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1571.0,
+      "end_sec": 1803.3,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "松屋銀座に牛丼チェーン松屋の新業態「松屋プレミアム」開店",
+      "summary": "老舗百貨店の松屋銀座に、牛丼チェーンの松屋とコラボしたテイクアウト専門店「松屋プレミアム」がオープンした。神戸牛を使った牛めしや黒毛和牛のメニューなど高価格帯の商品をそろえ、松屋フーズは新規顧客獲得や2号店・3号店展開を狙うと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1803.3,
+      "end_sec": 2351.68,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "アメリカCPI発表、金融政策と市場への影響",
+      "summary": "アメリカの5月CPIは前年比4.2％上昇し、市場予想とほぼ一致したが約3年ぶりの高水準となった。ガソリン価格の大幅上昇や株式・原油・為替市場の反応、来週のFOMCで利下げ観測が後退し、利上げ議論が焦点になりつつある状況をニューヨーク中継とスタジオ解説で伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne003"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2351.68,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "カンボジアで普及する日本技術のデジタル決済「バコン」",
+      "summary": "カンボジアで普及するデジタル決済システム「バコン」を取り上げた。中央銀行が主導して価値を保証し、自国通貨リエル建て決済の割合が拡大したこと、日本のスタートアップ・ソラミツがブロックチェーン技術で開発に関わり、他の新興国での実証実験にもつながっていることを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne004"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2760.0,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [],
+      "title": "NASA、アルテミス計画の次ミッション宇宙飛行士4人を発表",
+      "summary": "ワールドクイックで、NASAが国際的な月探査「アルテミス計画」の次のミッションに従事するアメリカ人3人とイタリア人1人の宇宙飛行士を発表したと伝えた。宇宙船と月着陸船のドッキングテストを行い、打ち上げは来年末の予定だとした。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne005"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2940.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "religion"
+      ],
+      "title": "サグラダ・ファミリアのイエスの塔が完成",
+      "summary": "スペインのサグラダ・ファミリアで、メインタワーであるイエスの塔が完成し、ローマ教皇レオ14世による記念ミサが行われると伝えた。完成により高さ170メートル以上の世界で最も高い教会になるとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3180.0,
+      "end_sec": 3240.0,
+      "editorial": true,
+      "domain": "environment",
+      "domain_alternatives": [
+        "society",
+        "economy_business_finance"
+      ],
+      "title": "横浜市とセカンドストリート、粗大ごみリユースで連携",
+      "summary": "横浜市とセカンドストリートが粗大ごみのリユース促進に向けた連携協定を結んだ。粗大ごみ処分申し込み時に買い取り情報を掲載し、市内17店舗を展開するセカンドストリートと連携して粗大ごみ削減を図ると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3240.0,
+      "end_sec": 3300.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "皇族数確保めぐる立法府の総意を政府に提出",
+      "summary": "安定的な皇位継承に向けた皇族数確保をめぐり、衆参両院の議長・副議長と各党各会派の代表者による全体会議が立法府の総意を決定した。女性皇族が婚姻後も皇族の身分を保持する案と、旧宮家の男系男子を養子として皇室に迎える案を「了」とし、政府は皇室典範改正を目指すと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3300.0,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "名古屋栄に「ザ・ランドマーク名古屋栄」開業へ",
+      "summary": "名古屋・栄に「ザ・ランドマーク名古屋栄」が開業し、新たな買い物スポットが誕生すると伝えた。地上41階の超高層ビルで、名古屋駅周辺と栄の繁華街のパワーバランスに変化が生まれるかを解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3360.0,
+      "end_sec": 3420.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "ECB利上げとラガルド総裁会見、ユーロ円相場に注目",
+      "summary": "欧州中央銀行について、今回は利上げがほぼ確実視されており、その後のラガルド総裁の記者会見で示唆的な発言があるかに注目が集まっていると伝えた。円は対ユーロでも安くなっており、ユーロ円相場の行方にも注目だとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 34.0,
+      "non_editorial_kind": "commercial",
+      "summary": "番組冒頭のAudible広告など。末尾に番組開始のあいさつが重なる。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1440.0,
+      "end_sec": 1571.0,
+      "non_editorial_kind": "commercial",
+      "summary": "提供後のCM群と番組宣伝。「オービック」「FPG」「ディフェンダー」「日経AI」、番組宣伝「アンパラレルド」など。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1803.3,
+      "end_sec": 1920.0,
+      "non_editorial_kind": "commercial",
+      "summary": "米CPI項目の見出し提示後に流れたCM群。大和証券グループ、リアライズ、伊藤園、鹿島など。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2351.68,
+      "end_sec": 2460.0,
+      "non_editorial_kind": "commercial",
+      "summary": "カンボジアのデジタル決済項目の見出し提示後に流れたCM群。スターツ、インディードプラス、AGC、トヨタイムズなど。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 2760.0,
+      "end_sec": 2879.75,
+      "non_editorial_kind": "commercial",
+      "summary": "月面探査項目の見出し提示後に流れたCM群。AI関連広告、日清製粉グループ、ビズリーチなど。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3000.0,
+      "end_sec": 3180.0,
+      "non_editorial_kind": "commercial",
+      "summary": "ワールドクイック後のCM・提供関連表示。パラマウントベッド、コスモマイカーリース、シノケングループ、ビックカメラSuicaカード、提供表示など。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 3420.0,
+      "end_sec": 3499.706145,
+      "non_editorial_kind": "commercial",
+      "summary": "番組終了後のCM群。アサヒ生ビール、ほっともっとなど。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

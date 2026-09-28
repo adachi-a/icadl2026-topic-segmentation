@@ -1,0 +1,338 @@
+{
+  "program_id": "wbs_20260622",
+  "source_ts_path": "media-not-distributed/wbs_20260622.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 35.8,
+      "end_sec": 550.28,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "英スターマー首相が辞意表明、EU離脱10年で政治混乱",
+      "summary": "イギリスのスターマー首相が辞意を表明した。EU離脱を問う国民投票から10年を迎える中、物価高や閣僚のスキャンダルなどを背景に退陣に至り、後任候補やEU再加盟論、財政運営の課題について伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 550.28,
+      "end_sec": 893.13,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "米イラン協議が進展、レバノン戦闘終結や市場反応を分析",
+      "summary": "アメリカとイランが戦闘終結に向けた協議を行い、バンス副大統領が核査察受け入れなどを成果として強調した。一方、トランプ大統領のイラン再攻撃示唆やイスラエルの姿勢、レバノンでのヒズボラとの衝突が協議の焦点として伝えられ、日経平均や原油価格への影響も解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 893.13,
+      "end_sec": 1327.06,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "大戸屋HD、創業者長男の三森智仁氏が新社長に就任",
+      "summary": "大戸屋ホールディングスが株主総会で創業者の長男、三森智仁氏を新社長に選出した。過去の経営対立やコロワイドによるTOB、傘下入り後の業績回復を振り返り、三森新社長が店舗拡大や海外展開を見据える方針を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1327.06,
+      "end_sec": 1380.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "高市総理、食料品の消費税率を2年後に8％へ戻す考え",
+      "summary": "高市総理大臣は衆議院予算委員会で、食料品の消費税減税について、2年間の減税終了後は現行の8％の軽減税率に戻す考えを示した。国民民主党が提案する所得税・住民税の減税や社会保険料の還付には慎重姿勢を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1380.0,
+      "end_sec": 1410.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "アラン・グリーンスパン元FRB議長が死去",
+      "summary": "アメリカのFRB議長を18年半務めたアラン・グリーンスパン氏が22日に亡くなったとNBCテレビが伝えた。100歳だった。在任中にブラックマンデーなど多くの危機に対応し、「マエストロ」と称賛されたと紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1410.0,
+      "end_sec": 1529.46,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "若手社員の早期離職、能力を発揮できない理由が増加",
+      "summary": "リクルートマネジメントソリューションズが、入社3年目までの社員を対象にした離職実態調査を発表した。早期離職の理由として、仕事で自分の能力や持ち味を発揮できないとの回答が前回比で約3倍に増え、成長機会が乏しい「ゆるブラック」への課題を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1529.46,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "グリーンスパン氏の金融政策運営と市場との対話を回顧",
+      "summary": "グリーンスパン元FRB議長の死去を受け、在任中の金融政策運営を振り返った。マエストロとして評価された一方で、低金利政策が後の金融バブルやリーマン・ショックにつながったとの指摘、市場との難解な対話スタイルやFRBウォッチャーの広がりについて解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1769.83,
+      "end_sec": 2460.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "health"
+      ],
+      "title": "TOTO田村社長に聞く成長戦略、米国・半導体・ウェルネス",
+      "summary": "TOTOの田村信也社長に業績好調の背景と成長戦略を聞いた。中国事業の立て直し、アメリカでのウォシュレット拡大、セラミック加工技術を生かした半導体製造装置部品、便の状態を測るトイレを使ったウェルネス事業などを取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne003"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2580.0,
+      "end_sec": 2700.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "politics"
+      ],
+      "title": "北京でサプライチェーン博覧会、AI専門エリアに日本企業も参加",
+      "summary": "中国・北京でサプライチェーン博覧会が開幕し、85の国・地域・国際機関から670を超える企業や団体が出展した。AI専門エリアが初設置され、中国政府の「AI＋」戦略や、NVIDIA、インテル、日本企業との関係維持の思惑を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2843.99,
+      "end_sec": 2880.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "コロンビア大統領選、トランプ氏支持の右派候補が勝利",
+      "summary": "コロンビア大統領選の決選投票で、親米路線を掲げる右派のデラエスプリエジャ氏が当選した。トランプ大統領がSNSで祝福し、中南米で右派への政権交代が相次いでいると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2880.0,
+      "end_sec": 2918.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "中国、米10団体向け軍民両用品目の輸出を禁止",
+      "summary": "中国商務相は、レアアース関連企業などアメリカの10団体を輸出規制リストに記載し、軍民両用品目の輸出を禁止した。アメリカがアリババグループなどを中国軍事企業のリストに追加指定したことへの対抗措置とみられると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2918.0,
+      "end_sec": 2948.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "豪州警察、国内最大規模のコカイン約2.7トンを押収",
+      "summary": "オーストラリア警察が、シドニー近郊の物件から国内最大規模となるコカイン約2.7トンを押収したと発表した。末端価格は日本円で約920億円相当とされ、警察トップは捜査の成果を強調した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2948.0,
+      "end_sec": 2967.26,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "欧州で記録的猛暑、スペインとフランスで42度",
+      "summary": "気象当局によると、スペインとフランスで21日に最高気温42度を記録した。パリでは6月としては異例の暑さが今週いっぱい続く見込みで、ローマでは観光客が地下遺跡で暑さをしのぐ様子も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2967.26,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "為替・商品・ニューヨーク株式市場を確認",
+      "summary": "マーケット情報として、ドル円が1ドル＝161円80銭台後半で取引されていること、ニューヨーク株式市場でダウが315ドルほど上昇し、NASDAQも上昇していることを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3240.0,
+      "end_sec": 3285.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health",
+        "weather"
+      ],
+      "title": "住友生命傘下のアイアル、熱中症保険をLINEで販売へ",
+      "summary": "住友生命傘下のアイアル少額短期保険が、熱中症保険のニーズ拡大を受けてLINEでの販売を始める。PayPayから加入できる熱中症保険の累計加入件数が40万件を超えており、LINEで加入者拡大を狙う。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3285.0,
+      "end_sec": 3330.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "health"
+      ],
+      "title": "農水省でフードテック試食会、納豆菌たんぱく質の麺など紹介",
+      "summary": "農林水産省で、食分野の新技術やビジネスモデルであるフードテックの試食会が開かれた。鈴木農水大臣が納豆菌たんぱく質を練り込んだ麺のラーメンを試食し、高市政権がフードテックを戦略分野に位置づけていることを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3330.0,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "明日の注目、米欧PMIと日産・日本航空の株主総会",
+      "summary": "翌日の注目ニュースとして、アメリカとユーロ圏の購買担当者景気指数、日産と日本航空の株主総会を取り上げた。原油高やサプライチェーン混乱の中での景況感、日産の最終赤字や人員削減、役員報酬の説明に注目するとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 35.8,
+      "non_editorial_kind": "ambiguous",
+      "summary": "冒頭の自動車保険CMと番組開始前後の案内。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1620.0,
+      "end_sec": 1769.83,
+      "non_editorial_kind": "commercial",
+      "summary": "AI・不動産・転職サービス・睡眠関連商品・テレ東BIZなどのCM、番組関連プロモーション。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1980.0,
+      "end_sec": 2100.0,
+      "non_editorial_kind": "commercial",
+      "summary": "TOTO特集の途中に挿入されたシノケングループ、コスモMyカーリース、アパホテルなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2460.0,
+      "end_sec": 2580.0,
+      "non_editorial_kind": "commercial",
+      "summary": "スターツ、Indeed PLUS、トヨタイムズ関連などのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 2700.0,
+      "end_sec": 2843.99,
+      "non_editorial_kind": "commercial",
+      "summary": "日清製粉グループ、FPG、日経電子版、日経ストックリーグなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3000.0,
+      "end_sec": 3240.0,
+      "non_editorial_kind": "commercial",
+      "summary": "大和証券グループ、リアライズ、伊藤園、鹿島、OBC、スポンサー表示、Visa、セイコーなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 3360.0,
+      "end_sec": 3500.63,
+      "non_editorial_kind": "commercial",
+      "summary": "資産運用サービス、番組無断アップロード注意喚起、UACJ、商品・書籍広告など。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

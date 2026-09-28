@@ -1,0 +1,56 @@
+{
+  "schema_version": "icadl2026_dataset_split_v1",
+  "development": {
+    "n_programs": 20,
+    "program_ids": [
+      "news7_20260506",
+      "news7_20260511",
+      "news7_20260521",
+      "news7_20260524",
+      "news7_20260528",
+      "news7_20260603",
+      "news7_20260608",
+      "news7_20260617",
+      "news7_20260618",
+      "news7_20260628",
+      "wbs_20260508",
+      "wbs_20260511",
+      "wbs_20260515",
+      "wbs_20260525",
+      "wbs_20260528",
+      "wbs_20260602",
+      "wbs_20260608",
+      "wbs_20260611",
+      "wbs_20260617",
+      "wbs_20260626"
+    ],
+    "artifacts_included": false
+  },
+  "evaluation": {
+    "n_programs": 20,
+    "program_ids": [
+      "news7_20260507",
+      "news7_20260517",
+      "news7_20260522",
+      "news7_20260526",
+      "news7_20260601",
+      "news7_20260605",
+      "news7_20260614",
+      "news7_20260619",
+      "news7_20260622",
+      "news7_20260627",
+      "wbs_20260507",
+      "wbs_20260514",
+      "wbs_20260522",
+      "wbs_20260527",
+      "wbs_20260601",
+      "wbs_20260605",
+      "wbs_20260610",
+      "wbs_20260616",
+      "wbs_20260622",
+      "wbs_20260625"
+    ],
+    "artifacts_included": true
+  },
+  "overlap": []
+}

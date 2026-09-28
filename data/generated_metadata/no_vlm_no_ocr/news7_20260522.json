@@ -1,0 +1,238 @@
+{
+  "program_id": "news7_20260522",
+  "source_ts_path": "media-not-distributed/news7_20260522.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 19.85,
+      "end_sec": 403.8,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "politics",
+        "crime_law_justice"
+      ],
+      "title": "辺野古沖の船転覆事故で文部科学省が同志社国際高校を指導",
+      "summary": "沖縄県名護市辺野古沖で研修旅行中の高校生らが乗った船が転覆した事故をめぐり、文部科学省は基地反対の抗議船に生徒を乗せたことは不適切で、教育基本法に違反すると判断し、学校側に改善を求める指導通知を行った。同志社国際高校や学校法人の対応、京都府による補助金減額の可能性、船長の海上運送法違反疑いでの刑事告発も伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 403.8,
+      "end_sec": 558.36,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木県上三川町の強盗殺人事件で実行役らの侵入経路判明",
+      "summary": "栃木県上三川町で住宅に押し入った複数人が親子3人を襲って死傷させた強盗殺人事件で、実行役として逮捕された男子高校生らがそれぞれ別の場所から敷地内に侵入していたとみられることが分かった。警察は、指示役から前もって指示されていたとみて調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 558.36,
+      "end_sec": 599.86,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "都内の貴金属買い取り業者を狙った強盗予備事件",
+      "summary": "都内で貴金属買い取り業者の事務所近くを警棒を持ってうろついたなどとして、23歳の容疑者2人が強盗予備の疑いで逮捕されていた事件で、新たに17歳の少年ら4人が逮捕された。警視庁は、秘匿性の高い通信アプリでやり取りしていたとして詳しいいきさつを調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 599.86,
+      "end_sec": 633.75,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木強盗殺人事件で逮捕高校生の一部が後悔と供述",
+      "summary": "栃木県上三川町の強盗殺人事件で、逮捕された高校生のうち数人が調べに対して後悔していると供述していることが分かった。警察は、指示役による脅しや監視がある中でためらいながら実行した高校生がいたとみて、詳しい状況を調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 633.75,
+      "end_sec": 861.14,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "消費者物価指数1.4％上昇と節約志向の広がり",
+      "summary": "発表された先月の全国の消費者物価指数は去年の同じ月と比べて1.4％上昇した。番組では、節約志向の高まりを受けて水筒や弁当箱の売り上げが伸びる一方、買い控えに対応して小売店がまとめ売りを増やしている状況を紹介した。中東情勢の影響は企業間取引の価格指数にすでに出ており、今後消費者物価に波及すると専門家がみていることも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 861.14,
+      "end_sec": 1096.66,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "アメリカがキューバへの圧力を強化",
+      "summary": "アメリカがキューバへの圧力を強めているとして、ラウル・カストロ氏の起訴に続き、キューバ軍傘下の複合企業GAESAの幹部の親族を拘束したことや、原子力空母ニミッツを中心とする空母打撃群がカリブ海地域に入ったことを伝えた。キューバでは制裁が続く中、燃料や電力の不足による混乱も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1096.66,
+      "end_sec": 1183.45,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "politics"
+      ],
+      "title": "イラン情勢の協議と日本の原油備蓄補充",
+      "summary": "こう着状態のイラン情勢をめぐり、戦闘終結に向けた協議が続く中で、アメリカから届いた新たな文書をイランが検討していると伝えられた。争点としてイランのウラン濃縮とホルムズ海峡の管理が挙げられたほか、日本ではUAEから原油を運ぶタンカーが産油国共同備蓄の補充のため到着したことを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1183.45,
+      "end_sec": 1348.28,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "自民党の国旗損壊罪骨子案を作業チームが大筋了承",
+      "summary": "自民党内で検討が進む国旗損壊罪について、党内の作業チームが骨子案を大筋で了承した。骨子案では、日本国国旗損壊罪を創設し、国旗を公然と損壊・除去・汚損する行為や動画をSNSで拡散する場合などを規定し、罰則として2年以下の拘禁刑または20万円以下の罰金を科すとしている。表現の自由などへの配慮を求める意見も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1348.28,
+      "end_sec": 1450.52,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "兵庫県たつの市の親子殺害事件で遺体の状況判明",
+      "summary": "兵庫県たつの市の住宅で田中澄惠さんと娘の田中千尋さんが死亡しているのが見つかった殺人事件で、2人の刺し傷は体の前側に集中し、玄関のドアのほうに足を向けてあおむけに倒れていたことが分かった。警察は、鍵のかかっていなかった玄関から入ってきた人物に襲われた可能性や、金品目的ではなかった可能性もあるとみて捜査している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1450.52,
+      "end_sec": 1509.84,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "高市総理大臣と日銀の植田総裁が会談",
+      "summary": "高市総理大臣と日銀の植田総裁が総理大臣官邸で会談した。会談後、植田総裁は金融政策の考え方を説明したとし、総理から物価高対策や成長投資への理解のうえ日銀として適切な政策を遂行してほしいとの話があったと述べた。来月の金融政策決定会合で利上げに踏み切るかが焦点と伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1509.84,
+      "end_sec": 1545.28,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "新浪剛史元会長を福岡地検が不起訴",
+      "summary": "大麻成分を含む製品がアメリカの知人から送られた疑いがあるとして麻薬取締法違反の疑いで書類送検されたサントリーホールディングスの新浪剛史元会長について、福岡地方検察庁は不起訴にした。理由は明らかにしていないが、関係証拠を慎重に検討した結果だとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1545.28,
+      "end_sec": 1664.36,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大相撲夏場所13日目 霧島が琴栄峰に勝利",
+      "summary": "大相撲夏場所13日目、優勝争いトップに並ぶ2敗どうしの大関・霧島と平幕の琴栄峰が対戦した。軍配は琴栄峰に上がったが物言いの結果、琴栄峰の体が先に落ちており行司軍配差し違えで霧島の勝ちとなった。中入り後の主な勝敗も伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 1664.43,
+      "end_sec": 1799.94,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報 西日本は回復、東北・関東は冷たい雨",
+      "summary": "気象情報では、西日本で天気が回復した一方、東北や関東では冷たい雨となり、仙台や東京は3月並みの気温だったと伝えた。あすは雨がやみ寒さが解消しそうだとして、全国の天気の移り変わり、土日の天気、各地の予報を説明した。沖縄では明け方まで激しい雨、中国・四国では昼ごろから雨、東日本では午後ににわか雨の所がある見込みとされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 19.85,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組冒頭の注意表示、出演者の短い会話、挨拶と番組開始部分。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1799.94,
+      "end_sec": 1811.34,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "気象情報終了後の締めの会話。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1811.34,
+      "end_sec": 1820.656245,
+      "non_editorial_kind": "program_promo",
+      "summary": "AIで変わる医療に関する次項目・次番組の導入とみられる短い告知。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

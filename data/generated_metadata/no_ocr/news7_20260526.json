@@ -1,0 +1,143 @@
+{
+  "program_id": "news7_20260526",
+  "source_ts_path": "media-not-distributed/news7_20260526.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 26.56,
+      "end_sec": 498.83,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "巨人・阿部慎之助監督が逮捕を受け辞任",
+      "summary": "プロ野球・巨人の阿部慎之助監督が、同居する18歳の娘への暴行の疑いで逮捕・釈放されたことを受けて辞任した。会見で謝罪し、球団は事件の経緯や長女の手紙、監督代行や後任人事について説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 498.83,
+      "end_sec": 875.81,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "米・イラン協議と中東情勢の生活への影響",
+      "summary": "トランプ大統領が濃縮ウランを巡る立場を軟化させたとも報じられる一方、米軍がイラン南部で攻撃を行い、米・イラン協議の先行きは不透明だと伝えた。中東情勢の影響として、コカ・コーラ ボトラーズジャパンの値上げ、日本関係船舶のホルムズ海峡通過、政府の電気・ガス料金支援と補正予算案編成方針も報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 875.81,
+      "end_sec": 960.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "鹿児島県で線状降水帯発生のおそれ",
+      "summary": "奄美地方を除く鹿児島県では、雨雲が発達し、翌日未明から夕方にかけて線状降水帯が発生するおそれがあると伝えた。局地的に非常に激しい雨が予想され、土砂災害への警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 960.0,
+      "end_sec": 1262.03,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "再審制度見直しの刑事訴訟法改正案が審議入り",
+      "summary": "再審開始決定に対する検察の不服申し立てを原則禁止する刑事訴訟法改正案が衆議院で審議入りした。再審で無罪が確定した袴田巌さんの姉・ひで子さんの訴えや、政府案の内容、証拠開示、証拠の目的外使用を巡る国会質疑を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1262.03,
+      "end_sec": 1403.87,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "兵庫・たつの市の親子殺害事件で容疑者の足取り捜査",
+      "summary": "兵庫県たつの市の住宅で74歳の母親と52歳の娘が刃物で刺され殺害された事件で、指名手配されている容疑者が事件後、市内の複数の駅の防犯カメラに写っていたことが分かった。警察は服を着替えて逃走しているとみて、現場周辺を中心に行方を捜査している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1403.87,
+      "end_sec": 1568.73,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "国家情報局設置法案が参院委員会で可決",
+      "summary": "政府のインテリジェンス機能強化に向け、国家情報局を設置する法案が参議院の委員会で賛成多数で可決された。国家情報局の役割や、市民による反対集会、立憲民主党の修正案、付帯決議の内容が伝えられ、法案は翌日の参議院本会議で可決・成立する見通しとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1568.73,
+      "end_sec": 1659.56,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大リーグで村上宗隆が18号、西田陸浮がデビュー",
+      "summary": "大リーグでホワイトソックスの村上宗隆選手が18号ソロホームランを打ち、再びリーグ単独トップに立った。西田陸浮選手は大リーグデビュー戦で初ヒットと好守を見せ、アストロズの今井投手は6回ノーヒットで今季2勝目を挙げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1659.56,
+      "end_sec": 1800.33,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "九州の大雨のおそれと全国の天気",
+      "summary": "気象情報として、鹿児島県で線状降水帯が発生し災害の危険度が急激に高まるおそれがあると解説した。翌日は九州で非常に激しい雨の可能性があり、西日本の雨や今後の蒸し暑さ、各地の天気も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "nonedit_001",
+      "start_sec": 1801.9,
+      "end_sec": 1820.217644,
+      "non_editorial_kind": "program_promo",
+      "summary": "ニュース本編後に、不用品や中古品ビジネスを扱う別内容の案内が始まる。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

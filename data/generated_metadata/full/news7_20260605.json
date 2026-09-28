@@ -1,0 +1,236 @@
+{
+  "program_id": "news7_20260605",
+  "source_ts_path": "media-not-distributed/news7_20260605.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 41.0,
+      "end_sec": 352.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "安定的な皇位継承めぐる衆参議長・副議長のとりまとめ案",
+      "summary": "安定的な皇位継承をめぐり、衆参両院の議長・副議長が合意したとりまとめ案の内容が明らかになった。女性皇族が結婚後も皇室に残る案と、旧皇族の男系男子を養子に迎える案をいずれも了承する内容で、来週8日に各党会派へ報告する方針。皇族数の減少やこれまでの議論の経緯も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 352.0,
+      "end_sec": 572.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "environment",
+        "society"
+      ],
+      "title": "各地でクマ出没相次ぐ、福島市で逃げたクマは行方不明",
+      "summary": "福島市で窓の鍵を自ら開けて逃げたとみられるクマの行方が分からず、周辺で目撃が相次いでいる。市は24時間態勢で警戒し、小学校では安全確認後に登校が再開された。東北6県ではこの春のクマ出没情報が3000件近くに達し、去年同期の2倍余りになったとして警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 572.0,
+      "end_sec": 827.5,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・上三川町の強盗殺人事件、公開手配容疑者の元妻が取材に応じる",
+      "summary": "栃木県上三川町の住宅で親子3人が死傷した強盗殺人事件で、事件を主導したとして公開手配されている益田和彦容疑者の元妻がNHKの取材に応じた。元妻は公開手配までの間、容疑者とは知らずに電話などでやり取りしていたと明かし、「早く出頭して全部話してほしい」と話した。益田容疑者の出国や、秘匿性の高い通信アプリで指示を送っていた疑いも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 827.5,
+      "end_sec": 997.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "environment"
+      ],
+      "title": "中東情勢の影響で食品などの包装簡素化広がる",
+      "summary": "中東情勢の影響によるインクや原材料、物流費の上昇を受け、身近な商品の包装を簡素化する動きが広がっている。不二家や伊藤ハムはパッケージの色数を減らした商品を投入し、ファミリーマートはプラスチック使用量を減らしたレジ袋へ切り替える。ドン・キホーテなどの運営会社は簡素化したプライベートブランドで製造コスト削減を図る。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 997.0,
+      "end_sec": 1120.65,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "レバノン停戦履行合意後も攻撃応酬か、米イラン協議は進展見通せず",
+      "summary": "イラン情勢の懸念材料としてレバノン情勢を伝えた。アメリカはイスラエルとレバノンが停戦履行で合意したと発表したが、翌日もレバノンで煙が上がり、イスラエルは南部でヒズボラへの軍事作戦を続ける考えを示している。ヒズボラは合意に反発し、イランとの協議の進展も見通せないとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1120.65,
+      "end_sec": 1207.51,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "中東情勢受けた補正予算、参院予算委で財源と節約呼びかけを質疑",
+      "summary": "中東情勢を受けた今年度補正予算について、参議院予算委員会で財源や国民への節約呼びかけをめぐる質疑が行われた。高市総理大臣は国債発行予定額全体の中で調整し、市中への発行総額は増やさず対応できると述べた。また、原油やナフサなどの石油関連製品は必要量が足りており、節約要請は市場の混乱を招きかねないと説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1207.51,
+      "end_sec": 1288.19,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "参院予算委で消費税減税めぐる質疑",
+      "summary": "参議院予算委員会で消費税減税をめぐる質疑が行われた。参政党側は消費税の存続に疑問を示し、高市総理大臣は社会保障のための安定財源として消費税の負担をお願いしていると説明した。れいわ新選組側は大規模給付と大幅減税を求め、高市総理大臣は食料品の消費税率引き下げは切なる願いだったが、国民会議で議論中のため結論を先取りできないと述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1288.19,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "politics",
+        "education"
+      ],
+      "title": "沖縄・辺野古沖の船転覆事故を参院予算委で質疑",
+      "summary": "沖縄で船が転覆し、研修旅行中の高校生らが死亡した事故について参議院予算委員会で質疑が行われた。国民民主党の伊藤孝恵氏は、船がアメリカ軍基地移設への抗議に使われていたことなどを取り上げ、政府に解明を求めた。高市総理大臣は、イデオロギー論争のようになると遺族を傷つけると述べ、関係省庁などが真相解明に動いていると説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1320.0,
+      "end_sec": 1379.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "conflict_war_peace"
+      ],
+      "title": "参院予算委で防衛費増額をめぐる質疑",
+      "summary": "参議院予算委員会で防衛費をめぐる質疑が行われた。安保3文書の改定に向けた自民党安保調査会の提言が、NATO諸国のGDP比目標に触れてさらなる増額を求めていることを踏まえ、財源などが問われた。高市総理大臣は、防衛費の水準は日本の主体的判断のもと具体的かつ現実的な議論を積み上げ、必要な予算を確保すると述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1379.0,
+      "end_sec": 1462.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "crime_law_justice"
+      ],
+      "title": "自民党総裁選の中傷動画報道めぐり高市首相が答弁",
+      "summary": "先の自民党総裁選挙などで、高市総理大臣の陣営が他候補を誹謗中傷する動画を投稿したなどと報じられた問題について、参議院予算委員会で質疑が行われた。文春オンラインが、動画作成に関わった男性と高市総理大臣の秘書が開いたオンライン会議の音声だとするデータを公開。高市総理大臣は確認したとしつつ、秘書本人かどうか音声だけでは判断が難しいと述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_011",
+      "start_sec": 1462.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "中東情勢対応の今年度補正予算が成立",
+      "summary": "今年度の補正予算は参議院本会議で採決され、賛成多数で可決・成立した。中東情勢対応の予備費などを盛り込んだ内容で、投票総数242、賛成148、反対94と伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_012",
+      "start_sec": 1500.0,
+      "end_sec": 1658.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "science_technology",
+        "environment"
+      ],
+      "title": "老朽化する原発、経産省が2040年代までに最大5基建て替え必要との見通し",
+      "summary": "老朽化が進む原子力発電所について、経済産業省は2040年代までに最大5基、2050年代までに11基から14基の建て替えが必要とする見通しを示した。全国33基の原発のうち、2040年代末までに13基が運転期間60年を超えると説明。建て替えの具体的数値を示すのは初めてで、投資促進や人材育成につなげたい考えだが、建設費や人手不足、安全性への不安などの課題も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_013",
+      "start_sec": 1658.0,
+      "end_sec": 1798.41,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "週末は熱帯低気圧の影響で大雨のおそれ",
+      "summary": "気象情報では、土日に沖縄・奄美、九州から東海で大雨になる所があると伝えた。熱帯低気圧の影響で雨雲が発達し、先島諸島や奄美、沖縄本島、九州南部などで非常に激しい雨や激しい雨が予想される。日曜日から月曜日にかけて九州から東海、伊豆諸島でも氾濫、浸水、土砂災害への警戒が必要として、各地の天気を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "non_editorial_001",
+      "start_sec": 1798.41,
+      "end_sec": 1812.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7の締めのあいさつと終了コメント。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "non_editorial_002",
+      "start_sec": 1812.0,
+      "end_sec": 1819.776477,
+      "non_editorial_kind": "program_promo",
+      "summary": "後続番組「ネタドリ」の予告。フードテックを扱う内容を告知。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

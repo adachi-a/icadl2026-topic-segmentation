@@ -1,0 +1,103 @@
+{
+  "schema_version": "news_topic_segmentation_release_v1",
+  "program_id": "news7_20260517",
+  "condition": "no_transcript",
+  "duration_sec": 1820.28,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 16.5,
+      "end_sec": 111.8
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 111.8,
+      "end_sec": 469.4
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 469.4,
+      "end_sec": 684.6
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 684.6,
+      "end_sec": 812.7
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 812.7,
+      "end_sec": 890.8
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 890.8,
+      "end_sec": 925.4
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 925.4,
+      "end_sec": 1137.6
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1137.6,
+      "end_sec": 1229.8
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1241.9,
+      "end_sec": 1356.4
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1356.4,
+      "end_sec": 1368.2
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1368.2,
+      "end_sec": 1431.9
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1431.9,
+      "end_sec": 1496.8
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 1496.8,
+      "end_sec": 1582.3
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 1582.3,
+      "end_sec": 1684.9
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 1684.9,
+      "end_sec": 1804.7
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 11.05,
+      "non_editorial_kind": "program_promo"
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 11.05,
+      "end_sec": 16.5,
+      "non_editorial_kind": "opening_or_ending"
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1811.2,
+      "end_sec": 1820.279244,
+      "non_editorial_kind": "program_promo"
+    }
+  ]
+}

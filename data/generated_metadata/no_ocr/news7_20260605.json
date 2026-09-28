@@ -1,0 +1,226 @@
+{
+  "program_id": "news7_20260605",
+  "source_ts_path": "media-not-distributed/news7_20260605.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 40.64,
+      "end_sec": 350.49,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "安定的な皇位継承を巡るとりまとめ案",
+      "summary": "安定的な皇位継承を巡り、衆参両院の議長・副議長が合意した取りまとめ案の内容が明らかになった。女性皇族が結婚後も皇室に残る案と、旧皇族の男系男子を養子に迎える案をいずれも了とし、来週8日に各党会派に報告する方針だと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 350.49,
+      "end_sec": 571.67,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "environment",
+        "society"
+      ],
+      "title": "逃げたクマの行方と東北の出没情報増加",
+      "summary": "福島市で窓の鍵を自ら開けて逃げたとみられるクマの行方が分からず、周辺で目撃が相次いでいると伝えた。東北6県ではこの春のクマ出没情報が3000件近くに上り、去年同期の2倍余りに増え、人身被害も増加しているとして警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 571.67,
+      "end_sec": 827.08,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・上三川町の強盗殺人事件で公開手配の容疑者",
+      "summary": "栃木県上三川町の住宅で親子3人が死傷した強盗殺人事件を主導したとして公開手配されている益田和彦容疑者について、元妻がNHKの取材に応じ、公開手配までの間に容疑者とは知らず電話などでやり取りしていたと明かした。容疑者の移動や元同僚の証言、関係者の再逮捕方針も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 827.08,
+      "end_sec": 995.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "environment"
+      ],
+      "title": "中東情勢の影響で商品包装を簡素化",
+      "summary": "中東情勢の影響などで原材料価格や物流費、インクのコストが上がる中、身近な商品のパッケージを簡素化する企業の動きを伝えた。不二家、伊藤ハム、ファミリーマート、ドン・キホーテ運営会社のプライベートブランドなどの例を紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne000"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 995.0,
+      "end_sec": 1120.65,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン情勢とレバノンでの戦闘継続",
+      "summary": "イラン情勢の行方として、イランが支援するヒズボラの拠点があるレバノンを取り上げた。アメリカがイスラエルとレバノンの停戦履行合意を発表した翌日もレバノンで煙が上がり、イスラエルとヒズボラの対立が続いていること、米イラン協議の進展が見通せないことを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1120.65,
+      "end_sec": 1252.58,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "中東情勢を受けた補正予算の財源を巡る国会質疑",
+      "summary": "中東情勢を受けた今年度補正予算について、参議院予算委員会で財源や国民への節約呼びかけ、超党派の国民会議での消費税議論などを巡る質疑が行われた。高市首相の答弁や各党議員の質問を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1252.58,
+      "end_sec": 1378.99,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "disaster_accident_emergency"
+      ],
+      "title": "参院予算委で食料品の消費税減税などを質疑",
+      "summary": "参議院予算委員会で、食料品の消費税減税を巡り、減税や現金給付を求める質問と高市首相の答弁を伝えた。続いて、沖縄・辺野古沖の転覆事故や防衛費の水準についての質疑も取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1378.99,
+      "end_sec": 1461.89,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "crime_law_justice"
+      ],
+      "title": "総裁選の中傷動画報道を巡る関連音声への首相答弁",
+      "summary": "先の自民党総裁選挙などで高市首相陣営が他候補をひぼう中傷する動画を投稿したなどと報じられた件を巡り、文春オンラインが公開したとする関連音声について、予算委員会で質疑が行われた。高市首相は秘書本人かどうか音声をもとに判断することは難しいなどと答弁した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1461.89,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "今年度の補正予算が成立",
+      "summary": "中東情勢への対応の予備費などを含む今年度の補正予算が、参議院本会議で採決され、賛成多数で可決・成立したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1500.0,
+      "end_sec": 1657.29,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "science_technology",
+        "environment"
+      ],
+      "title": "老朽化する原発の建て替え見通し",
+      "summary": "各地の原発が老朽化する中、経済産業省が2040年代までに最大5基、2050年代までに11基から14基の原発を建て替える必要があるとする見通しを示したと伝えた。建て替えの具体的な数値を示すのは初めてで、専門家の見方や投資促進・人材育成につなげたい経産省の考えも紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1657.29,
+      "end_sec": 1798.41,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "土日の大雨に関する気象情報",
+      "summary": "気象情報では、熱帯低気圧の影響で沖縄・奄美、九州から東海で大雨になる所があると伝えた。先島諸島や沖縄本島、九州南部などで非常に激しい雨や土砂災害、氾濫、浸水への警戒が必要だとし、各地の天気も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 40.64,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "前番組末尾からニュース7の開始、冒頭の挨拶と主なニュースの導入。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 866.03,
+      "end_sec": 878.47,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1798.41,
+      "end_sec": 1819.35,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "気象情報後の番組締めの挨拶と次番組へのつなぎ。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1819.35,
+      "end_sec": 1819.776477,
+      "non_editorial_kind": "program_promo",
+      "summary": "次番組のフードデリバリー関連企画の予告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

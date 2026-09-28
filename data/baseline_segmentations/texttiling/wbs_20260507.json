@@ -1,0 +1,139 @@
+{
+  "schema_version": "news_topic_texttiling_v1",
+  "program_id": "wbs_20260507",
+  "method": "texttiling",
+  "duration_sec": 3499.583511,
+  "parameters": {
+    "pseudosentence_tokens": 20,
+    "block_pseudosentences": 10,
+    "cutoff": "HC",
+    "smoothing_radius": 2,
+    "smoothing_rounds": 1,
+    "tokenizer": "SudachiPy mode C"
+  },
+  "boundaries_sec": [
+    189.0,
+    626.78,
+    781.64,
+    909.12,
+    1302.39,
+    1613.8,
+    1991.8,
+    2188.86,
+    2443.88,
+    2550.76,
+    2707.63,
+    2898.63,
+    3036.59
+  ],
+  "topics": [
+    {
+      "topic_id": "tt_0001",
+      "start_sec": 0.0,
+      "end_sec": 189.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0002",
+      "start_sec": 189.0,
+      "end_sec": 626.78,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0003",
+      "start_sec": 626.78,
+      "end_sec": 781.64,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0004",
+      "start_sec": 781.64,
+      "end_sec": 909.12,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0005",
+      "start_sec": 909.12,
+      "end_sec": 1302.39,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0006",
+      "start_sec": 1302.39,
+      "end_sec": 1613.8,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0007",
+      "start_sec": 1613.8,
+      "end_sec": 1991.8,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0008",
+      "start_sec": 1991.8,
+      "end_sec": 2188.86,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0009",
+      "start_sec": 2188.86,
+      "end_sec": 2443.88,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0010",
+      "start_sec": 2443.88,
+      "end_sec": 2550.76,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0011",
+      "start_sec": 2550.76,
+      "end_sec": 2707.63,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0012",
+      "start_sec": 2707.63,
+      "end_sec": 2898.63,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0013",
+      "start_sec": 2898.63,
+      "end_sec": 3036.59,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0014",
+      "start_sec": 3036.59,
+      "end_sec": 3499.583511,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 765,
+    "n_content_tokens": 3944,
+    "n_boundaries": 13,
+    "n_pseudosentences": 197,
+    "n_candidate_gaps": 178,
+    "depth_mean": 0.07600361492544304,
+    "depth_standard_deviation": 0.08353032782294686,
+    "depth_threshold": 0.034238451013969606
+  }
+}

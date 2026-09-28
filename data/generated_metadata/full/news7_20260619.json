@@ -1,0 +1,209 @@
+{
+  "program_id": "news7_20260619",
+  "source_ts_path": "media-not-distributed/news7_20260619.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 20.0,
+      "end_sec": 158.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "東海道新幹線が全線で運転見合わせ",
+      "summary": "JR東海によると、浜松駅で人が線路に立ち入った影響で、東海道新幹線は東京―新大阪の全線で運転を見合わせ、山陽新幹線も上りで運転を見合わせた。浜松市内の中継映像では新幹線が線路上で止まり、先頭部分が破損しているように見える様子や車内の乗客の姿が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 158.0,
+      "end_sec": 618.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "education",
+        "society"
+      ],
+      "title": "東京・北区の小学校で火事 11人搬送",
+      "summary": "東京・北区の区立滝野川第三小学校で、4階の音楽室付近から黒煙が上がる火事があり、児童と教員など計11人が病院に搬送された。学校には当時約350人がいて全員避難したが、児童らが窓の外のひさしからはしごで救助される場面もあった。児童2人を含む3人は骨折の大けがと伝えられ、専門家は火災の拡大状況や火災報知設備などの検証が必要だと指摘した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 618.0,
+      "end_sec": 939.2,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "society"
+      ],
+      "title": "5月の消費者物価指数1.4％上昇 節約サービスにも注目",
+      "summary": "5月の全国の消費者物価指数は前年同月比1.4％上昇し、上昇率は前月から横ばいだった。高校授業料の実質無償化やガソリン価格の下落が上昇率を抑える一方、食料品の値上がりが続き、割安に購入できる食品サービスやカットモデルなど節約サービスが紹介された。弁当店の鶏肉価格や資材価格の上昇、節約志向を捉えた具なし焼きそばの商品展開、円安による物価上昇の可能性も伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 939.2,
+      "end_sec": 1230.46,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯 日本代表が第2戦の舞台モンテレイへ",
+      "summary": "サッカーW杯北中米大会で、日本代表は第2戦のチュニジア戦に向けてメキシコ・モンテレイに入った。初戦で左ひざを痛めた久保建英選手は欠場し、伊東純也選手らへの期待が伝えられた。チュニジア戦はW杯通算1000試合目となる節目の一戦で、日本時間21日に行われると紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1230.46,
+      "end_sec": 1341.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "東海道新幹線運転見合わせ 東京駅・名古屋駅から中継",
+      "summary": "東海道新幹線の運転見合わせについて続報として、東京駅と名古屋駅から中継した。改札前の電光掲示板には運転見合わせの表示が出され、多くの利用客が状況を確認し、窓口に列ができていた。名古屋駅でもスーツケースを持つ人々が運行状況を確認しており、JR東海は運休により目的地まで移動できない可能性があるとしていると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1341.0,
+      "end_sec": 1492.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "皇族数確保に向けた政府の法案骨子案が判明",
+      "summary": "安定的な皇位継承を巡り、皇族数の確保などに向けて政府が作成した法案の骨子案が明らかになった。骨子案は、女性皇族が結婚後も皇室に残る案と、旧皇族の男系男子を養子に迎える案を皇室典範の改正で実現するとし、養子となった男系男子は皇族となるが皇位継承資格を有しないとしている。政府は要綱案を作成し、各党・各会派にも説明したうえで今の国会に法案を提出したい考えだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1492.0,
+      "end_sec": 1598.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "日野町事件再審 検察が有罪主張しない方針",
+      "summary": "1984年に滋賀県日野町で女性が殺害され金庫が奪われた強盗殺人事件で、無期懲役が確定し服役中に死亡した阪原弘さんの再審について、検察は有罪を主張せず新たな立証もしない方針を発表した。今後開かれる再審では、阪原さんに無罪が言い渡される見通しだと伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1598.0,
+      "end_sec": 1657.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "日銀の植田総裁が退院 23日から公務へ",
+      "summary": "日銀は、感染症の治療のため今月9日から入院していた植田総裁が退院したと発表した。植田総裁は15日と16日の金融政策決定会合を欠席し書面で意見を表明、会合では8人の委員で採決が行われ、去年12月以来となる利上げを賛成多数で決めた。植田総裁は23日から公務に当たり、2週間程度は通院を続けるとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1657.0,
+      "end_sec": 1677.48,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "health"
+      ],
+      "title": "身寄りのない高齢者支援へ改正社会福祉法など成立",
+      "summary": "頼れる身寄りのない高齢者が増える一方でサービスの担い手が減る中、多様で複雑な福祉ニーズを維持するための体制整備を盛り込んだ改正社会福祉法などが参議院本会議で可決・成立した。これまで対象が限られていた事業を拡充し、身寄りのない高齢者を含め、金銭管理や入院・入所の手続き、葬儀や納骨、家財処分などの死後事務支援を地域の支援機関が担えるようにした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1677.48,
+      "end_sec": 1792.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "梅雨前線で西日本・東日本は大雨 熱帯低気圧は台風へ",
+      "summary": "気象情報では、梅雨前線の活動が活発になり、土日は西日本や東日本で大雨の範囲が広がる見込みだと伝えた。九州から中国、四国、近畿、北陸付近などで雨量が多くなり、警報級の大雨や土砂災害のおそれがある地域が示された。また南の海上の熱帯低気圧は台風となり、来週半ばごろ沖縄に近づくおそれがあるとして、今後の情報への注意を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_011",
+      "start_sec": 1792.0,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "小学校火災ニュースの字幕誤りを訂正",
+      "summary": "番組は、小学校火災のニュースで専門家の発言を伝えた際、字幕の一部に誤りがあったとして訂正した。画面では「防火や避難対策」が正しく、「放火や避難対策」が誤りだと示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "nonedit_001",
+      "start_sec": 0.0,
+      "end_sec": 9.94,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "前番組「首都圏ネットワーク」の天気予報末尾とみられる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_002",
+      "start_sec": 9.94,
+      "end_sec": 20.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "「NHK NEWS」のタイトル画面とニュース7冒頭のあいさつ。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_003",
+      "start_sec": 1800.0,
+      "end_sec": 1820.758144,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組エンディング、制作・著作表示、サッカーW杯関連の告知映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

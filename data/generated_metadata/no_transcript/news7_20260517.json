@@ -1,0 +1,271 @@
+{
+  "program_id": "news7_20260517",
+  "source_ts_path": "media-not-distributed/news7_20260517.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 16.5,
+      "end_sec": 111.8,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "広島・福山で山林火災、鎮火の見通し立たず",
+      "summary": "広島県福山市赤坂町で山林火災が発生し、鎮火の見通しが立っていないと速報で伝えた。午後2時半前に近隣住民から通報があり、けが人の情報はなく、警察は延焼の可能性があるとして周辺住民に避難を呼びかけている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 111.8,
+      "end_sec": 469.4,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・上三川町の親子3人死傷強盗殺人事件で28歳容疑者逮捕、妻も関与の疑い",
+      "summary": "栃木県上三川町で親子3人が死傷した強盗殺人事件について、28歳の容疑者が指示役とみられ逮捕されたこと、妻も事件に関与した疑いで身柄を確保されたことを伝えた。実行役とみられる神奈川の16歳の男子高校生4人や、匿名・流動型犯罪グループ「トクリュウ」への警察の捜査強化も取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 469.4,
+      "end_sec": 684.6,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "イラン情勢とホルムズ海峡、米軍の封鎖継続やイラン側の対応",
+      "summary": "イラン情勢をめぐり、ホルムズ海峡の封鎖が続く中、トランプ大統領のSNS投稿、米軍空母の帰還と封鎖措置の継続、イラン側の独自保険導入や市民参加の武器訓練などを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 684.6,
+      "end_sec": 812.7,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "資材調達に懸念、中小企業へ影響　信用金庫が仲介役に",
+      "summary": "資材調達の不安定化により、食品パッケージの変更やプラスチック製こん包材の不足など中小企業への影響が出ていることを伝えた。信用金庫が取引先ネットワークを使って資材や原材料を融通し合えるよう、調達先の紹介を強化している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 812.7,
+      "end_sec": 890.8,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン情勢、戦闘終結に向けた協議も双方強気で進展不透明",
+      "summary": "イラン情勢をめぐる戦闘終結に向けた協議について、協議再開の見通しや、米側の強い姿勢を伝えた。双方が強気姿勢で、進展は不透明だとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 890.8,
+      "end_sec": 925.4,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "親子3人死傷事件、竹前美結容疑者を逮捕　指示役か",
+      "summary": "栃木県上三川町の親子3人死傷事件で、強盗殺人の疑いにより竹前美結容疑者が逮捕されたと速報で伝えた。指示役とみられる可能性が示されている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 925.4,
+      "end_sec": 1137.6,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "health",
+        "society"
+      ],
+      "title": "各地で気温上昇、東京都心もことし初の真夏日　熱中症対策を呼びかけ",
+      "summary": "各地で気温が上がり、東京都心ではことし初の真夏日となった。山口や徳島など各地の最高気温、水遊びや登山の様子、翌日の猛暑日予想を伝え、水分補給など熱中症対策の徹底を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1137.6,
+      "end_sec": 1229.8,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "environment",
+        "politics"
+      ],
+      "title": "天皇皇后両陛下が愛媛県を訪問、全国植樹祭に出席",
+      "summary": "天皇皇后両陛下が愛媛県を訪問し、全国植樹祭に出席した。式典での発言や植樹の様子が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1241.9,
+      "end_sec": 1356.4,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "disaster_accident_emergency"
+      ],
+      "title": "モスクワ郊外に無人機攻撃、キーウ攻撃やプーチン大統領の中国訪問も",
+      "summary": "ロシア・モスクワ郊外への無人機攻撃で死傷者が出たことを伝え、ウクライナのキーウへの大規模攻撃で子どもを含む24人が死亡したことにも触れた。プーチン大統領が19日から中国を訪問し、習近平国家主席と首脳会談する予定も報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1356.4,
+      "end_sec": 1368.2,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather",
+        "society"
+      ],
+      "title": "広島・福山の山林火災を中継、けが人情報なし",
+      "summary": "番組冒頭で伝えた広島県福山市の山林火災について、現場中継で鎮火の見通しが立っていないことや、けが人の情報がないことを再度伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1368.2,
+      "end_sec": 1431.9,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "environment",
+        "society"
+      ],
+      "title": "東京・奥多摩町で登山中の男性がクマに襲われけが",
+      "summary": "東京・奥多摩町の三ノ木戸山周辺で、男性が1人で登山中にクマに遭遇し、襲われてけがをしたと伝えた。現場付近の山道や立入禁止表示の映像が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1431.9,
+      "end_sec": 1496.8,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "crime_law_justice"
+      ],
+      "title": "ハマス軍事部門トップを殺害、ガザ地区の停戦合意後も圧力強まる",
+      "summary": "ハマスの軍事部門トップを殺害したとされるニュースを伝えた。ハマス側は幹部の死亡を認めた上で非難し、ガザ地区では停戦合意発効後も和平計画に大きな進展がない中、イスラエルが断続的に攻撃など圧力を強めていると報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 1496.8,
+      "end_sec": 1582.3,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大相撲、7連勝の霧島や1敗の若隆景の取組",
+      "summary": "大相撲の中入り後の取組として、7連勝の大関・霧島と豪ノ山の一番、1敗の若隆景と王鵬の対戦などを映像と結果表で伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 1582.3,
+      "end_sec": 1684.9,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "体操NHK杯、岡慎之助と橋本大輝が激しい優勝争い　岡選手が3連覇",
+      "summary": "体操NHK杯で岡慎之助選手と橋本大輝選手が激しい優勝争いを展開したことを伝えた。5種目終了時点の順位や演技映像、岡選手の『3連覇できてほっとしている』というコメントが紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 1684.9,
+      "end_sec": 1804.7,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "気象情報、真夏日の地点数と週半ば以降の気温変化",
+      "summary": "気象予報士が、真夏日の地点数や翌日の最高気温、木曜日に急に気温が下がる見通し、前線の影響を受けやすい天気を解説した。全国各地の週間予報も示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 11.05,
+      "non_editorial_kind": "program_promo",
+      "summary": "program promotion interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 11.05,
+      "end_sec": 16.5,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1811.2,
+      "end_sec": 1820.279244,
+      "non_editorial_kind": "program_promo",
+      "summary": "ライオンを扱う番組告知とみられる映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

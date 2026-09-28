@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260605",
+  "duration_sec": 1819.78,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 20.41,
+      "end_sec": 31.37,
+      "domain": "politics",
+      "label": "中東情勢を受けた補正予算成立",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 31.37,
+      "end_sec": 351.92,
+      "domain": "politics",
+      "label": "皇位継承とりまとめ案",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 351.92,
+      "end_sec": 572.17,
+      "domain": "disaster_accident_emergency",
+      "label": "クマの出没",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 572.17,
+      "end_sec": 844.9,
+      "domain": "crime_law_justice",
+      "label": "栃木の強盗殺人事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 844.9,
+      "end_sec": 1089.32,
+      "domain": "conflict_war_peace",
+      "label": "中東情勢と国内への影響",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1089.32,
+      "end_sec": 1476.45,
+      "domain": "politics",
+      "label": "補正予算が成立、予算委員会の質疑",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1476.45,
+      "end_sec": 1657.87,
+      "domain": "science_technology",
+      "label": "原発の建替",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1657.87,
+      "end_sec": 1801.35,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

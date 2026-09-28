@@ -1,0 +1,348 @@
+{
+  "program_id": "wbs_20260527",
+  "source_ts_path": "media-not-distributed/wbs_20260527.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 5.0,
+      "end_sec": 606.22,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "日経平均が一時6万6000円台、日銀利上げ観測を分析",
+      "summary": "日経平均株価が半導体関連株を中心に大幅上昇し、一時初めて6万6000円台をつけた。米国市場でのハイテク株高やマイクロン・テクノロジーの時価総額拡大、キオクシアホールディングスの上昇を伝えたうえで、日銀の国際会議での植田総裁発言から6月利上げの可能性を専門家と読み解いた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 611.68,
+      "end_sec": 1043.11,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "日中5社の新興EVメーカーEMT、軽EV新ブランドを発表",
+      "summary": "オートバックスセブンや中国の奇瑞汽車など日中5社が共同出資するEMTが、日本市場向けEVブランド「EMTA」を発表した。来年春に軽EVを発売し、2029年までに4車種を展開する計画で、奇瑞汽車の技術とオートバックスの販売網・整備体制を生かして日本市場の開拓を目指すと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1043.64,
+      "end_sec": 1109.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "国家情報会議を設置する法案が成立",
+      "summary": "国の情報収集機能を強化する国家情報会議を設置する法案が参議院本会議で可決、成立した。政府は総理大臣を議長とする国家情報会議のもとに国家情報局を創設し、各省庁の情報を集約分析する総合調整機能を持たせる方針だと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1109.0,
+      "end_sec": 1200.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "日本航空、客室乗務員の飲酒で出発便が約40分遅延",
+      "summary": "日本航空は、チーフパーサーを務める50代の女性客室乗務員の過度な飲酒が乗務前に発覚し、広島発羽田行きの便の出発が約40分遅れたと発表した。乗務前検査で基準値を超えるアルコールが検知され、今後は客室乗務員の滞在先での飲酒を禁止すると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1200.0,
+      "end_sec": 1201.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "社会保障国民会議、給付付き税額控除の制度案を提示",
+      "summary": "超党派の社会保障国民会議の実務者会議が、夏前の中間取りまとめに向けて給付付き税額控除の制度案を示した。働く高齢者の支援、年収の壁による働き控えの改善、子育て世帯への支援拡充が盛り込まれたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1201.0,
+      "end_sec": 1260.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "東京スター銀行、普通預金金利を最大1％へ引き上げへ",
+      "summary": "東京スター銀行が日銀の政策金利引き上げを見越し、普通預金金利を業界トップ水準の1％まで上げることがテレビ東京の取材で分かった。給与振込口座指定などの条件で来月から0.8％、資産運用商品の保有などで7月から1％に引き上げる方針だと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1260.0,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "キリンビール、「本麒麟」をビールに転換へ",
+      "summary": "キリンビールは、酒税改正に合わせて第三のビールからビールに転換する「本麒麟」を11月4日から販売すると発表した。麦芽比率を高め麦100％のビールとし、ビール化後も第三のビールの出荷価格相当に据え置く見通しだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1449.08,
+      "end_sec": 1841.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "投資拡大で宇宙ビジネス展示会、異業種参入も相次ぐ",
+      "summary": "ロケット打ち上げや人工衛星製造など宇宙ビジネスへの投資が加速し、市場拡大への期待から異業種参入が相次いでいると伝えた。NASAの月面基地計画やスペースX上場見通しを紹介し、都内の展示会ではフォーラムエイト、西川、竹中工務店などの取り組みを取材した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1841.0,
+      "end_sec": 1920.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "politics"
+      ],
+      "title": "イラン国営テレビ、米国との戦争終結案入手と報道",
+      "summary": "速報として、イラン国営テレビが、イラン政府はアメリカとの戦争終結に向けた覚書の初期非公式案を入手したと報じたことを伝えた。60日以内に最終合意に達すれば国連安保理決議として承認される可能性があり、原油先物価格や日経平均先物にも影響が出ていると説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2022.72,
+      "end_sec": 2432.66,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "コインランドリー顧客満足度ランキングと各社の戦略",
+      "summary": "WBSランキングで、全国で増加するコインランドリーの顧客満足度を特集した。9位のWASHハウスは広告収益を活用した無料化の構想を紹介し、2位のブルースカイランドリーは商業施設隣接の立地、1位のバルコランドリープレイスはカフェ併設や有人サービス、洗濯代行などを強みとして伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2520.0,
+      "end_sec": 2820.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "arts_culture_entertainment_media",
+        "lifestyle_leisure",
+        "science_technology"
+      ],
+      "title": "ブラザー、訪日客向け印刷融合型エンタメ施設を開業へ",
+      "summary": "プリンター機器を手がけるブラザーグループが、訪日外国人向けの体験型エンタメ施設を来月オープンすると伝えた。侍体験や書道体験、カラオケ体験と印刷技術を組み合わせ、Tシャツや掛け軸、レコードジャケットなどを持ち帰れる仕組みで、年間1万5000人の動員を目指す。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2940.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "サムスン電子の賃金制度をめぐる対立が決着、スト回避",
+      "summary": "ワールドクイックで、韓国のサムスン電子の労働組合が会社側と暫定合意していた新たな賃金制度について、組合員投票で73.7％の賛成を得て可決、最終確定したと伝えた。半導体部門に新たな成果給を導入する内容などが柱で、懸念されていたストライキは回避される。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 3000.0,
+      "end_sec": 3036.76,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "米テキサス州共和党予備選、トランプ氏支持候補が勝利確実",
+      "summary": "アメリカ南部テキサス州で共和党予備選の決選投票が行われ、トランプ大統領が支持するMAGA派のパクストン候補が勝利を確実にしたと伝えた。忠誠心が高い候補を勝たせたことで、党内におけるトランプ氏の強い影響力を改めて示す形となった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3036.76,
+      "end_sec": 3038.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "欧州各国で記録的暑さ、ロンドンは5月最高気温を連日更新",
+      "summary": "イギリス・ロンドンで熱波の影響により26日の最高気温が35.1度を記録し、前日に続いて5月の最高気温記録を更新したと伝えた。フランスでも5月の過去最高気温を記録するなど、ヨーロッパ各国が記録的な暑さに見舞われている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3038.0,
+      "end_sec": 3060.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "現在のマーケット、為替・商品とNY株式市場を確認",
+      "summary": "現在のマーケットとして、ドル円が1ドル159円40銭台ほどで取引されていることや、27日のニューヨーク株式市場でダウが111ドル上昇し、NASDAQが39ポイント下落していることを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3300.0,
+      "end_sec": 3338.0,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "science_technology"
+      ],
+      "title": "ディップ、勤務時間外の通知を止める機能をバイトルアプリに追加",
+      "summary": "ディップは、勤務時間外の連絡に応答しない「つながらない権利」を守るため、アプリ「バイトルトーク」に従業員が時間外にメッセージ通知を受け取らないようにする機能を追加すると発表した。勤務時間外の連絡が原因で辞めたいと思ったことがあるアルバイト従業員は54.7％に上ると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3338.0,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "東京でヒューマノイド関連イベント開催へ",
+      "summary": "翌日に東京で「Humanoids Summit Tokyo」というロボット、ヒューマノイドに関するイベントが開かれると紹介した。人型ロボット関連の世界的なカンファレンスで、米中が先行する印象のある分野で日本の存在感がどうか注目されると述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3360.0,
+      "end_sec": 3420.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米PCEとGDP改定値発表を前に市場への影響を展望",
+      "summary": "アメリカの金融政策を見るうえで注目される個人消費支出の指標が、日本時間の翌日夜に発表されると伝えた。FRBが物価動向を見極めるうえで重視する指標で、同じタイミングで米GDPの1〜3月期改定値も出るため、結果次第で市場が動く可能性があると説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 5.0,
+      "non_editorial_kind": "commercial",
+      "summary": "番組開始前後のエアドッグの広告文言。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1320.0,
+      "end_sec": 1449.08,
+      "non_editorial_kind": "commercial",
+      "summary": "ビズリーチ、三井不動産、パラマウントベッド、コスモなどのCM枠。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1920.0,
+      "end_sec": 2022.72,
+      "non_editorial_kind": "commercial",
+      "summary": "アパホテル、シノケングループ、Sansan、日清製粉グループなどのCM枠。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2432.66,
+      "end_sec": 2520.0,
+      "non_editorial_kind": "commercial",
+      "summary": "Indeed PLUS、AGC、トヨタなどのCM枠。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 2820.58,
+      "end_sec": 2940.0,
+      "non_editorial_kind": "commercial",
+      "summary": "FPG、ディフェンダー、日経電子版法人契約、大和証券グループなどのCM枠。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3060.0,
+      "end_sec": 3300.0,
+      "non_editorial_kind": "commercial",
+      "summary": "リアライズコーポレーション、伊藤園、鹿島、ビックカメラ、マクニカ、スカパーJSATなどのCM枠。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 3420.0,
+      "end_sec": 3499.809177,
+      "non_editorial_kind": "commercial",
+      "summary": "東芝ライフスタイル、RENOSY、ゲーム広告などのCMと終了表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

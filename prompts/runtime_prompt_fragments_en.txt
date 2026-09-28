@@ -1,0 +1,45 @@
+# English reference translations of prompts assembled in Python
+
+## Frame annotation user suffix
+
+### Frame identity (required)
+{frame_identity_json}
+Include these identity values unchanged in the output JSON.
+
+## Finalizer hard rules
+
+- Return only structured data conforming to the ProgramMetadata schema.
+- Treat VLM labels as visual evidence only; never determine final Topic boundaries from a VLM label alone.
+- Exclude commercials, program promotions, sponsor-only screens, and openings/endings from Topics, and retain them in non_editorial_segments.
+- Preserve representative_frame_ids in non_editorial_segments as visual evidence.
+- Evidence-window starts and ends are aggregation divisions, not evidence. Set Topic start_sec/end_sec only to a text-segment time, speaker change, scene boundary, or OCR change; never copy a window edge directly.
+- When fused text is enabled: primary_text is the canonical text corrected with caption vocabulary while retaining ASR timing. captions and asr are supporting evidence.
+- Otherwise: when captions are available, treat caption text as canonical. Use ASR only for timing, audio support, or intervals missing captions.
+- When topic_boundary_hints are present, treat them as candidates from text analysis. Normally adopt them, adjusting only when they clearly conflict with a commercial interval or visual evidence.
+
+## Topic-boundary chunk heading
+
+### Target chunk (program time {start_sec}s–{end_sec}s)
+{timestamped_text}
+
+## Glossary extraction
+
+System instruction:
+You are an index editor for a broadcast-news archive. From the supplied captions, extract unique proper nouns such as names, places, organizations, products, program names, and technical terms using their exact caption spelling. Exclude common nouns, verbs, bare numbers, and numeric expressions. Return only the specified JSON structure.
+
+User instruction:
+Return at most {max_terms} terms.
+
+### Caption text
+{caption_text}
+
+## Transcript-refinement user sections
+
+### Program glossary (canonical spellings of proper nouns from the full program)
+{glossary}
+
+### Reference: captions near this time range (lexical evidence; ignore timing)
+{caption_window}
+
+### Data to correct (id + text JSON; preserve id and correct only text)
+{asr_segments_json}

@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260601",
+  "duration_sec": 3500.47,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 37.31,
+      "end_sec": 678.28,
+      "domain": "economy_business_finance",
+      "label": "ソフトバンク、時価総額首位",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 698.56,
+      "end_sec": 1077.75,
+      "domain": "economy_business_finance",
+      "label": "ファミマにセブン銀行のATM",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1077.75,
+      "end_sec": 1479.31,
+      "domain": "economy_business_finance",
+      "label": "企業の熱中症対策",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1479.31,
+      "end_sec": 1529.66,
+      "domain": "economy_business_finance",
+      "label": "ミュトス、3メガバンクにアクセス権付与",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1529.66,
+      "end_sec": 1594.19,
+      "domain": "politics",
+      "label": "内閣支持率、連続で低下",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1594.19,
+      "end_sec": 1649.11,
+      "domain": "conflict_war_peace",
+      "label": "米イラン覚え書き、双方が修正求める",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1649.11,
+      "end_sec": 1678.36,
+      "domain": "politics",
+      "label": "FRB前議長、講演で政治家動向を考慮せずと",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1678.36,
+      "end_sec": 1710.86,
+      "domain": "economy_business_finance",
+      "label": "NVIDIA、Windows PC向け半導体",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1710.86,
+      "end_sec": 1742.91,
+      "domain": "politics",
+      "label": "高市総理、イラン大統領と電話会談",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1899.28,
+      "end_sec": 2440.81,
+      "domain": "economy_business_finance",
+      "label": "エネオスのトップにインタビュー",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2581.79,
+      "end_sec": 2732.62,
+      "domain": "economy_business_finance",
+      "label": "診療報酬改定でキャンセル料算定可能に",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2862.65,
+      "end_sec": 2897.22,
+      "domain": "politics",
+      "label": "コロンビア大統領選は決選投票へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2897.22,
+      "end_sec": 2916.12,
+      "domain": "crime_law_justice",
+      "label": "サッカーのファンが暴徒化",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2916.12,
+      "end_sec": 2936.32,
+      "domain": "sport",
+      "label": "モスクワで卓球フェス",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2936.32,
+      "end_sec": 2972.41,
+      "domain": "conflict_war_peace",
+      "label": "イラン、イスラエル軍の作戦停止まで協議せず",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 2972.41,
+      "end_sec": 3008.27,
+      "domain": "economy_business_finance",
+      "label": "マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3249.64,
+      "end_sec": 3293.05,
+      "domain": "weather",
+      "label": "台風6号接近",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3293.05,
+      "end_sec": 3328.7,
+      "domain": "economy_business_finance",
+      "label": "フラット35の金利上昇",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t019",
+      "start_sec": 3328.7,
+      "end_sec": 3361.82,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

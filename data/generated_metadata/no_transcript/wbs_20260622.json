@@ -1,0 +1,755 @@
+{
+  "program_id": "wbs_20260622",
+  "source_ts_path": "media-not-distributed/wbs_20260622.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t000",
+      "start_sec": 28.43,
+      "end_sec": 540.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "スターマー英首相が辞意表明、次のリーダーと英国経済を解説",
+      "summary": "英国のスターマー首相が辞意を表明し、就任2年足らずで退陣する見通しとなったことをロンドン中継や解説で伝えた。次期リーダー候補、EU再加盟を求める声、相次ぐ首相交代と財政スタンス、日米英の30年債利回りなどを扱った。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t001",
+      "start_sec": 540.0,
+      "end_sec": 720.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "米イラン協議、核査察再開と中東情勢への影響",
+      "summary": "米国とイランの初協議を受け、核査察再開へ成果を強調したことや、最終合意に向けた協議進展への期待、ホルムズ海峡を安全に航行するための連絡手段構築を伝えた。トランプ大統領がイランへの再攻撃を示唆した投稿も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 720.0,
+      "end_sec": 900.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "停戦合意後もイスラエルがレバノン攻撃継続か",
+      "summary": "イスラエル軍と親イラン民兵組織ヒズボラがレバノンで衝突したとして、停戦合意をイスラエルが無視しているのかを検証した。イスラエル首相の発言やイスラエル・ロビー、専門家の見方を交えて背景を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 900.0,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "大戸屋HD、新社長に創業家出身の三森智仁氏",
+      "summary": "大戸屋HDで創業家出身の三森智仁氏が新社長となったことを、買収騒動から約6年の経緯、コロワイド傘下での再建、店舗調理や売上高、海外展開・店舗拡大目標などとともに伝えた。新社長が墓前に誓った「世界ブランド」や「第3の創業」が軸となった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1320.0,
+      "end_sec": 1380.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "高市総理、食料品の消費減税は2年後に元へ戻す考え",
+      "summary": "食料品の消費税減税について、高市総理が2年間の減税終了後は現行の8％の軽減税率に戻す考えを示したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1380.0,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "グリーンスパン元FRB議長が死去",
+      "summary": "米FRB議長を18年半務めたアラン・グリーンスパン氏の死去を伝えた。1987年にFRB議長に指名され、ブラックマンデーなど多くの危機に対応し「マエストロ」と称賛されたことが紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1440.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "若手の早期離職理由、「能力発揮できない」が3倍に",
+      "summary": "リクルートの調査をもとに、若手の早期離職理由に変化があり、「仕事で自分の能力や持ち味を発揮できない」が増えていると伝えた。「ゆるブラック」への注意や、成長実感の重要性も取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1500.0,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "グリーンスパン氏の功績をスタジオ解説",
+      "summary": "グリーンスパン元FRB議長の死去を受け、スタジオで「マエストロ」の異名など功績を解説した。ポール・ボルカー氏とグリーンスパン氏のFRB議長在任期などの資料が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1800.0,
+      "end_sec": 2469.48,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "health"
+      ],
+      "title": "トップを直撃：TOTO田村信也社長、トイレ技術・半導体・便スキャン戦略",
+      "summary": "TOTOの田村信也社長へのインタビューを軸に、100年を超えるトイレメーカーの歴史、ウォシュレット、中国事業の赤字転落と北米販売拡大、中東情勢による業績影響を伝えた。後半では、陶器技術を生かした半導体向け静電チャック、営業利益に占めるセラミック事業、便スキャンによるトイレのビッグデータ活用を紹介し、製造業の新たな勝ち筋として解説した。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne007",
+        "ne008",
+        "ne009",
+        "ne010",
+        "ne011",
+        "ne012",
+        "ne013",
+        "ne014",
+        "ne015"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2518.92,
+      "end_sec": 2580.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "トヨタのWoven City関連イベント「KAKEZAN 2026」",
+      "summary": "トヨタの「KAKEZAN 2026」を取り上げ、日清食品など企業やスタートアップが出展し、未来の食やロボットなどを通じた掛け合わせを目指す場として紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2580.0,
+      "end_sec": 2744.12,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "politics"
+      ],
+      "title": "中国国際サプライチェーン促進博覧会、企業トップが脱中国依存に言及",
+      "summary": "中国国際サプライチェーン促進博覧会に85の国・地域・国際機関から670超の企業や団体が出展したことを伝えた。AI専門エリア、中国政府のAI応用や半導体分野の自立自強方針、NVIDIAや住友電気工業の関係者発言を紹介し、企業トップから「脱中国依存」の声が出ているとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2880.0,
+      "end_sec": 2892.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "コロンビア大統領にトランプ氏支持候補",
+      "summary": "World Quickで、コロンビア大統領にトランプ氏が支持したデラエスプリエジャ氏が就くと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2892.0,
+      "end_sec": 2912.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "conflict_war_peace"
+      ],
+      "title": "中国、米10団体への輸出禁止で対抗",
+      "summary": "中国が軍事企業指定に対抗し、アメリカの10団体を輸出管制対象に入れて輸出を禁止すると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2912.0,
+      "end_sec": 2932.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "約920億円相当のコカイン押収",
+      "summary": "World Quickで、約920億円相当のコカインが押収されたニュースを伝えた。袋詰めの押収品や警察関係者の会見映像が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2932.0,
+      "end_sec": 2960.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "欧州で異例の厳しい暑さ、スペイン・フランスで42℃",
+      "summary": "World Quickで、欧州が異例の厳しい暑さに見舞われ、スペインとフランスで42℃に達したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2960.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "最新マーケット情報：為替・金利・商品・米国株",
+      "summary": "最新マーケット情報として、ドル円、米10年国債、NY金、原油、米主要株価指数などの数値を画面で示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3233.82,
+      "end_sec": 3270.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "熱中症保険をLINEで販売開始",
+      "summary": "アイアル少額短期保険が、熱中症保険をLINEで今月から販売開始したと伝えた。Yahoo!ほけんやPayPayからの加入実績、LINEの月間利用者を背景に、加入者拡大を狙う内容として紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3270.0,
+      "end_sec": 3335.0,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "lifestyle_leisure"
+      ],
+      "title": "日本発フードテックをアピール、納豆菌たんぱく質の麺など試食",
+      "summary": "日本発のフードテックをアピールする試食会を伝えた。バイオベンチャー「フェルメクテス」が開発した納豆菌たんぱく質を練りこんだ麺のラーメンや、フードテックが高市政権の戦略17分野の1つに位置づけられていることが紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 12.17,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 22.87,
+      "end_sec": 28.43,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1652.51,
+      "end_sec": 1658.29,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1658.29,
+      "end_sec": 1663.18,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 1716.39,
+      "end_sec": 1720.81,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 1724.76,
+      "end_sec": 1728.28,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 1742.5,
+      "end_sec": 1752.74,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 1988.74,
+      "end_sec": 2019.51,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne008",
+      "start_sec": 2027.32,
+      "end_sec": 2031.53,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "other non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne009",
+      "start_sec": 2042.92,
+      "end_sec": 2067.45,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne010",
+      "start_sec": 2072.06,
+      "end_sec": 2078.14,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne011",
+      "start_sec": 2078.14,
+      "end_sec": 2086.6,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne012",
+      "start_sec": 2086.6,
+      "end_sec": 2099.4,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne013",
+      "start_sec": 2099.4,
+      "end_sec": 2107.05,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne014",
+      "start_sec": 2107.05,
+      "end_sec": 2110.41,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne015",
+      "start_sec": 2110.41,
+      "end_sec": 2115.26,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne016",
+      "start_sec": 2469.48,
+      "end_sec": 2475.28,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne017",
+      "start_sec": 2487.19,
+      "end_sec": 2492.18,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne018",
+      "start_sec": 2498.64,
+      "end_sec": 2505.52,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "other non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne019",
+      "start_sec": 2515.01,
+      "end_sec": 2518.92,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne020",
+      "start_sec": 2744.12,
+      "end_sec": 2755.99,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne021",
+      "start_sec": 2780.26,
+      "end_sec": 2785.75,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne022",
+      "start_sec": 2790.03,
+      "end_sec": 2806.28,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne023",
+      "start_sec": 2806.28,
+      "end_sec": 2812.86,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne024",
+      "start_sec": 3000.93,
+      "end_sec": 3014.96,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne025",
+      "start_sec": 3020.7,
+      "end_sec": 3025.08,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne026",
+      "start_sec": 3025.08,
+      "end_sec": 3032.57,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne027",
+      "start_sec": 3055.8,
+      "end_sec": 3060.26,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne028",
+      "start_sec": 3074.24,
+      "end_sec": 3078.75,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne029",
+      "start_sec": 3084.44,
+      "end_sec": 3090.76,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne030",
+      "start_sec": 3090.76,
+      "end_sec": 3097.86,
+      "non_editorial_kind": "ambiguous",
+      "summary": "ambiguous non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne031",
+      "start_sec": 3103.84,
+      "end_sec": 3108.07,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne032",
+      "start_sec": 3119.25,
+      "end_sec": 3124.36,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne033",
+      "start_sec": 3147.86,
+      "end_sec": 3155.19,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne034",
+      "start_sec": 3180.81,
+      "end_sec": 3184.76,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne035",
+      "start_sec": 3226.59,
+      "end_sec": 3233.82,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne045",
+      "start_sec": 3360.0,
+      "end_sec": 3395.05,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "エンディングテーマ、配信案内、衣装協力などのエンディング区間",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne036",
+      "start_sec": 3395.05,
+      "end_sec": 3402.32,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne037",
+      "start_sec": 3402.32,
+      "end_sec": 3416.72,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne038",
+      "start_sec": 3435.09,
+      "end_sec": 3439.26,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne039",
+      "start_sec": 3455.57,
+      "end_sec": 3460.02,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne040",
+      "start_sec": 3460.02,
+      "end_sec": 3471.48,
+      "non_editorial_kind": "ambiguous",
+      "summary": "ambiguous non-editorial interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne041",
+      "start_sec": 3471.48,
+      "end_sec": 3474.74,
+      "non_editorial_kind": "commercial",
+      "summary": "CM/ad interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne042",
+      "start_sec": 3474.74,
+      "end_sec": 3478.44,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne043",
+      "start_sec": 3488.39,
+      "end_sec": 3496.56,
+      "non_editorial_kind": "sponsor",
+      "summary": "sponsor interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne044",
+      "start_sec": 3496.56,
+      "end_sec": 3500.63,
+      "non_editorial_kind": "program_promo",
+      "summary": "program promotion interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

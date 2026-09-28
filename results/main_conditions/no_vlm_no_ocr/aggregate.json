@@ -1,0 +1,230 @@
+{
+  "schema_version": "news_topic_aggregate_v1",
+  "n_programs": 20,
+  "bootstrap_samples": 1000,
+  "bootstrap_seed": 42,
+  "groups": {
+    "all": [
+      {
+        "metric": "topic_count_error",
+        "n_programs": 20,
+        "mean": 1.15,
+        "standard_deviation": 1.2258187382102497,
+        "ci95_low": 0.7,
+        "ci95_high": 1.7
+      },
+      {
+        "metric": "match_rate",
+        "n_programs": 20,
+        "mean": 0.9573878490790255,
+        "standard_deviation": 0.07451523935412507,
+        "ci95_low": 0.9242684937611407,
+        "ci95_high": 0.987501893939394
+      },
+      {
+        "metric": "mean_iou_matched",
+        "n_programs": 20,
+        "mean": 0.8236839175165915,
+        "standard_deviation": 0.06809219311193683,
+        "ci95_low": 0.7935669176962271,
+        "ci95_high": 0.8513074013877566
+      },
+      {
+        "metric": "onset_mae_sec",
+        "n_programs": 20,
+        "mean": 10.237865439954344,
+        "standard_deviation": 6.902080787462544,
+        "ci95_low": 7.601863976755627,
+        "ci95_high": 13.164121808677905
+      },
+      {
+        "metric": "offset_mae_sec",
+        "n_programs": 20,
+        "mean": 11.968445660125473,
+        "standard_deviation": 8.017839966757801,
+        "ci95_low": 8.75454200161213,
+        "ci95_high": 15.54483702344982
+      },
+      {
+        "metric": "bf1_5",
+        "n_programs": 20,
+        "mean": 0.6017201063167821,
+        "standard_deviation": 0.14289686624555056,
+        "ci95_low": 0.5353980273205442,
+        "ci95_high": 0.6624444258370245
+      },
+      {
+        "metric": "bf1_30",
+        "n_programs": 20,
+        "mean": 0.8601822286806657,
+        "standard_deviation": 0.08662353776530411,
+        "ci95_low": 0.8216664577548871,
+        "ci95_high": 0.8965370418339388
+      },
+      {
+        "metric": "pk",
+        "n_programs": 20,
+        "mean": 0.09182340823042423,
+        "standard_deviation": 0.0581665429081315,
+        "ci95_low": 0.06901238732757124,
+        "ci95_high": 0.11839472884889216
+      },
+      {
+        "metric": "window_diff",
+        "n_programs": 20,
+        "mean": 0.14680088524684526,
+        "standard_deviation": 0.05827567491984506,
+        "ci95_low": 0.12242489988441513,
+        "ci95_high": 0.17209292866944012
+      }
+    ],
+    "news7": [
+      {
+        "metric": "topic_count_error",
+        "n_programs": 10,
+        "mean": 1.7,
+        "standard_deviation": 1.4181364924121764,
+        "ci95_low": 0.9,
+        "ci95_high": 2.6
+      },
+      {
+        "metric": "match_rate",
+        "n_programs": 10,
+        "mean": 0.9568181818181818,
+        "standard_deviation": 0.09244286945928243,
+        "ci95_low": 0.8886363636363637,
+        "ci95_high": 1.0
+      },
+      {
+        "metric": "mean_iou_matched",
+        "n_programs": 10,
+        "mean": 0.882526704239077,
+        "standard_deviation": 0.037628207746668856,
+        "ci95_low": 0.8607512196600191,
+        "ci95_high": 0.9032119222745865
+      },
+      {
+        "metric": "onset_mae_sec",
+        "n_programs": 10,
+        "mean": 7.7770748445998406,
+        "standard_deviation": 6.223589479376031,
+        "ci95_low": 5.029325412781652,
+        "ci95_high": 12.16967989267677
+      },
+      {
+        "metric": "offset_mae_sec",
+        "n_programs": 10,
+        "mean": 12.72157453379953,
+        "standard_deviation": 9.906750411711878,
+        "ci95_low": 7.146215885780874,
+        "ci95_high": 18.832791098484847
+      },
+      {
+        "metric": "bf1_5",
+        "n_programs": 10,
+        "mean": 0.6741686898808338,
+        "standard_deviation": 0.13109212276518406,
+        "ci95_low": 0.5935056220640929,
+        "ci95_high": 0.7409705881949135
+      },
+      {
+        "metric": "bf1_30",
+        "n_programs": 10,
+        "mean": 0.8580888763909753,
+        "standard_deviation": 0.09536109144441896,
+        "ci95_low": 0.7906552344769173,
+        "ci95_high": 0.9064863931358497
+      },
+      {
+        "metric": "pk",
+        "n_programs": 10,
+        "mean": 0.09754704702077809,
+        "standard_deviation": 0.07886997716604305,
+        "ci95_low": 0.0570603640313297,
+        "ci95_high": 0.14688789628377913
+      },
+      {
+        "metric": "window_diff",
+        "n_programs": 10,
+        "mean": 0.13631813131504847,
+        "standard_deviation": 0.0718885671834266,
+        "ci95_low": 0.09805669905141853,
+        "ci95_high": 0.17884938347043394
+      }
+    ],
+    "wbs": [
+      {
+        "metric": "topic_count_error",
+        "n_programs": 10,
+        "mean": 0.6,
+        "standard_deviation": 0.6992058987801011,
+        "ci95_low": 0.2,
+        "ci95_high": 1.0
+      },
+      {
+        "metric": "match_rate",
+        "n_programs": 10,
+        "mean": 0.9579575163398694,
+        "standard_deviation": 0.05635231394587837,
+        "ci95_low": 0.9270261437908497,
+        "ci95_high": 0.9888888888888889
+      },
+      {
+        "metric": "mean_iou_matched",
+        "n_programs": 10,
+        "mean": 0.764841130794106,
+        "standard_deviation": 0.02603838906024897,
+        "ci95_low": 0.7494862937385355,
+        "ci95_high": 0.7807209350014233
+      },
+      {
+        "metric": "onset_mae_sec",
+        "n_programs": 10,
+        "mean": 12.698656035308849,
+        "standard_deviation": 6.955639307486233,
+        "ci95_low": 8.77011866246497,
+        "ci95_high": 16.83413753496793
+      },
+      {
+        "metric": "offset_mae_sec",
+        "n_programs": 10,
+        "mean": 11.215316786451421,
+        "standard_deviation": 6.025796410539386,
+        "ci95_low": 8.389159595910739,
+        "ci95_high": 15.315231477084252
+      },
+      {
+        "metric": "bf1_5",
+        "n_programs": 10,
+        "mean": 0.5292715227527307,
+        "standard_deviation": 0.11940990383487676,
+        "ci95_low": 0.457479195933099,
+        "ci95_high": 0.5969991467518428
+      },
+      {
+        "metric": "bf1_30",
+        "n_programs": 10,
+        "mean": 0.862275580970356,
+        "standard_deviation": 0.082082496628664,
+        "ci95_low": 0.8109927923615547,
+        "ci95_high": 0.9064953734310532
+      },
+      {
+        "metric": "pk",
+        "n_programs": 10,
+        "mean": 0.08609976944007039,
+        "standard_deviation": 0.02914356620477385,
+        "ci95_low": 0.06981569318917644,
+        "ci95_high": 0.10229648387655763
+      },
+      {
+        "metric": "window_diff",
+        "n_programs": 10,
+        "mean": 0.157283639178642,
+        "standard_deviation": 0.04191999527517909,
+        "ci95_low": 0.13185279809104283,
+        "ci95_high": 0.18034817768475922
+      }
+    ]
+  }
+}

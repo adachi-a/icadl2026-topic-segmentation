@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260522",
+  "duration_sec": 1820.66,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 20.23,
+      "end_sec": 404.90999999999997,
+      "domain": "politics",
+      "label": "辺野古沖転覆事故",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 404.90999999999997,
+      "end_sec": 619.34,
+      "domain": "crime_law_justice",
+      "label": "栃木県のトクリュウによる殺人事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 619.34,
+      "end_sec": 885.38,
+      "domain": "economy_business_finance",
+      "label": "物価高",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 885.38,
+      "end_sec": 1097.46,
+      "domain": "politics",
+      "label": "米国、キューバへの圧力強化",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1097.46,
+      "end_sec": 1184.36,
+      "domain": "conflict_war_peace",
+      "label": "イラン情勢",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1184.36,
+      "end_sec": 1348.94,
+      "domain": "politics",
+      "label": "国旗損壊罪",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1348.94,
+      "end_sec": 1454.89,
+      "domain": "crime_law_justice",
+      "label": "兵庫県たつの市の母娘殺害事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1454.89,
+      "end_sec": 1498.58,
+      "domain": "politics",
+      "label": "高市首相と日銀上田総裁の会談",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1498.58,
+      "end_sec": 1546.16,
+      "domain": "crime_law_justice",
+      "label": "新浪元会長を不起訴",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1546.16,
+      "end_sec": 1665.08,
+      "domain": "sport",
+      "label": "大相撲",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1665.08,
+      "end_sec": 1802.18,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

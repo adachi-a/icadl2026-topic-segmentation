@@ -1,0 +1,115 @@
+{
+  "schema_version": "news_topic_baseline_v1",
+  "program_id": "news7_20260601",
+  "method": "embedding_window",
+  "duration_sec": 1819.744645,
+  "parameters": {
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "unit_sec": 15.0,
+    "window_units": 3,
+    "smoothing_radius": 1,
+    "threshold_std": 0.5,
+    "min_gap_sec": 30.0
+  },
+  "boundaries_sec": [
+    645.0,
+    735.0,
+    825.0,
+    915.0,
+    975.0,
+    1125.0,
+    1200.0,
+    1455.0,
+    1620.0,
+    1680.0
+  ],
+  "topics": [
+    {
+      "topic_id": "embedding_window_0001",
+      "start_sec": 0.0,
+      "end_sec": 645.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0002",
+      "start_sec": 645.0,
+      "end_sec": 735.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0003",
+      "start_sec": 735.0,
+      "end_sec": 825.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0004",
+      "start_sec": 825.0,
+      "end_sec": 915.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0005",
+      "start_sec": 915.0,
+      "end_sec": 975.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0006",
+      "start_sec": 975.0,
+      "end_sec": 1125.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0007",
+      "start_sec": 1125.0,
+      "end_sec": 1200.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0008",
+      "start_sec": 1200.0,
+      "end_sec": 1455.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0009",
+      "start_sec": 1455.0,
+      "end_sec": 1620.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0010",
+      "start_sec": 1620.0,
+      "end_sec": 1680.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0011",
+      "start_sec": 1680.0,
+      "end_sec": 1819.744645,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 456,
+    "n_units": 122,
+    "uses_ground_truth": false,
+    "n_candidate_gaps": 117,
+    "threshold": 0.46434353,
+    "dissimilarity_mean": 0.39196893,
+    "dissimilarity_standard_deviation": 0.14474919,
+    "n_boundaries": 10
+  }
+}

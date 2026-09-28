@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260507",
+  "duration_sec": 1799.7646329999998,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 8.749356,
+      "end_sec": 385.039356,
+      "domain": "disaster_accident_emergency",
+      "label": "マイクロバス事故　高校生死亡",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 385.039356,
+      "end_sec": 486.029356,
+      "domain": "crime_law_justice",
+      "label": "小学生の息子殺害で逮捕",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 486.029356,
+      "end_sec": 951.469356,
+      "domain": "conflict_war_peace",
+      "label": "日経平均が最高値更新、背景に米・イランの緊張緩和",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 951.469356,
+      "end_sec": 1131.9793559999998,
+      "domain": "health",
+      "label": "ハンタウイルス",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1131.9793559999998,
+      "end_sec": 1339.129356,
+      "domain": "politics",
+      "label": "再審制度の見直し",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1339.129356,
+      "end_sec": 1518.9793559999998,
+      "domain": "crime_law_justice",
+      "label": "八代市の庁舎建て替えめぐる贈収賄",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1518.9793559999998,
+      "end_sec": 1551.7693559999998,
+      "domain": "politics",
+      "label": "NPT再検討会議",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1551.7693559999998,
+      "end_sec": 1652.399356,
+      "domain": "sport",
+      "label": "大リーグの日本人選手の活躍",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1652.399356,
+      "end_sec": 1789.599356,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

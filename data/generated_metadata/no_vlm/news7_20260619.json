@@ -1,0 +1,205 @@
+{
+  "program_id": "news7_20260619",
+  "source_ts_path": "media-not-distributed/news7_20260619.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 20.0,
+      "end_sec": 158.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "東海道・山陽新幹線が運転見合わせ",
+      "summary": "JR東海によると、浜松駅で人が線路に立ち入った影響で東海道新幹線は東京―新大阪の全線で運転を見合わせた。山陽新幹線上りも一部区間で運転を見合わせ、運転再開にはしばらく時間がかかる見通しと伝えた。浜松市内の映像では、停止した新幹線の先頭部分が破損しているように見える様子や車内の乗客の姿が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 158.0,
+      "end_sec": 618.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "education"
+      ],
+      "title": "東京・北区の小学校で火災 11人搬送",
+      "summary": "東京・北区の区立滝野川第三小学校で火災があり、4階の音楽室付近から煙が出たと伝えられた。当時、児童や教員など約350人がいて全員避難したが、児童8人と教員など3人の計11人が病院に搬送され、このうち児童2人を含む3人が骨折の大けがだという。児童が窓の外のひさしからはしごで救助された状況や、専門家による火災拡大・火災報知設備の検証の必要性も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 618.0,
+      "end_sec": 939.2,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "5月の消費者物価指数 1.4％上昇",
+      "summary": "5月の全国の消費者物価指数は生鮮食品を除く指数が前年同月比1.4％上昇し、上昇率は前月から横ばいだった。高校授業料の実質無償化やガソリン価格下落が上昇率を抑えた一方、食料品の値上がりで消費者の節約志向が続いているとして、割安購入サービス、無料のカットモデル、具材を省いた商品などの動きを紹介した。円安や原油価格上昇による今後の物価への影響も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 939.2,
+      "end_sec": 1230.46,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯日本代表 チュニジア戦へ",
+      "summary": "サッカーワールドカップ北中米大会で、日本代表は第2戦チュニジア戦の舞台となるメキシコ・モンテレイに入った。初戦で左ひざをけがした久保建英選手は欠場することになり、伊東純也選手への期待やチームの連係が鍵になると伝えた。チュニジア戦はワールドカップ通算1000試合目の節目で、日本時間21日に行われる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1230.46,
+      "end_sec": 1341.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "新幹線運転見合わせ続報 東京駅・名古屋駅から中継",
+      "summary": "東海道新幹線と山陽新幹線上りの運転見合わせについて続報を伝えた。東京駅では電光掲示板に運転見合わせの表示が出され、窓口に長い列ができていると中継した。名古屋駅でもスーツケースを引いた多くの人が運行状況を確認し、目的地まで移動できない可能性があると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1341.0,
+      "end_sec": 1492.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "皇位継承を巡る法案骨子案が明らかに",
+      "summary": "安定的な皇位継承を巡り、皇族数の確保などに向けて政府が作成した法案の骨子案が明らかになった。女性皇族が結婚後も皇室に残る案と、旧皇族の男系男子を養子に迎える案を皇室典範改正で実現するとし、養子となった男系男子は皇位継承資格を有しないとした。政府は法案の要綱案を示した上で、今国会に提出したい考えだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1492.0,
+      "end_sec": 1598.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [],
+      "title": "日野町事件再審 検察が有罪主張せず",
+      "summary": "1984年に滋賀県日野町で起きた強盗殺人事件で、無期懲役が確定し服役中に死亡した阪原弘さんの再審について、検察は有罪を主張しない方針を決めたと発表した。今後開かれる再審で、阪原さんに無罪が言い渡される見通しだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1598.0,
+      "end_sec": 1642.7,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "日銀・植田総裁が退院",
+      "summary": "日銀は、感染症の治療のため今月9日から入院していた植田総裁が退院したと発表した。植田総裁は金融政策決定会合を欠席して書面で意見を表明し、会合では8人の委員で採決が行われ、去年12月以来となる利上げを賛成多数で決めた。植田総裁は来週23日から公務に当たり、通院を続けるとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1642.7,
+      "end_sec": 1677.48,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "身寄りのない高齢者支援へ改正社会福祉法など成立",
+      "summary": "頼れる身寄りのない高齢者が増える一方、サービスの担い手が減る中で、福祉ニーズを維持するための体制整備を盛り込んだ改正社会福祉法などが参議院本会議で可決・成立した。金銭管理や入院・入所の手続き、葬儀や納骨、家財処分といった死後事務の支援を地域の支援機関が担えるようにしたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1677.48,
+      "end_sec": 1792.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "気象情報 梅雨前線の大雨と熱帯低気圧",
+      "summary": "梅雨前線の活動が活発で、土日は西日本や東日本で大雨の範囲が広がる見込みと伝えた。九州、中国、四国、近畿、北陸付近などで雨量が多くなり、警報級の大雨や土砂災害のおそれがある地域を示した。また、南の海上の熱帯低気圧は台風になる見込みで、来週半ばごろ沖縄に近づくおそれがあると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_011",
+      "start_sec": 1792.0,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "火災ニュースの字幕訂正",
+      "summary": "小学校火災のニュースで専門家の発言を伝えた際、字幕の一部に誤りがあったとして訂正した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "noneditorial_001",
+      "start_sec": 0.0,
+      "end_sec": 9.94,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "番組本編前の前番組または直前コーナーの残りとみられる会話。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noneditorial_002",
+      "start_sec": 9.94,
+      "end_sec": 20.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組冒頭のあいさつと生字幕放送に関する表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "noneditorial_003",
+      "start_sec": 1800.0,
+      "end_sec": 1820.758144,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組末尾の字幕表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

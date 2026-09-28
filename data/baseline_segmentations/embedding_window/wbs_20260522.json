@@ -1,0 +1,195 @@
+{
+  "schema_version": "news_topic_baseline_v1",
+  "program_id": "wbs_20260522",
+  "method": "embedding_window",
+  "duration_sec": 3500.104678,
+  "parameters": {
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "unit_sec": 15.0,
+    "window_units": 3,
+    "smoothing_radius": 1,
+    "threshold_std": 0.5,
+    "min_gap_sec": 30.0
+  },
+  "boundaries_sec": [
+    120.0,
+    525.0,
+    1395.0,
+    1455.0,
+    1530.0,
+    1605.0,
+    1695.0,
+    1800.0,
+    2190.0,
+    2490.0,
+    2550.0,
+    2790.0,
+    2895.0,
+    2955.0,
+    3030.0,
+    3105.0,
+    3165.0,
+    3270.0,
+    3360.0,
+    3390.0
+  ],
+  "topics": [
+    {
+      "topic_id": "embedding_window_0001",
+      "start_sec": 0.0,
+      "end_sec": 120.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0002",
+      "start_sec": 120.0,
+      "end_sec": 525.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0003",
+      "start_sec": 525.0,
+      "end_sec": 1395.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0004",
+      "start_sec": 1395.0,
+      "end_sec": 1455.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0005",
+      "start_sec": 1455.0,
+      "end_sec": 1530.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0006",
+      "start_sec": 1530.0,
+      "end_sec": 1605.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0007",
+      "start_sec": 1605.0,
+      "end_sec": 1695.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0008",
+      "start_sec": 1695.0,
+      "end_sec": 1800.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0009",
+      "start_sec": 1800.0,
+      "end_sec": 2190.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0010",
+      "start_sec": 2190.0,
+      "end_sec": 2490.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0011",
+      "start_sec": 2490.0,
+      "end_sec": 2550.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0012",
+      "start_sec": 2550.0,
+      "end_sec": 2790.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0013",
+      "start_sec": 2790.0,
+      "end_sec": 2895.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0014",
+      "start_sec": 2895.0,
+      "end_sec": 2955.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0015",
+      "start_sec": 2955.0,
+      "end_sec": 3030.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0016",
+      "start_sec": 3030.0,
+      "end_sec": 3105.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0017",
+      "start_sec": 3105.0,
+      "end_sec": 3165.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0018",
+      "start_sec": 3165.0,
+      "end_sec": 3270.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0019",
+      "start_sec": 3270.0,
+      "end_sec": 3360.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0020",
+      "start_sec": 3360.0,
+      "end_sec": 3390.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0021",
+      "start_sec": 3390.0,
+      "end_sec": 3500.104678,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 762,
+    "n_units": 234,
+    "uses_ground_truth": false,
+    "n_candidate_gaps": 229,
+    "threshold": 0.54712017,
+    "dissimilarity_mean": 0.4703562,
+    "dissimilarity_standard_deviation": 0.15352795,
+    "n_boundaries": 20
+  }
+}

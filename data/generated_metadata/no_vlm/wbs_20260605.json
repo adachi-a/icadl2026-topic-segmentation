@@ -1,0 +1,305 @@
+{
+  "program_id": "wbs_20260605",
+  "source_ts_path": "media-not-distributed/wbs_20260605.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 0.0,
+      "end_sec": 523.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "ヤマダHDとエディオンが経営統合へ基本合意",
+      "summary": "家電量販店大手のヤマダホールディングスとエディオンが経営統合に向けて基本合意した。来年10月に新たな持株会社を設立し、両社を傘下に置く方針で、統合すれば売上高2.5兆円規模の日本最大の家電量販チェーンとなる。ニトリホールディングスのエディオン株保有や、家電量販店業界の再編、PBRをめぐる投資家の圧力についても解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 544.43,
+      "end_sec": 856.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "東京モノレール浜松町駅の新駅舎公開と羽田アクセス競争",
+      "summary": "東京モノレール浜松町駅で新たな駅舎の一部が公開された。JR東日本の羽田空港アクセス線や新空港線の計画などで羽田空港への鉄道アクセス競争が激しくなる中、東京モノレールは新駅舎や車窓の景色、浜松町周辺の再開発との連携を打ち出し、観光面の魅力を高める戦略を紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 856.0,
+      "end_sec": 1174.32,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "量子技術の自動車開発への活用",
+      "summary": "都内で量子技術の国際イベントが開かれ、日産自動車やホンダ、デンソーなどが量子コンピューターの自動車分野への活用事例を紹介した。日産はQuemixと共同で量子コンピューター向けの空力シミュレーション実証に成功し、日本は量子技術の産業利用で競争力を高める狙いがあると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1175.0,
+      "end_sec": 1200.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "習近平国家主席が7年ぶりに北朝鮮訪問へ",
+      "summary": "WBSクイックで、中国共産党が習近平国家主席の北朝鮮訪問を発表したと伝えた。訪問はキム・ジョンウン総書記の招待によるもので、習主席の北朝鮮訪問は2019年6月以来7年ぶりとされる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1200.0,
+      "end_sec": 1266.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "environment"
+      ],
+      "title": "経産省が原発建て替え目標案",
+      "summary": "経済産業省が、原発を2040年代までに最大5基、2050年代までに最大14基建て替えるべきだとする目標案をまとめた。AIの普及に伴う電力需要拡大の予測や、2040年度に原発比率を2割程度に高める政府目標に基づく内容として伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1266.0,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "JALモバイルでahamo提供へ",
+      "summary": "日本航空とNTTドコモは、JALモバイルでドコモの割安料金プランahamoを今月25日から提供すると発表した。月額2970円、30GBでJALのマイル特典が得られ、ドコモがahamoを外部のパートナー企業に提供するのは初めてだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1320.0,
+      "end_sec": 1339.47,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "日立がAnthropicの最新AIアクセス権を取得",
+      "summary": "日立製作所が、アメリカのAnthropicが開発した最新AI「クロード・ミュトス」のアクセス権を付与される契約を結んだと発表した。社会インフラへのサイバー攻撃対応強化に活用したい考えで、国内製造業でアクセス権付与が明らかになったのは初めてと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1339.47,
+      "end_sec": 2054.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "億ションと住宅ローンの変化",
+      "summary": "The追跡で、不動産価格上昇と住宅ローン金利上昇を背景に、若い世代の住宅購入や新型ローンの動きを特集した。都内で1億1000万円のマンションを購入した20代の事例、50年ローン、住信SBIネット銀行の1億円以上の物件向けローン、割安感を打ち出す千葉県船橋市の分譲マンションなどを紹介し、金利上昇への備えとライフプランに合うか慎重に見る必要性を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "n001"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2054.0,
+      "end_sec": 2472.8,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米雇用統計とFRB金融政策への影響",
+      "summary": "アメリカの5月雇用統計で非農業部門の雇用者数が17万2000人増となり、市場予想を大きく上回った。失業率や平均時給、株価や金利、ドル円相場への反応を伝え、FRBの年内利上げの可能性、原油価格やインフレ、為替介入への意識についてニューヨーク支局とスタジオで解説した。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "n002"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2472.8,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "arts_culture_entertainment_media",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "lifestyle_leisure"
+      ],
+      "title": "フランスに欧州初のNARUTOエリア誕生",
+      "summary": "フランスのテーマパークに、人気アニメ「NARUTO‐ナルト‐」の世界観を再現したヨーロッパ初のエリア「NARUTO‐木ノ葉ランド」がオープンした。アトラクションやレストランを紹介し、4月の来園者数が前年同月比で7割近く増えたこと、日本の人気コンテンツを活用したテーマパーク展開が世界各地で広がっていることを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "n003"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2891.0,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "米政府がキューバ大統領らを制裁対象に",
+      "summary": "ワールドクイックで、アメリカ政府がキューバのディアスカネル大統領や家族など5人と5団体を制裁対象に指定したと伝えた。アメリカ国内の資産が凍結され、取引も禁止される。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2940.0,
+      "end_sec": 2960.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ゼレンスキー大統領がプーチン大統領に直接対話を提案",
+      "summary": "ウクライナのゼレンスキー大統領が、ロシアのプーチン大統領に宛てた書簡を公表し、直接対話で戦闘を終結させることを提案した。スイスやトルコなどでの会談を求めているが、ロシア側は和平条件で基本合意した後だと主張している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2960.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "マクロン大統領がトランプ大統領を夕食会に招く案",
+      "summary": "フランスのマクロン大統領が、G7サミット終了後にトランプ大統領をベルサイユ宮殿に招いて夕食会を開くことを検討しているとアメリカメディアが報じた。トランプ氏が会議途中で帰国しないよう引き留める狙いがあるという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3240.0,
+      "end_sec": 3295.46,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "environment"
+      ],
+      "title": "アマゾンが欧州に1兆9000億円超投資へ",
+      "summary": "アメリカのネット通販大手アマゾンが、今後数年間でヨーロッパに日本円でおよそ1兆9000億円以上を投資すると発表した。物流拠点の拡大、AIを活用したロボットの新型機導入、電動アシスト付き自転車による環境規制に配慮した物流網づくりを進める方針だと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3295.46,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米CPI発表を前に利上げ可能性を解説",
+      "summary": "来週発表されるアメリカの消費者物価指数について、物価上昇が続けば夏か秋の利上げが視野に入るのかをスタジオで解説した。FRBの政策目標である物価の安定と雇用に触れ、雇用が強い状況でインフレを示す数字が出れば7月以降のFOMCで利上げが視野に入るとの見方を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "n001",
+      "start_sec": 1680.0,
+      "end_sec": 1800.0,
+      "non_editorial_kind": "commercial",
+      "summary": "The追跡の住宅ローン特集途中の提供表示およびCM群。日経AI、日経電子版法人契約、大和証券グループ、リアライズコーポレーション、タリーズなどの広告が含まれる。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n002",
+      "start_sec": 2054.0,
+      "end_sec": 2160.0,
+      "non_editorial_kind": "commercial",
+      "summary": "米雇用統計の見出し提示後、ミサワホーム、オービック、小口化資産関連、車関連広告などが続くCM群。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n003",
+      "start_sec": 2472.8,
+      "end_sec": 2580.0,
+      "non_editorial_kind": "commercial",
+      "summary": "NARUTO特集の見出し提示後、リクルートエージェント、富士フイルムビジネスイノベーション、中央日土地、サントリーなどの広告が続くCM群。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n004",
+      "start_sec": 2760.0,
+      "end_sec": 2880.26,
+      "non_editorial_kind": "commercial",
+      "summary": "NARUTO特集後、三井不動産、Paramount Bed、アサヒ、ブラックニッカ、M&Aキャピタルパートナーズなどの広告が続くCM群。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n005",
+      "start_sec": 3000.0,
+      "end_sec": 3240.0,
+      "non_editorial_kind": "commercial",
+      "summary": "ワールドクイック途中のCM群。シノケングループ、家電量販、勤怠管理、川崎重工、ビズリーチ、住宅・保険関連などの広告が続く。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n006",
+      "start_sec": 3360.0,
+      "end_sec": 3501.1,
+      "non_editorial_kind": "commercial",
+      "summary": "番組終盤のCM群。テレ東広告、サントリー、J-POWER、金麦、東京海上ダイレクト、インディードプラスなどの広告が続く。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

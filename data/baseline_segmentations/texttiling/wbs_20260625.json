@@ -1,0 +1,163 @@
+{
+  "schema_version": "news_topic_texttiling_v1",
+  "program_id": "wbs_20260625",
+  "method": "texttiling",
+  "duration_sec": 3499.885411,
+  "parameters": {
+    "pseudosentence_tokens": 20,
+    "block_pseudosentences": 10,
+    "cutoff": "HC",
+    "smoothing_radius": 2,
+    "smoothing_rounds": 1,
+    "tokenizer": "SudachiPy mode C"
+  },
+  "boundaries_sec": [
+    184.82,
+    427.39,
+    692.28,
+    852.7,
+    1002.34,
+    1174.46,
+    1306.7,
+    1559.9,
+    1604.86,
+    1828.64,
+    1883.04,
+    2014.82,
+    2423.31,
+    2748.56,
+    3027.41,
+    3252.59
+  ],
+  "topics": [
+    {
+      "topic_id": "tt_0001",
+      "start_sec": 0.0,
+      "end_sec": 184.82,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0002",
+      "start_sec": 184.82,
+      "end_sec": 427.39,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0003",
+      "start_sec": 427.39,
+      "end_sec": 692.28,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0004",
+      "start_sec": 692.28,
+      "end_sec": 852.7,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0005",
+      "start_sec": 852.7,
+      "end_sec": 1002.34,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0006",
+      "start_sec": 1002.34,
+      "end_sec": 1174.46,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0007",
+      "start_sec": 1174.46,
+      "end_sec": 1306.7,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0008",
+      "start_sec": 1306.7,
+      "end_sec": 1559.9,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0009",
+      "start_sec": 1559.9,
+      "end_sec": 1604.86,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0010",
+      "start_sec": 1604.86,
+      "end_sec": 1828.64,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0011",
+      "start_sec": 1828.64,
+      "end_sec": 1883.04,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0012",
+      "start_sec": 1883.04,
+      "end_sec": 2014.82,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0013",
+      "start_sec": 2014.82,
+      "end_sec": 2423.31,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0014",
+      "start_sec": 2423.31,
+      "end_sec": 2748.56,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0015",
+      "start_sec": 2748.56,
+      "end_sec": 3027.41,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0016",
+      "start_sec": 3027.41,
+      "end_sec": 3252.59,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "tt_0017",
+      "start_sec": 3252.59,
+      "end_sec": 3499.885411,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 796,
+    "n_content_tokens": 4292,
+    "n_boundaries": 16,
+    "n_pseudosentences": 214,
+    "n_candidate_gaps": 195,
+    "depth_mean": 0.08167138966187033,
+    "depth_standard_deviation": 0.08831879265349826,
+    "depth_threshold": 0.0375119933351212
+  }
+}

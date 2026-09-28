@@ -1,0 +1,206 @@
+{
+  "program_id": "news7_20260526",
+  "source_ts_path": "media-not-distributed/news7_20260526.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 21.4,
+      "end_sec": 503.9,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "sport",
+        "society"
+      ],
+      "title": "巨人・阿部慎之助監督が逮捕を受け辞任",
+      "summary": "巨人の阿部慎之助監督が、同居する長女への暴行の疑いで逮捕され、その後釈放されたことを受けて辞任した。番組は本人の謝罪、球団が発表した事実関係、長女の手紙、山口寿一オーナーの発言、監督代行や後任人事について伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 503.9,
+      "end_sec": 718.8,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "science_technology"
+      ],
+      "title": "米・イラン協議とイラン南部への米軍攻撃",
+      "summary": "トランプ大統領が戦没者追悼の場でイランの核兵器保有を否定する発言をし、米・イラン協議の行方や濃縮ウランをめぐる立場、文言の意見相違が伝えられた。あわせて、イラン南部での米軍の攻撃や兵士の死亡に関する情報も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 718.8,
+      "end_sec": 885.6,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "conflict_war_peace"
+      ],
+      "title": "中東情勢の生活への影響と政府の電気・ガス料金支援",
+      "summary": "中東情勢の生活への影響として、コカ・コーラ ボトラーズジャパンのペットボトル・缶入り飲料など165品目の値上げ、ホルムズ海峡を通過する日本関係船舶の状況、政府の電気・ガス料金支援策が伝えられた。政府は今年度予備費から5,135億円を支出し、補正予算案を編成する方針も示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 885.6,
+      "end_sec": 952.4,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "鹿児島県で線状降水帯発生のおそれ、土砂災害に警戒",
+      "summary": "鹿児島県では大気の状態が不安定となり、翌日に線状降水帯が発生するおそれがあるとして、土砂災害への警戒が呼びかけられた。鹿児島県では局地的に非常に激しい雨が予想され、予想雨量も示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 952.4,
+      "end_sec": 1280.7,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "再審制度見直しの刑事訴訟法改正案が審議入り",
+      "summary": "再審制度の見直しに向けた刑事訴訟法改正案が審議入りした。再審で無罪が確定した袴田巌さんの姉の発言を紹介し、検察の不服申し立ての原則禁止、証拠開示の範囲、開示証拠の目的外使用などをめぐる政府側や議員の説明が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1280.7,
+      "end_sec": 1434.5,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "兵庫・たつの母娘殺害事件、容疑者の姿が複数駅の防犯カメラに",
+      "summary": "兵庫県たつの市の母娘殺害事件で、事件後に容疑者の姿が市内複数の駅の防犯カメラに映っていたことが伝えられた。被害者は母親と娘で、殺害は今月13日ごろとみられ、容疑者の事件後の足取りや目撃情報も示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1434.5,
+      "end_sec": 1574.9,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "国家情報局設置法案、参院委員会で可決し成立見通し",
+      "summary": "国家情報局の設置法案が参議院の委員会で可決され、翌日の参議院本会議で可決・成立する見通しとなった。法案の狙いとして情報を一元化して分析する体制が説明され、反対デモや立憲民主党による修正案、付帯決議の内容も伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1574.9,
+      "end_sec": 1620.2,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "村上宗隆が18号ホームラン、再びリーグトップに",
+      "summary": "大リーグで村上宗隆選手が18号ホームランを打ち、再びリーグトップに立ったことが伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1620.2,
+      "end_sec": 1646.8,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "西田陸浮が大リーグデビュー、初ヒットと好守",
+      "summary": "西田陸浮選手が大リーグでデビューし、初ヒットと好守を見せたことが伝えられた。本人のインタビュー映像も紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1646.8,
+      "end_sec": 1674.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "今井達也が2勝目、6回ノーヒット無失点",
+      "summary": "今井達也投手が中6日で先発し、6回ノーヒット無失点の内容で2勝目を挙げたことが伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1674.0,
+      "end_sec": 1805.5,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "environment"
+      ],
+      "title": "九州の大雨のおそれと全国の天気",
+      "summary": "気象情報として、九州で大雨のおそれがあり、鹿児島県では線状降水帯が発生するおそれがあると伝えられた。その後、翌朝の天気、各地の予報、週間の気温傾向として蒸し暑さが続く見通しが示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "n001",
+      "start_sec": 0.0,
+      "end_sec": 12.6,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "番組開始前または前番組由来とみられる首都圏ネットワークの天気予報画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n002",
+      "start_sec": 12.6,
+      "end_sec": 21.4,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "NHK NEWSのタイトル画面とキャスター導入。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "n003",
+      "start_sec": 1805.5,
+      "end_sec": 1820.217644,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組終盤のアプリ案内、ニュース項目一覧、後続番組または次項目の紹介とみられる画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

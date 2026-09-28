@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260622",
+  "duration_sec": 1820.51,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 20.4,
+      "end_sec": 208.47,
+      "domain": "crime_law_justice",
+      "label": "旭川　女子高校生殺害事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 208.47,
+      "end_sec": 611.52,
+      "domain": "sport",
+      "label": "サッカーW杯",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 611.52,
+      "end_sec": 754.76,
+      "domain": "disaster_accident_emergency",
+      "label": "霧島市で5歳児不明",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 754.76,
+      "end_sec": 865.39,
+      "domain": "politics",
+      "label": "スターマー首相　辞意",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 865.39,
+      "end_sec": 1085.74,
+      "domain": "politics",
+      "label": "中傷動画めぐる答弁",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1085.74,
+      "end_sec": 1401.51,
+      "domain": "politics",
+      "label": "参議院予算委員会",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1401.51,
+      "end_sec": 1464.74,
+      "domain": "politics",
+      "label": "国会会期末まで1ヶ月切る",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1464.74,
+      "end_sec": 1673.62,
+      "domain": "crime_law_justice",
+      "label": "アメリカ・イランの交渉",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1673.62,
+      "end_sec": 1801.23,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

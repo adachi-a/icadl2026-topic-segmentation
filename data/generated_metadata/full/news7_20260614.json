@@ -1,0 +1,218 @@
+{
+  "program_id": "news7_20260614",
+  "source_ts_path": "media-not-distributed/news7_20260614.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 12.0,
+      "end_sec": 219.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "science_technology"
+      ],
+      "title": "米・イラン覚書、トランプ大統領が14日署名予定と表明",
+      "summary": "トランプ大統領がイランとの覚書について14日に署名される予定だと具体的な日付を示した。イラン側は14日の署名を否定しつつ数日中に実現する可能性に言及したが、高濃縮ウランやホルムズ海峡をめぐり双方の主張には隔たりが残っていると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 219.0,
+      "end_sec": 502.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "G7サミットを前に高市首相が欧州入り、結束への日本の役割",
+      "summary": "フランスで開かれるG7サミットを前に、高市総理大臣がヨーロッパに到着し、ロンドンで日英首脳会談に臨んだ。G7の結束の揺らぎや包括的な首脳宣言見送りの見方がある中、高市総理はエネルギーや重要鉱物の備蓄に関する提案を行う方針で、外交手腕が問われると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 502.0,
+      "end_sec": 960.75,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "human_interest",
+        "lifestyle_leisure"
+      ],
+      "title": "サッカーW杯日本代表、オランダとの初戦へ最終調整",
+      "summary": "サッカーワールドカップ北中米大会で、日本代表の初戦となるオランダ戦が翌朝5時に始まると伝えた。ダラス近郊でのサポーターの熱気、日本代表の最終調整、国内の応援イベントや店舗の準備、オランダ代表の特徴、福西崇史さんによる勝利のポイント、両監督の会見を紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 978.75,
+      "end_sec": 1169.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "human_interest"
+      ],
+      "title": "天皇皇后両陛下、公式訪問でオランダに到着",
+      "summary": "天皇皇后両陛下が公式訪問の最初の訪問国オランダに到着した。両陛下は王室の別荘として使われるヘット・アウデ・ロー城に滞在し、アムステルダムで歓迎式典や戦没者記念碑での慰霊に臨む予定だと伝えた。訪問は今月26日までで、20日にベルギーへ移動する。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1169.0,
+      "end_sec": 1316.48,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "education"
+      ],
+      "title": "13歳の中学生の水難事故相次ぐ、子どもだけの水遊びに注意",
+      "summary": "名古屋市西区の庄内川で13歳の中学生が流され死亡した事故を伝えた。富山市や宮城県名取市でも13歳の中学生が海で亡くなっており、福岡海上保安部の分析では遊泳中の事故に遭った子どものうち13歳が最多だった。専門家は子どもだけで川や海に行くことへの注意やライフジャケット着用を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1316.48,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "ゼレンスキー大統領、G7などを前にロシア制裁強化を訴え",
+      "summary": "ウクライナのゼレンスキー大統領がG7サミットやNATO首脳会議などの外交日程を前に、会合を無意味にしてはならないとして、ロシアへの制裁強化やウクライナへのさらなる軍事支援など実効性ある取り組みを求めた。ウクライナ軍がロシア南部の石油関連施設などへの攻撃を続ける考えも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1440.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "arts_culture_entertainment_media",
+        "crime_law_justice"
+      ],
+      "title": "トランプ大統領の名前、ケネディ・センターの壁から取り外し",
+      "summary": "トランプ大統領が理事長に就任した後、理事会が名称をトランプ・ケネディ・センターに変更していたが、議会の承認を得ずに名前を加えたのは違法だとする裁判所の判断を受け、建物の壁からトランプ大統領の名前の表示が取り外されたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1500.0,
+      "end_sec": 1510.61,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "1型糖尿病、家族の約30人に1人が発症リスクか",
+      "summary": "1型糖尿病について、家族の約30人に1人に発症するリスクがあり、定期的な検査をしたほうがよいとする調査結果を伝えた。早期に発見できることで治療介入が期待されるという専門家の見方も紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1510.61,
+      "end_sec": 1596.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大リーグ、山本由伸7勝目・大谷翔平14号",
+      "summary": "大リーグでドジャースの山本由伸投手が好投し今シーズン7勝目を挙げた。大谷翔平選手は左ひざの炎症による欠場から2試合ぶりに復帰し、今シーズン14号の先頭打者ホームランを打った。山本は完全試合やノーヒットノーランに迫ったが、9回にホームランを打たれ記録は逃した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1596.0,
+      "end_sec": 1681.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "陸上日本選手権、後藤大樹が男子400mハードル初優勝",
+      "summary": "陸上の日本選手権最終日、男子400メートルハードル決勝で高校2年生の後藤大樹選手が48秒09で初優勝した。高校記録と18歳未満の世界最高記録をさらに更新し、アジア大会の代表にも内定した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1681.0,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報、梅雨前線北上で本州付近も雨や曇り続く見込み",
+      "summary": "梅雨前線の雨雲が東シナ海から本州の南に延び、沖縄で激しい雨が降ったと伝えた。あすにかけて前線上の低気圧が東日本太平洋側に近づき、関東では朝に広く雨となる見込み。前線は火曜から水曜に南西諸島から北上し、木曜以降は本州付近に停滞して、西日本・東日本で雨や曇りが続く見通しを説明した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 11.41,
+      "non_editorial_kind": "program_promo",
+      "summary": "スポーツ関連番組「スポーツ×ヒューマン」告知と字幕放送案内を含む番組開始前の宣伝区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 11.41,
+      "end_sec": 12.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "NHK NEWSのタイトル画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 960.75,
+      "end_sec": 978.75,
+      "non_editorial_kind": "program_promo",
+      "summary": "サッカーW杯日本対オランダの放送・配信告知。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1800.0,
+      "end_sec": 1819.866412,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組終了あいさつと後続番組の告知を含む終了区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

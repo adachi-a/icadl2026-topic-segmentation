@@ -1,0 +1,121 @@
+{
+  "schema_version": "news_topic_segmentation_release_v1",
+  "program_id": "wbs_20260605",
+  "condition": "no_vlm",
+  "duration_sec": 3501.1,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 0.0,
+      "end_sec": 523.0
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 544.43,
+      "end_sec": 856.0
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 856.0,
+      "end_sec": 1174.32
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1175.0,
+      "end_sec": 1200.0
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1200.0,
+      "end_sec": 1266.0
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1266.0,
+      "end_sec": 1320.0
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1320.0,
+      "end_sec": 1339.47
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1339.47,
+      "end_sec": 2054.0
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2054.0,
+      "end_sec": 2472.8
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2472.8,
+      "end_sec": 2760.0
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2891.0,
+      "end_sec": 2940.0
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2940.0,
+      "end_sec": 2960.0
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2960.0,
+      "end_sec": 3000.0
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 3240.0,
+      "end_sec": 3295.46
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3295.46,
+      "end_sec": 3360.0
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "n001",
+      "start_sec": 1680.0,
+      "end_sec": 1800.0,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n002",
+      "start_sec": 2054.0,
+      "end_sec": 2160.0,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n003",
+      "start_sec": 2472.8,
+      "end_sec": 2580.0,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n004",
+      "start_sec": 2760.0,
+      "end_sec": 2880.26,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n005",
+      "start_sec": 3000.0,
+      "end_sec": 3240.0,
+      "non_editorial_kind": "commercial"
+    },
+    {
+      "segment_id": "n006",
+      "start_sec": 3360.0,
+      "end_sec": 3501.1,
+      "non_editorial_kind": "commercial"
+    }
+  ]
+}

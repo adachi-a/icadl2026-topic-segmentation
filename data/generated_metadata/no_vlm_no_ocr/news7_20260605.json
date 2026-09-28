@@ -1,0 +1,218 @@
+{
+  "program_id": "news7_20260605",
+  "source_ts_path": "media-not-distributed/news7_20260605.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 40.64,
+      "end_sec": 350.49,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "安定的な皇位継承を巡る取りまとめ案",
+      "summary": "衆参両院の議長・副議長が、安定的な皇位継承を巡る取りまとめ案を来週8日に各党会派へ報告する方針だと伝えた。案では、女性皇族が結婚後も皇室に残る案と、旧皇族の男系男子を養子に迎える案をいずれも了とし、制度設計や見直し、皇室典範改正後の対応などが盛り込まれている。背景として皇族数の減少や皇位継承者がいなくなるおそれにも触れた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 350.49,
+      "end_sec": 571.67,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "environment"
+      ],
+      "title": "各地で相次ぐクマの出没と警戒",
+      "summary": "福島市で窓の鍵を開けて逃げたとみられるクマの行方が分からない中、周辺で目撃が相次いでいると伝えた。東北では春のクマ出没情報が3000件近くに達し、去年同期の2倍余りに増加。小学校の再開や自治体の警戒、東北6県での出没情報と人身被害の増加も伝え、警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 571.67,
+      "end_sec": 827.08,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木の強盗殺人事件で公開手配の容疑者を巡る証言",
+      "summary": "栃木県上三川町の住宅で親子3人が死傷した強盗殺人事件を主導したとして公開手配されている益田和彦容疑者について、元妻がNHKの取材に応じた。元妻は、公開手配までの間に事件の容疑者とは知らずに電話などでやり取りしていたと明かした。容疑者の海外渡航やカンボジアへの移動、通信アプリでの指示の疑い、元同僚の証言も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 827.08,
+      "end_sec": 995.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "中東情勢の影響で包装を簡素化する企業の動き",
+      "summary": "中東情勢の影響や原材料価格・物流費の上昇を受け、食品や小売の商品パッケージを簡素化する動きが出ていると伝えた。カントリーマアムや伊藤ハムの商品で色数を減らしたパッケージ、ファミリーマートのプラスチック使用量を減らしたレジ袋、ドン・キホーテなどのプライベートブランドのコスト見直しを紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 995.0,
+      "end_sec": 1120.65,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "レバノン停戦履行を巡る見通し",
+      "summary": "イラン情勢の懸念の一つとしてレバノンを取り上げ、アメリカがイスラエルとレバノンの停戦履行で合意したと発表した後も、現地で煙が上がり、イスラエルが南部でヒズボラへの軍事作戦を続ける考えを示していると伝えた。ヒズボラ側の反発や、協議の進展が見通せない状況にも触れた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1120.65,
+      "end_sec": 1207.51,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "中東情勢を受けた補正予算と参議院質疑",
+      "summary": "中東情勢を受けた今年度の補正予算について、重点支援地方交付金や予備費が盛り込まれていること、参議院予算委員会で財源や国民への節約呼びかけを巡る質疑が行われたことを伝えた。高市総理が原油や石油製品の調達、十分な供給量、市場混乱への懸念について答弁した内容も紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1207.51,
+      "end_sec": 1288.19,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "国民会議と食料品の消費税減税を巡る質疑",
+      "summary": "超党派の国民会議や消費税を巡る参議院予算委員会での質疑を伝えた。参政党の遠藤博史氏が消費税のあり方をただし、高市総理は社会保障財源として安定した税収確保の必要性を述べた。れいわ新選組の大石あきこ共同代表は大規模給付と大幅減税を求め、総理は食料品の消費税率引き下げについて国民会議の議論を踏まえる考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1288.19,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "politics",
+        "education"
+      ],
+      "title": "沖縄の船転覆事故を巡る国会質疑",
+      "summary": "沖縄で船が転覆し、研修旅行中の高校生らが死亡した事故について、参議院予算委員会で質疑があったと伝えた。国民民主党の伊藤孝恵氏が、船がアメリカ軍基地移設への抗議に使われていたことや教育の中立性、学校の対応をただし、高市総理は関係機関が真相解明を進めていると答えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1320.0,
+      "end_sec": 1378.99,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "economy_business_finance"
+      ],
+      "title": "防衛費増額を巡る参議院予算委員会質疑",
+      "summary": "防衛費を巡り、自民党安保調査会の提言がNATO諸国の水準を踏まえてさらなる増額を求めているとして、財源や赤字国債の扱いが問われた。高市総理は、防衛力整備は防衛上の判断に基づき、必要な予算を確保しつつ持続可能性に配慮して議論すると答えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1378.99,
+      "end_sec": 1461.89,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice"
+      ],
+      "title": "自民党総裁選の動画投稿疑惑を巡る質疑",
+      "summary": "参議院予算委員会で、先の自民党総裁選挙などを巡り、高市総理大臣の陣営がほかの候補を誹謗中傷する動画を投稿したなどと報じられた問題について質疑が行われた。文春オンラインが公開したとする音声データや、動画が印象操作目的だったのではないかとの質問に対する高市総理の答弁を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1461.89,
+      "end_sec": 1657.29,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "science_technology",
+        "environment"
+      ],
+      "title": "原発建て替えの必要数を経済産業省が提示",
+      "summary": "経済産業省が、原子力発電所の老朽化を受け、2040年代までに最大5基、2050年代までに11基から14基の建て替えが必要になるとの見通しを明らかにしたと伝えた。全国の原発の運転期間、政府の原子力活用方針、革新軽水炉の開発、安全性への不安、建設費や人手不足の課題、今後の正式決定の見通しも紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1657.29,
+      "end_sec": 1798.41,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "熱帯低気圧による週末の大雨に警戒",
+      "summary": "気象情報として、土日は熱帯低気圧の影響で沖縄・奄美、九州から東海で大雨になる所があると伝えた。先島諸島、奄美、沖縄本島、九州南部から東海や関東にかけて雨が強まる可能性、警報級の大雨や土砂災害、氾濫や浸水への警戒、各地の天気を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 40.64,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組冒頭のあいさつ、生字幕に関する案内、主なニュースの紹介。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1800.0,
+      "end_sec": 1819.776477,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組終了あいさつに続き、『きょうのネタドリ』の内容を紹介。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

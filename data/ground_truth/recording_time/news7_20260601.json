@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260601",
+  "duration_sec": 1819.74,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 16.86,
+      "end_sec": 718.23,
+      "domain": "disaster_accident_emergency",
+      "label": "台風6号　沖縄本島に最接近",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 743.39,
+      "end_sec": 816.71,
+      "domain": "crime_law_justice",
+      "label": "ケアマネ殺害",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 816.71,
+      "end_sec": 1114.08,
+      "domain": "economy_business_finance",
+      "label": "中東情勢と国内への影響",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1114.08,
+      "end_sec": 1368.47,
+      "domain": "labour",
+      "label": "企業の採用活動開始",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1368.47,
+      "end_sec": 1586.93,
+      "domain": "politics",
+      "label": "辺野古沖の高校生死亡事故、政治的中立性",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1586.93,
+      "end_sec": 1623.56,
+      "domain": "politics",
+      "label": "補正予算案、5日に緊急上程で合意",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1623.56,
+      "end_sec": 1663.56,
+      "domain": "crime_law_justice",
+      "label": "バスでひき逃げ",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1663.56,
+      "end_sec": 1682.19,
+      "domain": "politics",
+      "label": "高市首相、イラン大統領と電話会談",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1682.19,
+      "end_sec": 1803.09,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

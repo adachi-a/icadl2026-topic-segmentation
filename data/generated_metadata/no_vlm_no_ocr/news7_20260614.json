@@ -1,0 +1,192 @@
+{
+  "program_id": "news7_20260614",
+  "source_ts_path": "media-not-distributed/news7_20260614.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 11.28,
+      "end_sec": 218.28,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米イラン覚書署名をめぐる協議",
+      "summary": "トランプ大統領がイランとの覚書について14日に署名される予定だと具体的な日付を示した一方、イラン側は最終判断は検討中だと伝えられている。高濃縮ウランの扱いやホルムズ海峡をめぐる主張にも隔たりがあると報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 218.28,
+      "end_sec": 501.57,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "G7サミットへ高市総理が欧州到着",
+      "summary": "フランスで開かれるG7サミットを前に、高市総理大臣がヨーロッパに到着した。G7の結束の揺らぎが指摘される中、エネルギーや重要鉱物の備蓄に関する新提案を行う方針で、各国との調整や外交手腕が焦点になると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 501.57,
+      "end_sec": 977.01,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯 日本代表初戦を前に熱気高まる",
+      "summary": "サッカーワールドカップで日本代表の初戦、オランダ戦が日本時間の翌朝5時に始まる。現地や国内のサポーターの盛り上がり、日本代表の最終調整、対戦相手オランダの特徴、元日本代表による試合のポイントや予想を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 977.01,
+      "end_sec": 1169.64,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "politics",
+        "human_interest"
+      ],
+      "title": "天皇皇后両陛下がオランダ到着",
+      "summary": "天皇皇后両陛下が公式訪問の最初の訪問国であるオランダに到着した。王室の別荘として使われるヘット・アウデ・ロー城に滞在し、歓迎式典や戦没者記念碑での慰霊などに臨む予定で、訪問は今月26日までの日程だと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1169.64,
+      "end_sec": 1316.48,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "中学生の水難事故相次ぐ",
+      "summary": "名古屋市で中学生が川に流され死亡した事故を伝え、富山市や宮城県名取市でも13歳の中学生が海で亡くなっていると報じた。専門家は、中学生になると子どもだけで川や海で遊ぶ機会が増え、水の事故が相次ぐ傾向があるとして注意を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1316.48,
+      "end_sec": 1440.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "ゼレンスキー大統領 G7前に制裁強化訴え",
+      "summary": "ウクライナのゼレンスキー大統領がG7サミットなどを前に、会合を無意味にしてはならないと述べ、ロシアへの制裁強化やウクライナへの軍事支援など実効性のある取り組みを求めた。ウクライナ側はロシアの石油関連施設などへの攻撃を続ける考えも示している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1440.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "arts_culture_entertainment_media"
+      ],
+      "title": "ケネディ・センターのトランプ大統領名表示を撤去",
+      "summary": "トランプ大統領が理事長に就任した後に名称が変更されていた施設について、議会の承認を得ずに名前を加えたのは違法だとする裁判所の判断を受け、建物の壁からトランプ大統領の名前の表示が取り外されたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1500.0,
+      "end_sec": 1510.61,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "1型糖尿病の発症リスク調査",
+      "summary": "1型糖尿病について、自己抗体が体内で作られることなどが原因とされ、患者は国内に10万人いるとされると説明したうえで、発症するリスクがあり定期的な検査をしたほうがよいとする調査結果を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1510.61,
+      "end_sec": 1601.3,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大谷翔平14号 山本由伸7勝目",
+      "summary": "大リーグでドジャースの大谷翔平選手が2試合ぶりに復帰し、今シーズン14号となる先頭打者ホームランを放った。山本由伸投手は大記録に迫る投球で7勝目を挙げたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1601.3,
+      "end_sec": 1680.98,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "陸上日本選手権 後藤大樹が400mハードル初優勝",
+      "summary": "陸上の日本選手権最終日、男子400メートルハードル決勝で高校2年生の後藤大樹選手が48秒09で初優勝した。高校記録と18歳未満の世界最高記録をさらに更新し、アジア大会代表にも内定したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1680.98,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報 梅雨前線と雨の見通し",
+      "summary": "梅雨前線の雨雲が東シナ海から本州の南に延び、沖縄で激しい雨が降ったと説明した。あすにかけて前線上の低気圧が東日本太平洋側に近づき、関東で広く雨となるほか、木曜日以降は本州の近くに前線が停滞して西日本や東日本で雨や曇りが続く見込みだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne001",
+      "start_sec": 0.0,
+      "end_sec": 11.28,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "冒頭の生字幕放送の注意表示とヘッドライン断片。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1800.0,
+      "end_sec": 1819.866412,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組終了挨拶の後、後続番組と思われる告知文言が入る。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

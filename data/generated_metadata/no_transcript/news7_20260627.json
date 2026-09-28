@@ -1,0 +1,163 @@
+{
+  "program_id": "news7_20260627",
+  "source_ts_path": "media-not-distributed/news7_20260627.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 19.0,
+      "end_sec": 766.8,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "台風7号が関東に接近、非常に激しい雨や各地の被害・交通影響",
+      "summary": "台風7号が関東に接近し、関東・伊豆諸島で非常に激しい雨や強風、高波、土砂災害への警戒が伝えられた。千葉や静岡など各地の雨、浸水、道路陥没、交通機関の運休・欠航に加え、山口の土砂流入、愛媛の川で流された事故、ため池決壊など大雨による被害も報じられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 766.8,
+      "end_sec": 1112.6,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "science_technology",
+        "society"
+      ],
+      "title": "山梨で震度6弱、青森で震度6強など相次ぐ地震と備え",
+      "summary": "山梨県で震度6弱、おととい青森で震度6強を観測した地震について、各地の被害、富士山の活動との関係、4月以降の震度5弱以上の地震、専門家による地震への心構えが伝えられた。山梨県富士吉田などで商品の落下、断水、神社の灯籠破損、外国人客への対応なども紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1112.6,
+      "end_sec": 1194.3,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯北中米大会、フランスのデンベレがハットトリック",
+      "summary": "サッカーW杯北中米大会の試合で、フランスのデンベレ選手がハットトリックを達成し、フランスがノルウェーに4対1で勝ったことが伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1194.3,
+      "end_sec": 1224.9,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "初出場のカボベルデが決勝トーナメント進出",
+      "summary": "サッカーW杯北中米大会で、カボベルデがサウジアラビアと0対0で引き分け、初出場で決勝トーナメント進出を決めたことが伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1224.9,
+      "end_sec": 1261.7,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "エジプト対イランは1対1、イランの決勝トーナメント進出は",
+      "summary": "サッカーW杯北中米大会で、2戦引き分けのイランの決勝トーナメント進出に関わる試合として、エジプト対イランが1対1で伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1261.7,
+      "end_sec": 1454.8,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "日本代表がブラジル戦へ始動、ブラジルも日本戦に向け練習",
+      "summary": "サッカーW杯北中米大会で、日本代表がブラジル戦に向けて始動した様子が伝えられた。スウェーデン戦に出場しなかったメンバーの練習、久保建英選手、南野拓実選手のコメントやサポート役としての同行に触れ、ブラジル代表も日本戦に向け練習していることが紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1454.8,
+      "end_sec": 1588.6,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "ベネズエラでM7超の地震、920人死亡し救助活動急ぐ",
+      "summary": "ベネズエラで発生したマグニチュード7超の地震について、920人が死亡し、発生から約60時間が経つ中で救助活動が急がれていると伝えられた。家族などの情報を集める民間サイトに、連絡が取れないとする情報が5万3000人余り寄せられていることや、国際社会の支援本格化も報じられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1588.6,
+      "end_sec": 1686.4,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米軍が軍事施設を攻撃、イラン側も攻撃主張",
+      "summary": "米軍による軍事施設への攻撃と、イラン側による米軍関連標的への攻撃主張が伝えられた。トランプ大統領の発言、米中央軍関連とみられる映像、イラン外務省の文書などを示し、最終合意への難しさが浮き彫りになっていると報じられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1686.4,
+      "end_sec": 1808.9,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "society"
+      ],
+      "title": "台風7号と関東・東海の今後の天気、土砂災害に警戒",
+      "summary": "番組終盤の気象解説で、台風7号が千葉県の南の海上を進み関東に接近していること、関東・伊豆諸島で非常に激しい雨のおそれがあることが伝えられた。強風、落雷、竜巻、高波、土砂災害への警戒、あすの天気や各地の気温も示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 19.0,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組告知。「盗まれた美術品を奪還せよ 〜探偵 アルテュール・ブラン〜」などの表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1808.9,
+      "end_sec": 1820.163212,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7の終了表示と次番組への遷移。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

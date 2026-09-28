@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260622",
+  "duration_sec": 3500.63,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 35.08,
+      "end_sec": 534.1,
+      "domain": "politics",
+      "label": "スターマー首相、辞意表明",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 551.68,
+      "end_sec": 893.31,
+      "domain": "conflict_war_peace",
+      "label": "米・イランの停戦協議",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 893.31,
+      "end_sec": 1327.57,
+      "domain": "economy_business_finance",
+      "label": "大戸屋の新社長",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1327.57,
+      "end_sec": 1378.32,
+      "domain": "politics",
+      "label": "消費減税、2年後に元に戻す",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1378.32,
+      "end_sec": 1412.2,
+      "domain": "human_interest",
+      "label": "グリーンスパン元議長が死去",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1412.2,
+      "end_sec": 1531.21,
+      "domain": "labour",
+      "label": "早期離職「能力発揮できない」3倍、ゆるブラックに注意",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1531.21,
+      "end_sec": 1608.16,
+      "domain": "human_interest",
+      "label": "グリーンスパン元議長が死去",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1766.59,
+      "end_sec": 2409.94,
+      "domain": "economy_business_finance",
+      "label": "TOTOのトップにインタビュー",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2548.25,
+      "end_sec": 2714.27,
+      "domain": "economy_business_finance",
+      "label": "北京でサプライチェーンの博覧会",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2845.27,
+      "end_sec": 2883.46,
+      "domain": "politics",
+      "label": "コロンビア大統領選でトランプ氏支持の候補が勝利",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2883.46,
+      "end_sec": 2911.11,
+      "domain": "politics",
+      "label": "中国商務省、レアアースを米国の10団体に輸出禁止",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2911.11,
+      "end_sec": 2940.13,
+      "domain": "crime_law_justice",
+      "label": "オーストラリアで920億円相当のコカイン押収",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2940.13,
+      "end_sec": 2969.06,
+      "domain": "weather",
+      "label": "スペインとフランスで猛暑",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2969.06,
+      "end_sec": 2995.04,
+      "domain": "economy_business_finance",
+      "label": "マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3235.07,
+      "end_sec": 3265.04,
+      "domain": "economy_business_finance",
+      "label": "熱中症保険LINEで販売",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3265.04,
+      "end_sec": 3309.07,
+      "domain": "economy_business_finance",
+      "label": "農水省でフードテックの試食会",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3309.07,
+      "end_sec": 3360.66,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

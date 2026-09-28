@@ -1,0 +1,174 @@
+{
+  "program_id": "news7_20260601",
+  "source_ts_path": "media-not-distributed/news7_20260601.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 19.89,
+      "end_sec": 742.44,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "台風6号が沖縄本島地方に接近、暴風や大雨に厳重警戒",
+      "summary": "台風6号が沖縄本島地方に最も近づき、沖縄県内で最大瞬間風速40メートル超や停電、けが人が出ていると伝えた。奄美や九州南部では線状降水帯発生のおそれがあり、台風の北上に伴って西日本・東日本でも大雨や暴風、新幹線など交通への影響が懸念されるとして警戒を呼びかけた。新たな防災気象情報のレベル4危険警報や、NHK ONEニュース・防災アプリの活用も紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 742.44,
+      "end_sec": 816.22,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [],
+      "title": "埼玉・川口市の住宅で男女2人死亡、警察が殺人事件として捜査",
+      "summary": "埼玉県川口市の住宅から男の声で「ケアマネージャーの女性を包丁で刺した」「これから自分のことも刺す」と110番通報があり、現場で男女2人が血を流して倒れているのが見つかった。2人はいずれも死亡し、警察は住人の男が訪問したケアマネージャーの女性を刺したあと自殺を図ったとみて殺人事件として調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 816.22,
+      "end_sec": 993.29,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "中東情勢が株価や生活用品に影響、包装資材やごみ袋も不足・値上げ",
+      "summary": "イラン情勢の不透明感が残る中、日経平均株価は一時6万7000円台をつけた一方、市場全体では7割を超える銘柄が値下がりしたと伝えた。中東情勢の影響でインクなどの調達が不安定になり、カルビーが一部商品のパッケージを白黒2色に切り替えるほか、和菓子店の袋や保冷シート、指定ごみ袋の品薄や値上げなど生活への影響も紹介した。政府は石油製品の安定供給に向け地域の実態把握に努める考えを示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 993.29,
+      "end_sec": 1112.34,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン情勢を巡る協議、停戦延長と核問題の覚書で駆け引き",
+      "summary": "イラン情勢を巡り、停戦を延長して核問題の協議を行う覚書について、両国担当者が暫定的に一致したものの、トランプ大統領が修正を求めたと伝えた。CBSテレビはホルムズ海峡や高濃縮ウランの処分に関する比較的大きな変更が含まれていると報じ、イラン側も修正を加えるとされる。さらにイスラエルのレバノン南部での動きやベイルート郊外への攻撃指示が協議に与える影響への懸念も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1113.68,
+      "end_sec": 1367.97,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "labour",
+        "education"
+      ],
+      "title": "大学生らの企業採用活動開始、売り手市場で面接や内定確保に工夫",
+      "summary": "来年春に卒業する大学生などを対象にした企業の採用活動が、政府のルールではこの日から始まった。学生優位の売り手市場が続く中、大手住宅メーカーが食堂で最終面接を行う例や、IT企業がAIで一次面接を効率化する例、作業着チェーン店が早期に目標を超える学生へ合格を伝える例を紹介した。専門家は採用活動の前倒しが進み、日程ルールが実態と大きく乖離していると指摘した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1367.97,
+      "end_sec": 1560.0,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "politics",
+        "society",
+        "disaster_accident_emergency"
+      ],
+      "title": "辺野古沖転覆事故を受けた文科省判断、平和学習や主権者教育に波紋",
+      "summary": "沖縄県名護市辺野古の沖合で船が転覆して高校生などが死亡した事故を受け、文部科学省が高校の教育内容について教育基本法の政治的中立性に違反すると異例の判断をしたことを伝えた。この判断をめぐり、修学旅行の見学先変更など平和学習の現場で変化が起き、主権者教育の扱いにも模索が広がっていると紹介した。文部科学省の判断理由や、専門家の賛否も取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1560.0,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "今年度の補正予算案、5日に参院予算委と本会議で扱うことで与野党合意",
+      "summary": "今年度の補正予算案をめぐり、参議院自民党の磯崎参議院国会対策委員長と立憲民主党の斎藤国会対策委員長が会談し、今週5日に参議院予算委員会で質疑や採決を行い、その日のうちに本会議へ緊急上程することで合意した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1620.0,
+      "end_sec": 1663.03,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "crime_law_justice"
+      ],
+      "title": "名古屋市の交差点で男女2人死亡、マイクロバス運転手の勤務先など捜索",
+      "summary": "名古屋市の交差点でマイクロバスにはねられ男女2人が死亡した事故で、警察は逮捕された酒井照也容疑者の勤務先のスイミングスクールと自宅を、過失運転致死とひき逃げの疑いで捜索した。捜査関係者によると、ドライブレコーダーの映像から運転手は時速30キロ以下で2人をはねた疑いがあるという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1663.03,
+      "end_sec": 1680.76,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "高市総理がイラン大統領と電話会談、米イラン協議などで意見交換か",
+      "summary": "速報として、高市総理大臣が午後7時前から約15分間、イランのペゼシュキアン大統領と電話で会談したと伝えた。アメリカとイランの間の協議などについて意見を交わしたものとみられるとしている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1680.76,
+      "end_sec": 1801.26,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "気象情報、台風6号の進路と大雨・暴風への警戒",
+      "summary": "気象情報として、台風6号が沖縄本島に接近し、あすにかけて奄美地方へ、その後は本州の太平洋沿岸を進む見込みだと伝えた。沖縄・奄美、九州から近畿、東海や関東で大雨や暴風のおそれがあり、宮崎県や鹿児島県では線状降水帯発生のおそれもあるとして、土砂災害や川の氾濫、浸水、交通への影響に注意を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "n001",
+      "start_sec": 1802.37,
+      "end_sec": 1819.74,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7終了後の後続番組とみられる導入部。東京・新大久保を舞台として紹介している。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

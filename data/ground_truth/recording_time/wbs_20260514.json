@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260514",
+  "duration_sec": 3501.01,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 33.03,
+      "end_sec": 905.46,
+      "domain": "politics",
+      "label": "米中首脳会談",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 921.63,
+      "end_sec": 1235.88,
+      "domain": "economy_business_finance",
+      "label": "ホンダ、赤字から再起目指す",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1235.88,
+      "end_sec": 1306.14,
+      "domain": "economy_business_finance",
+      "label": "フジクラ、ストップ安",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1306.14,
+      "end_sec": 1339.27,
+      "domain": "economy_business_finance",
+      "label": "カゴメ、ケチャップ外袋を透明に",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1339.27,
+      "end_sec": 1374.54,
+      "domain": "economy_business_finance",
+      "label": "日銀委員、早期利上げが望ましい",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1374.54,
+      "end_sec": 1433.23,
+      "domain": "economy_business_finance",
+      "label": "ストックマーク、暗黙知データ化事業開始",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1433.23,
+      "end_sec": 1468.7,
+      "domain": "economy_business_finance",
+      "label": "日経・朝日、パープレキシティを提訴",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1609.23,
+      "end_sec": 1958.34,
+      "domain": "economy_business_finance",
+      "label": "薄型テレビ",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2088.06,
+      "end_sec": 2292.49,
+      "domain": "economy_business_finance",
+      "label": "米国統計とマーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2421.14,
+      "end_sec": 2657.53,
+      "domain": "conflict_war_peace",
+      "label": "ＥＮＥＯＳのタンカー、ホルムズ海峡を通過",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2784.48,
+      "end_sec": 2827.5,
+      "domain": "conflict_war_peace",
+      "label": "イスラエル首相、UAEを極秘訪問",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2827.5,
+      "end_sec": 2854.84,
+      "domain": "conflict_war_peace",
+      "label": "ロシア軍、無人機でウクライナを大規模攻撃",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2854.84,
+      "end_sec": 2883.66,
+      "domain": "sport",
+      "label": "イランのサッカー代表を国民が激励",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2883.66,
+      "end_sec": 2912.68,
+      "domain": "arts_culture_entertainment_media",
+      "label": "エッフェル塔のらせん階段がオークションに",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3152.68,
+      "end_sec": 3187.46,
+      "domain": "politics",
+      "label": "中国をめぐるベッセント財務長官の発言",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3187.46,
+      "end_sec": 3215.98,
+      "domain": "economy_business_finance",
+      "label": "グランドプリンスホテル新高輪、営業継続",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3215.98,
+      "end_sec": 3249.11,
+      "domain": "politics",
+      "label": "ウォーシュFRB議長を承認",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3249.11,
+      "end_sec": 3284.37,
+      "domain": "politics",
+      "label": "再審見直し、自民が正式了承",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t019",
+      "start_sec": 3284.37,
+      "end_sec": 3376.83,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "news7_20260526",
+  "duration_sec": 1799.764633,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 9.336089,
+      "end_sec": 488.00608900000003,
+      "domain": "crime_law_justice",
+      "label": "巨人の阿部慎之助監督が辞任",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 488.00608900000003,
+      "end_sec": 864.756089,
+      "domain": "conflict_war_peace",
+      "label": "イラン情勢と生活への影響",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 864.756089,
+      "end_sec": 921.9560889999999,
+      "domain": "weather",
+      "label": "鹿児島県で線状降水帯発生のおそれ",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 921.9560889999999,
+      "end_sec": 1250.956089,
+      "domain": "politics",
+      "label": "再審制度の見直し改正案 審議入り",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1250.956089,
+      "end_sec": 1393.3460890000001,
+      "domain": "crime_law_justice",
+      "label": "兵庫県たつの市の母娘殺害事件",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1393.3460890000001,
+      "end_sec": 1557.986089,
+      "domain": "politics",
+      "label": "参院内閣委で国家情報局法案可決",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1557.986089,
+      "end_sec": 1648.646089,
+      "domain": "sport",
+      "label": "大リーグ 日本人選手の活躍",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1648.646089,
+      "end_sec": 1791.0460890000002,
+      "domain": "weather",
+      "label": "気象情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

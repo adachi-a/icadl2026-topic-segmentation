@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260507",
+  "duration_sec": 3499.58,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 39.0,
+      "end_sec": 620.55,
+      "domain": "economy_business_finance",
+      "label": "日経平均株価が全面高",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 641.12,
+      "end_sec": 921.48,
+      "domain": "economy_business_finance",
+      "label": "為替介入",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 921.48,
+      "end_sec": 1276.14,
+      "domain": "economy_business_finance",
+      "label": "外資系ホテルの動向",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1276.14,
+      "end_sec": 1348.54,
+      "domain": "health",
+      "label": "ハンタウイルス",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1348.54,
+      "end_sec": 1394.13,
+      "domain": "politics",
+      "label": "再審制度の見直し",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1394.13,
+      "end_sec": 1429.7,
+      "domain": "economy_business_finance",
+      "label": "日銀の金融政策決定会合の議事要旨が公開",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1429.7,
+      "end_sec": 1474.4,
+      "domain": "politics",
+      "label": "国力研究会発足へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1474.4,
+      "end_sec": 1509.5,
+      "domain": "economy_business_finance",
+      "label": "レクサス新型EV世界初公開",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1651.34,
+      "end_sec": 1977.33,
+      "domain": "politics",
+      "label": "駐中国大使が探る日中関係",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2104.75,
+      "end_sec": 2457.07,
+      "domain": "economy_business_finance",
+      "label": "畳める電動モビリティ",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2583.49,
+      "end_sec": 2722.94,
+      "domain": "economy_business_finance",
+      "label": "三菱UFJとグーグルが提携",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2722.94,
+      "end_sec": 2766.11,
+      "domain": "economy_business_finance",
+      "label": "マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2892.51,
+      "end_sec": 2931.16,
+      "domain": "economy_business_finance",
+      "label": "トランプ関税の返還開始",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2931.16,
+      "end_sec": 2957.37,
+      "domain": "politics",
+      "label": "イギリス統一地方選　与党苦戦か",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2957.37,
+      "end_sec": 3037.22,
+      "domain": "human_interest",
+      "label": "CNN創設者死去",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3277.45,
+      "end_sec": 3309.54,
+      "domain": "economy_business_finance",
+      "label": "住友商事と丸紅、バークシャーによる保有比率10%超え",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3309.54,
+      "end_sec": 3377.59,
+      "domain": "economy_business_finance",
+      "label": "8日の注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

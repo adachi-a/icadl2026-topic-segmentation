@@ -1,0 +1,235 @@
+{
+  "program_id": "news7_20260522",
+  "source_ts_path": "media-not-distributed/news7_20260522.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 20.22,
+      "end_sec": 403.8,
+      "editorial": true,
+      "domain": "education",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "politics",
+        "crime_law_justice"
+      ],
+      "title": "辺野古沖転覆事故で文部科学省が同志社国際高校に指導通知",
+      "summary": "沖縄県名護市辺野古沖で研修旅行中の高校生らが乗った船が転覆し、生徒と船長が死亡した事故をめぐり、文部科学省は基地反対の抗議船に乗せた教育内容が政治的中立性を定めた教育基本法に違反すると判断し、学校側に改善を求める指導通知を行った。学校側や専門家の反応、京都府の補助金減額方針、死亡した船長への刑事告発も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 403.8,
+      "end_sec": 558.36,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・上三川町の強盗殺人事件で高校生ら別々に侵入か",
+      "summary": "栃木県上三川町で住宅に押し入った複数人が親子3人を死傷させた強盗殺人事件で、実行役として逮捕された男子高校生らがそれぞれ別の場所から敷地内に侵入していたとみられることが分かった。警察は指示役から事前に指示されていたとみて調べている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 558.36,
+      "end_sec": 660.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "都内の貴金属業者周辺で強盗予備容疑、少年らも逮捕",
+      "summary": "いわゆる匿名・流動型犯罪グループによるとみられる事件が都内でも相次いでいるとして、金の取り引きを狙い、貴金属買い取り業者の事務所近くを警棒を持ってうろついたなどの強盗予備事件を伝えた。23歳の容疑者2人に加え、17歳の少年ら4人が新たに逮捕された。関連して栃木の事件で逮捕された高校生の一部が後悔していると供述していることも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 660.0,
+      "end_sec": 861.14,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society",
+        "lifestyle_leisure"
+      ],
+      "title": "消費者物価指数1.4％上昇、節約志向と今後の物価見通し",
+      "summary": "全国の消費者物価指数が前年同月比1.4％上昇したと伝え、街の人の実感や節約志向の高まりを取材した。水筒や弁当箱の売り上げ増加、まとめ売りを強化する店の動き、電気料金や企業物価指数、原油高の価格転嫁が消費者物価に波及する可能性について解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 861.14,
+      "end_sec": 1096.66,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "economy_business_finance"
+      ],
+      "title": "アメリカがキューバへの圧力強化、空母打撃群もカリブ海へ",
+      "summary": "アメリカがキューバへの圧力を強め、元国家元首ラウル・カストロ氏の起訴に続き、キューバ軍傘下の複合企業GAESA幹部の親族を拘束したことや、原子力空母ニミッツを中心とする空母打撃群がカリブ海地域に入ったことを伝えた。キューバ国内の燃料不足や停電、抗議の様子も紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1096.66,
+      "end_sec": 1183.45,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "こう着するイラン情勢と日本の産油国共同備蓄補充",
+      "summary": "戦闘終結に向けた協議が続くイラン情勢について、アメリカから届いた新たな文書をイランが検討しており、アメリカが回答を待つ考えを示していると伝えた。争点としてウラン濃縮とホルムズ海峡の管理が報じられていることや、日本でUAEからの原油タンカーが到着し、産油国共同備蓄を補充したことも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1183.45,
+      "end_sec": 1348.28,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "crime_law_justice",
+        "society"
+      ],
+      "title": "自民党作業チームが国旗損壊罪の骨子案を大筋了承",
+      "summary": "自民党内で検討が進められている国旗損壊罪について、党内の作業チームが骨子案を大筋で了承した。骨子案では日本国国旗損壊罪の創設、対象となる国旗や行為、SNSで損壊動画を拡散する場合、2年以下の拘禁刑または20万円以下の罰金などの罰則が示された。表現の自由や人権への制約を懸念する意見も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1348.28,
+      "end_sec": 1450.52,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "兵庫・たつの市の母娘殺害事件、無施錠の玄関から襲撃か",
+      "summary": "兵庫県たつの市の住宅で母娘が殺害されているのが見つかった事件で、2人の刺し傷が体の前側に集中し、玄関のドアのほうに足を向けてあおむけに倒れていたことが分かった。警察は、鍵のかかっていなかった玄関から入った人物に襲われた可能性や、金品目的ではなかった可能性もあるとみて捜査している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1450.52,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "高市総理と日銀・植田総裁が会談、利上げが焦点に",
+      "summary": "高市総理大臣と日銀の植田総裁が総理大臣官邸で会談した。植田総裁は会談後、金融政策の考え方を説明し、総理から物価高対策や成長投資への理解のうえで日銀として適切な政策を遂行してほしいとの話があったと述べた。来月の金融政策決定会合で日銀が利上げに踏み切るかが焦点とされた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1500.0,
+      "end_sec": 1545.28,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "サントリー新浪剛史元会長を福岡地検が不起訴",
+      "summary": "アメリカの知人から大麻成分を含む製品が送られた疑いがあるとして麻薬取締法違反の疑いで書類送検されたサントリーホールディングスの新浪剛史元会長について、福岡地方検察庁は不起訴にした。理由は明らかにしていないが、関係証拠を慎重に検討した結果としている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 1545.28,
+      "end_sec": 1664.43,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "大相撲夏場所13日目、霧島が琴栄峰との2敗対決を制す",
+      "summary": "大相撲夏場所13日目、優勝争いのトップに並ぶ2敗どうしの大関・霧島と平幕の琴栄峰の一番を伝えた。軍配は琴栄峰に上がったが物言いの結果、琴栄峰の体が先に落ちていたとして行司軍配差し違えで霧島の勝ちとなり、霧島は2場所連続優勝に一歩近づいた。中入り後の勝敗も紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 1664.43,
+      "end_sec": 1799.94,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "気象情報、関東・東北の冷たい雨と週末の天気",
+      "summary": "気象情報では、西日本の天気が回復した一方で東北や関東は冷たい雨となり、仙台や東京の最高気温が3月並みだったと伝えた。翌日は雨がやんで寒さが解消する見込みで、西日本中心の雨、土日の天気、沖縄から北日本までの各地の天気を解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne_pre000",
+      "start_sec": 0.0,
+      "end_sec": 10.63,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース7開始前の別番組とみられる首都圏の天気予報・出演者の会話。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 10.63,
+      "end_sec": 20.22,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "opening/ending interval",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_end001",
+      "start_sec": 1800.0,
+      "end_sec": 1811.34,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "気象情報後の締めの会話。都内の寒さや風邪への注意を述べた。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne_post001",
+      "start_sec": 1811.34,
+      "end_sec": 1820.656245,
+      "non_editorial_kind": "program_promo",
+      "summary": "7時30分開始とみられる「AI×医療 最前線」の案内・導入映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,2 @@
+# Dedicated environment used by the faster-whisper ASR stage.
+faster-whisper>=1.2.1

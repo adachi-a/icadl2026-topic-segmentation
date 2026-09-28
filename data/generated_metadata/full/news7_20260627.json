@@ -1,0 +1,170 @@
+{
+  "program_id": "news7_20260627",
+  "source_ts_path": "media-not-distributed/news7_20260627.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 19.0,
+      "end_sec": 762.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather",
+        "society"
+      ],
+      "title": "台風7号・8号接近と大雨被害",
+      "summary": "2つの台風と停滞する梅雨前線の影響で各地で大雨となり、関東や伊豆諸島で非常に激しい雨のおそれが伝えられた。千葉県一宮町や鴨川市から冠水や増水の状況を中継し、山口県平生町の土砂流入、愛媛県西条市の川でのSUP事故、広島県福山市のため池決壊、福岡県田川市の土地陥没など各地の被害も報じた。気象庁は土砂災害、川の増水や氾濫、低地の浸水、高波への警戒を呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 762.0,
+      "end_sec": 1100.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "science_technology",
+        "society"
+      ],
+      "title": "山梨県で震度6弱、相次ぐ地震と備え",
+      "summary": "山梨県の富士五湖を震源とする最大震度6弱の地震について、甲府市の建物被害、静岡県小山町の断水、富士吉田市の神社の灯籠被害、観光地での外国人客への対応などを伝えた。気象庁によると富士山の火山活動や観測データに特段の変化はなく、専門家は相次ぐ地震の関連性や日頃の備えについて解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1100.0,
+      "end_sec": 1173.77,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯、日本代表決勝トーナメント進出とフランスの勝利",
+      "summary": "サッカーW杯北中米大会で、日本代表が3大会連続の決勝トーナメント進出を決めたことを伝えた。あわせて1次リーグのフランス対ノルウェーでは、フランスのデンベレがハットトリックを達成し、フランスが1次リーグ全勝と報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1173.77,
+      "end_sec": 1236.3,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "カボベルデ初出場で決勝トーナメント進出、イランは引き分け",
+      "summary": "サッカーW杯北中米大会で、初出場のカボベルデが強豪相手に引き分けを重ね、決勝トーナメント進出を決めたと伝えた。続いてイランの試合では終了間際の勝ち越し点がオフサイドで取り消され、決勝トーナメント進出は他グループの結果しだいとなった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1236.3,
+      "end_sec": 1444.57,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "日本代表、ブラジル戦へ向け調整",
+      "summary": "サッカーW杯でグループ2位で決勝トーナメント進出を決めた日本代表が、ブラジル戦に向けてキャンプ地で調整を始めた。スウェーデン戦に出場しなかったメンバーが全体練習に参加し、久保建英選手は別メニューで体を動かした。ブラジル代表の練習や、現地での日本戦への見方も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1460.0,
+      "end_sec": 1576.47,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "politics"
+      ],
+      "title": "ベネズエラでM7超地震、920人死亡し救助急ぐ",
+      "summary": "南米ベネズエラでマグニチュード7を超える地震が2度発生し、これまでに920人の死亡が確認されたと伝えた。倒壊した建物に取り残された人の救助活動が続く一方、首都カラカスの住民は重機不足を訴え、連絡が取れないとする情報が民間サイトに寄せられた人は5万3000人余りに上ると報じた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1576.47,
+      "end_sec": 1689.61,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米中央軍がイラン軍事施設攻撃、イラン側も攻撃主張",
+      "summary": "アメリカ中央軍が、イランのミサイルや無人機の保管施設などを航空機で攻撃したと発表した。前日にホルムズ海峡を出ようとした貨物船がイランの攻撃を受けたことへの対応だとしている。イラン外務省は自衛権があると強調し、アメリカ軍に関連する標的を攻撃したと主張したが、具体的な内容は明らかにしていないと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1691.0,
+      "end_sec": 1800.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "気象情報：台風通過後も土砂災害に警戒",
+      "summary": "気象情報では、台風8号や7号の影響で東海から関東沿岸、伊豆諸島を中心に大雨となったことを振り返り、千葉県を中心に雨がやんだあとも土砂災害への警戒が必要だと伝えた。翌日の天気は関東周辺で雨が続き、各地の最高気温や湿度、被災地域での片づけ時の水分補給についても呼びかけた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 19.0,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組告知と生字幕案内の区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1444.57,
+      "end_sec": 1459.7,
+      "non_editorial_kind": "program_promo",
+      "summary": "サッカーW杯日本対ブラジル戦のNHK BS中継・特設サイト告知。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1800.0,
+      "end_sec": 1802.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "ニュース7の終了表示・制作著作表示を含むエンディング区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1802.0,
+      "end_sec": 1820.16,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "ニュース7終了後の別番組「ブラタモリ」冒頭・案内にあたる区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

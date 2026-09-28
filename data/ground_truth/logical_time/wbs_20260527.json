@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260527",
+  "duration_sec": 3419.883134,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 24.672067000000002,
+      "end_sec": 584.6820670000001,
+      "domain": "economy_business_finance",
+      "label": "株高と日銀の利上げ",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 602.252067,
+      "end_sec": 1032.192067,
+      "domain": "economy_business_finance",
+      "label": "日中5社が軽EV発売へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1032.192067,
+      "end_sec": 1098.7720669999999,
+      "domain": "politics",
+      "label": "国家情報会議法が成立",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1098.7720669999999,
+      "end_sec": 1157.3420669999998,
+      "domain": "economy_business_finance",
+      "label": "JAL 客室乗務員の飲酒で出発遅延",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1157.3420669999998,
+      "end_sec": 1190.602067,
+      "domain": "politics",
+      "label": "給付付き税額控除制度案",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1190.602067,
+      "end_sec": 1257.912067,
+      "domain": "economy_business_finance",
+      "label": "東京スター銀行 普通預金金利1%に",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1257.912067,
+      "end_sec": 1294.932067,
+      "domain": "economy_business_finance",
+      "label": "キリン、本麒麟をビールに",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1450.472067,
+      "end_sec": 1829.7720669999999,
+      "domain": "economy_business_finance",
+      "label": "宇宙ビジネスに注目",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1829.7720669999999,
+      "end_sec": 1885.632067,
+      "domain": "conflict_war_peace",
+      "label": "イラン、対米終戦の覚書案を入手",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2015.442067,
+      "end_sec": 2420.972067,
+      "domain": "economy_business_finance",
+      "label": "コインランドリーのランキング",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2548.362067,
+      "end_sec": 2808.7520670000004,
+      "domain": "economy_business_finance",
+      "label": "ブラザー、訪日外国人向けの体験施設",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2936.112067,
+      "end_sec": 2972.142067,
+      "domain": "economy_business_finance",
+      "label": "サムスン、ストライキ回避",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2972.142067,
+      "end_sec": 2998.8320670000003,
+      "domain": "politics",
+      "label": "テキサス州共和党予備選でMAGA派の候補が勝利",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2998.8320670000003,
+      "end_sec": 3027.2320670000004,
+      "domain": "weather",
+      "label": "ロンドンで最高気温が80年ぶり更新",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3027.2320670000004,
+      "end_sec": 3051.912067,
+      "domain": "economy_business_finance",
+      "label": "マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3292.262067,
+      "end_sec": 3326.712067,
+      "domain": "labour",
+      "label": "ディップ、アルバイトのつながらない権利保護",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3326.712067,
+      "end_sec": 3380.172067,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

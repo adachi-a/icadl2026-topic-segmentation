@@ -1,0 +1,748 @@
+{
+  "program_id": "wbs_20260622",
+  "source_ts_path": "media-not-distributed/wbs_20260622.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 35.8,
+      "end_sec": 550.28,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "英スターマー首相が辞意表明、EU離脱10年を前に政治混乱",
+      "summary": "イギリスのスターマー首相が辞意を表明した。番組はロンドン首相官邸前から中継し、総選挙から約2年で退陣に至った背景、閣僚のスキャンダルや物価高への不満、労働党内の混乱、後任候補とされるバーナム氏、EU再加盟を望む世論、財政運営上の課題を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 550.28,
+      "end_sec": 893.13,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "米イラン協議、戦闘終結や核査察再開に向け進展を強調",
+      "summary": "アメリカとイランが戦闘終結に向けた協議を行い、バンス副大統領が核査察受け入れなどを挙げて成果を強調した。協議ではホルムズ海峡の安全航行に向けた連絡手段なども示された一方、トランプ大統領のSNS投稿やイスラエルとヒズボラをめぐるレバノン情勢で難航する場面もあったと伝えた。日経平均が過去最高値を更新した市場反応も解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 893.13,
+      "end_sec": 1327.06,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "大戸屋HD、創業家の三森智仁氏が新社長に就任",
+      "summary": "大戸屋ホールディングスは株主総会で、創業者の長男である三森智仁氏を新社長に選出した。番組は、約6年前の買収騒動、コロワイド傘下入り後の再建、提供時間短縮や食材一括購入などの改善、業績回復を振り返り、三森新社長が海外展開や店舗拡大を目指す考えを伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1327.06,
+      "end_sec": 1380.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "高市総理、食料品の消費減税は2年後に8％へ戻す考え",
+      "summary": "WBS Quickで、高市総理が衆議院予算委員会で、食料品の消費税減税について2年間の減税終了後は現行の8％の軽減税率に戻す考えを示したと伝えた。国民民主党が提案する所得税・住民税減税や社会保険料還付には、法改正や時間が必要として慎重な姿勢を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1380.0,
+      "end_sec": 1410.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "アラン・グリーンスパン元FRB議長が死去",
+      "summary": "アメリカのFRB議長を18年半務めたアラン・グリーンスパン氏が22日に亡くなったとNBCテレビが伝えた。100歳だった。1987年にFRB議長に就任し、ブラックマンデーなど数多くの危機に対応し、マエストロと称賛されたと紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1410.0,
+      "end_sec": 1529.46,
+      "editorial": true,
+      "domain": "labour",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "若手の早期離職理由、「能力を発揮できない」が約3倍に",
+      "summary": "リクルートマネジメントソリューションズが、入社3年目までの社員を対象にした離職実態調査を発表した。早期離職の理由として、仕事で自分の能力や持ち味を発揮できないとの回答が前回比で約3倍に増えた。残業が少ないなど環境は整っていても成長機会が少ない「ゆるブラック」への注意が解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1529.46,
+      "end_sec": 1620.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "グリーンスパン元FRB議長の功績と市場との対話を解説",
+      "summary": "番組は、死去が伝えられたグリーンスパン元FRB議長について解説した。マエストロとして評価される一方、低金利政策が後の金融バブルやリーマン・ショックにつながったとの指摘も紹介。難解な発言を読み解くFRBウォッチャーという言葉が広がったことや、金融政策運営と市場との対話に与えた影響を取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1769.83,
+      "end_sec": 2426.23,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "health"
+      ],
+      "title": "TOTO田村社長を直撃、中国立て直し・北米ウォシュレット・半導体部材・トイレデータ戦略",
+      "summary": "上場企業トップに聞く企画で、TOTOの田村信也社長に成長戦略を聞いた。2025年度の売上高・営業利益が過去最高となり、株価も上場来高値を更新。中国事業の赤字転落と工場閉鎖による立て直し、中東情勢による約70億円の打撃、北米でのウォシュレット販売拡大、セラミック技術を生かした半導体製造装置部品、便スキャンによるトイレのビッグデータ活用を取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne008",
+        "ne009",
+        "ne010",
+        "ne011",
+        "ne012",
+        "ne013",
+        "ne014"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 2580.0,
+      "end_sec": 2708.68,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology",
+        "politics"
+      ],
+      "title": "中国サプライチェーン博覧会開幕、AI専門エリアや脱中国依存の動き",
+      "summary": "中国国際サプライチェーン促進博覧会が北京で開幕し、85の国・地域・国際機関から670超の企業や団体が出展した。外資系企業比率は36.5％でアメリカ企業の参加が最多。AI専門エリアが初設置され、中国政府の「AI＋」行動や半導体分野での自立自強方針、NVIDIAやインテルとの関係維持、日本企業の住友電工の出展と脱中国依存への対応を伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2843.99,
+      "end_sec": 2880.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "コロンビア大統領選、トランプ氏支持のデラエスプリエジャ氏が勝利",
+      "summary": "ワールドクイックで、コロンビア大統領選の決選投票が21日に行われ、親米路線を掲げる右派のデラエスプリエジャ氏が当選したと伝えた。トランプ大統領はSNSで祝福し、中南米で右派への政権交代が相次いでいると紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2880.0,
+      "end_sec": 2916.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "中国、米10団体への軍民両用品目輸出を禁止",
+      "summary": "中国商務省が、レアアース関連企業などアメリカの10団体を輸出規制リストに記載し、軍民両用品目の輸出を禁止した。アメリカがアリババグループなどを中国軍と関係のある企業リストに追加指定したことへの対抗措置とみられると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2916.0,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [],
+      "title": "豪警察、シドニー近郊で約2.7トンのコカイン押収",
+      "summary": "オーストラリア警察が22日、シドニー近郊の物件から国内最大規模となるコカイン約2.7トンを押収したと発表した。末端価格は日本円で約920億円相当とされ、警察トップは捜査の成果を強調した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2940.0,
+      "end_sec": 2967.26,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "欧州で記録的猛暑、スペイン・フランスで42度",
+      "summary": "気象当局によると、スペインとフランスで21日に最高気温42度を記録した。パリでは6月として異例の暑さが今週いっぱい続く見込みで、イタリア・ローマでは地下遺跡に避難して暑さをしのぐ観光客の姿も見られた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2967.26,
+      "end_sec": 3000.93,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "為替・商品・米株の最新マーケット情報",
+      "summary": "マーケット情報として、ドル円が1ドル＝161円80銭台後半で取引されていること、米10年国債、NY金、NY原油などの商品、取引が始まったニューヨーク株式市場のダウやナスダックの動きを確認した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3233.82,
+      "end_sec": 3272.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "熱中症保険、LINEで販売開始へ",
+      "summary": "住友生命傘下のアイアル少額短期保険は、熱中症保険のニーズの高まりを受け、今月からLINEでの販売を開始する。PayPayから加入できる熱中症保険は累計加入件数が40万件を超えており、LINEでの販売により加入者拡大を狙うと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3272.0,
+      "end_sec": 3316.0,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "politics"
+      ],
+      "title": "農水省で日本発フードテック試食会、海外展開を狙う",
+      "summary": "農林水産省で、食分野の新技術やビジネスモデルであるフードテックの試食会が行われた。鈴木農水大臣がフェルメクテスの納豆菌たんぱく質を練り込んだ麺のラーメンを試食し、日本ハムなど5社が日本発の商品をアピールした。フードテックは高市政権が17の戦略分野の一つに位置づけている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3316.0,
+      "end_sec": 3354.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "翌日の注目指標、米・ユーロ圏PMIに注目",
+      "summary": "翌日の注目ニュースとして、アメリカとユーロ圏の購買担当者景気指数が発表されることを取り上げた。速報性の高い経済指標として、原油高やサプライチェーン混乱がビジネス現場の肌感覚にどう影響しているかが注目されると解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3354.0,
+      "end_sec": 3394.88,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "labour"
+      ],
+      "title": "日産・日本航空の株主総会を前に説明責任に注目",
+      "summary": "株主総会シーズンの注目として、日産や日本航空の株主総会を取り上げた。日産は前期に大幅な最終赤字となり、人員削減も進めている状況で、経営陣が役員報酬の一部自主返納を表明しており、株主への説明が注目されるとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 12.17,
+      "non_editorial_kind": "commercial",
+      "summary": "自動車保険チューリッヒのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 17.77,
+      "end_sec": 26.57,
+      "non_editorial_kind": "commercial",
+      "summary": "抽象CGの非編集区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1652.51,
+      "end_sec": 1658.29,
+      "non_editorial_kind": "commercial",
+      "summary": "SansanのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1658.29,
+      "end_sec": 1663.18,
+      "non_editorial_kind": "sponsor",
+      "summary": "Sansanの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 1707.57,
+      "end_sec": 1711.95,
+      "non_editorial_kind": "ambiguous",
+      "summary": "ビズリーチ関連の非編集的区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 1716.39,
+      "end_sec": 1720.81,
+      "non_editorial_kind": "sponsor",
+      "summary": "ビズリーチの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 1724.76,
+      "end_sec": 1728.28,
+      "non_editorial_kind": "commercial",
+      "summary": "パラマウントベッドのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 1735.06,
+      "end_sec": 1746.46,
+      "non_editorial_kind": "commercial",
+      "summary": "眠り・健康を訴求するCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne008",
+      "start_sec": 1994.28,
+      "end_sec": 2027.32,
+      "non_editorial_kind": "commercial",
+      "summary": "コスモMyカーリース、シノケングループなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne009",
+      "start_sec": 2042.92,
+      "end_sec": 2047.47,
+      "non_editorial_kind": "commercial",
+      "summary": "シノケングループのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne010",
+      "start_sec": 2047.47,
+      "end_sec": 2067.45,
+      "non_editorial_kind": "sponsor",
+      "summary": "シノケングループ、アパホテルの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne011",
+      "start_sec": 2072.06,
+      "end_sec": 2078.14,
+      "non_editorial_kind": "commercial",
+      "summary": "アパホテルのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne012",
+      "start_sec": 2078.14,
+      "end_sec": 2083.01,
+      "non_editorial_kind": "sponsor",
+      "summary": "ビックカメラの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne013",
+      "start_sec": 2083.01,
+      "end_sec": 2094.62,
+      "non_editorial_kind": "commercial",
+      "summary": "ビックカメラのエアコン広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne014",
+      "start_sec": 2094.62,
+      "end_sec": 2113.81,
+      "non_editorial_kind": "sponsor",
+      "summary": "ビックカメラSuicaカードの提供・販促表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne015",
+      "start_sec": 2426.23,
+      "end_sec": 2434.43,
+      "non_editorial_kind": "commercial",
+      "summary": "スターツのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne016",
+      "start_sec": 2469.48,
+      "end_sec": 2475.28,
+      "non_editorial_kind": "sponsor",
+      "summary": "Indeed PLUSの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne017",
+      "start_sec": 2475.28,
+      "end_sec": 2479.32,
+      "non_editorial_kind": "commercial",
+      "summary": "Indeed PLUS関連のCM区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne018",
+      "start_sec": 2487.19,
+      "end_sec": 2492.18,
+      "non_editorial_kind": "program_promo",
+      "summary": "AGC関連の番組宣伝風区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne019",
+      "start_sec": 2515.01,
+      "end_sec": 2518.92,
+      "non_editorial_kind": "commercial",
+      "summary": "AGCのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne020",
+      "start_sec": 2708.68,
+      "end_sec": 2718.11,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "WBSタイトル画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne021",
+      "start_sec": 2744.12,
+      "end_sec": 2750.5,
+      "non_editorial_kind": "commercial",
+      "summary": "日清製粉グループのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne022",
+      "start_sec": 2750.5,
+      "end_sec": 2755.99,
+      "non_editorial_kind": "sponsor",
+      "summary": "日清製粉グループの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne023",
+      "start_sec": 2760.14,
+      "end_sec": 2764.05,
+      "non_editorial_kind": "ambiguous",
+      "summary": "FPG関連とみられる非編集的区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne024",
+      "start_sec": 2806.28,
+      "end_sec": 2812.86,
+      "non_editorial_kind": "sponsor",
+      "summary": "ディフェンダーの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne025",
+      "start_sec": 3000.93,
+      "end_sec": 3025.08,
+      "non_editorial_kind": "commercial",
+      "summary": "大和証券グループ関連のCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne026",
+      "start_sec": 3025.08,
+      "end_sec": 3032.57,
+      "non_editorial_kind": "sponsor",
+      "summary": "大和証券グループの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne027",
+      "start_sec": 3055.8,
+      "end_sec": 3060.26,
+      "non_editorial_kind": "commercial",
+      "summary": "リアライズコーポレーションのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne028",
+      "start_sec": 3074.24,
+      "end_sec": 3078.75,
+      "non_editorial_kind": "sponsor",
+      "summary": "伊藤園・MLB関連の提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne029",
+      "start_sec": 3084.44,
+      "end_sec": 3092.03,
+      "non_editorial_kind": "sponsor",
+      "summary": "お〜いお茶 大谷翔平ボトルの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne030",
+      "start_sec": 3092.03,
+      "end_sec": 3101.43,
+      "non_editorial_kind": "commercial",
+      "summary": "鹿島のCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne031",
+      "start_sec": 3101.43,
+      "end_sec": 3108.07,
+      "non_editorial_kind": "sponsor",
+      "summary": "鹿島の提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne032",
+      "start_sec": 3119.25,
+      "end_sec": 3124.36,
+      "non_editorial_kind": "sponsor",
+      "summary": "オービックの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne033",
+      "start_sec": 3147.86,
+      "end_sec": 3157.85,
+      "non_editorial_kind": "sponsor",
+      "summary": "番組提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne034",
+      "start_sec": 3175.75,
+      "end_sec": 3180.81,
+      "non_editorial_kind": "commercial",
+      "summary": "Visa割キャンペーンのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne035",
+      "start_sec": 3180.81,
+      "end_sec": 3184.76,
+      "non_editorial_kind": "sponsor",
+      "summary": "Visaの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne036",
+      "start_sec": 3226.59,
+      "end_sec": 3233.82,
+      "non_editorial_kind": "commercial",
+      "summary": "野村の仲介PLUSのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne037",
+      "start_sec": 3394.88,
+      "end_sec": 3403.32,
+      "non_editorial_kind": "sponsor",
+      "summary": "番組配信案内・制作著作表示を伴う提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne038",
+      "start_sec": 3435.09,
+      "end_sec": 3439.26,
+      "non_editorial_kind": "commercial",
+      "summary": "Uber TaxiのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne039",
+      "start_sec": 3455.57,
+      "end_sec": 3460.02,
+      "non_editorial_kind": "commercial",
+      "summary": "UACJのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne040",
+      "start_sec": 3460.02,
+      "end_sec": 3471.48,
+      "non_editorial_kind": "ambiguous",
+      "summary": "UACJと車いすテニス選手を扱う非編集的区間。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne041",
+      "start_sec": 3471.48,
+      "end_sec": 3474.74,
+      "non_editorial_kind": "commercial",
+      "summary": "UACJのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne042",
+      "start_sec": 3474.74,
+      "end_sec": 3478.44,
+      "non_editorial_kind": "sponsor",
+      "summary": "UACJの提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne043",
+      "start_sec": 3488.39,
+      "end_sec": 3492.84,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "番組無断アップロード禁止の注意喚起。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne044",
+      "start_sec": 3492.84,
+      "end_sec": 3496.56,
+      "non_editorial_kind": "sponsor",
+      "summary": "ミッフィー関連商品の提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne045",
+      "start_sec": 3496.56,
+      "end_sec": 3500.63,
+      "non_editorial_kind": "program_promo",
+      "summary": "結婚情報誌・関連企画の番組宣伝。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

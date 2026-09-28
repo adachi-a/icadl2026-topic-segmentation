@@ -1,0 +1,188 @@
+{
+  "program_id": "news7_20260605",
+  "source_ts_path": "media-not-distributed/news7_20260605.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 22.0,
+      "end_sec": 350.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "安定的な皇位継承をめぐるとりまとめ案",
+      "summary": "安定的な皇位継承をめぐり、衆参両院の議長・副議長が合意したとりまとめ案の内容が伝えられた。女性皇族が結婚後も皇室に残る案や、旧皇族の男系男子を養子に迎える案を了承する内容で、皇室典範改正後の見直しなども説明された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 350.0,
+      "end_sec": 590.0,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "disaster_accident_emergency",
+        "environment"
+      ],
+      "title": "全国各地でクマ出没、福島市では24時間態勢で警戒",
+      "summary": "全国各地でクマの出没が相次ぎ、東北6県の出没情報がこの春3000件近くに上ったことや、動物園が一部区域を閉鎖して営業していることが伝えられた。福島市で目撃されたクマについては、学校周辺での確認や24時間態勢の警戒が報じられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 590.0,
+      "end_sec": 850.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "栃木・上三川町の強盗殺人事件、公開手配容疑者の元妻が取材に応じる",
+      "summary": "栃木県上三川町の強盗殺人事件で、公開手配されている容疑者の元妻が取材に応じた内容が伝えられた。元妻は容疑者に「早く出頭し全部話して」と述べ、公開手配までの間に電話などでやり取りしていたことや、事件後に容疑者が中国経由でカンボジアに向かったとする情報が示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 850.0,
+      "end_sec": 1005.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society",
+        "environment"
+      ],
+      "title": "中東情勢の影響で身近な商品のパッケージ簡素化",
+      "summary": "中東情勢などの影響で原材料価格、物流費、インクのコストが上がるなか、食品や日用品でパッケージの色や仕様を変える動きが紹介された。不二家の商品変更、ファミリーマートのレジ袋、EDRPブランドなど、簡素化によって価格転嫁を抑える取り組みが伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1005.0,
+      "end_sec": 1115.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "停戦合意発表翌日もレバノンで砲撃応酬か",
+      "summary": "中東情勢について、停戦合意が発表された翌日もレバノンで煙や砲撃が確認され、イスラエル側がレバノン南部でヒズボラへの軍事作戦を継続していると伝えられた。ヒズボラ最高指導者カセム師の声明や、米イラン協議の見通しも取り上げられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1115.0,
+      "end_sec": 1375.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "中東情勢を受けた補正予算成立と参院予算委の論戦",
+      "summary": "中東情勢を受けた一般会計総額3兆1000億円余の補正予算成立と、参議院予算委員会での論戦が報じられた。財源、国民への節約呼びかけ、消費税減税、辺野古沖事故、防衛費などをめぐる質疑で、高市首相の答弁が伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1375.0,
+      "end_sec": 1465.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "crime_law_justice"
+      ],
+      "title": "高市首相陣営の中傷動画報道をめぐる関連音声",
+      "summary": "先の自民党総裁選などで高市首相陣営が他候補をひぼう中傷する動画を投稿したなどと報じられた問題について、関連音声をめぐる国会質疑が伝えられた。高市首相は、音声が秘書本人かどうか判断することは難しいなどと述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1465.0,
+      "end_sec": 1485.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "今年度補正予算が成立",
+      "summary": "国会の採決結果を示す画面とともに、今年度の補正予算が成立したことが短く伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1485.0,
+      "end_sec": 1665.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "environment",
+        "science_technology"
+      ],
+      "title": "老朽化する原発の建て替え、2040年代までに最大5基の見通し",
+      "summary": "老朽化する原子力発電所の建て替えについて、経済産業省が2040年代までに最大5基、2050年代までに11基から14基という見通しを示したことが報じられた。福島第一原発事故後の原発依存度低減方針、生成AI普及による電力需要拡大、建設期間や費用に関する専門家の見方も伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1665.0,
+      "end_sec": 1795.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "土日の天気、熱帯由来の空気で雨雲発達",
+      "summary": "気象情報では、熱帯由来の空気で雨雲が発達し、あすからあさってにかけて大雨や土砂災害が警報級となる可能性がある地域が示された。各地の天気や最高気温、雨雲と風の動きも解説された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "non_editorial_001",
+      "start_sec": 0.0,
+      "end_sec": 22.0,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "前番組の天気画面、ニュース7へのつなぎ、NHK NEWSのオープニング表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "non_editorial_002",
+      "start_sec": 1800.0,
+      "end_sec": 1819.776477,
+      "non_editorial_kind": "program_promo",
+      "summary": "次番組・関連番組の告知。『安く！おいしく！ 身近に広がるフードデリバリー特集』などのテロップが表示された。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

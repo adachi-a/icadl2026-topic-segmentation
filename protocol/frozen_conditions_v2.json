@@ -1,0 +1,146 @@
+{
+  "protocol_version": "2.2.0",
+  "frozen_at": "2026-07-23",
+  "task": "topic_boundary_segmentation",
+  "evaluation_programs": {
+    "news7": 10,
+    "wbs": 10
+  },
+  "evaluation_program_ids": [
+    "news7_20260507",
+    "news7_20260517",
+    "news7_20260522",
+    "news7_20260526",
+    "news7_20260601",
+    "news7_20260605",
+    "news7_20260614",
+    "news7_20260619",
+    "news7_20260622",
+    "news7_20260627",
+    "wbs_20260507",
+    "wbs_20260514",
+    "wbs_20260522",
+    "wbs_20260527",
+    "wbs_20260601",
+    "wbs_20260605",
+    "wbs_20260610",
+    "wbs_20260616",
+    "wbs_20260622",
+    "wbs_20260625"
+  ],
+  "primary_metric": "boundary_f1_at_5_sec",
+  "secondary_metric": "boundary_f1_at_30_sec",
+  "statistical_unit": "program",
+  "pipeline": {
+    "entrypoint": "scripts/run_mvp_production_ts_metadata.py",
+    "public_schema": "schemas/news_schema.py",
+    "finalizer_prompt": "prompts/program_metadata_production_openai_v4_1.txt",
+    "frame_prompt": "prompts/frame_analysis_openai_v2.txt",
+    "boundary_prompt": "prompts/topic_boundary_ja_v2.txt",
+    "transcript_prompt": "prompts/transcript_unified_stage1_windowed.txt",
+    "models": {
+      "asr": "faster-whisper/large-v3",
+      "vlm": "gpt-5.4-mini",
+      "transcript_fusion": "gpt-5.5",
+      "text_boundary": "gpt-5.5",
+      "finalizer": "gpt-5.5"
+    },
+    "model_versions": {
+      "gpt-5.4-mini": "2026-03-17",
+      "gpt-5.5": "2026-04-24"
+    }
+  },
+  "conditions": {
+    "full": [
+      "--caption-mode=extract",
+      "--asr-mode=faster-whisper",
+      "--ocr-mode=auto",
+      "--scene-strategy=option_d",
+      "--scene-refine",
+      "--vlm-mode=openai",
+      "--text-merge-mode=ch140_fusion",
+      "--boundary-hints-mode=llm_text",
+      "--finalizer=openai",
+      "--finalizer-prompt=prompts/program_metadata_production_openai_v4_1.txt"
+    ],
+    "no_vlm": [
+      "--caption-mode=extract",
+      "--asr-mode=faster-whisper",
+      "--scene-strategy=option_d",
+      "--scene-refine",
+      "--vlm-mode=skip",
+      "--text-merge-mode=ch140_fusion",
+      "--boundary-hints-mode=llm_text",
+      "--finalizer=openai",
+      "--finalizer-prompt=prompts/program_metadata_production_openai_v4_1.txt"
+    ],
+    "no_transcript": [
+      "--caption-mode=skip",
+      "--asr-mode=skip",
+      "--ocr-mode=auto",
+      "--scene-strategy=option_d",
+      "--scene-refine",
+      "--vlm-mode=openai",
+      "--boundary-hints-mode=none",
+      "--finalizer=openai",
+      "--finalizer-prompt=prompts/program_metadata_production_openai_v4_1.txt"
+    ],
+    "no_vlm_no_ocr": [
+      "--caption-mode=extract",
+      "--asr-mode=faster-whisper",
+      "--ocr-mode=skip",
+      "--scene-strategy=option_d",
+      "--scene-refine",
+      "--vlm-mode=skip",
+      "--text-merge-mode=ch140_fusion",
+      "--boundary-hints-mode=llm_text",
+      "--finalizer=openai",
+      "--finalizer-prompt=prompts/program_metadata_production_openai_v4_1.txt"
+    ],
+    "texttiling": {
+      "input": "output/production_v2/runs/no_vlm/<program_id>/transcript_unified/<program_id>.transcript_unified.json",
+      "output_filename": "texttiling.json",
+      "parameters": {
+        "pseudosentence_tokens": 20,
+        "block_pseudosentences": 10,
+        "cutoff": "HC",
+        "smoothing_radius": 2,
+        "smoothing_rounds": 1,
+        "tokenizer": "SudachiPy mode C"
+      }
+    },
+    "additional_baselines": {
+      "input": "output/production_v2/runs/no_vlm/<program_id>/transcript_unified/<program_id>.transcript_unified.json",
+      "output_root": "output/production_v2/baselines",
+      "embedding_window": {
+        "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        "unit_sec": 15.0,
+        "window_units": 3,
+        "smoothing_radius": 1,
+        "threshold_std": 0.5,
+        "min_gap_sec": 30.0
+      }
+    },
+    "no_ocr": [
+      "--caption-mode=extract",
+      "--asr-mode=faster-whisper",
+      "--ocr-mode=skip",
+      "--scene-strategy=option_d",
+      "--scene-refine",
+      "--vlm-mode=openai",
+      "--text-merge-mode=ch140_fusion",
+      "--boundary-hints-mode=llm_text",
+      "--finalizer=openai",
+      "--finalizer-prompt=prompts/program_metadata_production_openai_v4_1.txt"
+    ]
+  },
+  "evaluation": {
+    "bootstrap_samples": 1000,
+    "bootstrap_seed": 42,
+    "boundary_tolerances_sec": [
+      5,
+      30
+    ],
+    "topic_match_min_iou": 0.3
+  }
+}

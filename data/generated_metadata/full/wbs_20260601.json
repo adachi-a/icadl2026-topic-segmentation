@@ -1,0 +1,945 @@
+{
+  "program_id": "wbs_20260601",
+  "source_ts_path": "media-not-distributed/wbs_20260601.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 38.0,
+      "end_sec": 696.86,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "日経平均が取引時間中の最高値更新、ソフトバンクGが時価総額首位に",
+      "summary": "日経平均株価が一時6万7000円を超え、取引時間中の最高値を更新した。株高をけん引したソフトバンクグループは、フランスでAI向けデータセンター建設に最大750億ユーロ、約14兆円を投資すると発表し、株価が上昇。時価総額でトヨタ自動車を抜き、国内首位となった。スタジオでは時価総額上位企業の変遷やAI関連銘柄への資金集中も解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 696.86,
+      "end_sec": 1078.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "ファミリーマートがATMをセブン銀行に置き換えへ",
+      "summary": "ファミリーマートは、都内店舗にセブン銀行のATMを初めて導入し、今後4年程度で全国およそ1万6000台のATMをすべてセブン銀行に置き換える計画を示した。電子マネーチャージやマイナンバーカード関連サービスなど多彩な機能を生かして顧客接点を広げる狙い。東京スター銀行など地方銀行でも、セブン銀行ATMへの置き換えによる運用コスト削減と預金金利引き上げへの活用が紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 1078.0,
+      "end_sec": 1479.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health",
+        "weather",
+        "labour"
+      ],
+      "title": "関東で今年初の猛暑日、企業の熱中症対策需要が拡大",
+      "summary": "関東で今年初めて猛暑日となる地点が出るなど暑さが本格化し、企業の熱中症対策を取材した。小田急電鉄ではユニクロの夏用ポロシャツを全駅係員に拡大し、楽天市場の暑さ対策グッズ予測では職場の熱中症対策製品に注目が集まった。山善の水冷服や緊急用簡易プールなど、猛暑・酷暑日の屋外作業に対応する製品の売り上げ増加も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1479.0,
+      "end_sec": 1528.22,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "crime_law_justice"
+      ],
+      "title": "アンソロピックの最新AI「ミュトス」、3メガバンクにアクセス権付与へ",
+      "summary": "アメリカのアンソロピックが開発した最新型AI「ミュトス」のアクセス権が、三菱UFJ銀行など3メガバンクに今週にも付与される方向で調整されていることがテレビ東京の取材で分かった。OpenAIも最新AIのアクセス権を3メガバンクに提供すると発表しており、脆弱性検知能力の高いAIを日本のサイバーセキュリティ強化に活用する動きが広がっている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1528.22,
+      "end_sec": 1593.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "高市内閣支持率66％、2カ月連続低下",
+      "summary": "テレビ東京と日本経済新聞社の5月の世論調査で、高市内閣を支持すると答えた人は66％で、4月から3ポイント低下した。高い水準を維持しつつも内閣発足以来最低となり、支持しない人は28％だった。優先政策課題では物価対策、年金・医療・介護、外交・安全保障が挙がった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1593.0,
+      "end_sec": 1660.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "米イランの戦闘終結覚書、双方が修正要求",
+      "summary": "イランのタスニム通信は、アメリカとイランの戦闘終結の前段階となる覚書にイラン側が修正を加える方針だと報じた。イラン側の修正はアメリカ側の要求を受け入れるものではないとされ、ガリバフ国会議長はイラン国民の権利が確保されるまで合意に応じないと述べた。トランプ大統領側も核問題やホルムズ海峡に関して修正を求めていると伝えられた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1660.0,
+      "end_sec": 1678.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "パウエル前FRB議長、金融政策で政治家動向を考慮せずと強調",
+      "summary": "アメリカのFRBのパウエル前議長は東部ボストンで講演し、金融政策の決定について、いかなる政党や政治家の動向も考慮しないと強調した。政権が意見の異なるFRB高官の解任に動けば、中央銀行への信認は失われるとも警告した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1678.0,
+      "end_sec": 1740.0,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance"
+      ],
+      "title": "NVIDIA、Windows PC向け半導体を発表",
+      "summary": "アメリカの半導体大手NVIDIAは、マイクロソフトのOS「Windows」を搭載したパソコン向けの半導体を発表した。新たな半導体はAIで動画を生成したり、最新ゲームを楽しんだりできる高性能を備えるという。フアンCEOは、マイクロソフトとNVIDIAが40年ぶりにパソコンを再発明すると話した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1740.0,
+      "end_sec": 1757.45,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "高市総理、イラン大統領に戦闘終結へ早期合意を要請",
+      "summary": "高市総理大臣はイランのペゼシュキアン大統領と電話会談し、イランとアメリカの戦闘終結に向けた協議について早期合意を要請した。イランが最大限の柔軟性を発揮し、合意が一日も早く得られることを強く期待していると述べた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1898.0,
+      "end_sec": 2460.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace",
+        "environment"
+      ],
+      "title": "ENEOS宮田社長に聞く原油調達リスクと成長戦略",
+      "summary": "「トップを直撃」でENEOSホールディングスの宮田知秀社長を取材した。米イラン軍事衝突やホルムズ海峡の事実上の封鎖で中東産原油の調達が困難になる中、タンカー到着の見通しや中東依存の課題、ホルムズ海峡を経由しないパイプラインへの期待を伝えた。根岸製油所の常圧蒸留装置が中東産原油に最適化されていること、シェブロンからの東南アジア・豪州事業買収、LNG事業参画、JX金属株売却益を低炭素ソリューションへ投資する方針も取り上げた。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne008",
+        "ne009",
+        "ne010",
+        "ne011",
+        "ne012",
+        "ne013",
+        "ne014",
+        "ne015",
+        "ne016",
+        "ne017",
+        "ne018"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2583.44,
+      "end_sec": 2731.78,
+      "editorial": true,
+      "domain": "health",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "society"
+      ],
+      "title": "診療報酬改定で診察予約のキャンセル料徴収が可能に",
+      "summary": "公的医療サービスの価格を定める診療報酬が改定され、患者が負担する診察料などが引き上げられた。診察予約のキャンセル料も条件付きで徴収可能となり、都内のクリニックではワクチン接種や内視鏡検査など事前予約料を取る診察で、患者都合の直前キャンセルにキャンセル料を取る方針を始めた。請求には予約料徴収を厚労省に報告していることや、患者から事前同意を得ていることなどが条件となる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2861.69,
+      "end_sec": 2895.0,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [],
+      "title": "コロンビア大統領選、右派と左派が決選投票へ",
+      "summary": "コロンビアで大統領選挙が行われ、アメリカとの関係改善を目指す右派のアベラルド・デラエスプリエジャ氏と、左派のイバン・セペダ氏が21日の決選投票に進むことになった。どの候補も当選に必要な過半数には届かなかった。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2895.0,
+      "end_sec": 2915.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "society",
+        "crime_law_justice"
+      ],
+      "title": "パリSG優勝後に一部ファン暴徒化、約800人拘束",
+      "summary": "サッカーのヨーロッパ・チャンピオンズリーグでパリ・サンジェルマンが2連覇を果たした後、フランス各地で熱狂した一部ファンによる暴動が起きた。200人以上がけがをし、およそ800人が拘束されたという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2915.0,
+      "end_sec": 2935.0,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [
+        "human_interest"
+      ],
+      "title": "モスクワで約7000人参加の卓球フェス",
+      "summary": "ロシア・モスクワで、参加者数の世界記録樹立を目指す卓球フェスティバルが開かれた。およそ7000人の選手が集まり、200台の卓球台を使って一斉に試合が行われた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2935.0,
+      "end_sec": 2970.53,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "イラン、米国との和平協議のやり取りを中断と速報",
+      "summary": "イランのタスニム通信は、イランとアメリカの和平協議をめぐり、イランが仲介者を通じたアメリカとのやり取りを中断していると伝えた。イスラエル軍がレバノンとガザ地区で軍事作戦を停止するまで協議に応じないという。レバノン南部ではイスラエル軍がヒズボラ拠点に近い戦略的要衝を制圧したとされる。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 2970.53,
+      "end_sec": 2996.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "conflict_war_peace"
+      ],
+      "title": "為替・商品市況、米イラン報道でNY原油先物上昇",
+      "summary": "マーケット情報として為替と商品を確認した。イランがアメリカとのやり取りを停止しているとの報道を受け、ニューヨーク原油先物は上昇し、1バレル93ドル台で取引されていると伝えた。ドル円は1ドル159円70銭台で推移している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 2996.0,
+      "end_sec": 3016.89,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "1日のニューヨーク株式市場、ダウ下落・ナスダック上昇",
+      "summary": "取引が始まった1日のニューヨーク株式市場を伝えた。ダウは147ドルほど下落し、ナスダックは33ポイントほど上昇している。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3253.16,
+      "end_sec": 3300.0,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "台風6号、奄美地方や九州南部に接近へ",
+      "summary": "台風6号は午後10時現在、那覇市の北およそ90キロにあり、時速20キロで北へ進んでいるとみられる。この後、奄美地方や九州南部に最も接近する見込みで、線状降水帯の発生により大雨災害の危険が急激に高まる可能性がある。気象庁は不要不急の外出を控え、大雨や暴風に厳重警戒するよう呼びかけている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t019",
+      "start_sec": 3300.0,
+      "end_sec": 3328.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "住宅ローン「フラット35」最低金利が初の3％超え",
+      "summary": "住宅金融支援機構は、長期固定金利型住宅ローン「フラット35」の6月の適用金利を発表した。長期金利の上昇に伴い、返済期間21年から35年の最低金利は3.21％となり、現行制度となった2017年10月以降で初めて3％を超えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t020",
+      "start_sec": 3328.0,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "weather"
+      ],
+      "title": "明日の注目ニュース、キオクシアの投資家向け説明会に注目",
+      "summary": "明日の注目ニュースとして、キオクシアのインベスターデイ、アジア最大級のETFコンファレンス、台風6号接近が挙げられた。スタジオでは、連日で日本株市場の売買代金首位となっているキオクシアについて、巨額利益をメモリー投資に回すのか、高配当などで株主に分配するのか、方針に注目が集まると解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne060",
+      "start_sec": 0.0,
+      "end_sec": 22.44,
+      "non_editorial_kind": "commercial",
+      "summary": "Jパワーに関する広告風の導入映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne000",
+      "start_sec": 22.44,
+      "end_sec": 28.25,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "WBSの番組タイトル表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1757.45,
+      "end_sec": 1762.1,
+      "non_editorial_kind": "sponsor",
+      "summary": "スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 1786.47,
+      "end_sec": 1790.9,
+      "non_editorial_kind": "commercial",
+      "summary": "シノケングループ関連の広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 1790.9,
+      "end_sec": 1794.53,
+      "non_editorial_kind": "sponsor",
+      "summary": "シノケングループのロゴ・SDGs支援表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 1821.46,
+      "end_sec": 1826.22,
+      "non_editorial_kind": "sponsor",
+      "summary": "楽楽販売のスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 1846.03,
+      "end_sec": 1849.68,
+      "non_editorial_kind": "commercial",
+      "summary": "カワサキ水素大学・川崎重工関連広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 1853.43,
+      "end_sec": 1858.49,
+      "non_editorial_kind": "sponsor",
+      "summary": "BIZREACHのスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne007",
+      "start_sec": 1878.45,
+      "end_sec": 1884.85,
+      "non_editorial_kind": "commercial",
+      "summary": "ビズリーチ広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne008",
+      "start_sec": 2122.6,
+      "end_sec": 2126.24,
+      "non_editorial_kind": "commercial",
+      "summary": "三井不動産広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne009",
+      "start_sec": 2126.24,
+      "end_sec": 2129.71,
+      "non_editorial_kind": "sponsor",
+      "summary": "三井不動産スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne010",
+      "start_sec": 2133.28,
+      "end_sec": 2136.77,
+      "non_editorial_kind": "commercial",
+      "summary": "Paramount Bed広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne011",
+      "start_sec": 2143.57,
+      "end_sec": 2147.24,
+      "non_editorial_kind": "ambiguous",
+      "summary": "Paramount Bed関連の広告風映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne012",
+      "start_sec": 2147.24,
+      "end_sec": 2154.97,
+      "non_editorial_kind": "commercial",
+      "summary": "Paramount Bed広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne013",
+      "start_sec": 2154.97,
+      "end_sec": 2159.64,
+      "non_editorial_kind": "ambiguous",
+      "summary": "Paramount Bed関連の広告風映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne014",
+      "start_sec": 2159.64,
+      "end_sec": 2175.7,
+      "non_editorial_kind": "commercial",
+      "summary": "アサヒゴールド広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne015",
+      "start_sec": 2175.7,
+      "end_sec": 2181.09,
+      "non_editorial_kind": "sponsor",
+      "summary": "アサヒ関連スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne016",
+      "start_sec": 2181.09,
+      "end_sec": 2187.7,
+      "non_editorial_kind": "commercial",
+      "summary": "アサヒゴールド広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne017",
+      "start_sec": 2187.7,
+      "end_sec": 2192.99,
+      "non_editorial_kind": "sponsor",
+      "summary": "M&A CAPITAL PARTNERSスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne018",
+      "start_sec": 2192.99,
+      "end_sec": 2217.64,
+      "non_editorial_kind": "commercial",
+      "summary": "M&Aキャピタルパートナーズ広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne019",
+      "start_sec": 2473.83,
+      "end_sec": 2478.69,
+      "non_editorial_kind": "sponsor",
+      "summary": "中央日本土地建物スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne020",
+      "start_sec": 2484.35,
+      "end_sec": 2488.7,
+      "non_editorial_kind": "commercial",
+      "summary": "住まい関連広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne021",
+      "start_sec": 2488.7,
+      "end_sec": 2491.95,
+      "non_editorial_kind": "sponsor",
+      "summary": "中央日本土地建物スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne022",
+      "start_sec": 2491.95,
+      "end_sec": 2495.16,
+      "non_editorial_kind": "commercial",
+      "summary": "カードゲーム風広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne023",
+      "start_sec": 2495.16,
+      "end_sec": 2498.52,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "広告風のつなぎ映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne024",
+      "start_sec": 2498.52,
+      "end_sec": 2526.26,
+      "non_editorial_kind": "commercial",
+      "summary": "サントリー、リクルートエージェントなどの広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne025",
+      "start_sec": 2543.58,
+      "end_sec": 2549.18,
+      "non_editorial_kind": "commercial",
+      "summary": "リクルートエージェント広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne026",
+      "start_sec": 2570.5,
+      "end_sec": 2583.44,
+      "non_editorial_kind": "sponsor",
+      "summary": "富士フイルムビジネスイノベーションスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne027",
+      "start_sec": 2731.78,
+      "end_sec": 2745.81,
+      "non_editorial_kind": "program_promo",
+      "summary": "このあと項目とバウハウス関連の番宣・告知風映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne028",
+      "start_sec": 2764.7,
+      "end_sec": 2769.12,
+      "non_editorial_kind": "commercial",
+      "summary": "ミサワホーム広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne029",
+      "start_sec": 2769.12,
+      "end_sec": 2778.14,
+      "non_editorial_kind": "sponsor",
+      "summary": "ミサワホーム・ビックカメラスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne030",
+      "start_sec": 2778.14,
+      "end_sec": 2786.67,
+      "non_editorial_kind": "commercial",
+      "summary": "ビックカメラのエアコン広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne031",
+      "start_sec": 2786.67,
+      "end_sec": 2800.93,
+      "non_editorial_kind": "sponsor",
+      "summary": "ビックカメラSuicaカード広告・スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne032",
+      "start_sec": 2800.93,
+      "end_sec": 2805.11,
+      "non_editorial_kind": "commercial",
+      "summary": "オービック広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne033",
+      "start_sec": 2831.69,
+      "end_sec": 2836.68,
+      "non_editorial_kind": "sponsor",
+      "summary": "FPGスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne034",
+      "start_sec": 2836.68,
+      "end_sec": 2841.1,
+      "non_editorial_kind": "commercial",
+      "summary": "FPG広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne035",
+      "start_sec": 3016.89,
+      "end_sec": 3021.7,
+      "non_editorial_kind": "commercial",
+      "summary": "自動車広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne036",
+      "start_sec": 3030.15,
+      "end_sec": 3045.2,
+      "non_editorial_kind": "commercial",
+      "summary": "レンジローバー広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne037",
+      "start_sec": 3045.2,
+      "end_sec": 3049.3,
+      "non_editorial_kind": "sponsor",
+      "summary": "日経電子版スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne038",
+      "start_sec": 3057.54,
+      "end_sec": 3061.6,
+      "non_editorial_kind": "sponsor",
+      "summary": "日経電子版スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne039",
+      "start_sec": 3065.46,
+      "end_sec": 3069.83,
+      "non_editorial_kind": "program_promo",
+      "summary": "ピカソ meets ポール・スミス展の告知。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne040",
+      "start_sec": 3083.68,
+      "end_sec": 3097.31,
+      "non_editorial_kind": "commercial",
+      "summary": "大和証券グループ関連広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne041",
+      "start_sec": 3102.9,
+      "end_sec": 3107.05,
+      "non_editorial_kind": "sponsor",
+      "summary": "大和証券グループスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne042",
+      "start_sec": 3132.38,
+      "end_sec": 3136.06,
+      "non_editorial_kind": "sponsor",
+      "summary": "リアライズコーポレーションスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne043",
+      "start_sec": 3140.26,
+      "end_sec": 3145.06,
+      "non_editorial_kind": "commercial",
+      "summary": "お〜いお茶広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne044",
+      "start_sec": 3145.06,
+      "end_sec": 3154.34,
+      "non_editorial_kind": "sponsor",
+      "summary": "伊藤園スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne045",
+      "start_sec": 3159.23,
+      "end_sec": 3168.2,
+      "non_editorial_kind": "commercial",
+      "summary": "機能性表示食品広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne046",
+      "start_sec": 3181.03,
+      "end_sec": 3189.43,
+      "non_editorial_kind": "ambiguous",
+      "summary": "マクドナルド関連広告風映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne047",
+      "start_sec": 3189.43,
+      "end_sec": 3215.65,
+      "non_editorial_kind": "commercial",
+      "summary": "マクドナルド、SIXPAD広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne048",
+      "start_sec": 3215.65,
+      "end_sec": 3220.03,
+      "non_editorial_kind": "sponsor",
+      "summary": "JOHNNIE WALKERスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne049",
+      "start_sec": 3220.03,
+      "end_sec": 3236.38,
+      "non_editorial_kind": "commercial",
+      "summary": "JOHNNIE WALKER、JTB関連広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne050",
+      "start_sec": 3236.38,
+      "end_sec": 3242.85,
+      "non_editorial_kind": "program_promo",
+      "summary": "JTB旅行関連告知風映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne051",
+      "start_sec": 3242.85,
+      "end_sec": 3253.16,
+      "non_editorial_kind": "sponsor",
+      "summary": "JTB夏旅スポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne061",
+      "start_sec": 3360.0,
+      "end_sec": 3395.75,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "エンディングテーマ曲、衣装協力、配信案内などのエンディング。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne052",
+      "start_sec": 3395.75,
+      "end_sec": 3402.25,
+      "non_editorial_kind": "sponsor",
+      "summary": "番組配信案内・制作クレジットを含むエンディング後の提供表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne053",
+      "start_sec": 3412.19,
+      "end_sec": 3417.11,
+      "non_editorial_kind": "commercial",
+      "summary": "健康・ライフスタイル系広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne054",
+      "start_sec": 3427.07,
+      "end_sec": 3431.19,
+      "non_editorial_kind": "commercial",
+      "summary": "iPhone + WATCH広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne055",
+      "start_sec": 3439.57,
+      "end_sec": 3444.57,
+      "non_editorial_kind": "commercial",
+      "summary": "安心財団広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne056",
+      "start_sec": 3451.18,
+      "end_sec": 3457.73,
+      "non_editorial_kind": "sponsor",
+      "summary": "INPEXスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne057",
+      "start_sec": 3457.73,
+      "end_sec": 3476.05,
+      "non_editorial_kind": "commercial",
+      "summary": "INPEX、Audi Q3広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne058",
+      "start_sec": 3489.35,
+      "end_sec": 3492.86,
+      "non_editorial_kind": "commercial",
+      "summary": "Amazon広告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne059",
+      "start_sec": 3492.86,
+      "end_sec": 3496.03,
+      "non_editorial_kind": "sponsor",
+      "summary": "sato HEALTHCARE INNOVATIONスポンサー表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

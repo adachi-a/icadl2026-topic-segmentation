@@ -1,0 +1,219 @@
+{
+  "program_id": "news7_20260619",
+  "source_ts_path": "media-not-distributed/news7_20260619.ts",
+  "channel_name": "NHK総合",
+  "program_name": "ニュース7",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "start_sec": 29.2,
+      "end_sec": 141.5,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "economy_business_finance"
+      ],
+      "title": "東海道新幹線が全線で運転見合わせ",
+      "summary": "東海道新幹線が全線で運転を見合わせ、運転再開にはしばらく時間がかかる見通しだと速報で伝えた。浜松からの中継や、山陽新幹線上りの広島〜新大阪の運転見合わせにも触れられている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_002",
+      "start_sec": 141.5,
+      "end_sec": 625.8,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "education",
+        "society"
+      ],
+      "title": "東京・北区の小学校で火事、11人搬送",
+      "summary": "東京・北区の小学校で、音楽室付近から黒煙が出る火事があり、児童や教員など計11人が搬送された。当時、児童や教員など約350人が校庭や近くの公園に避難し、4階からひさしに出て救助を待った児童もいた。専門家の解説や教育長のコメントも伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_003",
+      "start_sec": 625.8,
+      "end_sec": 952.7,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "society"
+      ],
+      "title": "物価高で節約サービスに注目、食料品値上がりと円安も",
+      "summary": "消費者物価指数や食料品の値上がりが続く中、売り切りが難しい商品をアプリで安く購入できるサービスや、カットモデルで美容代を抑えるサービスが紹介された。鶏肉を使う弁当店の苦悩、節約志向による『具なし』焼きそば、円安や原油価格上昇による今後の物価上昇の可能性も伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_004",
+      "start_sec": 952.7,
+      "end_sec": 1243.6,
+      "editorial": true,
+      "domain": "sport",
+      "domain_alternatives": [],
+      "title": "サッカーW杯、日本代表が第2戦の舞台モンテレイへ",
+      "summary": "サッカーW杯北中米大会で、日本代表が第2戦の舞台となるメキシコ・モンテレイに到着したことを伝えた。久保建英選手は初戦のオランダ戦で左ひざをけがし、チュニジア戦を欠場して治療にあたる。伊東純也選手、中村敬斗選手、鎌田大地選手の話や、チュニジア戦がW杯通算1,000試合目となることも紹介した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_005",
+      "start_sec": 1243.6,
+      "end_sec": 1346.8,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "society",
+        "economy_business_finance"
+      ],
+      "title": "東海道新幹線の運転見合わせ、東京駅から中継",
+      "summary": "東海道新幹線の全線での運転見合わせについて、東京駅から中継で続報を伝えた。運転再開にはしばらく時間がかかる見通しと表示され、駅構内の混雑や運行状況の案内板が映された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_006",
+      "start_sec": 1346.8,
+      "end_sec": 1491.3,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "皇族数確保へ政府作成の法案骨子案が判明",
+      "summary": "皇族数の確保などに向け、政府が作成した法案の骨子案が判明したと伝えた。女性皇族が結婚後も皇室に残る案や、旧皇族の男系男子を養子に迎える案、改正案の付則などが図解で説明された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_007",
+      "start_sec": 1491.3,
+      "end_sec": 1609.8,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "society"
+      ],
+      "title": "42年前の強盗殺人事件再審で検察が有罪主張しない方針",
+      "summary": "滋賀県日野町で1984年に起きた女性殺害・金庫強奪事件をめぐり、再審で検察が有罪を主張しない方針を伝えた。阪原弘さんは強盗殺人の罪に問われ、無期懲役が確定した後に服役中に死亡したが、2回目の再審請求が最高裁に認められ、やり直しの裁判が開かれることになっている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_008",
+      "start_sec": 1609.8,
+      "end_sec": 1643.2,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "health"
+      ],
+      "title": "日銀の植田総裁が退院、23日から公務へ",
+      "summary": "日銀の植田総裁が退院し、23日から公務に戻ると伝えた。15日と16日の金融政策決定会合は欠席し、書面で意見を表明していた。治療のため2週間程度は通院するとも表示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_009",
+      "start_sec": 1643.2,
+      "end_sec": 1677.1,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "society",
+        "health"
+      ],
+      "title": "改正社会福祉法などが参院本会議で可決・成立",
+      "summary": "改正社会福祉法などが参院本会議で可決・成立したと伝えた。担い手が減少する中で多様で複雑な福祉ニーズを維持するための体制整備を盛り込み、身寄りのない高齢者支援に向けた事業拡充も示された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_010",
+      "start_sec": 1677.1,
+      "end_sec": 1794.2,
+      "editorial": true,
+      "domain": "weather",
+      "domain_alternatives": [],
+      "title": "前線の活動が活発化、西日本・東日本で大雨のおそれ",
+      "summary": "梅雨前線と熱帯低気圧の影響で前線の活動が活発になり、西日本と東日本で大雨のおそれがあると伝えた。大雨の範囲が広がる見通しや、地域別の大雨・土砂災害の警報級の可能性、今後の動きへの注意を示した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "topic_011",
+      "start_sec": 1794.2,
+      "end_sec": 1806.2,
+      "editorial": true,
+      "domain": "society",
+      "domain_alternatives": [
+        "disaster_accident_emergency"
+      ],
+      "title": "火災報道の表記を訂正",
+      "summary": "番組の最後に、先ほどの火災関連の表記について『防火や避難対策』が正しく、『放火や避難対策』は誤りだと訂正した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "nonedit_001",
+      "start_sec": 0.0,
+      "end_sec": 13.2,
+      "non_editorial_kind": "other_non_editorial",
+      "summary": "番組開始前の首都圏ネットワークの天気画面とみられる映像。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_002",
+      "start_sec": 13.2,
+      "end_sec": 27.4,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "NHK NEWSのロゴなどオープニング画面。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_003",
+      "start_sec": 1806.2,
+      "end_sec": 1811.5,
+      "non_editorial_kind": "opening_or_ending",
+      "summary": "制作・著作NHKなどのエンディング表示。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "nonedit_004",
+      "start_sec": 1811.5,
+      "end_sec": 1820.758144,
+      "non_editorial_kind": "program_promo",
+      "summary": "次番組または関連番組のサッカー日本代表・FIFAワールドカップ関連の予告。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.1.0",
+  "program_id": "wbs_20260616",
+  "duration_sec": 3390.353634,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 23.352466999999997,
+      "end_sec": 312.20246699999996,
+      "domain": "economy_business_finance",
+      "label": "日経平均7万円台",
+      "subtopics": [],
+      "notes": "[境界タイプ: program_edge]"
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 312.20246699999996,
+      "end_sec": 977.8124670000001,
+      "domain": "economy_business_finance",
+      "label": "日銀、利上げ決定",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 995.902467,
+      "end_sec": 1311.312467,
+      "domain": "politics",
+      "label": "G7サミットが開幕",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1324.2024669999998,
+      "end_sec": 1604.862467,
+      "domain": "economy_business_finance",
+      "label": "GOが上場",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1604.862467,
+      "end_sec": 1675.6624669999999,
+      "domain": "economy_business_finance",
+      "label": "ソフトバンク、サイバー防御提供へ",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1675.6624669999999,
+      "end_sec": 1706.402467,
+      "domain": "disaster_accident_emergency",
+      "label": "群馬と埼玉で震度5弱",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1706.402467,
+      "end_sec": 1742.1724669999999,
+      "domain": "crime_law_justice",
+      "label": "アイス価格でカルテル疑い",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1742.1724669999999,
+      "end_sec": 1768.092467,
+      "domain": "economy_business_finance",
+      "label": "富士通、古田会長が辞任",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1768.092467,
+      "end_sec": 1846.782467,
+      "domain": "economy_business_finance",
+      "label": "エヌビディア、社債を発行",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 2004.382467,
+      "end_sec": 2564.492467,
+      "domain": "economy_business_finance",
+      "label": "マンション価格",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2694.122467,
+      "end_sec": 2733.9624670000003,
+      "domain": "disaster_accident_emergency",
+      "label": "米空軍の爆撃機が墜落",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2733.9624670000003,
+      "end_sec": 2759.6324670000004,
+      "domain": "politics",
+      "label": "中国、ミャンマーと関係強化",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2759.6324670000004,
+      "end_sec": 2785.832467,
+      "domain": "politics",
+      "label": "ウクライナ、EU加盟への交渉本格化",
+      "subtopics": [],
+      "notes": "[境界タイプ: bumper_transition]"
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2914.612467,
+      "end_sec": 2999.1524670000003,
+      "domain": "economy_business_finance",
+      "label": "アメリカ株、マーケット情報",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 3239.012467,
+      "end_sec": 3292.182467,
+      "domain": "economy_business_finance",
+      "label": "シャープ、スマートウォッチ参入",
+      "subtopics": [],
+      "notes": "[境界タイプ: cm_adjacent]"
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3292.182467,
+      "end_sec": 3323.622467,
+      "domain": "politics",
+      "label": "国旗損壊罪創設法案提出",
+      "subtopics": [],
+      "notes": "[境界タイプ: vtr_transition]"
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3323.622467,
+      "end_sec": 3350.1324670000004,
+      "domain": "economy_business_finance",
+      "label": "あすの注目ニュース",
+      "subtopics": [],
+      "notes": "[境界タイプ: studio_transition]"
+    }
+  ]
+}

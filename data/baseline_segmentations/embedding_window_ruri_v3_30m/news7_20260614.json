@@ -1,0 +1,107 @@
+{
+  "schema_version": "news_topic_baseline_v1",
+  "program_id": "news7_20260614",
+  "method": "embedding_window",
+  "duration_sec": 1819.866412,
+  "parameters": {
+    "model": "cl-nagoya/ruri-v3-30m",
+    "unit_sec": 15.0,
+    "window_units": 3,
+    "smoothing_radius": 1,
+    "threshold_std": 0.5,
+    "min_gap_sec": 30.0
+  },
+  "boundaries_sec": [
+    510.0,
+    705.0,
+    975.0,
+    1170.0,
+    1305.0,
+    1440.0,
+    1485.0,
+    1545.0,
+    1680.0
+  ],
+  "topics": [
+    {
+      "topic_id": "embedding_window_0001",
+      "start_sec": 0.0,
+      "end_sec": 510.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0002",
+      "start_sec": 510.0,
+      "end_sec": 705.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0003",
+      "start_sec": 705.0,
+      "end_sec": 975.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0004",
+      "start_sec": 975.0,
+      "end_sec": 1170.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0005",
+      "start_sec": 1170.0,
+      "end_sec": 1305.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0006",
+      "start_sec": 1305.0,
+      "end_sec": 1440.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0007",
+      "start_sec": 1440.0,
+      "end_sec": 1485.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0008",
+      "start_sec": 1485.0,
+      "end_sec": 1545.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0009",
+      "start_sec": 1545.0,
+      "end_sec": 1680.0,
+      "label": null,
+      "notes": null
+    },
+    {
+      "topic_id": "embedding_window_0010",
+      "start_sec": 1680.0,
+      "end_sec": 1819.866412,
+      "label": null,
+      "notes": null
+    }
+  ],
+  "diagnostics": {
+    "n_input_segments": 437,
+    "n_units": 122,
+    "uses_ground_truth": false,
+    "n_candidate_gaps": 117,
+    "threshold": 0.08800735,
+    "dissimilarity_mean": 0.07798323,
+    "dissimilarity_standard_deviation": 0.02004823,
+    "n_boundaries": 9
+  }
+}

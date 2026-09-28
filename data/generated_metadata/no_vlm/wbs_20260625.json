@@ -1,0 +1,355 @@
+{
+  "program_id": "wbs_20260625",
+  "source_ts_path": "media-not-distributed/wbs_20260625.ts",
+  "channel_name": "テレビ東京",
+  "program_name": "WBS",
+  "broadcast_start": null,
+  "broadcast_end": null,
+  "topics": [
+    {
+      "topic_id": "t001",
+      "start_sec": 37.0,
+      "end_sec": 423.96,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "日経平均が終値で史上最高値を更新、AI関連株がけん引",
+      "summary": "日経平均株価が大幅に上昇し、7万2000円台を回復して終値で史上最高値を更新した。キオクシアの株主総会では株式分割の検討やAI需要への強気な見方が示され、マイクロン・テクノロジーの好決算もメモリー関連株の上昇要因として伝えられた。スタジオではAI関連株の過熱感と需要の見極めについて解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t002",
+      "start_sec": 424.63,
+      "end_sec": 863.32,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "environment",
+        "science_technology"
+      ],
+      "title": "大型木造建築の市場拡大と三井不動産・大林組の取り組み",
+      "summary": "高層ビルや物流施設など大型建築で木材利用が広がっている。三井不動産は神奈川県海老名市に木材を活用した物流・オフィス複合施設を開業し、大型木造建築ブランドを展開する。市場規模の拡大見通しや、大林組の耐火・耐水技術、海外での木造ビル建設の取り組みも紹介された。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t003",
+      "start_sec": 865.4,
+      "end_sec": 1293.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "politics",
+        "science_technology"
+      ],
+      "title": "新浪剛史氏が騒動後初の単独取材で対外活動と今後を語る",
+      "summary": "ローソンやサントリーの経営トップを務めた新浪剛史氏が、テレビ東京のインタビューに応じた。大麻成分を含むサプリメント輸入の疑いで捜査を受けた後、不起訴処分となったことを受け、今後への思いや三極委員会での活動を語った。会議ではAIと安全保障のリスクや政策提言も議論されたという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t004",
+      "start_sec": 1293.45,
+      "end_sec": 1320.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [
+        "weather"
+      ],
+      "title": "青森県で最大震度6強の地震、11人けが",
+      "summary": "WBS Quickで、岩手県沖を震源とする地震により青森県階上町で震度6強を観測したと伝えた。地震の規模はマグニチュード7.2と推定され、青森県などで合わせて11人がけがをした。気象庁は今後1週間程度、最大震度6強程度の地震に注意を呼びかけている。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t005",
+      "start_sec": 1320.0,
+      "end_sec": 1370.0,
+      "editorial": true,
+      "domain": "conflict_war_peace",
+      "domain_alternatives": [
+        "politics",
+        "economy_business_finance"
+      ],
+      "title": "イランがホルムズ海峡の航路を警告、米国は協議の可能性に言及",
+      "summary": "イラン革命防衛隊がホルムズ海峡をめぐり、イラン指定の航路以外での通航は禁止されていると警告した。オマーンなどが表明した臨時回廊の設置に反発した形だと伝えられた。一方、アメリカのルビオ国務長官は、イランとの最終合意に向けた実務者協議がスイスで開かれる可能性に言及した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t006",
+      "start_sec": 1370.0,
+      "end_sec": 1380.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "個人金融資産が2386兆円に増加",
+      "summary": "日銀が発表した2026年1月から3月期の資金循環統計で、個人が保有する金融資産の残高は3月末時点で1年前より7.1％増え、2386兆円となった。新NISAの活用、株高、円安による外貨建て資産の増加などが寄与したと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t007",
+      "start_sec": 1380.0,
+      "end_sec": 1436.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "arts_culture_entertainment_media"
+      ],
+      "title": "フジ・メディアHD株主総会、外部資本導入などに質問",
+      "summary": "フジ・メディア・ホールディングスが東京都内で定時株主総会を開いた。前年より出席株主は大幅に減り、所要時間も半分以下だった。株主からは不動産事業の売却を含む外部資本導入について質問が出たが、清水賢治社長は資本効率改善に必要で、メディア・コンテンツ事業も成長できると説明したという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t008",
+      "start_sec": 1436.0,
+      "end_sec": 1500.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "science_technology"
+      ],
+      "title": "SBIホールディングスがビットバンクを467億円で買収へ",
+      "summary": "SBIホールディングスは、暗号資産事業を手がけるビットバンクを467億円で買収すると発表した。買収によりSBIグループの暗号資産の預かり残高はおよそ1兆1000億円となり、国内トップになる見込みだという。顧客基盤やサービス開発力を合わせて競争力を高める狙いで、買収後もビットバンクのサービスは継続するとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t009",
+      "start_sec": 1608.0,
+      "end_sec": 1994.72,
+      "editorial": true,
+      "domain": "politics",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "arts_culture_entertainment_media"
+      ],
+      "title": "米建国250周年行事とトランプ政権への物価高の逆風",
+      "summary": "アメリカで建国250周年を祝う記念行事が始まるのに合わせ、首都ワシントンから中継した。全米博覧会やUFC興行、ワールドカップのパブリックビューイングなどが、トランプ氏の支持層への訴求や党派色を帯びていると伝えた。一方、5月のPCE個人消費支出物価指数は1年前より4.1％上昇し、物価高がトランプ政権の逆風になっていると解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t010",
+      "start_sec": 1994.72,
+      "end_sec": 2040.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "現在のマーケット、為替・金・原油を確認",
+      "summary": "現在のマーケットとして為替と商品相場を確認した。アメリカの個人消費支出物価指数発表への為替相場の反応は限定的で、ドル円は1ドル161円70銭台から80銭台で取引されていると伝えた。ニューヨーク金先物は1トロイオンス4030ドルほど、ニューヨーク原油先物は1バレル69ドルほどで推移しているとした。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t011",
+      "start_sec": 2160.0,
+      "end_sec": 2401.3,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "environment",
+        "politics"
+      ],
+      "title": "高市総理のインド訪問に合わせスズキとIHIが現地協業へ",
+      "summary": "高市総理大臣のインド訪問に合わせ、自動車大手スズキと重工大手IHIがそれぞれインド現地の企業などとMOUを結び、協業を進める方向で最終調整していることが分かった。スズキは牛の糞を活用したバイオガス燃料事業を拡大し、IHIはグリーンアンモニアの現地生産や輸入でACMEとの協力関係を深める狙いだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t012",
+      "start_sec": 2401.3,
+      "end_sec": 2760.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure",
+        "science_technology"
+      ],
+      "title": "麹を使う新製法で地ビール製造のコスト削減へ",
+      "summary": "埼玉のCOEDOブルワリーが、愛知県の麹メーカーと共同開発した麹を活用する新たなビール製造を始めた。麹の酵素を使うことで、通常コストがかかる製麦工程を省けるようになり、設備投資や円安による原料コスト負担を抑えるメリットがあるという。8月発売のビールで使った製法を他の地ビールメーカーや海外にも広げたいとしている。",
+      "interrupted_by_non_editorial_segment_ids": [
+        "ne003"
+      ],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t013",
+      "start_sec": 2879.51,
+      "end_sec": 2940.0,
+      "editorial": true,
+      "domain": "disaster_accident_emergency",
+      "domain_alternatives": [],
+      "title": "ベネズエラでM7超の地震、少なくとも164人死亡",
+      "summary": "ワールドクイックで、ベネズエラ北西部でマグニチュード7.2の地震があり、その約1分後にマグニチュード7.5の地震が発生したと伝えた。首都カラカスでは多数の建物が倒壊し、少なくとも164人が死亡、ロドリゲス暫定大統領は国家非常事態を宣言した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t014",
+      "start_sec": 2940.0,
+      "end_sec": 2945.0,
+      "editorial": true,
+      "domain": "human_interest",
+      "domain_alternatives": [
+        "health",
+        "science_technology"
+      ],
+      "title": "ブラジルの100歳超3姉妹が世界最長寿3姉妹に認定",
+      "summary": "ブラジルの3姉妹が、3人合わせて316歳で全員が100歳を超えており、世界最長寿の3姉妹としてギネス世界記録に認定された。サンパウロ大学はこの3姉妹を研究対象とし、長寿の特性を明らかにするという。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t015",
+      "start_sec": 2945.0,
+      "end_sec": 3000.0,
+      "editorial": true,
+      "domain": "crime_law_justice",
+      "domain_alternatives": [
+        "politics"
+      ],
+      "title": "香港で反政府デモ関連本を販売、国家安全条例違反疑いで2人逮捕",
+      "summary": "香港警察国家安全部は、政府や司法機関への憎悪をあおるような出版物を発売したなどとして、国家安全条例違反の疑いで店の責任者ら2人を逮捕した。責任者は民主派の元区議会議員の黄文萱氏で、2019年の反政府デモに関する本を売っていたと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t016",
+      "start_sec": 3000.0,
+      "end_sec": 3060.0,
+      "editorial": true,
+      "domain": "science_technology",
+      "domain_alternatives": [
+        "economy_business_finance",
+        "politics"
+      ],
+      "title": "アンソロピックがアリババを非難との報道",
+      "summary": "ロイター通信が、アンソロピックが生成AIクロードの技術を不正に利用したとして、中国のEC大手アリババグループを非難したと報じた。アメリカ政府は安全保障上の懸念からアンソロピックの最先端モデルの輸出管理措置を発動しており、背景には中国の関連グループがアクセスした疑いがあるとの報道も出ていると伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t017",
+      "start_sec": 3240.0,
+      "end_sec": 3297.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [
+        "lifestyle_leisure"
+      ],
+      "title": "オリックスが浅草のアパートメントホテルを公開",
+      "summary": "オリックス・ホテルマネジメントは、来月3日に開業するクロススイーツ東京浅草を公開した。中長期滞在や大人数宿泊が可能なアパートメントホテル業態で、浅草寺を一望できる客室や水族館をイメージした客室など78室を備える。宿泊者同士が交流できるロビーも設け、寝泊まりだけではない宿泊体験を提供する狙いだと伝えた。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    },
+    {
+      "topic_id": "t018",
+      "start_sec": 3297.0,
+      "end_sec": 3360.0,
+      "editorial": true,
+      "domain": "economy_business_finance",
+      "domain_alternatives": [],
+      "title": "明日は株主総会集中日、参加促進の場に変化",
+      "summary": "翌日の予定として、株主総会の集中日に注目した。全体の31％が明日総会を開く一方、1990年代には9割が同じ日に開いていたこともあったという。かつては総会屋対策で同日に開催していた経緯があるが、現在は東証が株主の積極的な参加を促しており、会社の成長を株主に訴える場にしてほしいと解説した。",
+      "interrupted_by_non_editorial_segment_ids": [],
+      "evidence_texts": [],
+      "notes": null
+    }
+  ],
+  "non_editorial_segments": [
+    {
+      "segment_id": "ne000",
+      "start_sec": 0.0,
+      "end_sec": 37.0,
+      "non_editorial_kind": "commercial",
+      "summary": "番組冒頭の広告と番組開始前後の表示・挨拶が混在する区間。楽天ソーシャルギフトなどの広告文言が含まれる。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne001",
+      "start_sec": 1500.0,
+      "end_sec": 1608.0,
+      "non_editorial_kind": "commercial",
+      "summary": "シノケングループ、M&A、ビックカメラ、楽楽勤怠などのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne002",
+      "start_sec": 2040.0,
+      "end_sec": 2160.0,
+      "non_editorial_kind": "commercial",
+      "summary": "三井不動産、ビズリーチ、医療・介護関連、アサヒゴールドなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne003",
+      "start_sec": 2401.3,
+      "end_sec": 2520.0,
+      "non_editorial_kind": "commercial",
+      "summary": "富士フイルム ビジネスイノベーション、中央日土地、特水、こだわり酒場、リクルートなどのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne004",
+      "start_sec": 2760.0,
+      "end_sec": 2879.5,
+      "non_editorial_kind": "commercial",
+      "summary": "ミサワホーム、オービック、カワサキ水素大学などのCM。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne005",
+      "start_sec": 3060.0,
+      "end_sec": 3240.0,
+      "non_editorial_kind": "commercial",
+      "summary": "FPG、ディフェンダー、日経転職版、妖怪展、大和証券グループ、リアライズ、ヘパリーゼ、楽天ソーシャルギフトなどのCM・提供関連文言。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    },
+    {
+      "segment_id": "ne006",
+      "start_sec": 3360.0,
+      "end_sec": 3499.885411,
+      "non_editorial_kind": "program_promo",
+      "summary": "番組終了後の番組宣伝、CM、エンディング後の非編集コンテンツ。カンブリア宮殿の告知や各種広告文言が含まれる。",
+      "source_scene_ids": [],
+      "representative_frame_ids": [],
+      "notes": null
+    }
+  ],
+  "warnings": []
+}
